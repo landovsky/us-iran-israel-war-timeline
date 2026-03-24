@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>US–Israel–Iran War Timeline</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --esc:     #ef4444;
+      --desc:    #3b82f6;
+      --neu:     #9ca3af;
+      --bg:      #080f1a;
+      --surface: #111827;
+      --border:  #1f2e43;
+      --text:    #e2e8f0;
+      --muted:   #94a3b8;
+      --dim:     #4b6080;
+      --active:  #fbbf24;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ── Header ─────────────────────────────────────────────────────── */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(8,15,26,0.96);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+      padding: 10px 20px;
+    }
+
+    .hdr-top {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 8px;
+      flex-wrap: wrap;
+    }
+
+    h1 {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      white-space: nowrap;
+      letter-spacing: 0.01em;
+    }
+
+    .legend {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.68rem;
+      color: var(--muted);
+    }
+
+    .ld {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .ld-e { background: var(--esc); box-shadow: 0 0 6px var(--esc); }
+    .ld-d { background: var(--desc); box-shadow: 0 0 6px var(--desc); }
+    .ld-n { background: var(--neu); }
+
+    .hdr-bot {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .filter-lbl {
+      font-size: 0.65rem;
+      color: var(--dim);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    #actor-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      flex: 1;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      padding: 2px 9px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      font-size: 0.62rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      cursor: pointer;
+      user-select: none;
+      color: var(--dim);
+      background: transparent;
+      transition: all 0.15s;
+    }
+    .chip.on {
+      background: var(--surface);
+      border-color: #3b6fa8;
+      color: var(--muted);
+    }
+
+    .btn-play {
+      margin-left: auto;
+      padding: 4px 16px;
+      border: 1px solid #1e40af;
+      border-radius: 6px;
+      background: #172554;
+      color: #93c5fd;
+      font-size: 0.72rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .btn-play:hover { background: #1d4ed8; border-color: #3b82f6; }
+    .btn-play.playing { background: #451a03; border-color: #d97706; color: #fde68a; }
+
+    /* ── Timeline ────────────────────────────────────────────────────── */
+    main { padding: 16px 0 80px; }
+
+    .timeline {
+      position: relative;
+      max-width: 1020px;
+      margin: 0 auto;
+      padding: 0 12px;
+    }
+
+    /* Permanent hairline spine */
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 50%;
+      top: 0; bottom: 0;
+      width: 1px;
+      background: linear-gradient(
+        to bottom,
+        transparent,
+        var(--border) 50px,
+        var(--border) calc(100% - 50px),
+        transparent
+      );
+      transform: translateX(-50%);
+      z-index: 0;
+    }
+
+    /* ── Day block ───────────────────────────────────────────────────── */
+    .day-block {
+      position: relative;
+      z-index: 1;
+      margin-bottom: 4px;
+    }
+
+    .day-block.day-hidden { display: none; }
+
+    .day-date-label {
+      text-align: center;
+      font-size: 0.58rem;
+      font-weight: 800;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--dim);
+      padding: 12px 0 4px;
+    }
+
+    .day-row {
+      display: flex;
+      align-items: stretch;
+    }
+
+    .events-col {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 2px;
+      padding: 5px 0;
+    }
+    .events-col.left  { align-items: flex-end;  padding-right: 8px; }
+    .events-col.right { align-items: flex-start; padding-left: 8px; }
+
+    /* ── The spine segment ───────────────────────────────────────────── */
+    .day-spine {
+      flex-shrink: 0;
+      border-radius: 6px;
+      position: relative;
+      z-index: 1;
+      min-height: 28px;
+      /* width, background, box-shadow set by JS */
+      transition: width 0.5s cubic-bezier(.4,0,.2,1);
+    }
+
+    /* ── Neutral events row ──────────────────────────────────────────── */
+    .neutral-row {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2px;
+      padding: 3px 0;
+      position: relative;
+      z-index: 1;
+    }
+
+    .neutral-row .ev-wrapper {
+      max-width: 480px;
+      width: 100%;
+    }
+
+    /* ── Event wrapper (item + expandable detail) ────────────────────── */
+    .ev-wrapper {
+      width: 100%;
+    }
+
+    .left  .ev-wrapper { display: flex; flex-direction: column; align-items: flex-end; }
+    .right .ev-wrapper { display: flex; flex-direction: column; align-items: flex-start; }
+    .neutral-row .ev-wrapper { display: flex; flex-direction: column; align-items: stretch; }
+
+    .ev-wrapper.ev-hidden { display: none !important; }
+
+    /* ── Event item row ──────────────────────────────────────────────── */
+    .ev-item {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      cursor: pointer;
+      border-radius: 4px;
+      padding: 3px 3px;
+      transition: background 0.12s;
+      max-width: 100%;
+    }
+    .ev-item:hover { background: rgba(255,255,255,0.035); }
+    .ev-item.active { background: rgba(251,191,36,0.08); }
+
+    .ev-text {
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: #b0c4de;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      line-height: 1.3;
+      flex: 1;
+      min-width: 0;
+      transition: color 0.12s;
+    }
+    .ev-item:hover .ev-text { color: #dce8f5; }
+    .ev-item.active .ev-text { color: #fef3c7; }
+
+    .left  .ev-text { text-align: right; padding-right: 5px; }
+    .right .ev-text { text-align: left;  padding-left: 5px; }
+    .neutral .ev-text { padding-left: 6px; }
+
+    /* Connector line (spine→dot bridge) */
+    .ev-connector {
+      flex-shrink: 0;
+      width: 16px;
+      height: 2px;
+      border-radius: 1px;
+      opacity: 0.5;
+    }
+    .ev-connector.escalating    { background: var(--esc); }
+    .ev-connector.de-escalating { background: var(--desc); }
+    .ev-connector.neutral       { background: var(--neu); }
+
+    /* Event dot */
+    .ev-dot {
+      flex-shrink: 0;
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      border: 1.5px solid transparent;
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+    .ev-item:hover .ev-dot { transform: scale(1.5); }
+
+    .ev-dot.escalating    {
+      background: var(--esc);
+      border-color: rgba(239,68,68,0.4);
+      box-shadow: 0 0 5px rgba(239,68,68,0.4);
+    }
+    .ev-dot.de-escalating {
+      background: var(--desc);
+      border-color: rgba(59,130,246,0.4);
+      box-shadow: 0 0 5px rgba(59,130,246,0.4);
+    }
+    .ev-dot.neutral {
+      background: var(--neu);
+      border-color: rgba(156,163,175,0.3);
+    }
+
+    .ev-item.active .ev-dot {
+      transform: scale(1.6);
+      box-shadow: 0 0 0 3px rgba(251,191,36,0.35), 0 0 10px rgba(251,191,36,0.5) !important;
+      border-color: var(--active) !important;
+    }
+
+    /* ── Expanding detail ────────────────────────────────────────────── */
+    .ev-detail {
+      max-height: 0;
+      overflow: hidden;
+      opacity: 0;
+      transition: max-height 0.28s ease, opacity 0.2s;
+      width: 100%;
+    }
+    .ev-detail.open {
+      max-height: 260px;
+      opacity: 1;
+    }
+
+    .ev-detail-inner {
+      background: #0d1b2a;
+      border: 1px solid var(--border);
+      border-radius: 7px;
+      padding: 10px 14px;
+      margin: 4px 0 3px;
+      text-align: left;
+    }
+
+    .ev-detail-title {
+      font-size: 0.76rem;
+      font-weight: 600;
+      color: #d4e6f8;
+      margin-bottom: 6px;
+      line-height: 1.4;
+    }
+
+    .ev-desc {
+      font-size: 0.73rem;
+      color: var(--muted);
+      line-height: 1.6;
+      margin-bottom: 9px;
+    }
+
+    .ev-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+
+    .actor-badge {
+      display: inline-block;
+      padding: 1px 8px;
+      border-radius: 4px;
+      font-size: 0.6rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .badge-US     { background: #0c2340; color: #7eb8f7; }
+    .badge-Israel { background: #2d1f00; color: #f4c842; }
+    .badge-Iran   { background: #2d0000; color: #f87171; }
+    .badge-France { background: #16134a; color: #a5b4fc; }
+    .badge-NATO   { background: #0f2b20; color: #4ade80; }
+    .badge-Iraq   { background: #221a00; color: #facc15; }
+    .badge-UAE    { background: #0f2215; color: #6ee7b7; }
+    .badge-Kuwait { background: #221a00; color: #facc15; }
+    .badge-Qatar  { background: #22001a; color: #f9a8d4; }
+    .badge-Other  { background: #111827; color: #64748b; }
+
+    .source-link {
+      font-size: 0.65rem;
+      color: #4d9de0;
+      text-decoration: none;
+    }
+    .source-link:hover { color: #7bbdf5; text-decoration: underline; }
+
+    /* ── Loading ─────────────────────────────────────────────────────── */
+    #status {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--dim);
+      font-size: 0.85rem;
+    }
+
+    /* ── Mobile ──────────────────────────────────────────────────────── */
+    @media (max-width: 580px) {
+      .timeline::before { display: none; }
+
+      .day-row { flex-direction: column; align-items: stretch; }
+
+      /* Spine becomes a horizontal band */
+      .day-spine {
+        width: 100% !important;
+        min-height: 8px !important;
+        border-radius: 4px;
+        margin: 4px 0;
+      }
+
+      .events-col {
+        align-items: flex-start !important;
+        padding: 2px 0 !important;
+      }
+
+      /* Left items: flip to dot-first (LTR) */
+      .left  .ev-wrapper { align-items: flex-start !important; }
+      .left  .ev-item    { flex-direction: row-reverse; }
+      .left  .ev-text    { text-align: left !important; }
+
+      .btn-play { margin-left: 0; }
+      .hdr-top  { gap: 8px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="hdr-top">
+    <h1>US–Israel–Iran War Timeline</h1>
+    <div class="legend">
+      <span class="legend-item"><span class="ld ld-e"></span>Escalating</span>
+      <span class="legend-item"><span class="ld ld-d"></span>De-escalating</span>
+      <span class="legend-item"><span class="ld ld-n"></span>Neutral</span>
+    </div>
+    <button class="btn-play" id="btn-play">▶ Play</button>
+  </div>
+  <div class="hdr-bot">
+    <span class="filter-lbl">Actors:</span>
+    <div id="actor-filters"></div>
+  </div>
+</header>
+
+<main>
+  <div class="timeline" id="timeline">
+    <div id="status">Loading events…</div>
+  </div>
+</main>
+
+<script>
+'use strict';
+
+// ── State ────────────────────────────────────────────────────────────────────
+let allEvents   = [];
+let activeActors = new Set();
+let playList    = [];
+let playIdx     = -1;
+let playTimer   = null;
+
+// ── Boot ─────────────────────────────────────────────────────────────────────
+fetch('data/events.json')
+  .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+  .then(data => {
+    allEvents = data.sort((a, b) => b.date.localeCompare(a.date));
+    const actors = [...new Set(allEvents.map(e => e.actor))].sort();
+    activeActors = new Set(actors);
+    renderFilters(actors);
+    renderTimeline();
+  })
+  .catch(err => {
+    document.getElementById('status').textContent =
+      `Could not load events: ${err.message}. ` +
+      `Run a local server: python3 -m http.server 8080`;
+  });
+
+// ── Actor filters ─────────────────────────────────────────────────────────────
+function renderFilters(actors) {
+  const el = document.getElementById('actor-filters');
+  el.innerHTML = '';
+  actors.forEach(a => {
+    const chip = mk('span', 'chip on', a);
+    chip.dataset.actor = a;
+    chip.addEventListener('click', () => {
+      if (activeActors.has(a)) { activeActors.delete(a); chip.classList.remove('on'); }
+      else                     { activeActors.add(a);    chip.classList.add('on'); }
+      applyFilter();
+    });
+    el.appendChild(chip);
+  });
+}
+
+function applyFilter() {
+  document.querySelectorAll('.day-block').forEach(block => {
+    let any = false;
+    block.querySelectorAll('.ev-wrapper').forEach(w => {
+      const vis = activeActors.has(w.dataset.actor);
+      w.classList.toggle('ev-hidden', !vis);
+      if (vis) any = true;
+    });
+    block.classList.toggle('day-hidden', !any);
+  });
+}
+
+// ── Render timeline ───────────────────────────────────────────────────────────
+function renderTimeline() {
+  const root = document.getElementById('timeline');
+  root.innerHTML = '';
+
+  // Group by date (already newest-first)
+  const dates  = [];
+  const byDate = {};
+  allEvents.forEach(ev => {
+    if (!byDate[ev.date]) { byDate[ev.date] = []; dates.push(ev.date); }
+    byDate[ev.date].push(ev);
+  });
+
+  dates.forEach(date => root.appendChild(buildDay(date, byDate[date])));
+}
+
+// ── Build one day block ────────────────────────────────────────────────────────
+function buildDay(date, evs) {
+  const esc  = evs.filter(e => e.direction === 'Escalating');
+  const desc = evs.filter(e => e.direction === 'De-escalating');
+  const neu  = evs.filter(e => e.direction === 'Neutral');
+  const total = evs.length;
+
+  // Spine width: 18px base + 12px per event, capped at 90px
+  const spineW = Math.min(18 + total * 12, 90);
+
+  // Spine color: weighted blend of escalating (red) / de-escalating (blue) / neutral (gray)
+  const er = esc.length  / total;
+  const dr = desc.length / total;
+  const nr = neu.length  / total;
+  //           Escalating       De-escalating     Neutral
+  const R = Math.round(239 * er + 59  * dr + 156 * nr);
+  const G = Math.round(68  * er + 130 * dr + 163 * nr);
+  const B = Math.round(68  * er + 246 * dr + 175 * nr);
+
+  const spineBase  = `rgb(${R},${G},${B})`;
+  const spineLight = `rgb(${clamp(R+50)},${clamp(G+50)},${clamp(B+50)})`;
+  const glowColor  = `rgba(${R},${G},${B},0.45)`;
+  const glowSoft   = `rgba(${R},${G},${B},0.15)`;
+
+  // ── DOM ────────────────────────────────────────────────────────────────────
+  const block  = mk('div', 'day-block');
+
+  // Date label
+  block.appendChild(mk('div', 'day-date-label', fmtDate(date)));
+
+  // Butterfly row
+  const row      = mk('div', 'day-row');
+  const leftCol  = mk('div', 'events-col left');
+  const spine    = mk('div', 'day-spine');
+  const rightCol = mk('div', 'events-col right');
+
+  spine.style.width      = `${spineW}px`;
+  spine.style.background =
+    `radial-gradient(ellipse at center, ${spineLight} 0%, ${spineBase} 70%)`;
+  spine.style.boxShadow  =
+    `0 0 24px ${glowColor}, 0 0 8px ${glowSoft}, inset 0 0 8px rgba(0,0,0,0.3)`;
+
+  esc.forEach(ev  => leftCol.appendChild(buildItem(ev, 'left')));
+  desc.forEach(ev => rightCol.appendChild(buildItem(ev, 'right')));
+
+  row.appendChild(leftCol);
+  row.appendChild(spine);
+  row.appendChild(rightCol);
+  block.appendChild(row);
+
+  // Neutral events below the spine row
+  if (neu.length) {
+    const nr2 = mk('div', 'neutral-row');
+    neu.forEach(ev => nr2.appendChild(buildItem(ev, 'neutral')));
+    block.appendChild(nr2);
+  }
+
+  return block;
+}
+
+// ── Build one event item (label + expanding detail) ───────────────────────────
+function buildItem(ev, side) {
+  const dc = dirClass(ev.direction);
+
+  const wrapper = mk('div', 'ev-wrapper');
+  wrapper.dataset.actor = ev.actor;
+
+  // Item row
+  const item = mk('div', `ev-item ${side} ${dc}`);
+  const dot  = mk('span', `ev-dot ${dc}`);
+  const txt  = mk('span', 'ev-text', ev.title);
+
+  if (side === 'left') {
+    const conn = mk('span', `ev-connector ${dc}`);
+    item.appendChild(txt);
+    item.appendChild(conn);
+    item.appendChild(dot);
+  } else if (side === 'right') {
+    const conn = mk('span', `ev-connector ${dc}`);
+    item.appendChild(dot);
+    item.appendChild(conn);
+    item.appendChild(txt);
+  } else {
+    // neutral: dot + text, no connector
+    item.appendChild(dot);
+    item.appendChild(txt);
+  }
+
+  // Expanding detail
+  const detail = mk('div', 'ev-detail');
+  const inner  = mk('div', 'ev-detail-inner');
+
+  inner.appendChild(mk('div', 'ev-detail-title', ev.title));
+  inner.appendChild(mk('p',   'ev-desc',         ev.description));
+
+  const meta  = mk('div', 'ev-meta');
+  const badge = mk('span', `actor-badge badge-${ev.actor.replace(/\s+/g, '-')}`, ev.actor);
+  const src   = document.createElement('a');
+  src.className  = 'source-link';
+  src.href       = ev.source;
+  src.target     = '_blank';
+  src.rel        = 'noopener noreferrer';
+  src.textContent = '↗ Source';
+
+  meta.appendChild(badge);
+  meta.appendChild(src);
+  inner.appendChild(meta);
+  detail.appendChild(inner);
+
+  wrapper.appendChild(item);
+  wrapper.appendChild(detail);
+
+  item.addEventListener('click', () => {
+    const open = detail.classList.contains('open');
+    detail.classList.toggle('open', !open);
+    item.classList.toggle('active', !open);
+  });
+
+  return wrapper;
+}
+
+// ── Play mode ─────────────────────────────────────────────────────────────────
+document.getElementById('btn-play').addEventListener('click', togglePlay);
+
+function togglePlay() {
+  playTimer !== null ? stopPlay() : startPlay();
+}
+
+function startPlay() {
+  // Collect visible wrappers in DOM order (newest-first), reverse for oldest-first playback
+  const wrappers = [...document.querySelectorAll('.ev-wrapper:not(.ev-hidden)')];
+  if (!wrappers.length) return;
+  playList = wrappers.reverse();
+  playIdx  = 0;
+  advance(0);
+
+  const btn = document.getElementById('btn-play');
+  btn.textContent = '⏸ Pause';
+  btn.classList.add('playing');
+
+  playTimer = setInterval(() => {
+    playIdx++;
+    if (playIdx >= playList.length) { stopPlay(); return; }
+    advance(playIdx);
+  }, 2500);
+}
+
+function stopPlay() {
+  clearInterval(playTimer);
+  playTimer = null;
+  playIdx   = -1;
+  document.querySelectorAll('.ev-item.active').forEach(i => i.classList.remove('active'));
+  const btn = document.getElementById('btn-play');
+  btn.textContent = '▶ Play';
+  btn.classList.remove('playing');
+}
+
+function advance(idx) {
+  document.querySelectorAll('.ev-item.active').forEach(i => i.classList.remove('active'));
+  const wrapper = playList[idx];
+  if (!wrapper) return;
+  wrapper.querySelector('.ev-item')?.classList.add('active');
+  wrapper.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+function mk(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls)            e.className   = cls;
+  if (text !== undefined) e.textContent = text;
+  return e;
+}
+
+function dirClass(d) {
+  return d === 'Escalating' ? 'escalating'
+       : d === 'De-escalating' ? 'de-escalating'
+       : 'neutral';
+}
+
+function clamp(v) { return Math.min(255, Math.max(0, v)); }
+
+function fmtDate(iso) {
+  const [y, m, d] = iso.split('-').map(Number);
+  const M = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  return `${M[m-1]} ${d}, ${y}`;
+}
+</script>
+</body>
+</html>
