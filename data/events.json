@@ -718,5 +718,53 @@
     "description": "Russian Foreign Minister Sergei Lavrov spoke with Iran's Foreign Minister, urging immediate cessation of hostilities. Lavrov separately condemned US-Israeli strikes near Iran's Bushehr nuclear power plant as 'extremely dangerous,' warning of potential catastrophic consequences. CNN reported Russia has been providing Iran with real-time intelligence on US troop, ship, and aircraft movements \u2014 a development the Trump administration was 'taken by surprise' by. Russia also affirmed strong ties with Tehran through IRNA-reported statements.",
     "source": "https://www.cnn.com/2026/03/22/middleeast/us-israel-iran-middle-east-war-day-23-what-we-know-intl-hnk",
     "actor": "Russia"
+  },
+  {
+    "date": "2026-03-22",
+    "title": "IRGC claims missile and drone strike on US Fifth Fleet base in Bahrain",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guard Corps claimed it struck the US Navy's Fifth Fleet headquarters in Manama, Bahrain, using missiles and drones. Bahrain's Defense Force confirmed intercepting two drones and two ballistic missiles. The Fifth Fleet base, headquartered in the Juffair district, is the primary hub for US naval operations in the Gulf region and has been a repeated target since the war began on February 28.",
+    "source": "https://x.com/TheStudyofWar/status/2035915472386904524",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Iran fires cluster-warhead missiles at Tel Aviv metro area; 6+ injured",
+    "direction": "Escalating",
+    "description": "Iran fired missiles equipped with cluster warheads at the Tel Aviv metropolitan area, with impacts recorded across central Tel Aviv, Ramat Gan, Petah Tikva, and Holon. At least six people were injured. Israeli police estimated one warhead contained approximately 220 pounds of explosives. Cluster munitions disperse into multiple submunitions over a wide area, significantly increasing civilian risk. The Israeli Knesset suspended a late-night session due to missile alerts. Since the war began, 18 Israelis have been killed and over 4,700 injured.",
+    "source": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Iran launches 21 drones and 3 ballistic missiles at Saudi Arabia's Eastern Province oil facilities",
+    "direction": "Escalating",
+    "description": "Saudi Arabia's Ministry of Defense intercepted approximately 21 drones and three ballistic missiles targeting the Eastern Province \u2014 the heart of the kingdom's oil and gas infrastructure. One ballistic missile headed for Riyadh was intercepted; another fell in an uninhabited area. The IRGC claimed the strikes targeted energy installations supporting US military operations. Bahrain also sounded warning alarms multiple times as Iranian missiles and drones swept across the Gulf.",
+    "source": "https://breakingdefense.com/2026/03/iran-attacks-uae-saudi-missiles-drones-gcc-air-defense/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Lebanon declares Iran's ambassador persona non grata; orders departure by March 29",
+    "direction": "De-escalating",
+    "description": "Lebanon's Foreign Ministry declared Iran's designated ambassador Mohammad Reza Sheibani persona non grata and ordered him to leave by March 29. Lebanon also recalled its own ambassador to Tehran for consultations. Foreign Minister Youssef Raggi cited Iran's violations of diplomatic norms and its role in dragging Lebanon into war through Hezbollah. Lebanon had already reimposed visa requirements on Iranian travellers and begun expelling individuals with IRGC ties. The decision marks a dramatic rupture in Lebanon-Iran relations.",
+    "source": "https://www.aljazeera.com/news/2026/3/24/lebanon-declares-iranian-ambassador-persona-non-grata-amid-israeli-attacks",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "UK deploys additional air defenses and warship to Middle East as Iranian missile threat escalates",
+    "direction": "Escalating",
+    "description": "UK Prime Minister Keir Starmer announced Britain is deploying short-range air defense systems and an additional naval vessel to the Middle East to counter Iranian missile and drone attacks. RAF Typhoons from No. 12 Squadron are operating from Al Udeid Air Base at Qatar's request, having already intercepted Iranian drones. The UK also deployed helicopters to help defend Cypriot airspace. The deployment marks a deepening of British military involvement beyond the Diego Garcia basing support already provided to US long-range bombers.",
+    "source": "https://en.wikipedia.org/wiki/United_Kingdom_involvement_in_the_2026_Iran_war",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Mediators push Islamabad meeting between Ghalibaf and US envoys; April 9 set as war-end target",
+    "direction": "De-escalating",
+    "description": "Pakistan, Turkey, Egypt, Oman, and Qatar are working to arrange a face-to-face meeting in Islamabad between Iranian Parliament Speaker Mohammad Bagher Ghalibaf and US envoys Steve Witkoff and Jared Kushner, with VP JD Vance potentially attending. An Israeli official confirmed Washington set April 9 as the target date for ending the war. Pakistan's army chief Asim Munir spoke directly with Trump. Iran's Supreme National Security Council had yet to approve the meeting. Israel said it was 'surprised things were moving that fast' when Trump revealed the contacts.",
+    "source": "https://www.axios.com/2026/03/23/trump-suspends-iran-strikes-hormuz-negotiations",
+    "actor": "Pakistan"
   }
 ]
