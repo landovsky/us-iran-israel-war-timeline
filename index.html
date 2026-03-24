@@ -3,7 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>US–Israel–Iran War Timeline</title>
+  <title>US–Israel–Iran War Timeline 2026</title>
+  <meta name="description" content="Live-updated interactive timeline of the 2026 US–Israel war on Iran. Every major strike, diplomatic move, and regional escalation tracked with sources. From Operation Epic Fury on Feb 28, 2026.">
+  <meta name="keywords" content="Iran war 2026, US Israel Iran war, Operation Epic Fury, war timeline, Strait of Hormuz, Khamenei, ceasefire">
+  <meta property="og:title" content="US–Israel–Iran War Timeline 2026">
+  <meta property="og:description" content="Every major event tracked with sources. Red = escalating. Blue = de-escalating. Updated daily.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://landovsky.github.io/us-iran-israel-war-timeline/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="US–Israel–Iran War Timeline 2026">
+  <meta name="twitter:description" content="Every major event tracked with sources. Red = escalating. Blue = de-escalating.">
+  <link rel="canonical" href="https://landovsky.github.io/us-iran-israel-war-timeline/">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -27,48 +41,99 @@
       min-height: 100vh;
     }
 
-    /* ── Header ─────────────────────────────────────────────────────── */
-    header {
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      background: rgba(8,15,26,0.96);
-      backdrop-filter: blur(10px);
+    /* ── Hero ─────────────────────────────────────────────────────────────── */
+    .hero {
+      position: relative;
+      padding: 30px 20px 26px;
       border-bottom: 1px solid var(--border);
-      padding: 10px 20px;
+      overflow: hidden;
     }
 
-    .hdr-top {
+    /* Distant-fire glow — top-right */
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 50% 160% at 100% -20%, rgba(239,68,68,0.11) 0%, transparent 60%),
+        radial-gradient(ellipse 30% 80%  at 80%  120%, rgba(59,130,246,0.07) 0%, transparent 60%);
+      pointer-events: none;
+    }
+
+    /* Thin gradient rule at bottom of hero */
+    .hero::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 1px;
+      background: linear-gradient(to right,
+        transparent 0%,
+        rgba(239,68,68,0.35) 25%,
+        rgba(59,130,246,0.2) 70%,
+        transparent 100%
+      );
+    }
+
+    .hero-inner {
+      position: relative;
+      max-width: 1020px;
+      margin: 0 auto;
       display: flex;
-      align-items: center;
-      gap: 14px;
-      margin-bottom: 8px;
-      flex-wrap: wrap;
+      align-items: flex-start;
+      gap: 32px;
+    }
+
+    .hero-left { flex: 1; min-width: 0; }
+
+    .hero-eyebrow {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.58rem;
+      font-weight: 500;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--esc);
+      margin-bottom: 6px;
+      opacity: 0;
+      animation: fadeUp 0.5s 0.05s ease forwards;
     }
 
     h1 {
-      font-size: 0.95rem;
-      font-weight: 700;
+      font-family: 'Bebas Neue', 'Arial Narrow', sans-serif;
+      font-size: clamp(2.6rem, 5.5vw, 4.4rem);
+      font-weight: 400;
+      line-height: 0.94;
+      letter-spacing: 0.03em;
       color: #f1f5f9;
-      white-space: nowrap;
-      letter-spacing: 0.01em;
+      opacity: 0;
+      animation: fadeUp 0.55s 0.15s ease forwards;
     }
 
-    .hdr-tagline {
-      font-size: 0.68rem;
+    .hero-sub {
+      margin-top: 11px;
+      font-size: 0.7rem;
       color: var(--muted);
-      line-height: 1.5;
-      max-width: 540px;
-      flex-basis: 100%;
-      order: 10;
-      margin-top: 2px;
+      line-height: 1.65;
+      max-width: 500px;
+      opacity: 0;
+      animation: fadeUp 0.5s 0.3s ease forwards;
     }
-    .hdr-red  { color: var(--esc);  font-weight: 600; }
-    .hdr-blue { color: var(--desc); font-weight: 600; }
+    .hero-red  { color: var(--esc);  font-weight: 600; }
+    .hero-blue { color: var(--desc); font-weight: 600; }
+
+    .hero-right {
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 10px;
+      padding-top: 6px;
+      opacity: 0;
+      animation: fadeIn 0.5s 0.4s ease forwards;
+    }
 
     .legend {
       display: flex;
-      gap: 12px;
+      gap: 14px;
       align-items: center;
     }
 
@@ -76,20 +141,52 @@
       display: flex;
       align-items: center;
       gap: 5px;
-      font-size: 0.68rem;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.6rem;
       color: var(--muted);
+      letter-spacing: 0.04em;
     }
 
     .ld {
-      width: 8px; height: 8px;
+      width: 7px; height: 7px;
       border-radius: 50%;
       flex-shrink: 0;
     }
-    .ld-e { background: var(--esc); box-shadow: 0 0 6px var(--esc); }
-    .ld-d { background: var(--desc); box-shadow: 0 0 6px var(--desc); }
+    .ld-e { background: var(--esc); box-shadow: 0 0 5px var(--esc); }
+    .ld-d { background: var(--desc); box-shadow: 0 0 5px var(--desc); }
     .ld-n { background: var(--neu); }
 
-    .hdr-bot {
+    #last-updated {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.56rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--dim);
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+
+    /* ── Sticky controls bar ─────────────────────────────────────────────── */
+    .controls-bar {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(8,15,26,0.97);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 7px 20px;
+    }
+
+    .controls-inner {
+      max-width: 1020px;
+      margin: 0 auto;
       display: flex;
       align-items: center;
       gap: 8px;
@@ -97,7 +194,10 @@
     }
 
     .filter-lbl {
-      font-size: 0.65rem;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.58rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
       color: var(--dim);
       white-space: nowrap;
       flex-shrink: 0;
@@ -116,9 +216,10 @@
       padding: 2px 9px;
       border-radius: 999px;
       border: 1px solid var(--border);
-      font-size: 0.62rem;
-      font-weight: 700;
-      letter-spacing: 0.06em;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.58rem;
+      font-weight: 500;
+      letter-spacing: 0.07em;
       text-transform: uppercase;
       cursor: pointer;
       user-select: none;
@@ -132,22 +233,17 @@
       color: var(--muted);
     }
 
-    .last-updated {
-      margin-left: auto;
-      font-size: 0.62rem;
-      color: var(--dim);
-      white-space: nowrap;
-      flex-shrink: 0;
-    }
-
     .btn-play {
+      margin-left: auto;
       padding: 4px 16px;
       border: 1px solid #1e40af;
-      border-radius: 6px;
+      border-radius: 4px;
       background: #172554;
       color: #93c5fd;
-      font-size: 0.72rem;
-      font-weight: 600;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.62rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
       cursor: pointer;
       transition: all 0.15s;
       white-space: nowrap;
@@ -156,7 +252,7 @@
     .btn-play:hover { background: #1d4ed8; border-color: #3b82f6; }
     .btn-play.playing { background: #451a03; border-color: #d97706; color: #fde68a; }
 
-    /* ── Timeline ────────────────────────────────────────────────────── */
+    /* ── Timeline ────────────────────────────────────────────────────────── */
     main { padding: 16px 0 80px; }
 
     .timeline {
@@ -166,7 +262,6 @@
       padding: 0 12px;
     }
 
-    /* Permanent hairline spine */
     .timeline::before {
       content: '';
       position: absolute;
@@ -184,7 +279,7 @@
       z-index: 0;
     }
 
-    /* ── Day block ───────────────────────────────────────────────────── */
+    /* ── Day block ───────────────────────────────────────────────────────── */
     .day-block {
       position: relative;
       z-index: 1;
@@ -195,9 +290,10 @@
 
     .day-date-label {
       text-align: center;
-      font-size: 0.58rem;
-      font-weight: 800;
-      letter-spacing: 0.14em;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.54rem;
+      font-weight: 500;
+      letter-spacing: 0.18em;
       text-transform: uppercase;
       color: var(--dim);
       padding: 12px 0 4px;
@@ -220,18 +316,17 @@
     .events-col.left  { align-items: flex-end;  padding-right: 8px; }
     .events-col.right { align-items: flex-start; padding-left: 8px; }
 
-    /* ── The spine segment ───────────────────────────────────────────── */
+    /* ── Spine ───────────────────────────────────────────────────────────── */
     .day-spine {
       flex-shrink: 0;
       border-radius: 6px;
       position: relative;
       z-index: 1;
       min-height: 28px;
-      /* width, background, box-shadow set by JS */
       transition: width 0.5s cubic-bezier(.4,0,.2,1);
     }
 
-    /* ── Neutral events row ──────────────────────────────────────────── */
+    /* ── Neutral row ─────────────────────────────────────────────────────── */
     .neutral-row {
       display: flex;
       flex-direction: column;
@@ -250,7 +345,6 @@
       width: 100%;
     }
 
-    /* Full-width neutral card */
     .neutral-row .ev-item {
       width: 100%;
       background: rgba(156,163,175,0.04);
@@ -261,18 +355,17 @@
       gap: 8px;
       justify-content: flex-start;
     }
-    .neutral-row .ev-item:hover {
-      background: rgba(156,163,175,0.08);
-    }
+    .neutral-row .ev-item:hover { background: rgba(156,163,175,0.08); }
     .neutral-row .ev-text {
       text-align: left !important;
       padding-left: 0 !important;
       color: var(--muted);
     }
     .neutral-label {
-      font-size: 0.54rem;
-      font-weight: 800;
-      letter-spacing: 0.1em;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.5rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
       text-transform: uppercase;
       color: var(--dim);
       white-space: nowrap;
@@ -280,10 +373,8 @@
       margin-right: 2px;
     }
 
-    /* ── Event wrapper (item + expandable detail) ────────────────────── */
-    .ev-wrapper {
-      width: 100%;
-    }
+    /* ── Event wrapper ───────────────────────────────────────────────────── */
+    .ev-wrapper { width: 100%; }
 
     .left  .ev-wrapper { display: flex; flex-direction: column; align-items: flex-end; }
     .right .ev-wrapper { display: flex; flex-direction: column; align-items: flex-start; }
@@ -291,7 +382,7 @@
 
     .ev-wrapper.ev-hidden { display: none !important; }
 
-    /* ── Event item row ──────────────────────────────────────────────── */
+    /* ── Event item ──────────────────────────────────────────────────────── */
     .ev-item {
       display: flex;
       align-items: center;
@@ -324,11 +415,9 @@
     .right .ev-text { text-align: left;  padding-left: 5px; }
     .neutral .ev-text { padding-left: 6px; }
 
-    /* Connector line (spine→dot bridge) */
     .ev-connector {
       flex-shrink: 0;
-      width: 16px;
-      height: 2px;
+      width: 16px; height: 2px;
       border-radius: 1px;
       opacity: 0.5;
     }
@@ -336,7 +425,6 @@
     .ev-connector.de-escalating { background: var(--desc); }
     .ev-connector.neutral       { background: var(--neu); }
 
-    /* Event dot */
     .ev-dot {
       flex-shrink: 0;
       width: 8px; height: 8px;
@@ -346,20 +434,9 @@
     }
     .ev-item:hover .ev-dot { transform: scale(1.5); }
 
-    .ev-dot.escalating    {
-      background: var(--esc);
-      border-color: rgba(239,68,68,0.4);
-      box-shadow: 0 0 5px rgba(239,68,68,0.4);
-    }
-    .ev-dot.de-escalating {
-      background: var(--desc);
-      border-color: rgba(59,130,246,0.4);
-      box-shadow: 0 0 5px rgba(59,130,246,0.4);
-    }
-    .ev-dot.neutral {
-      background: var(--neu);
-      border-color: rgba(156,163,175,0.3);
-    }
+    .ev-dot.escalating    { background: var(--esc); border-color: rgba(239,68,68,0.4); box-shadow: 0 0 5px rgba(239,68,68,0.4); }
+    .ev-dot.de-escalating { background: var(--desc); border-color: rgba(59,130,246,0.4); box-shadow: 0 0 5px rgba(59,130,246,0.4); }
+    .ev-dot.neutral       { background: var(--neu); border-color: rgba(156,163,175,0.3); }
 
     .ev-item.active .ev-dot {
       transform: scale(1.6);
@@ -367,7 +444,7 @@
       border-color: var(--active) !important;
     }
 
-    /* ── Expanding detail ────────────────────────────────────────────── */
+    /* ── Expanding detail ────────────────────────────────────────────────── */
     .ev-detail {
       max-height: 0;
       overflow: hidden;
@@ -375,10 +452,7 @@
       transition: max-height 0.28s ease, opacity 0.2s;
       width: 100%;
     }
-    .ev-detail.open {
-      max-height: 260px;
-      opacity: 1;
-    }
+    .ev-detail.open { max-height: 260px; opacity: 1; }
 
     .ev-detail-inner {
       background: #0d1b2a;
@@ -409,10 +483,11 @@
     .actor-badge {
       display: inline-block;
       padding: 1px 8px;
-      border-radius: 4px;
-      font-size: 0.6rem;
-      font-weight: 800;
-      letter-spacing: 0.08em;
+      border-radius: 3px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.56rem;
+      font-weight: 500;
+      letter-spacing: 0.09em;
       text-transform: uppercase;
     }
     .badge-US     { background: #0c2340; color: #7eb8f7; }
@@ -427,13 +502,14 @@
     .badge-Other  { background: #111827; color: #64748b; }
 
     .source-link {
-      font-size: 0.65rem;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.62rem;
       color: #4d9de0;
       text-decoration: none;
     }
     .source-link:hover { color: #7bbdf5; text-decoration: underline; }
 
-    /* ── Loading ─────────────────────────────────────────────────────── */
+    /* ── Status ──────────────────────────────────────────────────────────── */
     #status {
       text-align: center;
       padding: 80px 20px;
@@ -441,55 +517,58 @@
       font-size: 0.85rem;
     }
 
-    /* ── Mobile ──────────────────────────────────────────────────────── */
-    @media (max-width: 580px) {
+    /* ── Mobile ──────────────────────────────────────────────────────────── */
+    @media (max-width: 620px) {
+      .hero-inner { flex-direction: column; gap: 14px; }
+      .hero-right { align-items: flex-start; flex-direction: row; flex-wrap: wrap; gap: 12px; }
+
       .timeline::before { display: none; }
-
       .day-row { flex-direction: column; align-items: stretch; }
-
-      /* Spine becomes a horizontal band */
-      .day-spine {
-        width: 100% !important;
-        min-height: 8px !important;
-        border-radius: 4px;
-        margin: 4px 0;
-      }
-
-      .events-col {
-        align-items: flex-start !important;
-        padding: 2px 0 !important;
-      }
-
-      /* Left items: flip to dot-first (LTR) */
+      .day-spine { width: 100% !important; min-height: 8px !important; border-radius: 4px; margin: 4px 0; }
+      .events-col { align-items: flex-start !important; padding: 2px 0 !important; }
       .left  .ev-wrapper { align-items: flex-start !important; }
       .left  .ev-item    { flex-direction: row-reverse; }
       .left  .ev-text    { text-align: left !important; }
-
       .btn-play { margin-left: 0; }
-      .hdr-top  { gap: 8px; }
     }
   </style>
 </head>
 <body>
 
-<header>
-  <div class="hdr-top">
-    <h1>US–Israel–Iran War Timeline</h1>
-    <p class="hdr-tagline">Each dot is a real event. <span class="hdr-red">Red</span> means the war is deepening — more strikes, more threats, wider spread. <span class="hdr-blue">Blue</span> means someone is pulling back — a pause, a proposal, a diplomatic move. Watch which colour dominates each day, and who is driving it.</p>
-    <div class="legend">
-      <span class="legend-item"><span class="ld ld-e"></span>Escalating</span>
-      <span class="legend-item"><span class="ld ld-d"></span>De-escalating</span>
-      <span class="legend-item"><span class="ld ld-n"></span>Neutral</span>
+<!-- ── Hero ──────────────────────────────────────────────────────────────── -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-left">
+      <div class="hero-eyebrow">Ongoing · Est. 28 Feb 2026</div>
+      <h1>US–Israel–Iran<br>War Timeline</h1>
+      <p class="hero-sub">
+        Each dot is a real event.
+        <span class="hero-red">Red</span> means the war is deepening — more strikes, more threats, wider spread.
+        <span class="hero-blue">Blue</span> means someone is pulling back — a pause, a proposal, a diplomatic move.
+        Watch which colour dominates each day, and who is driving it.
+      </p>
     </div>
-    <span id="last-updated" class="last-updated"></span>
+    <div class="hero-right">
+      <div class="legend">
+        <span class="legend-item"><span class="ld ld-e"></span>Escalating</span>
+        <span class="legend-item"><span class="ld ld-d"></span>De-escalating</span>
+        <span class="legend-item"><span class="ld ld-n"></span>Neutral</span>
+      </div>
+      <span id="last-updated"></span>
+    </div>
+  </div>
+</section>
+
+<!-- ── Sticky controls bar ───────────────────────────────────────────────── -->
+<div class="controls-bar">
+  <div class="controls-inner">
+    <span class="filter-lbl">Filter:</span>
+    <div id="actor-filters"></div>
     <button class="btn-play" id="btn-play">▶ Play</button>
   </div>
-  <div class="hdr-bot">
-    <span class="filter-lbl">Actors:</span>
-    <div id="actor-filters"></div>
-  </div>
-</header>
+</div>
 
+<!-- ── Timeline ──────────────────────────────────────────────────────────── -->
 <main>
   <div class="timeline" id="timeline">
     <div id="status">Loading events…</div>
@@ -499,14 +578,14 @@
 <script>
 'use strict';
 
-// ── State ────────────────────────────────────────────────────────────────────
-let allEvents   = [];
+// ── State ─────────────────────────────────────────────────────────────────────
+let allEvents    = [];
 let activeActors = new Set();
-let playList    = [];
-let playIdx     = -1;
-let playTimer   = null;
+let playList     = [];
+let playIdx      = -1;
+let playTimer    = null;
 
-// ── Boot ─────────────────────────────────────────────────────────────────────
+// ── Boot ──────────────────────────────────────────────────────────────────────
 fetch('data/events.json')
   .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
   .then(data => {
@@ -557,7 +636,6 @@ function renderTimeline() {
   const root = document.getElementById('timeline');
   root.innerHTML = '';
 
-  // Group by date (already newest-first)
   const dates  = [];
   const byDate = {};
   allEvents.forEach(ev => {
@@ -568,21 +646,18 @@ function renderTimeline() {
   dates.forEach(date => root.appendChild(buildDay(date, byDate[date])));
 }
 
-// ── Build one day block ────────────────────────────────────────────────────────
+// ── Build one day block ───────────────────────────────────────────────────────
 function buildDay(date, evs) {
   const esc  = evs.filter(e => e.direction === 'Escalating');
   const desc = evs.filter(e => e.direction === 'De-escalating');
   const neu  = evs.filter(e => e.direction === 'Neutral');
   const total = evs.length;
 
-  // Spine width: 18px base + 12px per event, capped at 90px
   const spineW = Math.min(18 + total * 12, 90);
 
-  // Spine color: weighted blend of escalating (red) / de-escalating (blue) / neutral (gray)
   const er = esc.length  / total;
   const dr = desc.length / total;
   const nr = neu.length  / total;
-  //           Escalating       De-escalating     Neutral
   const R = Math.round(239 * er + 59  * dr + 156 * nr);
   const G = Math.round(68  * er + 130 * dr + 163 * nr);
   const B = Math.round(68  * er + 246 * dr + 175 * nr);
@@ -592,23 +667,17 @@ function buildDay(date, evs) {
   const glowColor  = `rgba(${R},${G},${B},0.45)`;
   const glowSoft   = `rgba(${R},${G},${B},0.15)`;
 
-  // ── DOM ────────────────────────────────────────────────────────────────────
-  const block  = mk('div', 'day-block');
-
-  // Date label
+  const block = mk('div', 'day-block');
   block.appendChild(mk('div', 'day-date-label', fmtDate(date)));
 
-  // Butterfly row
   const row      = mk('div', 'day-row');
   const leftCol  = mk('div', 'events-col left');
   const spine    = mk('div', 'day-spine');
   const rightCol = mk('div', 'events-col right');
 
   spine.style.width      = `${spineW}px`;
-  spine.style.background =
-    `radial-gradient(ellipse at center, ${spineLight} 0%, ${spineBase} 70%)`;
-  spine.style.boxShadow  =
-    `0 0 24px ${glowColor}, 0 0 8px ${glowSoft}, inset 0 0 8px rgba(0,0,0,0.3)`;
+  spine.style.background = `radial-gradient(ellipse at center, ${spineLight} 0%, ${spineBase} 70%)`;
+  spine.style.boxShadow  = `0 0 24px ${glowColor}, 0 0 8px ${glowSoft}, inset 0 0 8px rgba(0,0,0,0.3)`;
 
   esc.forEach(ev  => leftCol.appendChild(buildItem(ev, 'left')));
   desc.forEach(ev => rightCol.appendChild(buildItem(ev, 'right')));
@@ -618,7 +687,6 @@ function buildDay(date, evs) {
   row.appendChild(rightCol);
   block.appendChild(row);
 
-  // Neutral events below the spine row
   if (neu.length) {
     const nr2 = mk('div', 'neutral-row');
     neu.forEach(ev => nr2.appendChild(buildItem(ev, 'neutral')));
@@ -628,14 +696,13 @@ function buildDay(date, evs) {
   return block;
 }
 
-// ── Build one event item (label + expanding detail) ───────────────────────────
+// ── Build one event item ──────────────────────────────────────────────────────
 function buildItem(ev, side) {
   const dc = dirClass(ev.direction);
 
   const wrapper = mk('div', 'ev-wrapper');
   wrapper.dataset.actor = ev.actor;
 
-  // Item row
   const item = mk('div', `ev-item ${side} ${dc}`);
   const dot  = mk('span', `ev-dot ${dc}`);
   const txt  = mk('span', 'ev-text', ev.title);
@@ -651,14 +718,12 @@ function buildItem(ev, side) {
     item.appendChild(conn);
     item.appendChild(txt);
   } else {
-    // neutral: labelled full-width card
     const lbl = mk('span', 'neutral-label', 'Context');
     item.appendChild(dot);
     item.appendChild(lbl);
     item.appendChild(txt);
   }
 
-  // Expanding detail
   const detail = mk('div', 'ev-detail');
   const inner  = mk('div', 'ev-detail-inner');
 
@@ -668,10 +733,10 @@ function buildItem(ev, side) {
   const meta  = mk('div', 'ev-meta');
   const badge = mk('span', `actor-badge badge-${ev.actor.replace(/\s+/g, '-')}`, ev.actor);
   const src   = document.createElement('a');
-  src.className  = 'source-link';
-  src.href       = ev.source;
-  src.target     = '_blank';
-  src.rel        = 'noopener noreferrer';
+  src.className   = 'source-link';
+  src.href        = ev.source;
+  src.target      = '_blank';
+  src.rel         = 'noopener noreferrer';
   src.textContent = '↗ Source';
 
   meta.appendChild(badge);
@@ -699,7 +764,6 @@ function togglePlay() {
 }
 
 function startPlay() {
-  // Collect visible wrappers in DOM order (newest-first), reverse for oldest-first playback
   const wrappers = [...document.querySelectorAll('.ev-wrapper:not(.ev-hidden)')];
   if (!wrappers.length) return;
   playList = wrappers.reverse();
@@ -738,8 +802,8 @@ function advance(idx) {
 // ── Helpers ───────────────────────────────────────────────────────────────────
 function mk(tag, cls, text) {
   const e = document.createElement(tag);
-  if (cls)            e.className   = cls;
-  if (text !== undefined) e.textContent = text;
+  if (cls)             e.className   = cls;
+  if (text != null)    e.textContent = text;
   return e;
 }
 
