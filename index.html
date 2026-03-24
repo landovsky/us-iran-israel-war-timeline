@@ -120,8 +120,15 @@
       color: var(--muted);
     }
 
-    .btn-play {
+    .last-updated {
       margin-left: auto;
+      font-size: 0.62rem;
+      color: var(--dim);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .btn-play {
       padding: 4px 16px;
       border: 1px solid #1e40af;
       border-radius: 6px;
@@ -428,6 +435,7 @@
       <span class="legend-item"><span class="ld ld-d"></span>De-escalating</span>
       <span class="legend-item"><span class="ld ld-n"></span>Neutral</span>
     </div>
+    <span id="last-updated" class="last-updated"></span>
     <button class="btn-play" id="btn-play">▶ Play</button>
   </div>
   <div class="hdr-bot">
@@ -459,6 +467,8 @@ fetch('data/events.json')
     allEvents = data.sort((a, b) => b.date.localeCompare(a.date));
     const actors = [...new Set(allEvents.map(e => e.actor))].sort();
     activeActors = new Set(actors);
+    document.getElementById('last-updated').textContent =
+      'Updated ' + fmtDate(allEvents[0].date);
     renderFilters(actors);
     renderTimeline();
   })
