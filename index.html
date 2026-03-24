@@ -235,16 +235,49 @@
     .neutral-row {
       display: flex;
       flex-direction: column;
-      align-items: center;
       gap: 2px;
-      padding: 3px 0;
+      padding: 4px 12px 2px;
       position: relative;
       z-index: 1;
+      margin: 0 auto;
+      max-width: 1020px;
+      width: 100%;
+      box-sizing: border-box;
     }
 
     .neutral-row .ev-wrapper {
-      max-width: 480px;
+      max-width: 100%;
       width: 100%;
+    }
+
+    /* Full-width neutral card */
+    .neutral-row .ev-item {
+      width: 100%;
+      background: rgba(156,163,175,0.04);
+      border: 1px solid rgba(156,163,175,0.1);
+      border-left: 2px solid var(--neu);
+      border-radius: 0 4px 4px 0;
+      padding: 4px 10px;
+      gap: 8px;
+      justify-content: flex-start;
+    }
+    .neutral-row .ev-item:hover {
+      background: rgba(156,163,175,0.08);
+    }
+    .neutral-row .ev-text {
+      text-align: left !important;
+      padding-left: 0 !important;
+      color: var(--muted);
+    }
+    .neutral-label {
+      font-size: 0.54rem;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--dim);
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-right: 2px;
     }
 
     /* ── Event wrapper (item + expandable detail) ────────────────────── */
@@ -618,8 +651,10 @@ function buildItem(ev, side) {
     item.appendChild(conn);
     item.appendChild(txt);
   } else {
-    // neutral: dot + text, no connector
+    // neutral: labelled full-width card
+    const lbl = mk('span', 'neutral-label', 'Context');
     item.appendChild(dot);
+    item.appendChild(lbl);
     item.appendChild(txt);
   }
 
