@@ -296,8 +296,11 @@
       display: grid;
       grid-template-columns: 1fr 96px 1fr;
       align-items: start;
+      width: 100%;
+      box-sizing: border-box;
     }
     .week-cell {
+      min-width: 0;
       min-height: 28px;
       padding: 3px 0 6px;
       display: flex;
@@ -1037,7 +1040,8 @@ function buildWeek(weekStart, weekEnd, evs) {
 
   // Spine — spans all day rows
   const spine = mk('div', 'week-spine');
-  spine.style.gridRow = `1 / span ${uniqueDays.length}`;
+  spine.style.gridColumn = '2';
+  spine.style.gridRow    = `1 / span ${uniqueDays.length}`;
   actors.forEach(([actor, stats]) => spine.appendChild(buildActorSummary(actor, stats)));
   row.appendChild(spine);
 
@@ -1050,13 +1054,15 @@ function buildWeek(weekStart, weekEnd, evs) {
     const label   = fmtDayShort(date);
 
     const leftCell = mk('div', 'week-cell left');
-    leftCell.style.gridRow = String(rowIdx);
+    leftCell.style.gridColumn = '1';
+    leftCell.style.gridRow    = String(rowIdx);
     leftCell.appendChild(mk('div', 'week-day-label', label));
     dayEsc.forEach(ev => leftCell.appendChild(buildItem(ev, 'left')));
     row.appendChild(leftCell);
 
     const rightCell = mk('div', 'week-cell right');
-    rightCell.style.gridRow = String(rowIdx);
+    rightCell.style.gridColumn = '3';
+    rightCell.style.gridRow    = String(rowIdx);
     rightCell.appendChild(mk('div', 'week-day-label', label));
     dayDesc.forEach(ev => rightCell.appendChild(buildItem(ev, 'right')));
     row.appendChild(rightCell);
