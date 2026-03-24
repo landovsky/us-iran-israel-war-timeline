@@ -766,5 +766,45 @@
     "description": "Pakistan, Turkey, Egypt, Oman, and Qatar are working to arrange a face-to-face meeting in Islamabad between Iranian Parliament Speaker Mohammad Bagher Ghalibaf and US envoys Steve Witkoff and Jared Kushner, with VP JD Vance potentially attending. An Israeli official confirmed Washington set April 9 as the target date for ending the war. Pakistan's army chief Asim Munir spoke directly with Trump. Iran's Supreme National Security Council had yet to approve the meeting. Israel said it was 'surprised things were moving that fast' when Trump revealed the contacts.",
     "source": "https://www.axios.com/2026/03/23/trump-suspends-iran-strikes-hormuz-negotiations",
     "actor": "Pakistan"
+  },
+  {
+    "date": "2026-03-22",
+    "title": "David's Sling malfunction allows two Iranian ballistic missiles to strike southern Israel",
+    "direction": "Escalating",
+    "description": "Israel's military confirmed a malfunction in its 'David's Sling' medium-to-long-range interceptor system allowed two Iranian ballistic missiles to breach Israel's multi-layered air defence shield and strike southern Israel, wounding dozens. David's Sling is designed to intercept ballistic missiles and long-range rockets and sits between the Iron Dome and Arrow systems in Israel's defence hierarchy. The failure exposed a critical gap in coverage.",
+    "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "US kills PMF commander Saad Dawai al-Baiji and 15 fighters in Anbar airstrike",
+    "direction": "Escalating",
+    "description": "A US airstrike in Iraq's Anbar province killed Saad Dawai al-Baiji, provincial commander and head of operations for the pro-Iranian Popular Mobilisation Forces (PMF / Hashed al-Shaabi), along with 15 fighters. The PMF, though formally part of Iraq's army, includes Iran-aligned factions. Al Jazeera's correspondent described Iraq as a secondary battleground where the US is conducting 'deliberate but calibrated' strikes against Iran-aligned group leaders, leaving Iraqis caught in the crossfire.",
+    "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Iran acknowledges receiving US 'outreach' through intermediaries; proposals under review",
+    "direction": "De-escalating",
+    "description": "An Iranian source told CNN there had been 'outreach' between the US and Tehran, and that Iran is willing to listen to 'sustainable' proposals to end the war \u2014 a softer line than its public denials. Iran's Foreign Ministry confirmed it received messages through friendly countries and said they were under review. Iran's position: it is ready to guarantee it will never develop nuclear weapons but demands all sanctions be lifted and requires binding guarantees against future US-Israeli strikes. Iran stated it is 'not asking for a meeting' but is 'willing to listen.'",
+    "source": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Philippines declares national energy emergency; ~2,000 vessels trapped in Persian Gulf",
+    "direction": "Neutral",
+    "description": "Philippine President Ferdinand Marcos Jr. declared a 'national energy emergency' citing direct risks to domestic fuel supplies from the Hormuz closure. The International Maritime Organization reported approximately 2,000 vessels are now trapped inside the Persian Gulf, unable to transit the closed strait. Iran has selectively allowed ships from countries it considers neutral \u2014 including some Turkish and Indian vessels \u2014 to pass. GPS jamming of uncertain origin near the strait is additionally threatening safe navigation for oil tankers.",
+    "source": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Houthis warn Bahrain and UAE: 'first to lose' if they help reopen Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "Yemen's Houthi movement issued a direct threat to Bahrain and the UAE, warning they will be 'the first to lose in this battle' if they assist any effort to reopen the Strait of Hormuz. The Houthis stated they would respond to any escalation against Iran, including maritime operations. Bahrain's forces have intercepted 153 missiles and 301 drones since the war began. The threat underscores how the conflict is creating a broader axis of pressure across the Arabian Peninsula.",
+    "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
+    "actor": "Other"
   }
 ]
