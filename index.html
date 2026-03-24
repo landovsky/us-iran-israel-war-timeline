@@ -291,9 +291,35 @@
     }
     .week-date-label:first-child { border-top: none; }
 
+    /* ── Week row grid ───────────────────────────────────────────────────── */
+    .week-row {
+      display: grid;
+      grid-template-columns: 1fr 96px 1fr;
+      align-items: start;
+    }
+    .week-cell {
+      min-height: 28px;
+      padding: 3px 0 6px;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .week-cell.left  { grid-column: 1; align-items: flex-end;   padding-right: 8px; }
+    .week-cell.right { grid-column: 3; align-items: flex-start; padding-left:  8px; }
+    .week-day-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.44rem;
+      color: var(--border);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 1px;
+      align-self: stretch;
+    }
+    .week-cell.left  .week-day-label { text-align: right; }
+    .week-cell.right .week-day-label { text-align: left;  }
+
     .week-spine {
-      flex-shrink: 0;
-      width: 96px;
+      grid-column: 2;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -326,7 +352,7 @@
       z-index: 1;
     }
     .summary-flag {
-      width: 30px; height: 30px;
+      width: 38px; height: 38px;
       border-radius: 50%;
       overflow: hidden;
       border: 1.5px solid var(--border);
@@ -337,18 +363,17 @@
 
     .summary-counts {
       display: flex;
-      align-items: center;
-      gap: 3px;
+      justify-content: space-between;
+      width: 38px;
       font-family: 'IBM Plex Mono', monospace;
       font-size: 0.48rem;
       font-weight: 500;
       line-height: 1;
-      white-space: nowrap;
     }
-    .s-esc  { color: var(--esc); }
-    .s-neu  { color: var(--dim); }
-    .s-desc { color: var(--desc); }
-    .s-sep  { color: var(--border); }
+    .s-esc  { color: var(--esc);  flex: 1; text-align: left;   }
+    .s-neu  { color: var(--dim);  flex: 1; text-align: center; }
+    .s-desc { color: var(--desc); flex: 1; text-align: right;  }
+    .s-zero { visibility: hidden; }
 
     /* ── Timeline ────────────────────────────────────────────────────────── */
     main { padding: 16px 0 80px; }
@@ -684,8 +709,8 @@
     <span class="filter-lbl">Filter:</span>
     <div id="actor-filters"></div>
     <div class="view-toggle">
-      <button class="vt-btn active" id="btn-day">Day</button>
-      <button class="vt-btn" id="btn-week">Week</button>
+      <button class="vt-btn" id="btn-day">Day</button>
+      <button class="vt-btn active" id="btn-week">Week</button>
     </div>
     <button class="btn-play" id="btn-play">▶ Play</button>
   </div>
@@ -757,7 +782,7 @@ function applyFilter() {
 }
 
 // ── View mode toggle ──────────────────────────────────────────────────────────
-let viewMode = 'day';
+let viewMode = 'week';
 
 document.getElementById('btn-day').addEventListener('click', () => {
   if (viewMode === 'day') return;
@@ -984,9 +1009,15 @@ function renderWeekView(root, dates, byDate) {
 
 function buildWeek(weekStart, weekEnd, evs) {
   const sorted = evs.slice().sort((a, b) => a.date.localeCompare(b.date));
-  const esc  = sorted.filter(e => e.direction === 'Escalating');
-  const desc = sorted.filter(e => e.direction === 'De-escalating');
-  const neu  = sorted.filter(e => e.direction === 'Neutral');
+  const neu    = sorted.filter(e => e.direction === 'Neutral');
+
+  // Unique days in chronological order
+  const uniqueDays = [];
+  const byDay = {};
+  sorted.forEach(ev => {
+    if (!byDay[ev.date]) { byDay[ev.date] = []; uniqueDays.push(ev.date); }
+    byDay[ev.date].push(ev);
+  });
 
   // Actor stats for spine
   const actorStats = {};
@@ -1002,18 +1033,35 @@ function buildWeek(weekStart, weekEnd, evs) {
   const block = mk('div', 'day-block'); // keep day-block for filter compat
   block.appendChild(mk('div', 'week-date-label', fmtWeekRange(weekStart, weekEnd)));
 
-  const row      = mk('div', 'day-row');
-  const leftCol  = mk('div', 'events-col left');
-  const spine    = mk('div', 'week-spine');
-  const rightCol = mk('div', 'events-col right');
+  const row   = mk('div', 'week-row');
 
+  // Spine — spans all day rows
+  const spine = mk('div', 'week-spine');
+  spine.style.gridRow = `1 / span ${uniqueDays.length}`;
   actors.forEach(([actor, stats]) => spine.appendChild(buildActorSummary(actor, stats)));
-  esc.forEach(ev  => leftCol.appendChild(buildItem(ev, 'left')));
-  desc.forEach(ev => rightCol.appendChild(buildItem(ev, 'right')));
-
-  row.appendChild(leftCol);
   row.appendChild(spine);
-  row.appendChild(rightCol);
+
+  // One grid row per unique day
+  uniqueDays.forEach((date, i) => {
+    const dayEvs  = byDay[date];
+    const dayEsc  = dayEvs.filter(e => e.direction === 'Escalating');
+    const dayDesc = dayEvs.filter(e => e.direction === 'De-escalating');
+    const rowIdx  = i + 1;
+    const label   = fmtDayShort(date);
+
+    const leftCell = mk('div', 'week-cell left');
+    leftCell.style.gridRow = String(rowIdx);
+    leftCell.appendChild(mk('div', 'week-day-label', label));
+    dayEsc.forEach(ev => leftCell.appendChild(buildItem(ev, 'left')));
+    row.appendChild(leftCell);
+
+    const rightCell = mk('div', 'week-cell right');
+    rightCell.style.gridRow = String(rowIdx);
+    rightCell.appendChild(mk('div', 'week-day-label', label));
+    dayDesc.forEach(ev => rightCell.appendChild(buildItem(ev, 'right')));
+    row.appendChild(rightCell);
+  });
+
   block.appendChild(row);
 
   if (neu.length) {
@@ -1035,17 +1083,19 @@ function buildActorSummary(actor, stats) {
   flagWrap.appendChild(img);
 
   const counts = mk('div', 'summary-counts');
-  if (stats.esc)  counts.appendChild(mk('span', 's-esc',  String(stats.esc)));
-  if (stats.esc && (stats.neu || stats.desc))
-                  counts.appendChild(mk('span', 's-sep',  '·'));
-  if (stats.neu)  counts.appendChild(mk('span', 's-neu',  String(stats.neu)));
-  if (stats.neu && stats.desc)
-                  counts.appendChild(mk('span', 's-sep',  '·'));
-  if (stats.desc) counts.appendChild(mk('span', 's-desc', String(stats.desc)));
+  counts.appendChild(mk('span', 's-esc'  + (stats.esc  ? '' : ' s-zero'), String(stats.esc)));
+  counts.appendChild(mk('span', 's-neu'  + (stats.neu  ? '' : ' s-zero'), String(stats.neu)));
+  counts.appendChild(mk('span', 's-desc' + (stats.desc ? '' : ' s-zero'), String(stats.desc)));
 
   wrap.appendChild(flagWrap);
   wrap.appendChild(counts);
   return wrap;
+}
+
+function fmtDayShort(iso) {
+  const M = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const [, m, d] = iso.split('-').map(Number);
+  return `${M[m-1]} ${d}`;
 }
 
 // ── Actor flag helpers ────────────────────────────────────────────────────────
