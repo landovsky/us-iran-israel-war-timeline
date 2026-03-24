@@ -67,9 +67,17 @@
     "date": "2026-03-22",
     "title": "Iranian missiles strike near Dimona nuclear facility; at least 180 wounded",
     "direction": "Escalating",
-    "description": "Iran launched a salvo of ballistic missiles targeting Israel's Negev desert region near the Dimona nuclear research complex and the city of Arad. At least 180 people were wounded in the strikes, with several impacts reaching the ground despite Israel's Iron Dome and Arrow interceptors. Iran warned it will continue targeting nuclear sites.",
-    "source": "https://www.aljazeera.com/news/2026/3/22/did-israel-miscalculate-iranian-military-capabilities",
+    "description": "Iran launched a salvo of ballistic missiles targeting Israel's Negev near the Dimona nuclear research complex and the city of Arad, wounding at least 180 people. Two missiles penetrated defences after Israel's David's Sling interceptor system failed — a system recently upgraded and deployed to conserve Arrow stocks. An initial inquiry also found the US THAAD system missed a missile over Arad. The IDF said the two interception failures were unrelated coincidences, not a systemic breakdown. Iran's IRGC claimed it deliberately targeted Dimona in retaliation for Israeli strikes on Natanz.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/davids-sling-system-failed-to-down-iranian-ballistic-missiles-that-struck-southern-towns-idf/",
     "actor": "Iran"
+  },
+  {
+    "date": "2026-03-22",
+    "title": "Lebanese PM Salam accuses IRGC of commanding Hezbollah from Lebanon; demands weapons surrender",
+    "direction": "De-escalating",
+    "description": "Lebanese Prime Minister Nawaf Salam stated publicly that Iran's Revolutionary Guards are present in Lebanon and 'managing the military operation' on behalf of Hezbollah, citing an IRGC-linked drone that struck a British base in Cyprus as evidence. Salam declared 'Hezbollah's threats do not intimidate us' and said Beirut had taken the unprecedented step of banning Hezbollah military activities and calling on the group to hand its weapons over to the Lebanese state. He said the government is working to 'regain control over the decision to go to war.'",
+    "source": "https://www.cnn.com/2026/03/22/middleeast/us-israel-iran-middle-east-war-day-24-what-we-know-intl-hnk",
+    "actor": "Other"
   },
   {
     "date": "2026-03-21",
@@ -149,6 +157,14 @@
     "direction": "Neutral",
     "description": "Global oil prices climbed back to $115 per barrel for Brent crude as sustained strikes on Gulf energy infrastructure and the continued effective closure of the Strait of Hormuz kept markets on edge. The IEA has called this the largest supply disruption in the history of the global oil market.",
     "source": "https://www.cnbc.com/2026/03/11/strait-of-hormuz-closure-shipping-economy-oil.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-19",
+    "title": "G7+ nations issue joint statement condemning Iran's Hormuz closure and commercial shipping attacks",
+    "direction": "De-escalating",
+    "description": "The leaders of the UK, France, Germany, Italy, the Netherlands, Japan, Canada, South Korea, New Zealand, Denmark, Norway, Sweden, Finland, Australia, and others signed a joint statement condemning 'in the strongest terms' Iran's attacks on unarmed commercial vessels, strikes on oil and gas infrastructure, and the de facto closure of the Strait of Hormuz. They called on Iran to immediately cease mine-laying, drone and missile attacks, and all attempts to block the strait, and to comply with UN Security Council Resolution 2817. Hormuz transits had fallen by approximately 95% from peacetime levels, with over 200 vessels anchored outside the strait.",
+    "source": "https://www.gov.uk/government/news/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-and-japan-on-the-strait-of-hormuz-19-march-2026",
     "actor": "Other"
   },
   {
@@ -381,6 +397,14 @@
     "direction": "Escalating",
     "description": "Satellite imagery published March 8 confirmed the complete destruction of the Shahed Aviation Industries Production Facility in Isfahan \u2014 Iran's primary manufacturer of Shahed-136, Shahed-129, and Shahed-171 attack drones. The facility had supplied drones to Russia for use against Ukraine. The strike was seen as simultaneously degrading both Iranian and Russian military capabilities.",
     "source": "https://israel-alma.org/daily-report-the-second-iran-war-march-8-2026-1800/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-08",
+    "title": "Israel Navy strikes Ramada hotel in central Beirut, killing 5 IRGC Quds Force commanders",
+    "direction": "Escalating",
+    "description": "An Israeli Navy strike hit the Ramada Hotel in Beirut's Raouche neighbourhood — Israel's first attack on central Beirut since the war began — killing five senior IRGC Quds Force commanders. The IDF named three: Majid Hassani (responsible for transferring funds to Iranian proxies in Lebanon), and senior intelligence figures Alireza Bi-Azar and Ahmad Rasouli. Iran's UN mission confirmed four of the dead were 'diplomats of the Islamic Republic of Iran.' The hotel was also housing civilians displaced from southern Lebanon. The Lebanese government had days earlier ordered the arrest and repatriation of all IRGC personnel in Lebanon; over 150 Iranian nationals subsequently left the country.",
+    "source": "https://www.timesofisrael.com/idf-says-it-hit-key-commanders-of-irgcs-quds-force-in-beirut-4-reportedly-killed/",
     "actor": "Israel"
   },
   {

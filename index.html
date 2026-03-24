@@ -54,6 +54,18 @@
       letter-spacing: 0.01em;
     }
 
+    .hdr-tagline {
+      font-size: 0.68rem;
+      color: var(--muted);
+      line-height: 1.5;
+      max-width: 540px;
+      flex-basis: 100%;
+      order: 10;
+      margin-top: 2px;
+    }
+    .hdr-red  { color: var(--esc);  font-weight: 600; }
+    .hdr-blue { color: var(--desc); font-weight: 600; }
+
     .legend {
       display: flex;
       gap: 12px;
@@ -430,6 +442,7 @@
 <header>
   <div class="hdr-top">
     <h1>US–Israel–Iran War Timeline</h1>
+    <p class="hdr-tagline">Each dot is a real event. <span class="hdr-red">Red</span> means the war is deepening — more strikes, more threats, wider spread. <span class="hdr-blue">Blue</span> means someone is pulling back — a pause, a proposal, a diplomatic move. Watch which colour dominates each day, and who is driving it.</p>
     <div class="legend">
       <span class="legend-item"><span class="ld ld-e"></span>Escalating</span>
       <span class="legend-item"><span class="ld ld-d"></span>De-escalating</span>
