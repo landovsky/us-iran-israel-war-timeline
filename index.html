@@ -436,18 +436,17 @@
     .ev-item.active .ev-flag-group { transform: scale(1.22); }
 
     .ev-flag {
-      width: 19px; height: 19px;
+      width: 20px; height: 20px;
       border-radius: 50%;
       border: 1.5px solid transparent;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 11px;
-      line-height: 1;
       overflow: hidden;
       flex-shrink: 0;
       position: relative;
-      background: #0d1420;
+      background: #1a2540;
+    }
+    .ev-flag img {
+      width: 100%; height: 100%;
+      display: block;
     }
     /* Multi-actor stacking */
     .ev-flag-group .ev-flag + .ev-flag { margin-left: -7px; }
@@ -456,33 +455,15 @@
     .ev-flag-group .ev-flag:nth-child(3) { z-index: 1; }
 
     /* Direction border ring + glow */
-    .ev-flag.escalating    { border-color: rgba(239,68,68,0.65);  box-shadow: 0 0 6px rgba(239,68,68,0.35); }
-    .ev-flag.de-escalating { border-color: rgba(59,130,246,0.65); box-shadow: 0 0 6px rgba(59,130,246,0.35); }
-    .ev-flag.neutral       { border-color: rgba(156,163,175,0.3); }
+    .ev-flag.escalating    { border-color: rgba(239,68,68,0.7);   box-shadow: 0 0 6px rgba(239,68,68,0.4); }
+    .ev-flag.de-escalating { border-color: rgba(59,130,246,0.7);  box-shadow: 0 0 6px rgba(59,130,246,0.4); }
+    .ev-flag.neutral       { border-color: rgba(156,163,175,0.35); }
 
     /* Active state */
     .ev-item.active .ev-flag {
-      box-shadow: 0 0 0 2.5px rgba(251,191,36,0.4), 0 0 10px rgba(251,191,36,0.5) !important;
+      box-shadow: 0 0 0 2.5px rgba(251,191,36,0.45), 0 0 10px rgba(251,191,36,0.5) !important;
       border-color: var(--active) !important;
     }
-
-    /* Actor-specific dark backgrounds */
-    .ev-flag-US           { background: #0c1e3d; }
-    .ev-flag-Israel       { background: #1a1c0d; }
-    .ev-flag-Iran         { background: #1c0e0e; }
-    .ev-flag-Russia       { background: #180e10; }
-    .ev-flag-France       { background: #0d0e1c; }
-    .ev-flag-NATO         { background: #07181f; }
-    .ev-flag-UK           { background: #0d0e1c; }
-    .ev-flag-Saudi-Arabia { background: #0a1a0a; }
-    .ev-flag-Pakistan     { background: #091a0d; }
-    .ev-flag-Lebanon      { background: #1a0d0d; }
-    .ev-flag-Turkey       { background: #1c0e0e; }
-    .ev-flag-Qatar        { background: #1a0d14; }
-    .ev-flag-UAE          { background: #0b1a10; }
-    .ev-flag-Iraq         { background: #1a1600; }
-    .ev-flag-Kuwait       { background: #1a1500; }
-    .ev-flag-Other        { background: #111827; }
 
     /* ── Expanding detail ────────────────────────────────────────────────── */
     .ev-detail {
@@ -840,23 +821,24 @@ function advance(idx) {
 }
 
 // ── Actor flag helpers ────────────────────────────────────────────────────────
-const ACTOR_EMOJI = {
-  'US':           '🇺🇸',
-  'Israel':       '🇮🇱',
-  'Iran':         '🇮🇷',
-  'Russia':       '🇷🇺',
-  'France':       '🇫🇷',
-  'NATO':         '🛡️',
-  'UK':           '🇬🇧',
-  'Saudi Arabia': '🇸🇦',
-  'Pakistan':     '🇵🇰',
-  'Lebanon':      '🇱🇧',
-  'Turkey':       '🇹🇷',
-  'Qatar':        '🇶🇦',
-  'UAE':          '🇦🇪',
-  'Iraq':         '🇮🇶',
-  'Kuwait':       '🇰🇼',
-  'Other':        '🌐',
+const FLAG_CDN = 'https://hatscripts.github.io/circle-flags/flags/';
+const ACTOR_CODE = {
+  'US':           'us',
+  'Israel':       'il',
+  'Iran':         'ir',
+  'Russia':       'ru',
+  'France':       'fr',
+  'NATO':         'nato',
+  'UK':           'gb',
+  'Saudi Arabia': 'sa',
+  'Pakistan':     'pk',
+  'Lebanon':      'lb',
+  'Turkey':       'tr',
+  'Qatar':        'qa',
+  'UAE':          'ae',
+  'Iraq':         'iq',
+  'Kuwait':       'kw',
+  'Other':        'united_nations',
 };
 
 function buildFlagGroup(actorStr, dc) {
@@ -865,10 +847,15 @@ function buildFlagGroup(actorStr, dc) {
   const group  = document.createElement('div');
   group.className = 'ev-flag-group';
   actors.forEach(a => {
-    const flag = document.createElement('span');
-    flag.className = `ev-flag ev-flag-${a.replace(/\s+/g, '-')} ${dc}`;
-    flag.textContent = ACTOR_EMOJI[a] || '🌐';
-    group.appendChild(flag);
+    const wrap = document.createElement('span');
+    wrap.className = `ev-flag ${dc}`;
+    const img = document.createElement('img');
+    const code = ACTOR_CODE[a] || 'united_nations';
+    img.src = `${FLAG_CDN}${code}.svg`;
+    img.alt = a;
+    img.loading = 'lazy';
+    wrap.appendChild(img);
+    group.appendChild(wrap);
   });
   return group;
 }
