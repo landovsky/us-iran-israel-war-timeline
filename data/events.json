@@ -21,7 +21,7 @@
     "direction": "De-escalating",
     "description": "Pakistani PM Shehbaz Sharif spoke with Iranian President Masoud Pezeshkian, pledging to play 'a constructive role in advancing peace.' Israeli PM Netanyahu, after speaking with Trump, said the US president believes major military gains against Iran can be converted into a negotiated agreement protecting Israel's vital interests \u2014 though Israel would continue strikes in both Iran and Lebanon in the meantime. US envoys Witkoff and Kushner were reported to be in contact with Iranian parliament speaker Mohammad Bagher Ghalibaf. Netanyahu also said Israel had recently killed two Iranian nuclear scientists.",
     "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
-    "actor": "Other"
+    "actor": "Pakistan"
   },
   {
     "date": "2026-03-23",
@@ -45,7 +45,7 @@
     "direction": "De-escalating",
     "description": "Turkish Foreign Minister Hakan Fidan conducted more than a dozen phone calls with regional and global counterparts over 48 hours, with 'steps aimed at stopping the war' discussed on each call. Ankara has emerged as one of the few parties with channels to both Washington and Tehran, and Trump confirmed Qatar is being considered as the preferred mediation venue.",
     "source": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-23-26",
-    "actor": "Other"
+    "actor": "Turkey"
   },
   {
     "date": "2026-03-22",
@@ -77,7 +77,7 @@
     "direction": "De-escalating",
     "description": "Lebanese Prime Minister Nawaf Salam stated publicly that Iran's Revolutionary Guards are present in Lebanon and 'managing the military operation' on behalf of Hezbollah, citing an IRGC-linked drone that struck a British base in Cyprus as evidence. Salam declared 'Hezbollah's threats do not intimidate us' and said Beirut had taken the unprecedented step of banning Hezbollah military activities and calling on the group to hand its weapons over to the Lebanese state. He said the government is working to 'regain control over the decision to go to war.'",
     "source": "https://www.cnn.com/2026/03/22/middleeast/us-israel-iran-middle-east-war-day-24-what-we-know-intl-hnk",
-    "actor": "Other"
+    "actor": "Lebanon"
   },
   {
     "date": "2026-03-21",
@@ -109,7 +109,7 @@
     "direction": "Escalating",
     "description": "Saudi Arabia declared Iran's military attach\u00e9, assistant military attach\u00e9, and three additional embassy staff members persona non grata, giving them 24 hours to leave the kingdom. Riyadh cited repeated Iranian attacks on Saudi sovereignty, civilian infrastructure, and economic interests as violations of international law, the 2023 Beijing normalization agreement, and UNSC Resolution 2817. Qatar took a similar step, expelling Iranian military and security attach\u00e9s following the strike on Ras Laffan. The Saudi foreign minister warned all trust with Tehran had been shattered and reserved the right to act militarily against further Iranian aggression.",
     "source": "https://www.aljazeera.com/news/2026/3/21/saudi-arabia-expels-iran-military-attache-and-four-team-members",
-    "actor": "Other"
+    "actor": "Saudi Arabia"
   },
   {
     "date": "2026-03-20",
@@ -365,7 +365,7 @@
     "direction": "De-escalating",
     "description": "Lebanese President Joseph Aoun publicly proposed a political framework for ending the conflict: an immediate ceasefire, deployment of the Lebanese Army in southern friction zones, confiscation of Hezbollah's weapons depots, and direct Lebanon-Israel negotiations under international auspices. The proposal was the first formal Lebanese diplomatic initiative since the war resumed and was welcomed by France and the EU.",
     "source": "https://israel-alma.org/daily-report-the-second-iran-war-march-10-2026-1800/",
-    "actor": "Other"
+    "actor": "Lebanon"
   },
   {
     "date": "2026-03-09",
@@ -461,7 +461,7 @@
     "direction": "Neutral",
     "description": "Following Iran's formal declaration of Hormuz closure, Brent crude surged past $120/barrel \u2014 up 65% from $72.48 before the war. QatarEnergy had already declared force majeure on LNG exports on March 2 after initial strikes on Ras Laffan. The IEA stated the global oil market faces its worst disruption in history.",
     "source": "https://www.kpler.com/blog/us-iran-conflict-strait-of-hormuz-crisis-reshapes-global-oil-markets",
-    "actor": "Qatar"
+    "actor": "Other"
   },
   {
     "date": "2026-03-04",
@@ -549,7 +549,7 @@
     "direction": "Neutral",
     "description": "A Kuwaiti Air Force F/A-18 Hornet pilot fired three AIM-9 Sidewinder missiles and shot down three USAF F-15E Strike Eagles over Kuwait during a chaotic multi-threat intercept operation. All six US crew members survived after ejecting. The incident \u2014 the first loss of US aircraft in Operation Epic Fury \u2014 raised urgent questions about coalition IFF procedures and came hours after an Iranian drone killed six US soldiers at Shuaiba port.",
     "source": "https://www.twz.com/news-features/kuwaiti-f-a-18-hornet-responsible-for-shooting-down-three-usaf-f-15e-strike-eagles-report",
-    "actor": "Other"
+    "actor": "Kuwait"
   },
   {
     "date": "2026-03-01",
