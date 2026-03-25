@@ -1,6 +1,54 @@
 [
   {
     "date": "2026-03-25",
+    "title": "Second strike hits Bushehr NPP; IAEA confirms 350m from reactor, Rosatom warns of fuel risk",
+    "direction": "Escalating",
+    "description": "A second projectile struck the Bushehr Nuclear Power Plant compound at 9:08 p.m. local time. The IAEA confirmed 'a structure 350 metres from the reactor was hit and destroyed.' No casualties or reactor damage reported. Russian state nuclear operator Rosatom issued a stark warning: the active reactor holds 72 tons of nuclear fuel and 210 tons of spent fuel — a potential regional-scale radiation disaster. Rosatom announced it is preparing a third evacuation of its ~480 remaining personnel. The back-to-back strikes on the plant represent the most dangerous nuclear threshold crossed since the war began.",
+    "source": "https://world-nuclear-news.org/articles/iran-tells-iaea-a-projectile-hit-bushehr-nuclear-plant-premises",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Israel strikes IRGC intelligence HQ and Ministry of Intelligence in Tehran",
+    "direction": "Escalating",
+    "description": "Israel struck two IRGC intelligence headquarters and Iran's Ministry of Intelligence building in Tehran, as part of a wave targeting over 50 sites including ballistic missile storage and launch facilities. The US separately struck a turbine engine production facility in Qom province used for IRGC drone and aircraft components. Targeting Iran's domestic intelligence apparatus marks an escalation beyond military infrastructure toward the Iranian security state itself.",
+    "source": "https://www.pbs.org/newshour/world/strikes-hit-iran-while-tehran-targets-israel-and-gulf-states-amid-mixed-signals-over-talks-to-end-war",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "South Tehran strike kills 12, wounds 28",
+    "direction": "Escalating",
+    "description": "A US-Israeli strike on south Tehran killed at least 12 people and wounded 28 others. The strike targeted IRGC facilities embedded in a residential district. The attack came hours after Trump publicly claimed ceasefire talks were progressing — drawing sharp criticism from Iran, which called simultaneous diplomacy and strikes 'a contradiction that exposes US bad faith.'",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/3/25/iran-war-live-trump-again-says-talks-underway-12-killed-in-south-tehran",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Iranian drones hit Kuwait airport fuel depot; fourth attack on Kuwait since war began",
+    "direction": "Escalating",
+    "description": "Iranian drones struck a fuel storage tank at Kuwait International Airport, igniting a fire. Kuwait's Civil Aviation Authority confirmed limited damage and no casualties. Kuwait's army intercepted 6 drones and 5 additional UAVs in the same wave. The IRGC stated it targeted 'military bases hosting US forces in Kuwait, Jordan, and Bahrain.' This is the fourth Iranian drone strike on Kuwait's airport since the war began, escalating pressure on Gulf states providing logistical support to US operations.",
+    "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/drone-attack-ignites-fuel-tank-at-kuwait-airport",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Iran military mocks ceasefire talks; demands US close all Gulf bases as condition",
+    "direction": "Escalating",
+    "description": "Iran's military spokesperson Lt. Col. Ebrahim Zolfaghari publicly mocked US ceasefire efforts, saying Americans were 'only negotiating with themselves.' Iran's formal counter-demands include: closure of all US military bases in the Gulf, financial compensation for war damages, end to Israel's anti-Hezbollah campaign, and Iran levying fees on Hormuz shipping. The public position directly contradicts a private signal from an Iranian source indicating Tehran is 'willing to listen' to suitable proposals.",
+    "source": "https://www.businesstoday.in/world/story/shut-bases-lift-sanctions-or-no-deal-iran-sets-tough-terms-for-ceasefire-us-talks-522259-2026-03-25",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "US lifts Iranian oil sanctions for 30 days — 140 million barrels unlocked",
+    "direction": "De-escalating",
+    "description": "The Trump administration enacted a temporary 30-day lifting of Iranian oil sanctions to contain energy prices. Approximately 140 million barrels of Iranian oil were unlocked for export. Additional emergency measures included a Jones Act suspension, temporary Russian oil sanctions relief, and coordinated IEA strategic reserve releases. Brent crude had peaked above $126/barrel before the announcement. The sanction relief marked the first significant economic concession by the US since the war began.",
+    "source": "https://www.nbcnews.com/world/iran/us-eases-iranian-oil-sanctions-scramble-contain-energy-prices-handing-rcna264546",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-25",
     "title": "US six-condition ceasefire framework delivered to Iran via Egypt, Qatar and UK",
     "direction": "De-escalating",
     "description": "The United States communicated a formal six-condition ceasefire proposal to Iran through intermediaries including Egypt, Qatar, and the UK. Conditions include: external monitoring of nuclear centrifuges, a cap on Iran's ballistic missile inventory at 1,000 units, termination of support for Hezbollah, Houthis, and Hamas, and withdrawal of IRGC personnel from Lebanon and Syria. Iran has not publicly responded but confirmed receipt via the Foreign Ministry.",
