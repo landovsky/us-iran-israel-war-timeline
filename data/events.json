@@ -1,6 +1,86 @@
 [
   {
     "date": "2026-03-25",
+    "title": "Iran formally rejects US 15-point ceasefire plan; brands terms 'excessive'",
+    "direction": "Escalating",
+    "description": "Iran officially rejected the US 15-point ceasefire proposal transmitted via Pakistani intermediaries. Iranian state broadcaster Press TV, citing a senior political-security official, called the terms 'excessive' and a 'ploy.' Iran formally stated it had responded 'negatively' and that the war would end 'when Iran decides it should end, not when Trump envisions its conclusion.' The rejection came alongside a formal Iranian five-point counter-proposal that included Hormuz sovereignty, war reparations, and guarantees against future strikes — all considered non-starters by Washington.",
+    "source": "https://www.axios.com/2026/03/25/iran-rejects-trump-plan-end-war-15-points",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Iran partially opens Strait of Hormuz to 'non-hostile' vessels — only 5 ships transit vs 120/day prewar",
+    "direction": "De-escalating",
+    "description": "Iran's UN mission announced that vessels not associated with the US, Israel, or their supporters may transit the Strait of Hormuz 'in coordination with competent Iranian authorities.' Despite the announcement, only 5 ships were tracked transiting versus a prewar average of 120 per day, with an estimated 400 vessels still anchored outside the strait. The partial concession — widely interpreted as the 'oil and gas present' Trump had teased publicly — stopped well short of restoring normal shipping. Analysts noted Iranian naval vessels are still shadowing transiting ships.",
+    "source": "https://www.aljazeera.com/economy/2026/3/25/iran-says-non-hostile-ships-can-pass-safely-through-strait-of-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Mohammad Bagher Zolghadr named Iran's new National Security Council chief, replacing killed Larijani",
+    "direction": "Escalating",
+    "description": "President Pezeshkian, with approval from new Supreme Leader Mojtaba Khamenei, appointed IRGC veteran Mohammad Bagher Zolghadr as Secretary of the Supreme National Security Council, replacing Ali Larijani who was killed in an Israeli strike. Zolghadr served as IRGC Joint Staff chief for eight years and deputy commander-in-chief for another eight. He is sanctioned by the US, UK, and EU. Analysts say his appointment militarizes Iran's security decision-making — any negotiated outcome will now require the sign-off of a career IRGC commander with deep hostility toward Washington.",
+    "source": "https://www.aljazeera.com/news/2026/3/25/irans-new-security-boss-mohammad-zolghadr-why-his-appointment-matters",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "US and Israel grant temporary diplomatic immunity to Araghchi and Qalibaf for negotiation window",
+    "direction": "De-escalating",
+    "description": "Per Israeli Channel 14, the US and Israel jointly granted temporary immunity from targeting to Iranian Foreign Minister Abbas Araghchi and Parliament Speaker Mohammad Baqer Qalibaf, valid for the duration of the current five-day diplomatic pause. The move is significant: Israel's Defense Minister had previously declared all Islamic Republic leaders legitimate targets. The immunity grants are tied directly to the negotiation window, with the implicit threat that they expire if talks collapse.",
+    "source": "https://aninews.in/news/world/middle-east/us-israel-grant-immunity-to-iran-speaker-qalibaf-and-fm-araghchi-as-negotiations-continue-israeli-media20260325083203/",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Pentagon formally confirms 82nd Airborne deployment — 2,000–3,000 paratroopers to CENTCOM",
+    "direction": "Escalating",
+    "description": "The Pentagon officially confirmed the deployment of the 82nd Airborne Division HQ, enablers, and the 1st Brigade Combat Team to CENTCOM's area of responsibility. Between 2,000 and 3,000 paratroopers are affected, commanded by Maj. Gen. Brandon Tegtmeier. Possible missions include seizure of Kharg Island, which handles 90% of Iran's remaining oil exports. The deployment adds to 50,000 US troops already in the region plus two Marine Expeditionary Units.",
+    "source": "https://www.militarytimes.com/news/your-military/2026/03/25/pentagon-confirms-elements-from-the-82nd-airborne-division-to-deploy-to-the-middle-east/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Israel announces 'security zone' controlling all southern Lebanon to the Litani River",
+    "direction": "Escalating",
+    "description": "Israeli Defense Minister Israel Katz publicly announced Israel would establish a security zone controlling all of southern Lebanon up to the Litani River — roughly 10% of Lebanese territory. He stated all five bridges over the Litani had been destroyed by Israeli forces to cut off supply and retreat routes. Lebanon's total death toll has surpassed 1,072, with 1.2 million displaced. Far-right Finance Minister Bezalel Smotrich publicly called for annexation of the occupied zone.",
+    "source": "https://www.japantimes.co.jp/news/2026/03/25/world/israel-military-southern-lebanon/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Hezbollah chief Naim Qassem vows to fight 'without limits'; rejects any negotiations",
+    "direction": "Escalating",
+    "description": "Hezbollah Secretary-General Naim Qassem called for Lebanese national unity against the Israeli advance and vowed to fight 'without limits.' He explicitly rejected any negotiations with Israel while bombardment continues, calling the Israeli occupation push an 'existential threat to Lebanon.' Hezbollah struck Israeli positions at Naqura and Qawzah with over 100 rockets. Lebanese PM Salam stated the IRGC is directing Hezbollah's operations from Lebanese territory.",
+    "source": "https://www.aljazeera.com/news/2026/3/25/hezbollah-chief-urges-unity-no-talks-with-israel-amid-lebanon-attacks",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Kim Jong Un: Iran war proves nuclear weapons 'irreversible necessity'; North Korea reportedly arming Iran",
+    "direction": "Escalating",
+    "description": "Kim Jong Un addressed North Korea's Supreme People's Assembly and declared the country's nuclear-armed status 'irreversible,' explicitly citing US actions in the Iran war as proof that only nuclear weapons guarantee regime survival. North Korea is also reportedly supplying weapons to Iran via covert channels — analysts describe a 'rogue strategic pipeline' from Pyongyang to Tehran delivering munitions that extend Iran's missile campaign. The statements signal a broader proliferation effect from the conflict.",
+    "source": "https://www.cnn.com/2026/03/25/asia/north-korea-nuclear-weapons-justified-iran-war-intl-hnk",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Houthis reinforcing Red Sea positions; holding fire awaiting Tehran signal",
+    "direction": "Neutral",
+    "description": "Despite vocal pledges of solidarity with Iran, Houthis have fired no Red Sea missiles since the war began. Analysts cite a combination of a quiet US-Saudi arrangement and an explicit instruction from Tehran to conserve Houthi strike capacity. New Supreme Leader Mojtaba Khamenei's hints at 'opening new fronts' are widely read as a signal to Houthis to be ready. Houthis are reinforcing their Red Sea coastal positions and expanding weapons production. If ordered to attack, the re-engagement would threaten 15% of global container shipping.",
+    "source": "https://foreignpolicy.com/2026/03/11/iran-war-houthis-yemen-military-operations-calculus-ground-force-mobilization/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-18",
+    "title": "Pentagon requests $200 billion supplemental war budget; Hegseth: 'It takes money to kill bad guys'",
+    "direction": "Escalating",
+    "description": "Defense Secretary Pete Hegseth confirmed the Pentagon is seeking a $200 billion supplemental appropriation from Congress for the Iran war — four times early estimates and in addition to a record $1.5 trillion FY2027 base request. Hegseth justified the figure with the quote 'It takes money to kill bad guys.' Defense contractors are scaling to meet surge demand: Raytheon's Patriot interceptor production is ramping from 600 to 2,000/year, THAAD from 96 to 400/year, and Lockheed Martin's PrSM precision missiles from 400 to 1,600/year.",
+    "source": "https://www.washingtonpost.com/national-security/2026/03/18/iran-cost-budget-pentagon/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-25",
     "title": "Second strike hits Bushehr NPP; IAEA confirms 350m from reactor, Rosatom warns of fuel risk",
     "direction": "Escalating",
     "description": "A second projectile struck the Bushehr Nuclear Power Plant compound at 9:08 p.m. local time. The IAEA confirmed 'a structure 350 metres from the reactor was hit and destroyed.' No casualties or reactor damage reported. Russian state nuclear operator Rosatom issued a stark warning: the active reactor holds 72 tons of nuclear fuel and 210 tons of spent fuel — a potential regional-scale radiation disaster. Rosatom announced it is preparing a third evacuation of its ~480 remaining personnel. The back-to-back strikes on the plant represent the most dangerous nuclear threshold crossed since the war began.",
