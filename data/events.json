@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-03-25",
+    "title": "US six-condition ceasefire framework delivered to Iran via Egypt, Qatar and UK",
+    "direction": "De-escalating",
+    "description": "The United States communicated a formal six-condition ceasefire proposal to Iran through intermediaries including Egypt, Qatar, and the UK. Conditions include: external monitoring of nuclear centrifuges, a cap on Iran's ballistic missile inventory at 1,000 units, termination of support for Hezbollah, Houthis, and Hamas, and withdrawal of IRGC personnel from Lebanon and Syria. Iran has not publicly responded but confirmed receipt via the Foreign Ministry.",
+    "source": "https://www.thedefensenews.com/news-details/US-Sets-Six-Conditions-for-Iran-Ceasefire-Agreement-Proposes-Limits-on-Nuclear-and-Missile-Capabilities/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "High-level US–Iran talks targeted for March 26 — Vance and Ghalibaf potentially involved",
+    "direction": "De-escalating",
+    "description": "The US and regional mediators are working to arrange high-level talks as early as March 26, potentially between VP JD Vance and Iranian Parliament Speaker Mohammad Bagher Ghalibaf, or at a lower level between Foreign Minister Araghchi and US envoys Kushner/Witkoff. Pakistan, Turkey, Egypt, Oman, and Qatar are all serving as relay channels. Iran's Supreme National Security Council has not yet approved the meeting. Israel told Washington it was 'surprised things were moving that fast.'",
+    "source": "https://www.newsweek.com/iran-war-live-tehran-strikes-tel-aviv-amid-diplomatic-push-to-end-war-11725250",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Bushehr Nuclear Power Plant struck; AEOI warns of 'irreversible consequences'",
+    "direction": "Escalating",
+    "description": "Iran's Atomic Energy Organization confirmed a projectile struck the grounds of the Bushehr Nuclear Power Plant — the first time an operational civilian nuclear reactor has been targeted in the conflict. Initial assessments indicated no damage to nuclear systems and no radiation release, but the AEOI warned of 'dangerous and irreversible consequences' of attacking peaceful nuclear facilities. Russian FM Lavrov separately condemned the strikes as 'extremely dangerous.' The attack marks a significant escalation threshold.",
+    "source": "https://www.armscontrol.org/act/2026-03/news/trump-strikes-iran-amid-nuclear-talks",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Russia condemns Bushehr strikes as 'extremely dangerous'; urges Iran to end hostilities",
+    "direction": "De-escalating",
+    "description": "Russian Foreign Minister Sergey Lavrov called his Iranian counterpart Abbas Araghchi and delivered a dual message: condemning strikes near Bushehr Nuclear Power Plant as 'extremely dangerous and unacceptable,' while also urging Iran to de-escalate and end hostilities. The call reflects Russia's increasingly uncomfortable position — sympathetic to Iran but alarmed by nuclear escalation risks and unwilling to be drawn into direct confrontation with the US.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-03-24/live-updates-890993",
+    "actor": "Russia"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Trump claims Iran has agreed to never develop nuclear weapons",
+    "direction": "De-escalating",
+    "description": "Speaking at an Oval Office ceremony, President Trump claimed that Iran had agreed it 'will never have a nuclear weapon,' and said VP Vance, Rubio, Kushner, and Witkoff are all actively 'in negotiations' with Tehran. Iran's Foreign Ministry immediately denied the claim, calling it 'psychological warfare.' Iran's parliament speaker Ghalibaf called Trump's statements 'fake news intended to manipulate financial markets.' Despite the contradiction, oil prices dropped sharply on the announcement.",
+    "source": "https://www.pbs.org/newshour/politics/watch-kushner-witkoff-rubio-and-vance-are-in-negotiations-with-iran-trump-says",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Israel fears premature ceasefire; IDF requests weeks more of fighting",
+    "direction": "Escalating",
+    "description": "Israeli officials expressed deep skepticism and disappointment at Trump's sudden ceasefire push. IDF senior leadership told their US counterparts they need 'several more weeks' of fighting to achieve stated war objectives including the destruction of Iran's nuclear infrastructure and degrading IRGC capabilities. Israel was briefed on the US 15-point plan but doubts Iran will accept the conditions. Officials noted Israel was 'surprised at how fast things were moving' when Trump revealed the contacts.",
+    "source": "https://www.timesofisrael.com/trump-says-talks-with-iran-progressing-as-israel-said-to-fear-premature-ceasefire/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Missile with 100kg warhead strikes central Tel Aviv — not intercepted",
+    "direction": "Escalating",
+    "description": "A ballistic missile carrying a 100-kilogram warhead struck a street in central Tel Aviv, blowing out windows across multiple apartment blocks and wounding four people. Israeli air defenses failed to intercept the missile. The strike was part of Iran's ongoing Operation True Promise 4. It follows the earlier David's Sling failure on March 22 and marks the second significant interception failure within 48 hours, raising questions about the sustainability of Israel's multi-layered air defense.",
+    "source": "https://www.pbs.org/newshour/world/strikes-hit-iran-while-tehran-targets-israel-and-gulf-states-amid-mixed-signals-over-talks-to-end-war",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Hezbollah rocket kills woman in northern Israel",
+    "direction": "Escalating",
+    "description": "A Hezbollah rocket attack on northern Israel killed one woman and wounded two others. Hezbollah continues to fire rockets and anti-tank missiles into northern Israel despite Israeli airstrikes on Beirut's southern suburbs and the severing of supply routes. Lebanon's own government has called on Hezbollah to cease military operations and surrender its weapons to the state.",
+    "source": "https://www.timesofisrael.com/liveblog-march-24-2026/",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Iraq summons US and Iranian envoys; PM condemns 'systematic aggression'",
+    "direction": "Neutral",
+    "description": "The Iraqi government summoned both the US chargé d'affaires and the Iranian ambassador to deliver formal notes of protest over the deadly PMF airstrike in Anbar province and Iranian attacks on Iraqi territory. PM Mohammed al-Sudani condemned the US strikes as 'systematic aggression' and convened the National Security Council, which invoked Iraq's right to self-defense. Iraq finds itself caught between its treaty obligations to the US and its close ties to Iran-aligned groups embedded in its armed forces.",
+    "source": "https://www.aljazeera.com/news/2026/3/24/iraq-to-summon-us-iran-envoys-over-deadly-attacks-pms-office",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Pentagon prepares 82nd Airborne deployment to Middle East despite ceasefire signals",
+    "direction": "Escalating",
+    "description": "Despite Trump's diplomatic overtures and five-day pause on energy infrastructure strikes, the Pentagon is preparing to deploy thousands of troops from the elite 82nd Airborne Division to the Middle East. The deployment — exact location and timing undisclosed — contrasts sharply with the administration's simultaneous ceasefire diplomacy. Defense Secretary Hegseth was reported to be 'quite disappointed' by the negotiation track, signaling deep internal divisions in the US national security establishment over the war's direction.",
+    "source": "https://www.newsweek.com/iran-war-live-tehran-strikes-tel-aviv-amid-diplomatic-push-to-end-war-11725250",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "US casualties reach 290 wounded, 13 killed across seven countries",
+    "direction": "Escalating",
+    "description": "CENTCOM spokesperson Navy Capt. Tim Hawkins confirmed 290 US service members have been wounded and 13 killed in action since the start of Operation Epic Fury. Casualties are spread across Bahrain, Iraq, Israel, Jordan, Kuwait, Saudi Arabia, and UAE. Most injuries are attributed to Iranian drone and missile attacks on bases hosting US personnel. Ten service members remain seriously wounded. The milestone comes as the US simultaneously pursues ceasefire negotiations.",
+    "source": "https://defensescoop.com/2026/03/24/iran-war-us-troops-wounded-operation-epic-fury/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "IRGC's 78th wave targets Dimona, Tel Aviv and Eilat with Emad and Qadr missiles",
+    "direction": "Escalating",
+    "description": "Iran's IRGC announced its 78th wave of retaliatory strikes under Operation True Promise 4, targeting the Dimona nuclear research area, Tel Aviv, and Eilat using Emad and multi-warhead Qadr ballistic missile systems alongside attack drones. This was the second deliberate targeting of Dimona, Iran's largest missile salvo of the conflict, and the first use of Qadr multi-warhead systems in the conflict. Israeli air defenses intercepted most projectiles but several breached coverage.",
+    "source": "https://www.nbcnews.com/world/israel/iranian-missile-strikes-injure-israel-arad-dimona-rcna264610",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "IDF strikes Hezbollah in Beirut southern suburbs; pursuing 'Rafah model' for Lebanon",
+    "direction": "Escalating",
+    "description": "The Israeli Air Force struck Hezbollah command infrastructure in Beirut's southern suburbs (Dahieh), issuing evacuation warnings beforehand. Israeli officials are reported to be pursuing a 'Rafah model' approach — systematically clearing Hezbollah from southern Lebanon district by district, as was done in Rafah during the 2024 Gaza war. Lebanese authorities report over 1,100 killed in Israeli Lebanon strikes since March 2.",
+    "source": "https://www.timesofisrael.com/liveblog-march-23-2026/",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-03-24",
     "title": "Iran rejects Trump's peace claims as 'fake news'; IRGC threatens Tel Aviv strike",
     "direction": "Escalating",
