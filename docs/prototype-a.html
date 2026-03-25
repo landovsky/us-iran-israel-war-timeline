@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prototype A — Intensity Nodes on Spine</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --esc:    #ef4444;
+      --desc:   #3b82f6;
+      --neu:    #9ca3af;
+      --bg:     #080f1a;
+      --surface:#111827;
+      --border: #1f2e43;
+      --text:   #e2e8f0;
+      --muted:  #94a3b8;
+      --dim:    #4b6080;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ── Prototype banner ──────────────────────────────────────────────────── */
+    .proto-banner {
+      background: #060d18;
+      border-bottom: 1px solid #1a3050;
+      padding: 14px 20px;
+    }
+    .proto-inner {
+      max-width: 1020px;
+      margin: 0 auto;
+      display: flex;
+      align-items: flex-start;
+      gap: 32px;
+      flex-wrap: wrap;
+    }
+    .proto-left { flex: 1; min-width: 220px; }
+    .proto-tag {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.52rem;
+      font-weight: 500;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #4d9de0;
+      margin-bottom: 5px;
+    }
+    .proto-title {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.5rem;
+      letter-spacing: 0.06em;
+      color: #c8ddf0;
+      line-height: 1;
+      margin-bottom: 7px;
+    }
+    .proto-desc {
+      font-size: 0.68rem;
+      color: var(--muted);
+      line-height: 1.6;
+      max-width: 500px;
+    }
+    .proto-desc strong { color: var(--text); font-weight: 600; }
+
+    /* ── Intensity scale legend ────────────────────────────────────────────── */
+    .proto-right {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      padding-top: 2px;
+    }
+    .legend-title {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.5rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--dim);
+    }
+    .intensity-scale {
+      display: flex;
+      align-items: flex-end;
+      gap: 20px;
+    }
+    .i-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+    }
+    .i-dot { border-radius: 50%; flex-shrink: 0; }
+    .i-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.44rem;
+      color: var(--dim);
+      text-align: center;
+      line-height: 1.3;
+    }
+    .i-label em { display: block; font-style: normal; color: #374a60; }
+
+    .rubric { display: flex; gap: 16px; flex-wrap: wrap; }
+    .rubric-col {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.5rem;
+      color: var(--dim);
+      line-height: 1.8;
+    }
+    .rubric-col strong {
+      display: block;
+      color: #4b7a9a;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 2px;
+    }
+    .rubric-col span { color: #364f68; }
+
+    .btn-toggle {
+      padding: 4px 12px;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      background: transparent;
+      color: var(--dim);
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.52rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: all 0.15s;
+      align-self: flex-end;
+    }
+    .btn-toggle.on { background: var(--surface); border-color: #3b6fa8; color: var(--muted); }
+
+    /* ── Week separator ────────────────────────────────────────────────────── */
+    .week-sep { max-width: 1020px; margin: 28px auto 0; padding: 0 12px; }
+    .week-sep-inner {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 0 8px;
+      border-top: 1px solid var(--border);
+    }
+    .week-sep:first-child .week-sep-inner { border-top: none; }
+    .week-name {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.0rem;
+      letter-spacing: 0.12em;
+      color: var(--dim);
+      white-space: nowrap;
+    }
+    .week-annotation {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.48rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #283a50;
+      border-left: 1px solid var(--border);
+      padding-left: 12px;
+      line-height: 1.5;
+    }
+
+    /* ── Timeline ──────────────────────────────────────────────────────────── */
+    main { padding: 8px 0 120px; }
+    .timeline {
+      position: relative;
+      max-width: 1020px;
+      margin: 0 auto;
+      padding: 0 12px;
+    }
+
+    /* ── Day block ─────────────────────────────────────────────────────────── */
+    .day-block { position: relative; z-index: 1; margin-bottom: 4px; }
+    .day-date-label {
+      text-align: center;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.62rem;        /* +25% */
+      font-weight: 500;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--dim);
+      padding: 18px 0 5px;
+    }
+
+    /* ── Day row — two equal columns, thin spine through centre ────────────── */
+    .day-row {
+      display: flex;
+      align-items: stretch;
+      position: relative;
+    }
+    .day-row::before {
+      content: '';
+      position: absolute;
+      left: 50%;
+      top: 0; bottom: 0;
+      width: 1.5px;
+      background: linear-gradient(to bottom,
+        transparent,
+        var(--border) 30px,
+        var(--border) calc(100% - 30px),
+        transparent);
+      transform: translateX(-50%);
+      z-index: 0;
+      pointer-events: none;
+    }
+
+    .events-col {
+      flex: 1;
+      min-width: 0;
+      overflow: visible;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;                  /* +25% from 3px */
+      padding: 10px 0;           /* +25% from 8px */
+      position: relative;
+      z-index: 1;
+    }
+    .events-col.left  { align-items: flex-end; }
+    .events-col.right { align-items: flex-start; }
+
+    /* ── Neutral row ───────────────────────────────────────────────────────── */
+    .neutral-row {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+      padding: 4px 12px 3px;
+      position: relative;
+      z-index: 1;
+      max-width: 1020px;
+      margin: 0 auto;
+      width: 100%;
+    }
+    .neutral-row .ev-item {
+      width: 100%;
+      background: rgba(156,163,175,0.04);
+      border: 1px solid rgba(156,163,175,0.08);
+      border-left: 2px solid var(--neu);
+      border-radius: 0 4px 4px 0;
+      padding: 5px 12px;
+      justify-content: flex-start;
+      gap: 10px;
+    }
+    .neutral-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.6rem;         /* +25% */
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--dim);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    /* ── Event wrapper & item ──────────────────────────────────────────────── */
+    .ev-wrapper { width: 100%; }
+    .left  .ev-wrapper { display: flex; flex-direction: column; align-items: flex-end; }
+    .right .ev-wrapper { display: flex; flex-direction: column; align-items: flex-start; }
+    .neutral-row .ev-wrapper { display: flex; flex-direction: column; align-items: stretch; }
+
+    .ev-item {
+      display: flex;
+      align-items: center;
+      cursor: default;
+      border-radius: 5px;
+      padding: 3px 0;
+      max-width: 100%;
+      transition: opacity 0.12s;
+      position: relative;
+    }
+    .ev-item:hover { opacity: 0.82; }
+
+    /* ── Text ──────────────────────────────────────────────────────────────── */
+    .ev-text {
+      font-size: 0.92rem;        /* +25% from 0.74rem */
+      font-weight: 500;
+      color: #b0c4de;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      line-height: 1.3;
+      flex: 3;
+      min-width: 0;
+    }
+    .left  .ev-text { text-align: right; padding-right: 7px; }
+    .right .ev-text { text-align: left;  padding-left:  7px; }
+
+    /* ── Flag — at the outer end (beside the text) ─────────────────────────── */
+    .ev-flag {
+      width: 25px; height: 25px; /* +25% from 20px */
+      border-radius: 50%;
+      border: 2px solid transparent;
+      overflow: hidden;
+      flex-shrink: 0;
+      background: #1a2540;
+      position: relative;
+      z-index: 4;
+    }
+    .ev-flag img { width: 100%; height: 100%; display: block; }
+    .ev-flag.escalating    { border-color: rgba(239,68,68,0.65); }
+    .ev-flag.de-escalating { border-color: rgba(59,130,246,0.65); }
+    .ev-flag.neutral       { border-color: rgba(156,163,175,0.3); }
+
+    /* ── Connector — single segment from flag to node ──────────────────────── */
+    .ev-conn {
+      flex: 1;
+      min-width: 32px;           /* +25% */
+      height: 2px;               /* +25% */
+      border-radius: 1px;
+      flex-shrink: 0;
+      align-self: center;
+    }
+    .ev-conn.escalating    { background: linear-gradient(to right,  rgba(239,68,68,0.25), rgba(239,68,68,0.6)); }
+    .ev-conn.de-escalating { background: linear-gradient(to left,   rgba(59,130,246,0.25), rgba(59,130,246,0.6)); }
+    .ev-conn.neutral       { background: rgba(156,163,175,0.3); }
+
+    /* ── Spine node — the intensity circle ON the centre line ──────────────── */
+    .ev-node {
+      flex-shrink: 0;
+      border-radius: 50%;
+      position: relative;
+      z-index: 5;
+    }
+    /* Straddle the column edge so the circle centres on the spine line */
+    .left  .ev-node { transform: translateX(50%); }
+    .right .ev-node { transform: translateX(-50%); }
+
+    /* Gradient fills — spherical orb look, light spot upper-left */
+    .ev-node.escalating {
+      background: radial-gradient(circle at 36% 32%,
+        rgba(255, 160, 160, 0.95) 0%,
+        rgba(239, 68,  68,  1.0)  45%,
+        rgba(140, 10,  10,  0.9)  100%
+      );
+    }
+    .ev-node.de-escalating {
+      background: radial-gradient(circle at 36% 32%,
+        rgba(140, 190, 255, 0.95) 0%,
+        rgba(59,  130, 246, 1.0)  45%,
+        rgba(10,  40,  160, 0.9)  100%
+      );
+    }
+
+    /* Glow by intensity — nodes are ~2× previous size so glow scales up too */
+    .ev-node.escalating.i1 { box-shadow: 0 0  6px rgba(239,68,68,0.30); }
+    .ev-node.escalating.i2 { box-shadow: 0 0 10px rgba(239,68,68,0.45); }
+    .ev-node.escalating.i3 { box-shadow: 0 0 16px rgba(239,68,68,0.60); }
+    .ev-node.escalating.i4 { box-shadow: 0 0 24px rgba(239,68,68,0.75), 0 0 48px rgba(239,68,68,0.18); }
+    .ev-node.escalating.i5 { box-shadow: 0 0 32px rgba(239,68,68,0.90), 0 0 70px rgba(239,68,68,0.35), 0 0 110px rgba(239,68,68,0.12); }
+
+    .ev-node.de-escalating.i1 { box-shadow: 0 0  6px rgba(59,130,246,0.30); }
+    .ev-node.de-escalating.i2 { box-shadow: 0 0 10px rgba(59,130,246,0.45); }
+    .ev-node.de-escalating.i3 { box-shadow: 0 0 16px rgba(59,130,246,0.60); }
+    .ev-node.de-escalating.i4 { box-shadow: 0 0 24px rgba(59,130,246,0.75), 0 0 48px rgba(59,130,246,0.18); }
+    .ev-node.de-escalating.i5 { box-shadow: 0 0 32px rgba(59,130,246,0.90), 0 0 70px rgba(59,130,246,0.35), 0 0 110px rgba(59,130,246,0.12); }
+
+    /* ── Score badge (toggleable) ──────────────────────────────────────────── */
+    .i-badge {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.42rem;
+      color: #2d4460;
+      background: #0a1624;
+      border: 1px solid #1a2e42;
+      border-radius: 2px;
+      padding: 0 3px;
+      line-height: 1.7;
+      flex-shrink: 0;
+      opacity: 0;
+      transition: opacity 0.15s;
+      margin: 0 3px;
+    }
+    body.show-scores .i-badge { opacity: 1; }
+  </style>
+</head>
+<body>
+
+<!-- ── Prototype banner ──────────────────────────────────────────────────── -->
+<div class="proto-banner">
+  <div class="proto-inner">
+    <div class="proto-left">
+      <div class="proto-tag">Design Prototype · Approach A</div>
+      <div class="proto-title">Nodes on the spine</div>
+      <p class="proto-desc">
+        Thin spine line. <strong>Circles on the line</strong> sized + glowing by intensity — overlap freely.
+        Connector runs from node to <strong>flag at the outer end</strong>, flags aligned beside the text.
+        Red = escalating · Blue = de-escalating.
+      </p>
+    </div>
+
+    <div class="proto-right">
+      <div class="legend-title">Intensity nodes</div>
+      <div class="intensity-scale" id="intensity-scale-legend"></div>
+      <div class="rubric">
+        <div class="rubric-col">
+          <strong>Strategic weight</strong>
+          1 – routine move<br>
+          2 – raises stakes<br>
+          <span>3 – changes conflict nature</span>
+        </div>
+        <div class="rubric-col">
+          <strong>Scale</strong>
+          1 – contained<br>
+          2 – moderate<br>
+          <span>3 – mass / infrastructure</span>
+        </div>
+        <div class="rubric-col">
+          <strong>Novelty</strong>
+          +1 first of its kind<br><br>
+          <span>Sum → 1–5</span>
+        </div>
+      </div>
+    </div>
+
+    <button class="btn-toggle" id="btn-scores">Show scores</button>
+  </div>
+</div>
+
+<main>
+  <div id="timeline-root"></div>
+</main>
+
+<script>
+// ── Dummy data ─────────────────────────────────────────────────────────────
+const EVENTS = [
+  // Week 1 — Buildup
+  { date:'2026-03-03', direction:'Escalating',    actor:'US',     intensity:2, title:'US deploys second carrier strike group to Red Sea' },
+  { date:'2026-03-03', direction:'Escalating',    actor:'Iran',   intensity:1, title:'Iran warns of "asymmetric response" to any aggression' },
+  { date:'2026-03-04', direction:'Escalating',    actor:'Israel', intensity:2, title:'Israel strikes Hezbollah weapons depots in Syria' },
+  { date:'2026-03-04', direction:'De-escalating', actor:'Qatar',  intensity:2, title:'Qatar initiates back-channel — contacts Tehran' },
+  { date:'2026-03-05', direction:'Escalating',    actor:'Iran',   intensity:3, title:'IRGC launches 18-drone swarm at US base in Jordan' },
+  { date:'2026-03-05', direction:'Neutral',       actor:'Russia', intensity:2, title:'Russia calls UN Security Council emergency session' },
+  { date:'2026-03-07', direction:'Escalating',    actor:'Iran',   intensity:3, title:'Iran-backed militia hits US logistics hub — 4 killed' },
+  { date:'2026-03-07', direction:'De-escalating', actor:'France', intensity:2, title:'France proposes 72-hour humanitarian pause' },
+
+  // Week 2 — Climax
+  { date:'2026-03-10', direction:'Escalating',    actor:'Israel', intensity:5, title:'Israel strikes Fordow enrichment facility — 12 bunker-busters' },
+  { date:'2026-03-10', direction:'Escalating',    actor:'Iran',   intensity:3, title:'Iran places IRGC on maximum alert, mobilises reserves' },
+  { date:'2026-03-11', direction:'Escalating',    actor:'US',     intensity:5, title:'US B-2 bombers strike IRGC command HQ near Tehran' },
+  { date:'2026-03-11', direction:'Escalating',    actor:'Iran',   intensity:5, title:'Iran fires 94 ballistic missiles toward Israel' },
+  { date:'2026-03-12', direction:'Escalating',    actor:'Iran',   intensity:4, title:'38 killed in Haifa — apartment block direct hit' },
+  { date:'2026-03-12', direction:'Escalating',    actor:'Israel', intensity:5, title:'Israel retaliates — 200 sorties, Tehran radar destroyed' },
+  { date:'2026-03-12', direction:'Neutral',       actor:'Other',  intensity:3, title:'Oil reaches $148/barrel — Hormuz partially blocked' },
+  { date:'2026-03-13', direction:'Escalating',    actor:'Russia', intensity:4, title:'Russia threatens consequences if nuclear sites struck again' },
+  { date:'2026-03-13', direction:'De-escalating', actor:'France', intensity:2, title:'France and Germany call emergency NATO session' },
+  { date:'2026-03-14', direction:'Escalating',    actor:'Iran',   intensity:3, title:'Iran confirms 340 military dead — vows escalation' },
+
+  // Week 3 — Cooling
+  { date:'2026-03-17', direction:'De-escalating', actor:'Israel', intensity:3, title:'Israel announces 48-hour operational pause' },
+  { date:'2026-03-17', direction:'De-escalating', actor:'Iran',   intensity:4, title:'Iran acknowledges back-channel US contact' },
+  { date:'2026-03-18', direction:'De-escalating', actor:'Other',  intensity:2, title:'Houthis suspend attacks pending diplomatic outcome' },
+  { date:'2026-03-19', direction:'De-escalating', actor:'Russia', intensity:3, title:'Russia–China joint ceasefire proposal at UN' },
+  { date:'2026-03-19', direction:'Escalating',    actor:'Iran',   intensity:2, title:'Iran fires 3 drones — "defensive posture signalling"' },
+  { date:'2026-03-20', direction:'De-escalating', actor:'US',     intensity:2, title:'US reduces Gulf presence to single carrier group' },
+  { date:'2026-03-21', direction:'De-escalating', actor:'Iran',   intensity:4, title:'Iran and US agree to indirect talks in Geneva' },
+  { date:'2026-03-21', direction:'Escalating',    actor:'Israel', intensity:2, title:'Israel warns talks cannot address nuclear programme' },
+];
+
+const WEEKS = [
+  { key:'2026-03-03', label:'Week 1 — Buildup',  annotation:'Posturing and proxies. Low to moderate intensity.' },
+  { key:'2026-03-10', label:'Week 2 — Climax',   annotation:'Direct strikes on nuclear infrastructure. Three intensity-5 nodes in two days.' },
+  { key:'2026-03-17', label:'Week 3 — Cooling',  annotation:'Operational pauses and back-channels. Direction shifts.' },
+];
+
+// Intensity → node diameter (px): original × 1.25 × 2 = × 2.5
+const NODE_SIZE = [0, 20, 30, 45, 65, 90];
+
+const FLAG_CDN   = 'https://hatscripts.github.io/circle-flags/flags/';
+const ACTOR_CODE = { 'US':'us','Israel':'il','Iran':'ir','Russia':'ru','France':'fr','Qatar':'qa','Other':'other/un' };
+
+function dirClass(d) { return d==='Escalating'?'escalating':d==='De-escalating'?'de-escalating':'neutral'; }
+function mk(tag,cls,txt){ const el=document.createElement(tag); if(cls)el.className=cls; if(txt!=null)el.textContent=txt; return el; }
+function fmtDate(iso){ const M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']; const[,m,d]=iso.split('-').map(Number); return `${M[m-1]} ${d}`; }
+
+// ── Build one event item ────────────────────────────────────────────────────
+function buildItem(ev, side) {
+  const dc = dirClass(ev.direction);
+  const sz = NODE_SIZE[ev.intensity];
+
+  const wrapper = mk('div', 'ev-wrapper');
+  const item    = mk('div', `ev-item ${side} ${dc}`);
+
+  // Flag (outer end — beside the text)
+  const flag = mk('span', `ev-flag ${dc}`);
+  const img  = document.createElement('img');
+  img.src = `${FLAG_CDN}${ACTOR_CODE[ev.actor]||'other/un'}.svg`;
+  img.alt = ev.actor; img.loading = 'lazy';
+  flag.appendChild(img);
+
+  // Connector (single segment: flag → node)
+  const conn = mk('span', `ev-conn ${dc}`);
+
+  // Intensity node (on the spine line)
+  const node = mk('span', `ev-node ${dc} i${ev.intensity}`);
+  node.style.width  = `${sz}px`;
+  node.style.height = `${sz}px`;
+
+  // Score badge
+  const badge = mk('span', 'i-badge', ev.intensity);
+
+  if (side === 'left') {
+    // reading left→right: text · flag · [badge] · connector ········ node
+    item.appendChild(mk('span','ev-text', ev.title));
+    item.appendChild(flag);
+    item.appendChild(badge);
+    item.appendChild(conn);
+    item.appendChild(node);
+  } else if (side === 'right') {
+    // reading left→right: node ········ connector · [badge] · flag · text
+    item.appendChild(node);
+    item.appendChild(conn);
+    item.appendChild(badge);
+    item.appendChild(flag);
+    item.appendChild(mk('span','ev-text', ev.title));
+  } else {
+    item.appendChild(flag);
+    item.appendChild(mk('span','neutral-label','Context'));
+    item.appendChild(badge);
+    item.appendChild(mk('span','ev-text', ev.title));
+  }
+
+  wrapper.appendChild(item);
+  return wrapper;
+}
+
+// ── Build one day block ─────────────────────────────────────────────────────
+function buildDay(date, evs) {
+  const esc  = evs.filter(e => e.direction === 'Escalating');
+  const desc = evs.filter(e => e.direction === 'De-escalating');
+  const neu  = evs.filter(e => e.direction === 'Neutral');
+
+  const block = mk('div', 'day-block');
+  block.appendChild(mk('div', 'day-date-label', fmtDate(date)));
+
+  const row      = mk('div', 'day-row');
+  const leftCol  = mk('div', 'events-col left');
+  const rightCol = mk('div', 'events-col right');
+
+  // Render lower-intensity first so large nodes paint on top
+  [...esc].sort((a,b)=>a.intensity-b.intensity).forEach(ev=>leftCol.appendChild(buildItem(ev,'left')));
+  [...desc].sort((a,b)=>a.intensity-b.intensity).forEach(ev=>rightCol.appendChild(buildItem(ev,'right')));
+
+  row.appendChild(leftCol);
+  row.appendChild(rightCol);
+  block.appendChild(row);
+
+  if (neu.length) {
+    const nr = mk('div', 'neutral-row');
+    neu.forEach(ev=>nr.appendChild(buildItem(ev,'neutral')));
+    block.appendChild(nr);
+  }
+  return block;
+}
+
+// ── Render ──────────────────────────────────────────────────────────────────
+function render() {
+  const root = document.getElementById('timeline-root');
+  root.innerHTML = '';
+  WEEKS.forEach(wk => {
+    const wkEvs = EVENTS.filter(e => e.date >= wk.key && e.date < nextWeek(wk.key));
+    const dates = [...new Set(wkEvs.map(e=>e.date))].sort();
+    const sep   = mk('div','week-sep');
+    const inner = mk('div','week-sep-inner');
+    inner.appendChild(mk('div','week-name', wk.label));
+    inner.appendChild(mk('div','week-annotation', wk.annotation));
+    sep.appendChild(inner);
+    const tl = mk('div','timeline');
+    dates.forEach(d => tl.appendChild(buildDay(d, wkEvs.filter(e=>e.date===d))));
+    root.appendChild(sep);
+    root.appendChild(tl);
+  });
+}
+
+function nextWeek(iso) { const d=new Date(iso); d.setDate(d.getDate()+7); return d.toISOString().slice(0,10); }
+
+// ── Legend ───────────────────────────────────────────────────────────────────
+(function() {
+  const el     = document.getElementById('intensity-scale-legend');
+  const labels = ['Signal','Moderate','Significant','Major','Watershed'];
+  [1,2,3,4,5].forEach(i => {
+    const sz   = NODE_SIZE[i];
+    const item = mk('div','i-item');
+    const dot  = mk('div','i-dot');
+    dot.style.width  = `${sz}px`;
+    dot.style.height = `${sz}px`;
+    dot.style.background = `radial-gradient(circle at 36% 32%, rgba(255,160,160,0.95), rgba(239,68,68,1) 45%, rgba(140,10,10,0.9))`;
+    dot.style.boxShadow  = `0 0 ${i*7}px rgba(239,68,68,${0.25+i*0.13})`;
+    const lbl = mk('div','i-label');
+    lbl.innerHTML = `${i}<em>${labels[i-1]}</em>`;
+    item.appendChild(dot);
+    item.appendChild(lbl);
+    el.appendChild(item);
+  });
+})();
+
+document.getElementById('btn-scores').addEventListener('click', function() {
+  document.body.classList.toggle('show-scores');
+  this.classList.toggle('on');
+  this.textContent = document.body.classList.contains('show-scores') ? 'Hide scores' : 'Show scores';
+});
+
+render();
+</script>
+</body>
+</html>
