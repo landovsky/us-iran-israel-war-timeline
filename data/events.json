@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-03-26",
+    "title": "Trump postpones planned China state visit to mid-May due to ongoing Iran war",
+    "direction": "Neutral",
+    "description": "The White House confirmed Trump's scheduled visit to China has been pushed back to mid-May, citing the ongoing Iran conflict as the reason for the delay. The postponement comes as Wang Yi, China's top diplomat, has been calling regional counterparts including Araghchi urging diplomacy and stating 'talking is always better than fighting.' China remains one of the five nations granted Hormuz passage by Iran, and Beijing has avoided taking sides while quietly pressing for a negotiated exit from the conflict.",
+    "source": "https://www.rte.ie/news/middle-east/2026/0326/1565260-trump-iran-us/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Trump at Republican dinner: Iran 'negotiating but afraid to say it'; names Vance, Rubio, Witkoff, Kushner as deal team",
+    "direction": "De-escalating",
+    "description": "At a dinner for Republican members of Congress, Trump said of Iran: 'They are negotiating, by the way, and they want to make a deal so badly. But they're afraid to say it, because they figure they'll be killed by their own people.' He named VP JD Vance, Secretary of State Marco Rubio, envoy Steve Witkoff, and Jared Kushner as active participants in the talks — the first public naming of the full US team. Trump also revealed Iran had offered a 'prize' tied to oil, gas, and the Strait of Hormuz. He referred to the conflict as a 'military operation' rather than a 'war,' saying: 'They don't like the word war, because you're supposed to get approval.'",
+    "source": "https://www.rte.ie/news/middle-east/2026/0326/1565260-trump-iran-us/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Israel strikes submarine development center in Isfahan alongside multiple Tehran strike waves",
+    "direction": "Escalating",
+    "description": "Israel targeted an Iranian submarine development center in Isfahan as part of a broader strike campaign that also completed 'several waves of airstrikes on Tehran.' The Isfahan target — part of Iran's naval-industrial complex developing advanced submarines — represents Israel's continued effort to destroy future force-projection capabilities, not just current missile stocks. Israel's UN Ambassador Danon stated military operations would continue 'until Iran's nuclear and missile capabilities are fully eliminated,' underscoring that Israel views the war as a disarmament campaign with no defined endpoint.",
+    "source": "https://www.pbs.org/newshour/world/iran-dismisses-u-s-ceasefire-plan-issues-counterproposal-as-strikes-land-across-the-mideast",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-26",
     "title": "White House: Pakistan talks are 'speculation' — but confirms Iran talks 'productive'",
     "direction": "Neutral",
     "description": "Press Secretary Karoline Leavitt told reporters that reports of Vance flying to Pakistan for talks with Iranian Parliament Speaker Ghalibaf are 'speculation' and 'nothing is official unless announced by the White House.' She simultaneously confirmed 'talks continue and they are productive.' When asked about Vance's role specifically, she deflected without denying it. She also warned: 'President Trump does not bluff and he is prepared to unleash hell — Iran should not miscalculate again.' The mixed messaging reflects internal disagreement over whether to publicize the diplomatic track.",
