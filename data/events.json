@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-03-26",
+    "title": "White House: Pakistan talks are 'speculation' — but confirms Iran talks 'productive'",
+    "direction": "Neutral",
+    "description": "Press Secretary Karoline Leavitt told reporters that reports of Vance flying to Pakistan for talks with Iranian Parliament Speaker Ghalibaf are 'speculation' and 'nothing is official unless announced by the White House.' She simultaneously confirmed 'talks continue and they are productive.' When asked about Vance's role specifically, she deflected without denying it. She also warned: 'President Trump does not bluff and he is prepared to unleash hell — Iran should not miscalculate again.' The mixed messaging reflects internal disagreement over whether to publicize the diplomatic track.",
+    "source": "https://aninews.in/news/world/us/reports-of-peace-talks-in-pakistan-are-speculations-wh-press-secy20260326050104/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Araghchi publicly denies any negotiations: 'We do not engage in talks and have no plans to'",
+    "direction": "Escalating",
+    "description": "Iranian Foreign Minister Abbas Araghchi appeared on state television and flatly denied that Iran is in any talks to end the war: 'Iran has not engaged in talks to end the war and does not plan on any negotiations.' He called the US 15-point plan 'extremely maximalist and unreasonable.' In a pointed swipe at Trump, he said: 'Didn't the Americans say unconditional surrender? The fact that they are now talking about negotiation is an admission of defeat.' He acknowledged 'exchange of messages through friendly countries' but insisted this does not constitute negotiations.",
+    "source": "https://www.aljazeera.com/news/2026/3/25/iran-calls-us-proposal-to-end-war-maximalist-unreasonable",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "US-Israel rift: Israel alarmed Trump may declare unilateral ceasefire without Israeli consent",
+    "direction": "Escalating",
+    "description": "Two Israeli government sources told reporters that Israel is alarmed by the possibility that the Trump administration could unilaterally announce a one-month ceasefire in Iran to facilitate negotiations — without Israeli agreement. Israel's UN Ambassador Danny Danon stated publicly: 'Israel is not part of US-Iran talks. Our military operations will continue until Iran's nuclear and missile capabilities are fully eliminated.' The tension signals a potential open rift between Washington and Jerusalem over how and when the war ends.",
+    "source": "https://www.pbs.org/newshour/world/iran-dismisses-u-s-ceasefire-plan-issues-counterproposal-as-strikes-land-across-the-mideast",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Iran reinforcing Kharg Island defenses in anticipation of US ground assault",
+    "direction": "Escalating",
+    "description": "CNN reported that Iran has been deploying additional IRGC personnel, laying defensive traps, and repositioning air defense systems on Kharg Island in anticipation of a US amphibious or airborne assault. One senior IRGC official stated: 'We are closely monitoring all US movements, especially troop deployments. Do not test our resolve.' Gulf allies are privately urging Washington not to attempt a Kharg ground operation, warning of high US casualties and Iranian retaliation across regional infrastructure. The DIA has assessed Iran could keep the Strait closed for 1–6 months even without Kharg.",
+    "source": "https://www.cnn.com/2026/03/25/politics/iran-kharg-island-us-military-ground-troops",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Israel approves raising military reserves to 400,000; plans 10-20 mile Lebanon buffer zone",
+    "direction": "Escalating",
+    "description": "Israel's cabinet approved raising the reserve soldier mobilization cap from 280,000 to 400,000. PM Netanyahu announced Israel would 'expand' its presence in southern Lebanon by 10–20 miles, describing it as a 'larger buffer zone using the Gaza model.' Defense Minister Katz confirmed the focus on controlling the Litani River line. Lebanon's total death toll stands at 1,072+, wounded 2,966+, displaced 1.2 million+. Finance Minister Smotrich publicly called for annexation of occupied Lebanese territory.",
+    "source": "https://www.npr.org/2026/03/25/nx-s1-5759313/israel-says-plan-to-expand-into-lebanon-will-provide-defensive-buffer",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Lebanon expels Iranian ambassador, effective March 29; unprecedented break with Tehran",
+    "direction": "De-escalating",
+    "description": "The Lebanese government announced it is expelling Iran's ambassador, giving him until Sunday March 29 to leave the country. PM Nawaf Salam stated the decision reflects Iran's role in directing Hezbollah to fight a war 'imposed on Lebanon.' Israel praised the move; Hezbollah condemned it. The Lebanese government has also formally banned Hezbollah military operations and called on the group to place its weapons under state authority — the most direct confrontation between the Beirut government and Hezbollah in recent memory.",
+    "source": "https://www.aljazeera.com/features/2026/3/24/iranian-irgc-ties-hezbollah-deepen-tensions-lebanese-politics",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "US kills 15 PMF fighters in Iraq airstrike; Iraq grants PMF formal right to retaliate",
+    "direction": "Escalating",
+    "description": "A US airstrike at a PMF base in Habbaniyah, Al Anbar Governorate killed 15 fighters from Iran-backed Popular Mobilization Forces, including a local commander. Iraq's federal government subsequently granted Iran-backed PMF groups formal legal authority to respond to US attacks on Iraqi soil. The Islamic Resistance in Iraq claimed 23 separate operations against US bases in the 24 hours ending March 25. Iraq had already summoned the US chargé d'affaires and filed a formal protest over the strike.",
+    "source": "https://www.timesofisrael.com/airstrikes-kill-15-iran-backed-troops-in-iraq-targeting-hq-and-leader/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Iran grants selective Hormuz passage to China, Russia, India, Iraq, Pakistan — 2,000 ships still stranded",
+    "direction": "Escalating",
+    "description": "FM Araghchi confirmed Iran has formally granted Hormuz passage only to vessels from five 'friendly' nations: China, Russia, India, Iraq, and Pakistan. All other shipping must coordinate with Iranian naval authorities or face interception. One container vessel (SELEN) was expelled for violating Iran's rules. Approximately 2,000 vessels and 20,000 seafarers remain stranded in or near the Strait. QatarEnergy, Shell, Kuwait Petroleum, and Bapco have invoked force majeure. Brent crude trades around $100–110/barrel — down from a $126 peak but ~40% above prewar levels.",
+    "source": "https://www.aljazeera.com/economy/2026/3/16/strait-of-hormuz-which-countriess-ships-has-iran-allowed-safe-passage-to/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "UN Secretary-General: conflict 'totally out of control'; $63 billion in Arab economic losses",
+    "direction": "Neutral",
+    "description": "UN Secretary-General António Guterres stated the fighting 'has broken past limits even leaders thought imaginable' and warned the conflict is 'totally out of control.' The UN separately assessed cumulative economic losses across the Arab region at $63 billion. France's military chief was reported to be preparing talks with regional navies to restore maritime navigation through the Strait of Hormuz. The UN Security Council has been unable to pass any resolution due to US and Russian vetoes on competing texts.",
+    "source": "https://news.un.org/en/story/2026/03/1167195",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "US public opposition to war reaches 59–61% across three major polls",
+    "direction": "De-escalating",
+    "description": "Three simultaneous polls found strong American public opposition to the Iran war: Pew Research (59% wrong decision vs. 38%), Quinnipiac (54% oppose vs. 39% support), and Reuters/Ipsos (61% disapprove vs. 35% approve). The Quinnipiac breakdown showed 92% of Democrats, 64% of independents, and 14% of Republicans opposed. The polls represent the clearest domestic political pressure on the Trump administration to pursue a negotiated exit from the conflict.",
+    "source": "https://www.cnn.com/2026/03/24/middleeast/us-israel-iran-middle-east-war-day-26-what-we-know-intl-hnk",
+    "actor": "US"
+  },
+  {
     "date": "2026-03-25",
     "title": "Iran formally rejects US 15-point ceasefire plan; brands terms 'excessive'",
     "direction": "Escalating",
