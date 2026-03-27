@@ -232,6 +232,13 @@
       border-color: #3b6fa8;
       color: var(--muted);
     }
+    .chip-all {
+      border-color: var(--dim);
+    }
+    .chip-all.on {
+      border-color: var(--muted);
+      color: var(--fg);
+    }
 
     .btn-play {
       margin-left: auto;
@@ -756,15 +763,44 @@ Promise.all([
   });
 
 // ── Actor filters ─────────────────────────────────────────────────────────────
+function updateAllChip(actors) {
+  const allChip = document.querySelector('.chip-all');
+  if (!allChip) return;
+  const allOn = actors.every(x => activeActors.has(x));
+  allChip.classList.toggle('on', allOn);
+}
+
 function renderFilters(actors) {
   const el = document.getElementById('actor-filters');
   el.innerHTML = '';
+
+  const allChip = mk('span', 'chip chip-all on', 'All');
+  allChip.addEventListener('click', () => {
+    activeActors = new Set(actors);
+    el.querySelectorAll('.chip:not(.chip-all)').forEach(c => c.classList.add('on'));
+    allChip.classList.add('on');
+    applyFilter();
+  });
+  el.appendChild(allChip);
+
   actors.forEach(a => {
     const chip = mk('span', 'chip on', a);
     chip.dataset.actor = a;
     chip.addEventListener('click', () => {
-      if (activeActors.has(a)) { activeActors.delete(a); chip.classList.remove('on'); }
-      else                     { activeActors.add(a);    chip.classList.add('on'); }
+      const allOn   = actors.every(x => activeActors.has(x));
+      const soloThis = activeActors.size === 1 && activeActors.has(a);
+      if (allOn || soloThis) {
+        // solo this actor, or restore all if already soloed
+        activeActors = soloThis ? new Set(actors) : new Set([a]);
+      } else {
+        // mixed state — normal toggle
+        if (activeActors.has(a)) activeActors.delete(a);
+        else                     activeActors.add(a);
+      }
+      el.querySelectorAll('.chip:not(.chip-all)').forEach(c =>
+        c.classList.toggle('on', activeActors.has(c.dataset.actor))
+      );
+      updateAllChip(actors);
       applyFilter();
     });
     el.appendChild(chip);
