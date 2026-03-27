@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-03-26",
+    "title": "Israel orders all residents south of Lebanon's Zahrani River to evacuate; ground ops expand north",
+    "direction": "Escalating",
+    "description": "The Israeli military issued displacement orders for all residents of southern Lebanon south of the Zahrani River — approximately 50km (31 miles) north of the Israeli border, far beyond the Litani line announced days earlier. The orders cover a substantial portion of Lebanese territory and signal a major northward expansion of Israel's ground operation. Lebanese Health Ministry reported over 1,100 killed and 3,229 wounded in Israeli operations since March 2. The expansion came alongside reports that Israel is 'speeding up' its targeting in Iran over 48 hours in anticipation of a potential ceasefire.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/3/27/iran-war-live-trump-delays-attacks-on-iranian-energy-sector-by-10-days",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Iran parliament drafts Hormuz transit toll law; at least 2 ships paid ~$2M each in yuan",
+    "direction": "Escalating",
+    "description": "Iran's parliament is formalizing a legal framework to charge vessels for safe passage through the Strait of Hormuz. Lawmaker Mohammadreza Rezaei Kouchi stated: 'We provide its security, and it is natural that ships and oil tankers should pay such fees.' Lloyd's List reported that at least 26 vessels have already transited under an IRGC-run 'toll booth' vetting system, with at least two ships paying approximately $2 million each, settled in Chinese yuan. Shipping operators have characterized the arrangement as extortion; Columbia University's Karen Young said Gulf states 'are not going to accept and not going to tolerate' a Hormuz toll regime.",
+    "source": "https://www.bloomberg.com/news/articles/2026-03-26/iran-drafts-law-impose-tolls-for-transiting-strait-of-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "EU's Kallas: Russia supplying Iran intelligence to kill Americans; UK cites 'hidden hand of Putin'",
+    "direction": "Escalating",
+    "description": "EU foreign policy chief Kaja Kallas, at the G7 foreign ministers' meeting in France, stated: 'We see that Russia is helping Iran with intelligence to target Americans, to kill Americans, and Russia is also supporting Iran now with the drones.' She urged Washington to pressure Moscow or the Middle East war would not end. UK Defense Secretary John Healey separately cited the 'hidden hand of Putin' and described a Russia-Iran 'axis of aggression.' Western intelligence sources told Reuters that Russia has supplied Iran satellite imagery including locations of US warships, and has helped Iran upgrade its drones.",
+    "source": "https://www.bloomberg.com/news/articles/2026-03-26/russia-is-helping-iran-kill-americans-eu-s-top-diplomat-says",
+    "actor": "Russia"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Iran fires missiles and drones at UAE, Saudi Arabia, Kuwait, Bahrain; UAE debris kills 2",
+    "direction": "Escalating",
+    "description": "Iran launched a fresh wave of missiles and drones across four Gulf states. In the UAE, an intercepted ballistic missile's debris killed 2 and injured 3, raising the country's war death toll to 11. Saudi Arabia intercepted multiple drones heading toward its eastern oil-producing region. Bahrain reported a fire in Muharraq caused by Iranian attack. Kuwait reported loud explosions from interceptions across the country. Saudi Arabia, UAE, Kuwait, Bahrain, Qatar, and Jordan issued a joint condemnation of Iran's attacks and called on Iraq to prevent Iran-backed groups from launching strikes from its territory.",
+    "source": "https://www.thenationalnews.com/news/mena/2026/03/26/iran-launches-new-wave-of-attacks-on-gulf-states-after-un-condemnation/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Pakistan FM Dar publicly confirms indirect US-Iran talks via message relay; Turkey and Egypt also involved",
+    "direction": "De-escalating",
+    "description": "Pakistani Foreign Minister Ishaq Dar confirmed on social media: 'US-Iran indirect talks are taking place through messages being relayed by Pakistan,' adding Turkey and Egypt were 'extending their support to this initiative.' An unnamed official in Islamabad told NPR that Pakistan's interior minister held a secret meeting that day with Iran's ambassador. Mediators are pushing for in-person US-Iran talks in Pakistan, according to Egyptian and Pakistani officials. Iran's foreign ministry maintained these are message exchanges only, not formal negotiations.",
+    "source": "https://www.opb.org/article/2026/03/26/us-iran-indirect-talks-confirmed-by-pakistan-as-war-rages/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Trump extends Iran energy strike pause 10 days to April 6, cites 'Iranian government request'",
+    "direction": "De-escalating",
+    "description": "President Trump posted on Truth Social: 'As per Iranian Government request, please let this statement serve to represent that I am pausing the period of Energy Plant destruction by 10 Days to Monday, April 6, 2026, at 8 P.M., Eastern Time.' He added talks are 'going very well.' The extension is Trump's second deadline delay since threatening to destroy Iran's power plants. Steve Witkoff told a Cabinet meeting: 'If we can convince Iran that this is the inflection point with no good alternatives for them, other than more death and destruction, we have strong signs that this is a possibility.' Human rights organizations warned strikes on power plants could constitute war crimes.",
+    "source": "https://www.npr.org/2026/03/26/nx-s1-5761882/iran-war-peace-conditions",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Israel kills IRGC Navy commander Tangsiri and top naval staff at Bandar Abbas",
+    "direction": "Escalating",
+    "description": "Israeli forces killed IRGC Navy commander Admiral Alireza Tangsiri and 'senior officers of the naval command' in a strike on Bandar Abbas. Defense Minister Katz stated: 'The man who was directly responsible for the terrorist operation of mining and blocking the Strait of Hormuz was blown up and eliminated.' US CENTCOM Commander Admiral Brad Cooper confirmed the death, adding that US forces have now destroyed approximately 92% of Iran's large naval vessels since the war began. Netanyahu said Tangsiri had 'a great deal of blood on his hands' and was the person 'who led the closure of the Strait of Hormuz.'",
+    "source": "https://www.aljazeera.com/news/2026/3/26/iranian-naval-commander-alireza-tangsiri-killed-in-attack-says-israel",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-26",
     "title": "Trump postpones planned China state visit to mid-May due to ongoing Iran war",
     "direction": "Neutral",
     "description": "The White House confirmed Trump's scheduled visit to China has been pushed back to mid-May, citing the ongoing Iran conflict as the reason for the delay. The postponement comes as Wang Yi, China's top diplomat, has been calling regional counterparts including Araghchi urging diplomacy and stating 'talking is always better than fighting.' China remains one of the five nations granted Hormuz passage by Iran, and Beijing has avoided taking sides while quietly pressing for a negotiated exit from the conflict.",
