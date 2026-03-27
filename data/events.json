@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-03-27",
+    "title": "IFRC: Iran civilian toll reaches 1,900 dead, 20,000+ injured; 82,000 buildings damaged",
+    "direction": "Escalating",
+    "description": "The International Federation of Red Cross and Red Crescent Societies confirmed Iran's cumulative civilian toll at 1,900 killed and over 20,000 injured as of March 27, with 82,000 buildings damaged and 180,000 residents affected. Iran's UN Ambassador told the General Assembly that 600 schools had been destroyed or damaged and accused the US and Israel of genocide. The figures represent the first credible externally-verified count of Iranian civilian casualties since the war began February 28.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/3/27/iran-war-live-trump-delays-attacks-on-iranian-energy-sector-by-10-days",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "IDF uncovers Hezbollah tunnel beneath church in Khiam, southern Lebanon",
+    "direction": "Neutral",
+    "description": "Israeli ground forces advancing into Khiam, a town 3 km from the Israeli border, discovered a Hezbollah military tunnel running beneath a church on March 27. The IDF published footage of the tunnel as evidence of Hezbollah's systematic use of civilian infrastructure for military purposes. IDF operations in Khiam have been ongoing since ground forces crossed into Lebanon on March 16; Division 162 was deployed this week as the third Israeli division now operating in southern Lebanon.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Hezbollah kills two IDF soldiers in Lebanon; rocket kills civilian in Nahariya",
+    "direction": "Escalating",
+    "description": "Sgt. Aviaad Elchanan Volansky was killed by a Hezbollah anti-tank missile in southern Lebanon on March 26. Staff Sgt. Ori Greenberg was killed in a separate firefight the same day. Israeli civilian Uri Peretz was killed when a Hezbollah rocket struck Nahariya, northern Israel. The deaths brought IDF casualties in the Lebanon ground operation to at least a dozen since operations began March 16. Hezbollah has been firing approximately 150 rockets per day — two-thirds at IDF forces in Lebanon, one-third at Israeli territory.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-03-27",
     "title": "IRGC formally declares Hormuz closed to US and Israeli allies' shipping",
     "direction": "Escalating",
     "description": "The IRGC issued a formal announcement that the Strait of Hormuz is closed to shipping \"to and from ports of allies and supporters of the Israeli-American enemies.\" Three container ships of various nationalities turned back after receiving IRGC warnings. The UAE called for an international force to reopen the strait. Tanker traffic is down more than 90%, with fewer than 6 ships transiting daily versus the pre-war average of 130+; the DIA assessed Iran could sustain the closure for 1 to 6 months.",
