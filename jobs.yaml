@@ -1,0 +1,23 @@
+version: 1
+project: us-israel-iran-war-timeline
+
+jobs:
+  update-events-morning:
+    description: Morning search for new war timeline events (6 AM)
+    schedule: "0 6 * * *"
+    command: claude --dangerously-skip-permissions -p "/war-timeline-update"
+    working_dir: /home/tomas/git/us-israel-iran-war-timeline
+    timeout: 600
+    on_failure: notify
+    retries: 1
+    tags: [ai, news, war-timeline]
+
+  update-events-afternoon:
+    description: Afternoon search for new war timeline events (2 PM)
+    schedule: "0 14 * * *"
+    command: claude --dangerously-skip-permissions -p "/war-timeline-update"
+    working_dir: /home/tomas/git/us-israel-iran-war-timeline
+    timeout: 600
+    on_failure: notify
+    retries: 1
+    tags: [ai, news, war-timeline]
