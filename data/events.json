@@ -1,6 +1,86 @@
 [
   {
     "date": "2026-03-27",
+    "title": "Iran launches Op True Promise 4 Wave 83: strikes Ashdod, UAE, Saudi, Kuwait, Bahrain US bases",
+    "direction": "Escalating",
+    "description": "The IRGC announced Operation True Promise 4, Wave 83, employing long-range solid and liquid-fuel missiles, multi-warhead precision systems, and loitering drones. Named targets included storage tanks and an oil depot at Ashdod (Israel); a US military information exchange center; aircraft hangars at Al-Dhafra Air Base (UAE) and Al-Udeiri Air Base (Saudi Arabia); maintenance and transport aircraft at Ali Al-Salem Air Base (Kuwait); and a Patriot system maintenance hangar at Sheikh Isa Base (Bahrain). Iran also fired a fourth salvo at central and southern Israel using cluster bomb warheads; air defenses intercepted most but bomblets scattered over wide areas.",
+    "source": "https://www.newsx.com/world/operation-true-promise-4-iran-intensifies-83rd-wave-of-retaliatory-missile-and-drone-attacks-on-us-and-israeli-targets-189394/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Israel strikes Parchin missile complex; 60+ jets, 150+ munitions, 1,000+ Iran targets hit total",
+    "direction": "Escalating",
+    "description": "The IDF struck Parchin, east of Tehran — described as Iran's \"most central facility for the production of missiles and defense systems\" — along with a warhead casting and filling factory, a ballistic missile engine production site, and a solid-fuel missile component plant. Over 60 IAF fighter jets dropped more than 150 munitions in a single wave. IDF spokesman Brig. Gen. Defrin stated the IDF has now hit more than 1,000 targets in Iran's weapons production industries since the war began and assessed the Parchin and Shahrud strikes have \"set Iran back years\" in missile production capability; total IDF target hits in Iran have exceeded 15,000.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Israel strikes Yazd: Iran's primary naval missile and sea mine production facility",
+    "direction": "Escalating",
+    "description": "The IDF struck what it called Iran's \"most central\" facility for naval missile and sea mine production in Yazd, approximately 600 km southeast of Tehran. The IDF stated the site handled \"planning, development, assembly, and storage of advanced missiles intended for launch from cruise platforms, submarines, and helicopters toward both mobile and stationary maritime targets.\" The strike was guided by military intelligence and the Navy's intelligence flotilla and is distinct from the overnight Tehran/Parchin strikes which targeted ballistic missile components.",
+    "source": "https://aninews.in/news/world/middle-east/israel-defence-forces-strike-irans-missile-production-facility-in-yazd20260327134118/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Saudi Arabia intercepts 17 drones over Eastern Province, 8 over Riyadh, and 6 ballistic missiles",
+    "direction": "Escalating",
+    "description": "Saudi Arabia's Defence Ministry spokesman Maj. Gen. Turki Al-Malki confirmed interception and destruction of 17 drones over the Eastern Region, 8 drones over the Riyadh region (including two separate waves within a single hour), and the launch of 6 ballistic missiles toward Riyadh — 2 intercepted, 4 falling into the Arabian Gulf or uninhabited areas. A separate interception of 5 drones in the Eastern Province was also confirmed. The Saudi air defense alert system has been active continuously for 27 days since the war began.",
+    "source": "https://saudigazette.com.sa/article/659925",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Pentagon weighs deploying 10,000 additional ground troops to Middle East — WSJ",
+    "direction": "Escalating",
+    "description": "The Wall Street Journal reported the Pentagon is considering deploying up to 10,000 additional ground troops to the Middle East, on top of the ~5,000 Marines of the 31st and 11th MEUs already en route and the 82nd Airborne brigade (~3,000) already ordered to the region. The additional force would include infantry and armored vehicles positioned within striking distance of Iran, including for a potential Kharg Island seizure operation. The 31st MEU (~2,200 Marines) was expected to arrive by March 28. Deputy White House Press Secretary Anna Kelly confirmed: \"President Trump always has all military options at his disposal.\"",
+    "source": "https://www.stripes.com/theaters/middle_east/2026-03-27/82nd-airborne-10000-troops-iran-21196096.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "UAE calls for multinational Hormuz Security Force; drafting UNSC resolution with Bahrain",
+    "direction": "De-escalating",
+    "description": "The Financial Times reported that the UAE privately informed the US and Western allies it would deploy its navy to a multinational \"Hormuz Security Force\" to defend the strait and escort shipping. The UAE and Bahrain are jointly drafting a UNSC resolution to authorize \"all necessary means\" for shipping protection, though Russian and Chinese vetoes are anticipated. A 22-nation joint statement expressing readiness to contribute has already been issued. Saudi Arabia has not yet publicly committed. The UAE has been struck by more Iranian missiles than any other country in the conflict.",
+    "source": "https://www.al-monitor.com/originals/2026/03/uae-willing-join-international-force-reopen-strait-hormuz-ft-reports",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Lebanon expels Iran ambassador; Iranian missile explodes over Lebanese airspace — a first",
+    "direction": "De-escalating",
+    "description": "Lebanese FM Youssef Raggi declared Iran's ambassador-designate Mohammad Reza Shibani persona non grata, ordering him to leave by March 29, and recalled Lebanon's own ambassador from Tehran. Hours after the announcement, an Iranian Qadr-110 ballistic missile exploded in Lebanese airspace — the first Iranian projectile ever intercepted over Lebanon — with shrapnel falling on Jounieh's Haret al Sakhr neighborhood; no casualties reported. Hezbollah and Amal ministers boycotted Lebanon's March 26 cabinet session in protest, calling the expulsion \"reckless and reprehensible.\" Iranian FM Araghchi called it \"regrettable\"; Israeli FM Sa'ar called it \"justified and necessary.\"",
+    "source": "https://www.fdd.org/analysis/2026/03/25/lebanon-declares-iranian-ambassador-designate-persona-non-grata-before-iranian-missile-explodes-over-lebanese-airspace/",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Witkoff confirms 15-point peace framework; Trump: Iran's 'gift' was allowing 8 tankers through Hormuz",
+    "direction": "De-escalating",
+    "description": "US special envoy Steve Witkoff confirmed at a Cabinet meeting that Washington presented Iran a \"15-point action list that forms the framework for a peace deal,\" transmitted through Pakistan as intermediary. Trump separately revealed on Fox News that the \"present\" Iran gave as a good-faith gesture was allowing eight oil tankers through the Strait of Hormuz: \"They gave me ships. I gave them 10 days.\" Iran publicly rejected the 15 points as \"one-sided\" and \"extremely maximalist\"; a senior Iranian official told Reuters: \"No plan for talks appears realistic at this stage.\"",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Iran sets 5 conditions to end war; Araghchi: 'We do not want a ceasefire'",
+    "direction": "Escalating",
+    "description": "Iranian FM Araghchi publicly stated Iran's five conditions for ending the war: (1) complete cessation of US-Israeli aggression; (2) guarantees against recurrence; (3) payment of war reparations; (4) comprehensive end to hostilities across all fronts including all resistance groups (Hezbollah, Houthis, Iraqi factions); (5) Iranian sovereignty over the Strait of Hormuz recognized. Araghchi said: \"We do not want a ceasefire\" — arguing it would lead to a \"vicious cycle\" — and characterized US message exchanges as an \"admission of defeat\" by Washington. Iran insisted the communications are message exchanges, not negotiations.",
+    "source": "https://thehill.com/policy/international/5800179-iran-offers-counterproposal-war-end/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Trump tells aides to 'wrap up' Iran conflict within weeks — WSJ",
+    "direction": "De-escalating",
+    "description": "The Wall Street Journal reported Trump has told senior aides he wants to conclude the Iran conflict in the coming weeks. The directive is interpreted as the context driving both the 10-day energy-sector attack pause extension and the push for direct Pakistan-hosted talks. White House officials are publicly maintaining maximum-pressure language while privately signaling urgency for an end-state. The gap between Trump's stated desire for a quick resolution and Iran's five conditions — including war reparations and Hormuz sovereignty — represents a wide opening negotiating distance.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-03-26/ty-article-live/wall-street-journal-trump-tells-aides-to-wrap-up-iran-conflict-in-coming-weeks/0000019d-281c-d77a-a7ff-fffcacd50000",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-27",
     "title": "IFRC: Iran civilian toll reaches 1,900 dead, 20,000+ injured; 82,000 buildings damaged",
     "direction": "Escalating",
     "description": "The International Federation of Red Cross and Red Crescent Societies confirmed Iran's cumulative civilian toll at 1,900 killed and over 20,000 injured as of March 27, with 82,000 buildings damaged and 180,000 residents affected. Iran's UN Ambassador told the General Assembly that 600 schools had been destroyed or damaged and accused the US and Israel of genocide. The figures represent the first credible externally-verified count of Iranian civilian casualties since the war began February 28.",
