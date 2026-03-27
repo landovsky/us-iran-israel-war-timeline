@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-03-27",
+    "title": "IDF strikes Hezbollah paramedic center in Hebbariye; 7 killed",
+    "direction": "Escalating",
+    "description": "An Israeli airstrike hit a paramedic center affiliated with Hezbollah in Hebbariye, southern Lebanon, killing 7 people. The IDF stated those killed were Hezbollah militants using the facility; Hezbollah and Lebanese health officials disputed this, saying those killed were emergency responders. Lebanese Health Ministry noted 42 health workers have been killed in Lebanon since March 2. Lebanon's PM Salam's office condemned the strike.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Iran fires two missile barrages at central Israel; 2 lightly wounded in Ramat Gan",
+    "direction": "Escalating",
+    "description": "Iran launched two separate missile rounds targeting central Israel on March 27. Magen David Adom treated 6 people in total — 4 wounded while running to shelters and 2 lightly injured in Ramat Gan. At least one salvo included a cluster bomb warhead. Iron Dome and Israel's layered air defenses intercepted the majority of incoming projectiles.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Israel strikes dozens of weapon factories and ballistic missile component sites in Tehran overnight",
+    "direction": "Escalating",
+    "description": "The IDF launched a 'wide-scale wave of strikes' on Tehran overnight March 26-27, targeting dozens of weapon manufacturing facilities, a military base storing anti-aircraft systems, a production site for key ballistic missile components, a battery production facility, and an IRGC weapons production complex. Israel also struck ballistic missile launch sites and targeted Iranian soldiers described as preparing to fire on Israel. The US has fired over 850 Tomahawk cruise missiles in four weeks and has destroyed approximately two-thirds of Iran's missile and drone production facilities.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Kuwait arrests 6 Hezbollah-linked operatives planning assassinations inside Kuwait",
+    "direction": "Escalating",
+    "description": "Kuwaiti authorities arrested six individuals linked to Hezbollah who were allegedly planning assassination operations inside Kuwait. The arrests came amid Kuwait's heightened security posture following repeated Iranian drone and missile strikes on Kuwaiti territory during the war. Kuwait's interior ministry did not specify the intended targets. The operation signals growing domestic security threats across Gulf states as Iran-backed networks activate amid the broader war.",
+    "source": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks",
+    "actor": "Kuwait"
+  },
+  {
     "date": "2026-03-26",
     "title": "Israel orders all residents south of Lebanon's Zahrani River to evacuate; ground ops expand north",
     "direction": "Escalating",
