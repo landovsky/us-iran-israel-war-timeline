@@ -737,14 +737,15 @@ let playIdx      = -1;
 let playTimer    = null;
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
-fetch('data/events.json')
-  .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
-  .then(data => {
+Promise.all([
+  fetch('data/events.json').then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
+  fetch('data/meta.json').then(r => r.ok ? r.json() : {})
+]).then(([data, meta]) => {
     allEvents = data.sort((a, b) => b.date.localeCompare(a.date));
     const actors = [...new Set(allEvents.map(e => e.actor))].sort();
     activeActors = new Set(actors);
-    document.getElementById('last-updated').textContent =
-      'Updated ' + fmtDate(allEvents[0].date);
+    const ts = meta.lastUpdated ? fmtTimestamp(meta.lastUpdated) : fmtDate(allEvents[0].date);
+    document.getElementById('last-updated').textContent = 'Updated ' + ts;
     renderFilters(actors);
     renderTimeline();
   })
@@ -1162,6 +1163,13 @@ function fmtDate(iso) {
   const [y, m, d] = iso.split('-').map(Number);
   const M = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
   return `${M[m-1]} ${d}, ${y}`;
+}
+
+function fmtTimestamp(iso) {
+  const d = new Date(iso);
+  const M = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const hhmm = d.getHours().toString().padStart(2,'0') + ':' + d.getMinutes().toString().padStart(2,'0');
+  return `${M[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()} · ${hhmm}`;
 }
 </script>
 </body>
