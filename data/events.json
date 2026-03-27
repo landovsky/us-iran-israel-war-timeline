@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-03-27",
+    "title": "IRGC formally declares Hormuz closed to US and Israeli allies' shipping",
+    "direction": "Escalating",
+    "description": "The IRGC issued a formal announcement that the Strait of Hormuz is closed to shipping \"to and from ports of allies and supporters of the Israeli-American enemies.\" Three container ships of various nationalities turned back after receiving IRGC warnings. The UAE called for an international force to reopen the strait. Tanker traffic is down more than 90%, with fewer than 6 ships transiting daily versus the pre-war average of 130+; the DIA assessed Iran could sustain the closure for 1 to 6 months.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-03-27/live-updates-891386",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Israel deploys third division (162nd) to Lebanon; Lebanese officials call it 'an invasion'",
+    "direction": "Escalating",
+    "description": "Israel deployed Division 162 to southern Lebanon, joining two divisions already operating there and expanding the ground operation's buffer zone further north. Lebanon's Culture Minister Ghassan Salamé told Euronews: \"An invasion, not a limited operation.\" Lebanese PM Nawaf Salam announced Lebanon will file a complaint with the UN Security Council. UNICEF reported over 370,000 children displaced in Lebanon and 121 children killed since the conflict began on March 2.",
+    "source": "https://www.euronews.com/my-europe/2026/03/27/this-is-an-invasion-lebanon-sounds-alarm-over-israeli-operations",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Israeli public strong support for war drops from 74% to 50%; IDF warns of manpower shortage",
+    "direction": "De-escalating",
+    "description": "An Israel Democracy Institute survey found strong support among Jewish Israelis for the war fell from 74% at the conflict's start to 50% by late March; opposition rose from 4% to 11.5%. Among Arab Israelis, support dropped from 27% to 19%. IDF Chief of Staff Lt. Gen. Eyal Zamir separately warned the cabinet of growing manpower shortages after 27 days of high-intensity warfare. The polls represent the clearest sign of domestic Israeli pressure on the Netanyahu government.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Iran oil revenue hits $139M/day — sole Gulf exporter via Hormuz, Kharg oil infrastructure intact",
+    "direction": "Neutral",
+    "description": "Bloomberg reported Iran earned approximately $139 million per day from crude sales in March, up from $115 million in February, as Iran remains the only major Gulf oil exporter routing shipments through the Strait of Hormuz. Export volume reached ~1.6 million barrels per day through March 23, near pre-war levels, with at least 13 VLCCs loading at Kharg since late February. US and Israeli strikes on Kharg have targeted only military installations — air defenses, naval base, and mine storage — leaving the island's 55 crude storage tanks intact. Iranian Light crude's discount to Brent narrowed to $2.10/barrel, the smallest in nearly a year.",
+    "source": "https://www.bloomberg.com/news/articles/2026-03-26/iran-oil-revenue-soars-as-it-s-the-only-exporter-out-of-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Houthis signal full military readiness to enter war; Bab al-Mandab closure threatened",
+    "direction": "Escalating",
+    "description": "Houthi leadership publicly announced full military readiness to enter the conflict if Iran requests, with a commander stating: \"We stand fully militarily ready with all options. As for other details having to do with determining zero hour they are left to leadership.\" Houthi entry would allow closure of the Bab al-Mandab Strait (18 miles wide at its narrowest), severing Red Sea access to the Suez Canal and compounding the Hormuz shutdown. The group has been expanding domestic weapons production and recruiting fighters despite stockpiles depleted during the Gaza campaign.",
+    "source": "https://boereport.com/2026/03/26/yemens-houthis-ready-to-join-iran-war-if-needed-raising-new-shipping-risk/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-27",
     "title": "IDF strikes Hezbollah paramedic center in Hebbariye; 7 killed",
     "direction": "Escalating",
     "description": "An Israeli airstrike hit a paramedic center affiliated with Hezbollah in Hebbariye, southern Lebanon, killing 7 people. The IDF stated those killed were Hezbollah militants using the facility; Hezbollah and Lebanese health officials disputed this, saying those killed were emergency responders. Lebanese Health Ministry noted 42 health workers have been killed in Lebanon since March 2. Lebanon's PM Salam's office condemned the strike.",
