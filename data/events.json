@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-03-28",
+    "title": "Houthis enter war: first missile at Israel since Gaza ceasefire; IDF intercepts",
+    "direction": "Escalating",
+    "description": "Yemen's Houthi rebels launched ballistic missiles at \"sensitive Israeli military sites\" in southern Israel — their first attack since the October 2025 Gaza ceasefire and first involvement in the Iran war. The IDF intercepted the projectile; no casualties were reported. Houthi Brig. Gen. Yahya Saree announced on Al Masirah TV that strikes \"will continue until the aggression against all fronts of the resistance ceases.\" Senior Houthi official Mohammed Mansour warned that closing the Bab al-Mandeb Strait \"is among our options,\" which would shut a second global chokepoint alongside the Strait of Hormuz.",
+    "source": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-28",
+    "title": "Iran strikes Prince Sultan Air Base: 12-15 US troops wounded, AWACS and KC-135 damaged",
+    "direction": "Escalating",
+    "description": "Iran fired 6 ballistic missiles and 29 drones at Saudi Arabia's Prince Sultan Air Base near Riyadh, wounding at least 12-15 US service members — at least 5 in serious condition. A USAF E-3 Sentry AWACS command-and-control plane and at least one KC-135 air refueling tanker were damaged; the KC-135 caught fire. The attack brought total US casualties since February 28 to 13 killed and over 300 wounded. The Pentagon and CENTCOM did not immediately comment.",
+    "source": "https://www.aljazeera.com/news/2026/3/28/at-least-15-us-troops-wounded-in-iran-strike-on-saudi-airbase-reports",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-28",
+    "title": "Iranian cluster missile kills man in Tel Aviv; shrapnel hits Yehuda Halevi Street",
+    "direction": "Escalating",
+    "description": "An Iranian cluster missile struck central Tel Aviv at approximately 11:45 PM local time, scattering bomblets across Yehuda Halevi Street. Vyacheslav Vidmant, 52, of Ashdod — employed as a municipal guard at buildings evacuated after a prior missile strike — was killed by shrapnel. He had finished his shift at 10 PM but remained on site and was not in a shelter when sirens sounded. Two others were wounded, one moderately. The barrage also triggered sirens in Jerusalem and the Ashdod area.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-03-28/ty-article/.premium/one-killed-two-wounded-after-iranian-cluster-missile-hits-tel-aviv-area/0000019d-317a-d868-a1bd-7bfb7eb90000",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-28",
+    "title": "Iran missile hits Beit Shemesh area near Jerusalem; ~20 injured, synagogue damaged",
+    "direction": "Escalating",
+    "description": "An Iranian ballistic missile struck the Beit Shemesh area near Jerusalem, injuring nearly 20 people — at least 5 from shrapnel and 8 more from anxiety and trauma. Several homes and a synagogue were damaged. Separately, Iranian munitions impacted buildings in Eilat in southern Israel, prompting emergency searches for trapped persons. The strikes were part of a broader salvo that also hit central Israel.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-03-28/live-updates-891447",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-28",
+    "title": "Israel strikes Arak heavy water reactor and Ardakan yellowcake plant",
+    "direction": "Escalating",
+    "description": "Over 50 IAF fighter jets struck the Shahid Khondab Heavy Water Complex near Arak (~250 km southwest of Tehran), capable of producing weapons-grade plutonium, and the Ardakan yellowcake production plant in Yazd Province, which processes uranium ore from the nearby Saghand mine. Ardakan had not been attacked during the June 2025 war. Iran's Atomic Energy Organization confirmed both facilities were hit but reported no casualties or radiation risk. Separately, Israeli strikes hit Iran's Khuzestan and Mobarakeh steel plants. Russia's Rosatom warned of \"escalating safety risks\" at Bushehr nuclear plant after the third strike near the facility in 10 days.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-891437",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-28",
+    "title": "USS Tripoli ARG with 31st MEU arrives in CENTCOM waters from Japan",
+    "direction": "Escalating",
+    "description": "The Tripoli Amphibious Ready Group — USS Tripoli, USS New Orleans, and USS San Diego — arrived in CENTCOM waters carrying the 31st Marine Expeditionary Unit (~2,200 Marines and sailors) from Sasebo, Japan. The embarked air wing includes ~20 F-35B Lightning II fighters (VMFA-121), MV-22B Ospreys (VMM-265), and MH-60S Seahawks (HSC-25). The deployment followed Defense Secretary Pete Hegseth's approval of a CENTCOM request for reinforcements. An additional ~2,500 Marines from the 11th MEU aboard USS Boxer are en route from California.",
+    "source": "https://www.militarytimes.com/news/your-military/2026/03/28/uss-tripoli-embarked-31st-marine-expeditionary-unit-arrive-in-middle-east/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-28",
+    "title": "Israel kills Al Mayadeen and Al Manar journalists in targeted strike in southern Lebanon",
+    "direction": "Escalating",
+    "description": "An Israeli strike on a press-marked vehicle on a road near Jezzi, southern Lebanon, killed three journalists: Al Mayadeen correspondent Fatima Ftouni and her brother/cameraman Mohamed Ftouni, and Al Manar (Hezbollah-owned) correspondent Ali Shoeib. The IDF stated Shoeib \"operated within the Hezbollah terrorist organization\" and \"systematically exposed locations of IDF soldiers.\" Lebanese President Joseph Aoun condemned the strikes as violating international law and the 1949 Geneva Conventions. A Lebanese army soldier was also killed in a separate Israeli strike the same day.",
+    "source": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-28",
+    "title": "Rubio tells G7 war ends in 2-4 weeks; Vance: goal to 'neuter' Iran",
+    "direction": "De-escalating",
+    "description": "Secretary of State Marco Rubio told G7 foreign ministers in France that the war is expected to last another 2-4 weeks and that the US can achieve all objectives without ground troops: \"We're going to destroy their navy, air force, and significantly destroy their missile launchers so they can never hide behind these things to get a nuclear weapon.\" He said operations are \"on or ahead of schedule.\" VP JD Vance said the war will continue \"a little while longer\" to ensure Iran is \"neutered for a very, very long time\" — a rare acknowledgment that military gains will not be permanent.",
+    "source": "https://www.axios.com/2026/03/27/iran-war-timeline-rubio-2-4-weeks",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-28",
+    "title": "Trump slams NATO: 'very disappointed,' calls UK carriers 'toys'",
+    "direction": "Neutral",
+    "description": "President Trump called NATO's lack of support in the Iran war a \"tremendous mistake,\" saying: \"We will come to their rescue, but they will never come to ours. We don't need them.\" He described British aircraft carriers as \"toys compared to what we have\" and questioned future US commitment to the alliance. The UK has not participated militarily in strikes but deployed aircraft in a defensive role to intercept missiles. G7 foreign ministers issued a joint statement calling for \"immediate cessation of attacks against civilians and civilian infrastructure.\"",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-28",
+    "title": "US and Iraq form joint committee to prevent attacks from Iraqi territory",
+    "direction": "De-escalating",
+    "description": "The US and Iraq established a High Joint Coordination Committee, holding its first meeting on March 26. Both sides committed to preventing Iraqi territory, airspace, and territorial waters from being used as a launching point for attacks against either Iraqi or US forces and diplomatic missions. The committee aims to keep Iraq outside the regional conflict. Separately, Tehran-backed Kataeb Hezbollah extended its pause on attacks against the US embassy in Baghdad, first announced March 19.",
+    "source": "https://iq.usembassy.gov/joint-statement-on-the-establishment-of-a-u-s-iraq-high-joint-coordination-committee/",
+    "actor": "US|Iraq"
+  },
+  {
     "date": "2026-03-27",
     "title": "Iran launches Op True Promise 4 Wave 83: strikes Ashdod, UAE, Saudi, Kuwait, Bahrain US bases",
     "direction": "Escalating",
