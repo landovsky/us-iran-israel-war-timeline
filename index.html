@@ -796,6 +796,35 @@
     }
     .week-summary.open .day-summary-toggle-arrow { transform: rotate(180deg); }
 
+    /* ── Week Briefing (week-level summary card) ────────────────────────── */
+    .week-briefing {
+      max-width: 560px;
+      margin: 4px auto 8px;
+      padding: 10px 16px 8px;
+      background: rgba(17,24,39,0.6);
+      border-left: 2px solid var(--dim);
+      border-radius: 0 6px 6px 0;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .week-briefing:hover { background: rgba(17,24,39,0.85); }
+    .week-briefing .day-summary-text {
+      font-size: 0.72rem;
+      color: var(--muted);
+      line-height: 1.6;
+      margin-top: 4px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      transition: all 0.25s ease;
+    }
+    .week-briefing.open .day-summary-text {
+      -webkit-line-clamp: unset;
+      overflow: visible;
+    }
+    .week-briefing.open .day-summary-toggle-arrow { transform: rotate(180deg); }
+
     /* ── Status ──────────────────────────────────────────────────────────── */
     #status {
       text-align: center;
@@ -892,6 +921,7 @@ let playList     = [];
 let playIdx      = -1;
 let playTimer    = null;
 let daySummaries = {};
+let weekSummaries = {};
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
 Promise.all([
@@ -899,7 +929,8 @@ Promise.all([
   fetch('data/meta.json').then(r => r.ok ? r.json() : {}),
   fetch('data/summaries.json').then(r => r.ok ? r.json() : {}).catch(() => ({}))
 ]).then(([data, meta, summaries]) => {
-    daySummaries = summaries;
+    daySummaries = summaries.daily || summaries;
+    weekSummaries = summaries.weekly || {};
     allEvents = data.sort((a, b) => b.date.localeCompare(a.date));
     const actors = [...new Set(allEvents.map(e => e.actor))].sort();
     activeActors = new Set(actors);
@@ -1252,6 +1283,28 @@ function buildWeek(weekStart, weekEnd, evs) {
 
   const block = mk('div', 'day-block'); // keep day-block for filter compat
   block.appendChild(mk('div', 'week-date-label', fmtWeekRange(weekStart, weekEnd)));
+
+  // Weekly briefing card
+  if (weekSummaries[weekStart]) {
+    const wb = mk('div', 'week-briefing');
+    const wbHeader = mk('div', 'day-summary-header');
+    wbHeader.appendChild(mk('span', 'day-summary-label', 'Weekly briefing'));
+    const wbToggle = mk('span', 'day-summary-toggle');
+    wbToggle.innerHTML = 'Read analysis <span class="day-summary-toggle-arrow">▾</span>';
+    wbHeader.appendChild(wbToggle);
+    wb.appendChild(wbHeader);
+    wb.appendChild(mk('div', 'day-summary-text', weekSummaries[weekStart]));
+    wb.addEventListener('click', () => {
+      wb.classList.toggle('open');
+      const lbl = wb.querySelector('.day-summary-toggle');
+      if (wb.classList.contains('open')) {
+        lbl.innerHTML = 'Collapse <span class="day-summary-toggle-arrow" style="transform:rotate(180deg)">▾</span>';
+      } else {
+        lbl.innerHTML = 'Read analysis <span class="day-summary-toggle-arrow">▾</span>';
+      }
+    });
+    block.appendChild(wb);
+  }
 
   const row   = mk('div', 'week-row');
 
