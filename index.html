@@ -31,7 +31,6 @@
       --text:    #e2e8f0;
       --muted:   #94a3b8;
       --dim:     #4b6080;
-      --active:  #fbbf24;
     }
 
     body {
@@ -215,7 +214,6 @@
       display: flex;
       align-items: center;
       gap: 8px;
-      flex-wrap: wrap;
     }
 
     .filter-lbl {
@@ -230,10 +228,14 @@
 
     #actor-filters {
       display: flex;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
       gap: 4px;
       flex: 1;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
     }
+    #actor-filters::-webkit-scrollbar { display: none; }
 
     .chip {
       display: inline-flex;
@@ -251,6 +253,7 @@
       color: var(--dim);
       background: transparent;
       transition: all 0.15s;
+      flex-shrink: 0;
     }
     .chip.on {
       background: var(--surface);
@@ -264,25 +267,6 @@
       border-color: var(--muted);
       color: var(--fg);
     }
-
-    .btn-play {
-      margin-left: auto;
-      padding: 4px 16px;
-      border: 1px solid #1e40af;
-      border-radius: 4px;
-      background: #172554;
-      color: #93c5fd;
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 0.62rem;
-      font-weight: 500;
-      letter-spacing: 0.06em;
-      cursor: pointer;
-      transition: all 0.15s;
-      white-space: nowrap;
-      flex-shrink: 0;
-    }
-    .btn-play:hover { background: #1d4ed8; border-color: #3b82f6; }
-    .btn-play.playing { background: #451a03; border-color: #d97706; color: #fde68a; }
 
     /* ── View toggle ─────────────────────────────────────────────────────── */
     .view-toggle {
@@ -551,8 +535,6 @@
       max-width: 100%;
     }
     .ev-item:hover { background: rgba(255,255,255,0.035); }
-    .ev-item.active { background: rgba(251,191,36,0.08); }
-
     .ev-text {
       font-size: 0.75rem;
       font-weight: 500;
@@ -566,8 +548,6 @@
       transition: color 0.12s;
     }
     .ev-item:hover .ev-text { color: #dce8f5; }
-    .ev-item.active .ev-text { color: #fef3c7; }
-
     .left  .ev-text { text-align: right; padding-right: 5px; }
     .right .ev-text { text-align: left;  padding-left: 5px; }
     .neutral .ev-text { padding-left: 6px; }
@@ -590,8 +570,6 @@
       transition: transform 0.15s;
     }
     .ev-item:hover .ev-flag-group { transform: scale(1.18); }
-    .ev-item.active .ev-flag-group { transform: scale(1.22); }
-
     .ev-flag {
       width: 20px; height: 20px;
       border-radius: 50%;
@@ -615,12 +593,6 @@
     .ev-flag.escalating    { border-color: rgba(239,68,68,0.7);   box-shadow: 0 0 6px rgba(239,68,68,0.4); }
     .ev-flag.de-escalating { border-color: rgba(59,130,246,0.7);  box-shadow: 0 0 6px rgba(59,130,246,0.4); }
     .ev-flag.neutral       { border-color: rgba(156,163,175,0.35); }
-
-    /* Active state */
-    .ev-item.active .ev-flag {
-      box-shadow: 0 0 0 2.5px rgba(251,191,36,0.45), 0 0 10px rgba(251,191,36,0.5) !important;
-      border-color: var(--active) !important;
-    }
 
     /* ── Expanding detail ────────────────────────────────────────────────── */
     .ev-detail {
@@ -806,7 +778,6 @@
       .left  .ev-wrapper { align-items: flex-start !important; }
       .left  .ev-item    { flex-direction: row-reverse; }
       .left  .ev-text    { text-align: left !important; }
-      .btn-play { margin-left: 0; }
     }
   </style>
 </head>
@@ -849,7 +820,6 @@
       <button class="vt-btn" id="btn-day">Day</button>
       <button class="vt-btn active" id="btn-week">Week</button>
     </div>
-    <button class="btn-play" id="btn-play">▶ Play</button>
   </div>
 </div>
 
@@ -866,9 +836,6 @@
 // ── State ─────────────────────────────────────────────────────────────────────
 let allEvents    = [];
 let activeActors = new Set();
-let playList     = [];
-let playIdx      = -1;
-let playTimer    = null;
 let daySummaries = {};
 let weekSummaries = {};
 
@@ -1126,49 +1093,6 @@ function buildItem(ev, side) {
   });
 
   return wrapper;
-}
-
-// ── Play mode ─────────────────────────────────────────────────────────────────
-document.getElementById('btn-play').addEventListener('click', togglePlay);
-
-function togglePlay() {
-  playTimer !== null ? stopPlay() : startPlay();
-}
-
-function startPlay() {
-  const wrappers = [...document.querySelectorAll('.ev-wrapper:not(.ev-hidden)')];
-  if (!wrappers.length) return;
-  playList = wrappers.reverse();
-  playIdx  = 0;
-  advance(0);
-
-  const btn = document.getElementById('btn-play');
-  btn.textContent = '⏸ Pause';
-  btn.classList.add('playing');
-
-  playTimer = setInterval(() => {
-    playIdx++;
-    if (playIdx >= playList.length) { stopPlay(); return; }
-    advance(playIdx);
-  }, 2500);
-}
-
-function stopPlay() {
-  clearInterval(playTimer);
-  playTimer = null;
-  playIdx   = -1;
-  document.querySelectorAll('.ev-item.active').forEach(i => i.classList.remove('active'));
-  const btn = document.getElementById('btn-play');
-  btn.textContent = '▶ Play';
-  btn.classList.remove('playing');
-}
-
-function advance(idx) {
-  document.querySelectorAll('.ev-item.active').forEach(i => i.classList.remove('active'));
-  const wrapper = playList[idx];
-  if (!wrapper) return;
-  wrapper.querySelector('.ev-item')?.classList.add('active');
-  wrapper.scrollIntoView({ behavior: 'smooth', block: 'center' });
 }
 
 // ── Week view ─────────────────────────────────────────────────────────────────
