@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-03-29",
+    "title": "US-Israel strikes Bandar Khamir port near Hormuz; 5 killed, 4 injured",
+    "direction": "Escalating",
+    "description": "US-Israeli forces struck the Bandar Pol dock in Bandar Khamir County, a port city near the Strait of Hormuz, in the early hours of Sunday. Iran's IRNA news agency reported 5 killed and 4 injured. Separately, loud explosions were heard across Tehran early Sunday, with smoke rising over northern neighborhoods including Saadat Abad. Iran's Mehr and Fars agencies reported 2 killed and 5 wounded in Shaft city village, 3 wounded in Saadat Abad, and 9 wounded in western Tehran from overnight strikes.",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/03/29/us-israeli-strikes-hit-iran-port-city-near-strait-of-hormuz-state-media",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "IDF completes 3 'widespread' strike waves on Tehran in single day",
+    "direction": "Escalating",
+    "description": "The IDF completed three successive waves of strikes across Tehran on Saturday, targeting what it described as ballistic missile production infrastructure, storage sites, and command centers \"in the heart of Tehran.\" The IDF posted on X that it had completed \"a widespread wave of strikes\" on Iranian government infrastructure. US CENTCOM chief and the IDF Chief of Staff discussed the ongoing joint campaign, which has largely focused on destroying Iran's weapons production industries.",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "Iran missile hits ADAMA chemical plant in Ne'ot Hovav; hazmat teams deployed",
+    "direction": "Escalating",
+    "description": "An Iranian missile struck the ADAMA Makhteshim pesticide plant in Ne'ot Hovav industrial zone, ~13 km from Beersheba, causing a large fire and hazardous chemical leak. Three specialized hazmat teams were deployed; the deputy head of the fire service's Southern District identified the leaking material as a pesticide. The plant also contains ammonia storage tanks. Staff were evacuated and Highway 40 was closed. One person was lightly wounded. A separate Iranian ballistic missile hit an open area in Beersheba, lightly injuring 11 people and damaging buildings.",
+    "source": "https://www.jpost.com/israel-news/defense-news/article-891524",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "IRGC strikes EGA aluminium smelter in UAE and Alba plant in Bahrain",
+    "direction": "Escalating",
+    "description": "The IRGC claimed strikes on Emirates Global Aluminium's Al Taweelah smelter in Abu Dhabi and Aluminium Bahrain (Alba), in stated retaliation for US-Israeli strikes on Iranian steel plants. EGA reported \"significant damage\" at Al Taweelah — the Middle East's largest aluminium producer (~4% of global output). Six EGA workers were injured; 2 Alba employees sustained minor injuries. Alba had already shut 3 smelting lines (19% of capacity) due to Hormuz disruptions. The UAE intercepted 16 ballistic missiles and 42 drones on Sunday; total Iranian attacks on the UAE since the war began: 414 ballistic missiles, 15 cruise missiles, and 1,914 drones.",
+    "source": "https://www.thenationalnews.com/business/2026/03/29/uae-and-bahrains-main-aluminium-producers-damaged-by-iranian-attacks/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "Houthis fire second missile at Israel within 24 hours; both intercepted",
+    "direction": "Escalating",
+    "description": "The Houthis carried out a second missile and drone attack on Israel on Sunday, less than 24 hours after their first strike on Saturday. Both attacks were intercepted; no casualties reported. Houthi Brig. Gen. Yahya Saree said the attack \"coincided with the military operations being carried out\" by Hezbollah and Iran. The Houthis have not yet closed the Bab al-Mandeb Strait but deputy information minister Mohammed Mansour said closure is \"expected in the next phase if Israel decides to target the port of Hodeidah or Yemeni civilian and public infrastructure.\"",
+    "source": "https://www.aljazeera.com/news/2026/3/29/houthis-open-new-front-in-iran-war-will-yemeni-group-block-bab-al-mandeb",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "IRGC declares US and Israeli universities in Middle East 'legitimate targets'",
+    "direction": "Escalating",
+    "description": "The IRGC declared all American and Israeli universities in the Middle East \"legitimate targets\" in retaliation for US-Israeli strikes on Tehran's University of Science and Technology and Isfahan University of Technology. The IRGC demanded Washington officially condemn the university strikes by Monday at noon, or it would begin targeting US and Israeli campuses. It warned students and staff to stay at least 1 km from campuses. At-risk institutions include Texas A&M University Qatar and NYU Abu Dhabi. Georgetown University in Qatar had already shifted to remote instruction.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-891480",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "Netanyahu orders expansion of Lebanon buffer zone; 250 Hezbollah rockets over weekend",
+    "direction": "Escalating",
+    "description": "PM Netanyahu, speaking from the Northern Command, ordered the IDF to \"further expand the existing security zone\" in Lebanon \"to finally thwart the threat of invasion and to push the anti-tank missile fire away from our border.\" He cited \"three security zones deep within enemy territory\" — Lebanon, Gaza, and Syria — as a paradigm shift. Hezbollah launched approximately 250 projectiles from Lebanon over the weekend. It was not immediately clear whether the expansion extends beyond the previously announced Litani River line. Lebanon's death toll since March 2: ~1,200 killed, 3,400+ wounded.",
+    "source": "https://www.aljazeera.com/news/2026/3/29/netanyahu-announces-expansion-of-security-buffer-zone-in-south-lebanon",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "Pakistan hosts 4-nation FM talks (Turkey, Egypt, Saudi) to prepare US-Iran engagement",
+    "direction": "De-escalating",
+    "description": "Foreign ministers of Pakistan (Ishaq Dar), Turkey (Hakan Fidan), Egypt (Badr Abdelatty), and Saudi Arabia (Prince Faisal bin Farhan) began two-day talks in Islamabad aimed at aligning regional positions and preparing the ground for possible direct US-Iran engagement. Pakistan offered to host US-Iran talks \"in coming days.\" FM Dar announced Iran had agreed to allow 20 Pakistani-flagged ships through the Strait of Hormuz, with 2 ships crossing daily. China conveyed support for Pakistan's mediation. Iran's parliament speaker Qalibaf dismissed the talks as cover while the US deploys more troops.",
+    "source": "https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-four-nation-bid-to-encourage-us-iran-towards-diplomacy",
+    "actor": "Pakistan|Saudi Arabia|Turkey"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "WaPo: Pentagon readies 'weeks of ground operations' in Iran, including Kharg Island raids",
+    "direction": "Escalating",
+    "description": "The Washington Post reported the Pentagon is preparing for weeks of limited ground operations in Iran, including special operations and conventional infantry raids on Kharg Island and coastal sites near the Strait of Hormuz. The operations aim to find and destroy weapons targeting commercial and military shipping. One official estimated objectives would take \"weeks, not months\"; another said \"a couple of months.\" White House Press Secretary Karoline Leavitt stated: \"It's the job of the Pentagon to make preparations... It does not mean the president has made a decision.\" Some 1,500 82nd Airborne paratroopers are preparing to deploy.",
+    "source": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report",
+    "actor": "US"
+  },
+  {
     "date": "2026-03-28",
     "title": "Houthis enter war: first missile at Israel since Gaza ceasefire; IDF intercepts",
     "direction": "Escalating",
