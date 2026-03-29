@@ -166,21 +166,18 @@
 
     .hero-day-counter {
       font-family: 'Bebas Neue', 'Arial Narrow', sans-serif;
-      font-size: clamp(2.2rem, 4vw, 3.2rem);
+      font-size: clamp(1.6rem, 3vw, 2.2rem);
       line-height: 1;
-      letter-spacing: 0.02em;
-      color: var(--esc);
-      opacity: 0.85;
+      letter-spacing: 0.04em;
       text-align: right;
-    }
-    .hero-day-counter .day-num {
-      font-size: clamp(3.4rem, 7vw, 5.4rem);
-      line-height: 0.85;
-      display: block;
       background: linear-gradient(180deg, #ef4444 0%, #b91c1c 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
+      white-space: nowrap;
+    }
+    .hero-day-counter .day-num {
+      font-size: clamp(2.6rem, 5.5vw, 4rem);
     }
     .hero-day-label {
       font-family: 'IBM Plex Mono', monospace;
@@ -746,10 +743,20 @@
 
     /* ── Mobile ──────────────────────────────────────────────────────────── */
     @media (max-width: 620px) {
-      .hero-inner { flex-direction: column; gap: 14px; }
+      .hero-inner { flex-direction: column; gap: 14px; position: relative; }
       .hero-right { align-items: flex-start; flex-direction: row; flex-wrap: wrap; gap: 12px; }
-      .hero-day-counter { text-align: left; }
-      .hero-day-label { text-align: left; }
+      .hero-day-counter {
+        position: absolute;
+        top: 0;
+        right: 0;
+        text-align: right;
+      }
+      .hero-day-label {
+        position: absolute;
+        top: clamp(2.8rem, 6vw, 4.4rem);
+        right: 0;
+        text-align: right;
+      }
 
       .timeline::before { display: none; }
       .day-row { flex-direction: column; align-items: stretch; }
@@ -779,8 +786,7 @@
     </div>
     <div class="hero-right">
       <div class="hero-day-counter" id="day-counter">
-        <span class="day-num" id="day-num"></span>
-        Day<span id="day-num-suffix"></span>
+        Day <span class="day-num" id="day-num"></span>
       </div>
       <div class="hero-day-label" id="day-counter-label"></div>
       <div class="legend">
