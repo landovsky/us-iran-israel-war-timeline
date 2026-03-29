@@ -164,6 +164,34 @@
       color: var(--dim);
     }
 
+    .hero-day-counter {
+      font-family: 'Bebas Neue', 'Arial Narrow', sans-serif;
+      font-size: clamp(2.2rem, 4vw, 3.2rem);
+      line-height: 1;
+      letter-spacing: 0.02em;
+      color: var(--esc);
+      opacity: 0.85;
+      text-align: right;
+    }
+    .hero-day-counter .day-num {
+      font-size: clamp(3.4rem, 7vw, 5.4rem);
+      line-height: 0.85;
+      display: block;
+      background: linear-gradient(180deg, #ef4444 0%, #b91c1c 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .hero-day-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.5rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--dim);
+      text-align: right;
+      margin-top: 2px;
+    }
+
     @keyframes fadeUp {
       from { opacity: 0; transform: translateY(6px); }
       to   { opacity: 1; transform: translateY(0); }
@@ -720,6 +748,8 @@
     @media (max-width: 620px) {
       .hero-inner { flex-direction: column; gap: 14px; }
       .hero-right { align-items: flex-start; flex-direction: row; flex-wrap: wrap; gap: 12px; }
+      .hero-day-counter { text-align: left; }
+      .hero-day-label { text-align: left; }
 
       .timeline::before { display: none; }
       .day-row { flex-direction: column; align-items: stretch; }
@@ -748,6 +778,11 @@
       </p>
     </div>
     <div class="hero-right">
+      <div class="hero-day-counter" id="day-counter">
+        <span class="day-num" id="day-num"></span>
+        Day<span id="day-num-suffix"></span>
+      </div>
+      <div class="hero-day-label" id="day-counter-label"></div>
       <div class="legend">
         <span class="legend-item"><span class="ld ld-e"></span>Escalating</span>
         <span class="legend-item"><span class="ld ld-d"></span>De-escalating</span>
@@ -801,6 +836,14 @@ Promise.all([
     activeActors = new Set(actors);
     const ts = meta.lastUpdated ? fmtTimestamp(meta.lastUpdated) : fmtDate(allEvents[0].date);
     document.getElementById('last-updated').textContent = 'Updated ' + ts;
+
+    // Day counter
+    const warStart = new Date(2026, 1, 28); // Feb 28, 2026
+    const latestDate = new Date(allEvents[0].date + 'T00:00:00');
+    const dayNum = Math.floor((latestDate - warStart) / 86400000) + 1;
+    document.getElementById('day-num').textContent = dayNum;
+    document.getElementById('day-counter-label').textContent = fmtDate(allEvents[0].date);
+
     renderFilters(actors);
     renderTimeline();
   })
