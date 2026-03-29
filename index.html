@@ -745,58 +745,6 @@
       transition: transform 0.2s ease;
     }
 
-    .week-summary {
-      grid-column: 1 / -1;
-      max-width: 480px;
-      margin: 0 auto 4px;
-      padding: 6px 12px 5px;
-      background: #111827;
-      border-left: 2px solid var(--dim);
-      border-radius: 0 4px 4px 0;
-      cursor: pointer;
-      transition: background 0.15s;
-      position: relative;
-      z-index: 2;
-    }
-    .week-summary:hover { background: #1a2540; }
-    .week-summary-header {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-    .week-summary-label {
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 0.46rem;
-      font-weight: 500;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-      color: var(--dim);
-    }
-    .week-summary-toggle {
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 0.44rem;
-      color: #4d9de0;
-      margin-left: auto;
-      flex-shrink: 0;
-    }
-    .week-summary:hover .week-summary-toggle { color: #7bbdf5; }
-    .week-summary-text {
-      font-size: 0.65rem;
-      color: var(--muted);
-      line-height: 1.6;
-      margin-top: 3px;
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-      transition: all 0.25s ease;
-    }
-    .week-summary.open .week-summary-text {
-      -webkit-line-clamp: unset;
-      overflow: visible;
-    }
-    .week-summary.open .day-summary-toggle-arrow { transform: rotate(180deg); }
-
     /* ── Week Briefing (week-level summary card) ────────────────────────── */
     .week-briefing {
       max-width: 560px;
@@ -1323,29 +1271,6 @@ function buildWeek(weekStart, weekEnd, evs) {
     const dayEsc  = dayEvs.filter(e => e.direction === 'Escalating');
     const dayDesc = dayEvs.filter(e => e.direction === 'De-escalating');
     const label   = fmtDayShort(date);
-
-    if (daySummaries[date]) {
-      const sumRow = mk('div', 'week-summary');
-      sumRow.style.gridRow = String(gridRow);
-      const wkHeader = mk('div', 'week-summary-header');
-      wkHeader.appendChild(mk('span', 'week-summary-label', label + ' briefing'));
-      const wkToggle = mk('span', 'week-summary-toggle');
-      wkToggle.innerHTML = 'Read <span class="day-summary-toggle-arrow">▾</span>';
-      wkHeader.appendChild(wkToggle);
-      sumRow.appendChild(wkHeader);
-      sumRow.appendChild(mk('div', 'week-summary-text', daySummaries[date]));
-      sumRow.addEventListener('click', () => {
-        sumRow.classList.toggle('open');
-        const wkLabel = sumRow.querySelector('.week-summary-toggle');
-        if (sumRow.classList.contains('open')) {
-          wkLabel.innerHTML = 'Collapse <span class="day-summary-toggle-arrow" style="transform:rotate(180deg)">▾</span>';
-        } else {
-          wkLabel.innerHTML = 'Read <span class="day-summary-toggle-arrow">▾</span>';
-        }
-      });
-      row.appendChild(sumRow);
-      gridRow++;
-    }
 
     const leftCell = mk('div', 'week-cell left');
     leftCell.style.gridColumn = '1';
