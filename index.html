@@ -1178,7 +1178,7 @@ function getWeekStart(dateStr) {
   const day = dt.getDay(); // 0=Sun
   const mon = new Date(dt);
   mon.setDate(dt.getDate() - (day === 0 ? 6 : day - 1));
-  return mon.toISOString().slice(0, 10);
+  return `${mon.getFullYear()}-${String(mon.getMonth()+1).padStart(2,'0')}-${String(mon.getDate()).padStart(2,'0')}`;
 }
 
 function fmtWeekRange(weekStart, weekEnd) {
