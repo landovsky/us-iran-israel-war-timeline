@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-03-30",
+    "title": "IDF strikes Tehran infrastructure, causing hours-long blackout across capital",
+    "direction": "Escalating",
+    "description": "Israeli forces struck power infrastructure in and around Tehran on Monday, causing a blackout lasting several hours across the capital and nearby areas. The IDF stated it was 'currently attacking the infrastructure' of the Iranian government 'throughout Tehran.' Explosions were also reported in Ray (Greater Tehran), Karaj, Shiraz, Qom, Abadan, and Tabriz. Iranian authorities said power was restored later in the day. A fire at a Tabriz petrochemical plant was reported 'completely contained' by Fars news agency.",
+    "source": "https://www.aljazeera.com/economy/2026/3/30/us-israel-war-on-iran-whats-happening-on-day-31-of-attacks",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Saudi Arabia intercepts 5 Iranian ballistic missiles targeting Eastern Province",
+    "direction": "Escalating",
+    "description": "The Saudi Ministry of Defence announced it intercepted five ballistic missiles heading towards its Eastern Province, home to the kingdom's largest oil fields and processing facilities. The intercepts came as Iran continued retaliatory strikes against Gulf states hosting US military assets.",
+    "source": "https://www.aljazeera.com/economy/2026/3/30/us-israel-war-on-iran-whats-happening-on-day-31-of-attacks",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "IRGC strikes Kuwait power plant and airport radar; 1 Indian worker killed",
+    "direction": "Escalating",
+    "description": "Iranian drones and missiles struck a Kuwaiti electric power and water desalination plant and damaged the radar station at Kuwait International Airport. One Indian worker was killed. The Kuwait National Guard shot down five drones. Kuwait's government condemned the attacks as 'sinful Iranian aggression.' The IRGC claimed responsibility for the airport radar strike.",
+    "source": "https://www.aljazeera.com/economy/2026/3/30/us-israel-war-on-iran-whats-happening-on-day-31-of-attacks",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Trump says Iran agreed to 'most of' 15-point plan; wants to 'take the oil'",
+    "direction": "De-escalating",
+    "description": "President Trump told reporters aboard Air Force One that Iran agreed to 'most of' the 15-point US peace plan conveyed via Pakistan. 'They gave us most of the points. Why wouldn't they?' Trump said. In a separate Financial Times interview, Trump said he wanted to 'take the oil in Iran' and claimed Iran had undergone 'regime change' with the killing of Khamenei and senior officials. Iran's IRGC spokesman Ebrahim Zolfaghari accused Trump of going 'back and forth between talks and threats.'",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-03-29/live-updates-891484",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Israel intercepts 2 Houthi drones over Israeli territory",
+    "direction": "Escalating",
+    "description": "The Israeli Air Force intercepted two drones launched from Yemen over Israeli territory on Monday morning. The intercepts came two days after the Houthis entered the war with their first missile attacks on Israel since the Gaza ceasefire. Houthi strikes continue to be limited in scope compared to their Red Sea campaign.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-03-29/live-updates-891484",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Brent crude hits $115.93, up 62% since war began; IEA calls it biggest oil shock in history",
+    "direction": "Neutral",
+    "description": "Brent crude rose 2.98% to $115.93 per barrel on Monday, bringing total gains to over 62% since February 27 — surpassing the price spike from Iraq's 1990 invasion of Kuwait. The IEA described the Strait of Hormuz closure as the biggest oil shock in history, with the world losing up to 20 million barrels per day from Middle East producers. Asian markets fell sharply; Jakarta's Composite Index declined and Malaysia's FTSE Bursa Malaysia Top 100 dropped ~1.5%.",
+    "source": "https://www.aljazeera.com/economy/2026/3/30/us-israel-war-on-iran-whats-happening-on-day-31-of-attacks",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Iran executes 2 people for alleged collaboration with MEK opposition group",
+    "direction": "Escalating",
+    "description": "Iran executed two individuals accused of working with the US-Israeli-backed Mujahedin-e Khalq (MEK) opposition group, according to Iranian state media. The executions signal Iran's internal crackdown amid wartime conditions, targeting alleged espionage and collaboration with foreign-backed opposition movements.",
+    "source": "https://www.aljazeera.com/economy/2026/3/30/us-israel-war-on-iran-whats-happening-on-day-31-of-attacks",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "3,500 additional US troops arrive in Middle East; total force nears 12,000",
+    "direction": "Escalating",
+    "description": "Some 3,500 additional US troops arrived in the Middle East on Sunday-Monday, joining forces already in theater. The converging force package — two Marine Expeditionary Units (~4,500 Marines and sailors) plus the 82nd Airborne's 1st Brigade Combat Team with division headquarters — totals roughly 12,000 troops configured for rapid ground operations. The buildup follows the Pentagon's reported planning for 'weeks of limited ground operations' in Iran.",
+    "source": "https://www.bloomberg.com/news/articles/2026-03-30/us-israel-keep-up-strikes-on-iran-with-no-end-of-war-in-sight",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "HRW: Iran's cluster munitions on Israel constitute war crimes",
+    "direction": "Neutral",
+    "description": "Human Rights Watch documented Iran's repeated use of cluster munitions delivered by ballistic missiles against Israeli cities since February 28, killing at least 4 civilians. HRW reviewed 50 videos showing ballistic missiles releasing 21-65 submunitions resembling Iran's Zelzal missile payload (up to 30 unguided 17kg submunitions). Documented strikes hit Or Yehuda (Mar 4), Yehud/Bat Yam/Holon (Mar 9, 2 construction workers killed), and Ramat Gan (Mar 18, elderly couple killed). HRW said the strikes 'pose a foreseeable and long-lasting danger to civilians' and may amount to war crimes.",
+    "source": "https://www.hrw.org/news/2026/03/29/iran-unlawful-cluster-munition-strikes-on-israel",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-03-29",
     "title": "US-Israel strikes Bandar Khamir port near Hormuz; 5 killed, 4 injured",
     "direction": "Escalating",
