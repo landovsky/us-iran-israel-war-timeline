@@ -1,0 +1,130 @@
+.hero {
+  position: relative;
+  padding: 30px 0 26px;
+  border-bottom: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 50% 160% at 100% -20%, rgba(239,68,68,0.11) 0%, transparent 60%),
+    radial-gradient(ellipse 30% 80%  at 80%  120%, rgba(59,130,246,0.07) 0%, transparent 60%);
+  pointer-events: none;
+}
+
+.hero::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(to right,
+    transparent 0%,
+    rgba(239,68,68,0.35) 25%,
+    rgba(59,130,246,0.2) 70%,
+    transparent 100%
+  );
+}
+
+.heroInner {
+  position: relative;
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 0 var(--content-pad);
+}
+
+.eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.58rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--esc);
+  margin-bottom: 4px;
+  opacity: 0;
+  animation: fadeUp 0.5s 0.05s ease forwards;
+}
+
+.titleRow {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  opacity: 0;
+  animation: fadeUp 0.55s 0.15s ease forwards;
+}
+
+.title {
+  font-family: 'Bebas Neue', 'Arial Narrow', sans-serif;
+  font-size: clamp(2.6rem, 5.5vw, 3.6rem);
+  font-weight: 400;
+  line-height: 0.94;
+  letter-spacing: 0.03em;
+  color: #f1f5f9;
+  margin: 0;
+}
+
+.dayCounter {
+  font-family: 'Bebas Neue', 'Arial Narrow', sans-serif;
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  line-height: 0.94;
+  letter-spacing: 0.04em;
+  background: linear-gradient(180deg, #ef4444 0%, #b91c1c 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  white-space: nowrap;
+}
+
+.dayNum {
+  font-size: clamp(2.6rem, 5.5vw, 4rem);
+}
+
+.subtitle {
+  font-family: 'Bebas Neue', 'Arial Narrow', sans-serif;
+  font-size: clamp(1rem, 2vw, 1.4rem);
+  color: var(--muted);
+  letter-spacing: 0.06em;
+  margin-top: 2px;
+  opacity: 0;
+  animation: fadeUp 0.5s 0.2s ease forwards;
+}
+
+.updated {
+  display: block;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.56rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+  margin-top: 12px;
+  opacity: 0;
+  animation: fadeIn 0.5s 0.25s ease forwards;
+}
+
+.description {
+  margin-top: 10px;
+  font-size: 0.7rem;
+  color: var(--muted);
+  line-height: 1.65;
+  opacity: 0;
+  animation: fadeUp 0.5s 0.3s ease forwards;
+}
+.red  { color: var(--esc);  font-weight: 600; }
+.blue { color: var(--desc); font-weight: 600; }
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@media (max-width: 620px) {
+  .titleRow { gap: 10px; }
+  .title { font-size: clamp(2rem, 8vw, 2.6rem); }
+  .dayNum { font-size: clamp(2rem, 8vw, 3rem); }
+}
