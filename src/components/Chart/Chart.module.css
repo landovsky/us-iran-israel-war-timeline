@@ -1,0 +1,53 @@
+.chartContainer {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 0 var(--content-pad);
+}
+
+.chart {
+  width: 100%;
+  height: auto;
+  display: block;
+  cursor: crosshair;
+  touch-action: none;
+}
+
+.dot {
+  cursor: pointer;
+  transition: r 0.15s ease, opacity 0.15s ease;
+}
+
+.dot:hover {
+  opacity: 1;
+}
+
+.dayLabel {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 9px;
+  fill: var(--dim);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.brentLabel {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 7px;
+  fill: #f59e0b;
+  opacity: 0.6;
+}
+
+.brentAxisTitle {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 7px;
+  fill: #f59e0b;
+  opacity: 0.5;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.brentTooltip {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 8px;
+  fill: #f59e0b;
+  font-weight: 500;
+}

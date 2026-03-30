@@ -1,0 +1,66 @@
+.briefing {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 10px var(--content-pad) 8px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.briefing:hover {
+  background: rgba(17, 24, 39, 0.5);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.toggle {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.48rem;
+  letter-spacing: 0.08em;
+  color: #4d9de0;
+  margin-left: auto;
+  flex-shrink: 0;
+  transition: color 0.15s;
+}
+
+.briefing:hover .toggle {
+  color: #7bbdf5;
+}
+
+.arrow {
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.open .arrow {
+  transform: rotate(180deg);
+}
+
+.text {
+  font-size: 0.69rem;
+  color: var(--muted);
+  line-height: 1.65;
+  margin-top: 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  transition: all 0.25s ease;
+}
+
+.open .text {
+  -webkit-line-clamp: unset;
+  overflow: visible;
+}
