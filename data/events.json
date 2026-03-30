@@ -41,7 +41,7 @@
   },
   {
     "date": "2026-03-30",
-    "title": "Brent crude hits $115.93, up 62% since war began; IEA calls it biggest oil shock in history",
+    "title": "Brent crude hits $115.93, up 62% since war began; IEA calls it biggest oil",
     "direction": "Neutral",
     "description": "Brent crude rose 2.98% to $115.93 per barrel on Monday, bringing total gains to over 62% since February 27 — surpassing the price spike from Iraq's 1990 invasion of Kuwait. The IEA described the Strait of Hormuz closure as the biggest oil shock in history, with the world losing up to 20 million barrels per day from Middle East producers. Asian markets fell sharply; Jakarta's Composite Index declined and Malaysia's FTSE Bursa Malaysia Top 100 dropped ~1.5%.",
     "source": "https://www.aljazeera.com/economy/2026/3/30/us-israel-war-on-iran-whats-happening-on-day-31-of-attacks",
@@ -225,7 +225,7 @@
   },
   {
     "date": "2026-03-27",
-    "title": "Iran launches Op True Promise 4 Wave 83: strikes Ashdod, UAE, Saudi, Kuwait, Bahrain US bases",
+    "title": "Iran launches Op True Promise 4 Wave 83: strikes Ashdod, UAE, Saudi, Kuwait,",
     "direction": "Escalating",
     "description": "The IRGC announced Operation True Promise 4, Wave 83, employing long-range solid and liquid-fuel missiles, multi-warhead precision systems, and loitering drones. Named targets included storage tanks and an oil depot at Ashdod (Israel); a US military information exchange center; aircraft hangars at Al-Dhafra Air Base (UAE) and Al-Udeiri Air Base (Saudi Arabia); maintenance and transport aircraft at Ali Al-Salem Air Base (Kuwait); and a Patriot system maintenance hangar at Sheikh Isa Base (Bahrain). Iran also fired a fourth salvo at central and southern Israel using cluster bomb warheads; air defenses intercepted most but bomblets scattered over wide areas.",
     "source": "https://www.newsx.com/world/operation-true-promise-4-iran-intensifies-83rd-wave-of-retaliatory-missile-and-drone-attacks-on-us-and-israeli-targets-189394/",
@@ -233,7 +233,7 @@
   },
   {
     "date": "2026-03-27",
-    "title": "Israel strikes Parchin missile complex; 60+ jets, 150+ munitions, 1,000+ Iran targets hit total",
+    "title": "Israel strikes Parchin missile complex; 60+ jets, 150+ munitions, 1,000+ Iran",
     "direction": "Escalating",
     "description": "The IDF struck Parchin, east of Tehran — described as Iran's \"most central facility for the production of missiles and defense systems\" — along with a warhead casting and filling factory, a ballistic missile engine production site, and a solid-fuel missile component plant. Over 60 IAF fighter jets dropped more than 150 munitions in a single wave. IDF spokesman Brig. Gen. Defrin stated the IDF has now hit more than 1,000 targets in Iran's weapons production industries since the war began and assessed the Parchin and Shahrud strikes have \"set Iran back years\" in missile production capability; total IDF target hits in Iran have exceeded 15,000.",
     "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
@@ -249,7 +249,7 @@
   },
   {
     "date": "2026-03-27",
-    "title": "Saudi Arabia intercepts 17 drones over Eastern Province, 8 over Riyadh, and 6 ballistic missiles",
+    "title": "Saudi Arabia intercepts 17 drones over Eastern Province, 8 over Riyadh, and 6",
     "direction": "Escalating",
     "description": "Saudi Arabia's Defence Ministry spokesman Maj. Gen. Turki Al-Malki confirmed interception and destruction of 17 drones over the Eastern Region, 8 drones over the Riyadh region (including two separate waves within a single hour), and the launch of 6 ballistic missiles toward Riyadh — 2 intercepted, 4 falling into the Arabian Gulf or uninhabited areas. A separate interception of 5 drones in the Eastern Province was also confirmed. The Saudi air defense alert system has been active continuously for 27 days since the war began.",
     "source": "https://saudigazette.com.sa/article/659925",
@@ -272,6 +272,70 @@
     "actor": "UAE"
   },
   {
+    "date": "2026-03-27",
+    "title": "IFRC: Iran civilian toll reaches 1,900 dead, 20,000+ injured; 82,000 buildings damaged",
+    "direction": "Escalating",
+    "description": "The International Federation of Red Cross and Red Crescent Societies confirmed Iran's cumulative civilian toll at 1,900 killed and over 20,000 injured as of March 27, with 82,000 buildings damaged and 180,000 residents affected. Iran's UN Ambassador told the General Assembly that 600 schools had been destroyed or damaged and accused the US and Israel of genocide. The figures represent the first credible externally-verified count of Iranian civilian casualties since the war began February 28.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/3/27/iran-war-live-trump-delays-attacks-on-iranian-energy-sector-by-10-days",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "IDF uncovers Hezbollah tunnel beneath church in Khiam, southern Lebanon",
+    "direction": "Neutral",
+    "description": "Israeli ground forces advancing into Khiam, a town 3 km from the Israeli border, discovered a Hezbollah military tunnel running beneath a church on March 27. The IDF published footage of the tunnel as evidence of Hezbollah's systematic use of civilian infrastructure for military purposes. IDF operations in Khiam have been ongoing since ground forces crossed into Lebanon on March 16; Division 162 was deployed this week as the third Israeli division now operating in southern Lebanon.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "IRGC formally declares Hormuz closed to US and Israeli allies' shipping",
+    "direction": "Escalating",
+    "description": "The IRGC issued a formal announcement that the Strait of Hormuz is closed to shipping \"to and from ports of allies and supporters of the Israeli-American enemies.\" Three container ships of various nationalities turned back after receiving IRGC warnings. The UAE called for an international force to reopen the strait. Tanker traffic is down more than 90%, with fewer than 6 ships transiting daily versus the pre-war average of 130+; the DIA assessed Iran could sustain the closure for 1 to 6 months.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-03-27/live-updates-891386",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Israel deploys third division (162nd) to Lebanon; Lebanese officials call it 'an invasion'",
+    "direction": "Escalating",
+    "description": "Israel deployed Division 162 to southern Lebanon, joining two divisions already operating there and expanding the ground operation's buffer zone further north. Lebanon's Culture Minister Ghassan Salamé told Euronews: \"An invasion, not a limited operation.\" Lebanese PM Nawaf Salam announced Lebanon will file a complaint with the UN Security Council. UNICEF reported over 370,000 children displaced in Lebanon and 121 children killed since the conflict began on March 2.",
+    "source": "https://www.euronews.com/my-europe/2026/03/27/this-is-an-invasion-lebanon-sounds-alarm-over-israeli-operations",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Israeli public strong support for war drops from 74% to 50%; IDF warns of",
+    "direction": "De-escalating",
+    "description": "An Israel Democracy Institute survey found strong support among Jewish Israelis for the war fell from 74% at the conflict's start to 50% by late March; opposition rose from 4% to 11.5%. Among Arab Israelis, support dropped from 27% to 19%. IDF Chief of Staff Lt. Gen. Eyal Zamir separately warned the cabinet of growing manpower shortages after 27 days of high-intensity warfare. The polls represent the clearest sign of domestic Israeli pressure on the Netanyahu government.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "IDF strikes Hezbollah paramedic center in Hebbariye; 7 killed",
+    "direction": "Escalating",
+    "description": "An Israeli airstrike hit a paramedic center affiliated with Hezbollah in Hebbariye, southern Lebanon, killing 7 people. The IDF stated those killed were Hezbollah militants using the facility; Hezbollah and Lebanese health officials disputed this, saying those killed were emergency responders. Lebanese Health Ministry noted 42 health workers have been killed in Lebanon since March 2. Lebanon's PM Salam's office condemned the strike.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Iran fires two missile barrages at central Israel; 2 lightly wounded in Ramat Gan",
+    "direction": "Escalating",
+    "description": "Iran launched two separate missile rounds targeting central Israel on March 27. Magen David Adom treated 6 people in total — 4 wounded while running to shelters and 2 lightly injured in Ramat Gan. At least one salvo included a cluster bomb warhead. Iron Dome and Israel's layered air defenses intercepted the majority of incoming projectiles.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Israel strikes dozens of weapon factories and ballistic missile component sites",
+    "direction": "Escalating",
+    "description": "The IDF launched a 'wide-scale wave of strikes' on Tehran overnight March 26-27, targeting dozens of weapon manufacturing facilities, a military base storing anti-aircraft systems, a production site for key ballistic missile components, a battery production facility, and an IRGC weapons production complex. Israel also struck ballistic missile launch sites and targeted Iranian soldiers described as preparing to fire on Israel. The US has fired over 850 Tomahawk cruise missiles in four weeks and has destroyed approximately two-thirds of Iran's missile and drone production facilities.",
+    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-03-26",
     "title": "Lebanon expels Iran ambassador; Iranian missile explodes over Lebanese airspace — a first",
     "direction": "De-escalating",
@@ -281,7 +345,7 @@
   },
   {
     "date": "2026-03-26",
-    "title": "Witkoff confirms 15-point peace framework; Trump: Iran's 'gift' was allowing 8 tankers through Hormuz",
+    "title": "Witkoff confirms 15-point peace framework; Trump: Iran's 'gift' was allowing 8",
     "direction": "De-escalating",
     "description": "US special envoy Steve Witkoff confirmed at a Cabinet meeting that Washington presented Iran a \"15-point action list that forms the framework for a peace deal,\" transmitted through Pakistan as intermediary. Trump separately revealed on Fox News that the \"present\" Iran gave as a good-faith gesture was allowing eight oil tankers through the Strait of Hormuz: \"They gave me ships. I gave them 10 days.\" Iran publicly rejected the 15 points as \"one-sided\" and \"extremely maximalist\"; a senior Iranian official told Reuters: \"No plan for talks appears realistic at this stage.\"",
     "source": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz/",
@@ -304,22 +368,6 @@
     "actor": "US"
   },
   {
-    "date": "2026-03-27",
-    "title": "IFRC: Iran civilian toll reaches 1,900 dead, 20,000+ injured; 82,000 buildings damaged",
-    "direction": "Escalating",
-    "description": "The International Federation of Red Cross and Red Crescent Societies confirmed Iran's cumulative civilian toll at 1,900 killed and over 20,000 injured as of March 27, with 82,000 buildings damaged and 180,000 residents affected. Iran's UN Ambassador told the General Assembly that 600 schools had been destroyed or damaged and accused the US and Israel of genocide. The figures represent the first credible externally-verified count of Iranian civilian casualties since the war began February 28.",
-    "source": "https://www.aljazeera.com/news/liveblog/2026/3/27/iran-war-live-trump-delays-attacks-on-iranian-energy-sector-by-10-days",
-    "actor": "Other"
-  },
-  {
-    "date": "2026-03-27",
-    "title": "IDF uncovers Hezbollah tunnel beneath church in Khiam, southern Lebanon",
-    "direction": "Neutral",
-    "description": "Israeli ground forces advancing into Khiam, a town 3 km from the Israeli border, discovered a Hezbollah military tunnel running beneath a church on March 27. The IDF published footage of the tunnel as evidence of Hezbollah's systematic use of civilian infrastructure for military purposes. IDF operations in Khiam have been ongoing since ground forces crossed into Lebanon on March 16; Division 162 was deployed this week as the third Israeli division now operating in southern Lebanon.",
-    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
-    "actor": "Israel"
-  },
-  {
     "date": "2026-03-26",
     "title": "Hezbollah kills two IDF soldiers in Lebanon; rocket kills civilian in Nahariya",
     "direction": "Escalating",
@@ -328,32 +376,8 @@
     "actor": "Lebanon"
   },
   {
-    "date": "2026-03-27",
-    "title": "IRGC formally declares Hormuz closed to US and Israeli allies' shipping",
-    "direction": "Escalating",
-    "description": "The IRGC issued a formal announcement that the Strait of Hormuz is closed to shipping \"to and from ports of allies and supporters of the Israeli-American enemies.\" Three container ships of various nationalities turned back after receiving IRGC warnings. The UAE called for an international force to reopen the strait. Tanker traffic is down more than 90%, with fewer than 6 ships transiting daily versus the pre-war average of 130+; the DIA assessed Iran could sustain the closure for 1 to 6 months.",
-    "source": "https://www.jpost.com/middle-east/iran-news/2026-03-27/live-updates-891386",
-    "actor": "Iran"
-  },
-  {
-    "date": "2026-03-27",
-    "title": "Israel deploys third division (162nd) to Lebanon; Lebanese officials call it 'an invasion'",
-    "direction": "Escalating",
-    "description": "Israel deployed Division 162 to southern Lebanon, joining two divisions already operating there and expanding the ground operation's buffer zone further north. Lebanon's Culture Minister Ghassan Salamé told Euronews: \"An invasion, not a limited operation.\" Lebanese PM Nawaf Salam announced Lebanon will file a complaint with the UN Security Council. UNICEF reported over 370,000 children displaced in Lebanon and 121 children killed since the conflict began on March 2.",
-    "source": "https://www.euronews.com/my-europe/2026/03/27/this-is-an-invasion-lebanon-sounds-alarm-over-israeli-operations",
-    "actor": "Israel"
-  },
-  {
-    "date": "2026-03-27",
-    "title": "Israeli public strong support for war drops from 74% to 50%; IDF warns of manpower shortage",
-    "direction": "De-escalating",
-    "description": "An Israel Democracy Institute survey found strong support among Jewish Israelis for the war fell from 74% at the conflict's start to 50% by late March; opposition rose from 4% to 11.5%. Among Arab Israelis, support dropped from 27% to 19%. IDF Chief of Staff Lt. Gen. Eyal Zamir separately warned the cabinet of growing manpower shortages after 27 days of high-intensity warfare. The polls represent the clearest sign of domestic Israeli pressure on the Netanyahu government.",
-    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
-    "actor": "Israel"
-  },
-  {
     "date": "2026-03-26",
-    "title": "Iran oil revenue hits $139M/day — sole Gulf exporter via Hormuz, Kharg oil infrastructure intact",
+    "title": "Iran oil revenue hits $139M/day — sole Gulf exporter via Hormuz, Kharg oil",
     "direction": "Neutral",
     "description": "Bloomberg reported Iran earned approximately $139 million per day from crude sales in March, up from $115 million in February, as Iran remains the only major Gulf oil exporter routing shipments through the Strait of Hormuz. Export volume reached ~1.6 million barrels per day through March 23, near pre-war levels, with at least 13 VLCCs loading at Kharg since late February. US and Israeli strikes on Kharg have targeted only military installations — air defenses, naval base, and mine storage — leaving the island's 55 crude storage tanks intact. Iranian Light crude's discount to Brent narrowed to $2.10/barrel, the smallest in nearly a year.",
     "source": "https://www.bloomberg.com/news/articles/2026-03-26/iran-oil-revenue-soars-as-it-s-the-only-exporter-out-of-hormuz",
@@ -368,30 +392,6 @@
     "actor": "Other"
   },
   {
-    "date": "2026-03-27",
-    "title": "IDF strikes Hezbollah paramedic center in Hebbariye; 7 killed",
-    "direction": "Escalating",
-    "description": "An Israeli airstrike hit a paramedic center affiliated with Hezbollah in Hebbariye, southern Lebanon, killing 7 people. The IDF stated those killed were Hezbollah militants using the facility; Hezbollah and Lebanese health officials disputed this, saying those killed were emergency responders. Lebanese Health Ministry noted 42 health workers have been killed in Lebanon since March 2. Lebanon's PM Salam's office condemned the strike.",
-    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
-    "actor": "Israel"
-  },
-  {
-    "date": "2026-03-27",
-    "title": "Iran fires two missile barrages at central Israel; 2 lightly wounded in Ramat Gan",
-    "direction": "Escalating",
-    "description": "Iran launched two separate missile rounds targeting central Israel on March 27. Magen David Adom treated 6 people in total — 4 wounded while running to shelters and 2 lightly injured in Ramat Gan. At least one salvo included a cluster bomb warhead. Iron Dome and Israel's layered air defenses intercepted the majority of incoming projectiles.",
-    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
-    "actor": "Iran"
-  },
-  {
-    "date": "2026-03-27",
-    "title": "Israel strikes dozens of weapon factories and ballistic missile component sites in Tehran overnight",
-    "direction": "Escalating",
-    "description": "The IDF launched a 'wide-scale wave of strikes' on Tehran overnight March 26-27, targeting dozens of weapon manufacturing facilities, a military base storing anti-aircraft systems, a production site for key ballistic missile components, a battery production facility, and an IRGC weapons production complex. Israel also struck ballistic missile launch sites and targeted Iranian soldiers described as preparing to fire on Israel. The US has fired over 850 Tomahawk cruise missiles in four weeks and has destroyed approximately two-thirds of Iran's missile and drone production facilities.",
-    "source": "https://www.timesofisrael.com/liveblog-march-27-2026/",
-    "actor": "Israel"
-  },
-  {
     "date": "2026-03-26",
     "title": "Kuwait arrests 6 Hezbollah-linked operatives planning assassinations inside Kuwait",
     "direction": "Escalating",
@@ -401,7 +401,7 @@
   },
   {
     "date": "2026-03-26",
-    "title": "Israel orders all residents south of Lebanon's Zahrani River to evacuate; ground ops expand north",
+    "title": "Israel orders all residents south of Lebanon's Zahrani River to evacuate;",
     "direction": "Escalating",
     "description": "The Israeli military issued displacement orders for all residents of southern Lebanon south of the Zahrani River — approximately 50km (31 miles) north of the Israeli border, far beyond the Litani line announced days earlier. The orders cover a substantial portion of Lebanese territory and signal a major northward expansion of Israel's ground operation. Lebanese Health Ministry reported over 1,100 killed and 3,229 wounded in Israeli operations since March 2. The expansion came alongside reports that Israel is 'speeding up' its targeting in Iran over 48 hours in anticipation of a potential ceasefire.",
     "source": "https://www.aljazeera.com/news/liveblog/2026/3/27/iran-war-live-trump-delays-attacks-on-iranian-energy-sector-by-10-days",
@@ -417,7 +417,7 @@
   },
   {
     "date": "2026-03-26",
-    "title": "EU's Kallas: Russia supplying Iran intelligence to kill Americans; UK cites 'hidden hand of Putin'",
+    "title": "EU's Kallas: Russia supplying Iran intelligence to kill Americans; UK cites",
     "direction": "Escalating",
     "description": "EU foreign policy chief Kaja Kallas, at the G7 foreign ministers' meeting in France, stated: 'We see that Russia is helping Iran with intelligence to target Americans, to kill Americans, and Russia is also supporting Iran now with the drones.' She urged Washington to pressure Moscow or the Middle East war would not end. UK Defense Secretary John Healey separately cited the 'hidden hand of Putin' and described a Russia-Iran 'axis of aggression.' Western intelligence sources told Reuters that Russia has supplied Iran satellite imagery including locations of US warships, and has helped Iran upgrade its drones.",
     "source": "https://www.bloomberg.com/news/articles/2026-03-26/russia-is-helping-iran-kill-americans-eu-s-top-diplomat-says",
@@ -433,7 +433,7 @@
   },
   {
     "date": "2026-03-26",
-    "title": "Pakistan FM Dar publicly confirms indirect US-Iran talks via message relay; Turkey and Egypt also involved",
+    "title": "Pakistan FM Dar publicly confirms indirect US-Iran talks via message relay;",
     "direction": "De-escalating",
     "description": "Pakistani Foreign Minister Ishaq Dar confirmed on social media: 'US-Iran indirect talks are taking place through messages being relayed by Pakistan,' adding Turkey and Egypt were 'extending their support to this initiative.' An unnamed official in Islamabad told NPR that Pakistan's interior minister held a secret meeting that day with Iran's ambassador. Mediators are pushing for in-person US-Iran talks in Pakistan, according to Egyptian and Pakistani officials. Iran's foreign ministry maintained these are message exchanges only, not formal negotiations.",
     "source": "https://www.opb.org/article/2026/03/26/us-iran-indirect-talks-confirmed-by-pakistan-as-war-rages/",
@@ -441,7 +441,7 @@
   },
   {
     "date": "2026-03-26",
-    "title": "Trump extends Iran energy strike pause 10 days to April 6, cites 'Iranian government request'",
+    "title": "Trump extends Iran energy strike pause 10 days to April 6, cites 'Iranian",
     "direction": "De-escalating",
     "description": "President Trump posted on Truth Social: 'As per Iranian Government request, please let this statement serve to represent that I am pausing the period of Energy Plant destruction by 10 Days to Monday, April 6, 2026, at 8 P.M., Eastern Time.' He added talks are 'going very well.' The extension is Trump's second deadline delay since threatening to destroy Iran's power plants. Steve Witkoff told a Cabinet meeting: 'If we can convince Iran that this is the inflection point with no good alternatives for them, other than more death and destruction, we have strong signs that this is a possibility.' Human rights organizations warned strikes on power plants could constitute war crimes.",
     "source": "https://www.npr.org/2026/03/26/nx-s1-5761882/iran-war-peace-conditions",
@@ -464,22 +464,6 @@
     "actor": "US"
   },
   {
-    "date": "2026-03-25",
-    "title": "Trump at Republican dinner: Iran 'negotiating but afraid to say it'; names Vance, Rubio, Witkoff, Kushner as deal team",
-    "direction": "De-escalating",
-    "description": "At a dinner for Republican members of Congress, Trump said of Iran: 'They are negotiating, by the way, and they want to make a deal so badly. But they're afraid to say it, because they figure they'll be killed by their own people.' He named VP JD Vance, Secretary of State Marco Rubio, envoy Steve Witkoff, and Jared Kushner as active participants in the talks — the first public naming of the full US team. Trump also revealed Iran had offered a 'prize' tied to oil, gas, and the Strait of Hormuz. He referred to the conflict as a 'military operation' rather than a 'war,' saying: 'They don't like the word war, because you're supposed to get approval.'",
-    "source": "https://www.rte.ie/news/middle-east/2026/0326/1565260-trump-iran-us/",
-    "actor": "US"
-  },
-  {
-    "date": "2026-03-25",
-    "title": "Israel strikes submarine development center in Isfahan alongside multiple Tehran strike waves",
-    "direction": "Escalating",
-    "description": "Israel targeted an Iranian submarine development center in Isfahan as part of a broader strike campaign that also completed 'several waves of airstrikes on Tehran.' The Isfahan target — part of Iran's naval-industrial complex developing advanced submarines — represents Israel's continued effort to destroy future force-projection capabilities, not just current missile stocks. Israel's UN Ambassador Danon stated military operations would continue 'until Iran's nuclear and missile capabilities are fully eliminated,' underscoring that Israel views the war as a disarmament campaign with no defined endpoint.",
-    "source": "https://www.pbs.org/newshour/world/iran-dismisses-u-s-ceasefire-plan-issues-counterproposal-as-strikes-land-across-the-mideast",
-    "actor": "Israel"
-  },
-  {
     "date": "2026-03-26",
     "title": "White House: Pakistan talks are 'speculation' — but confirms Iran talks 'productive'",
     "direction": "Neutral",
@@ -489,7 +473,23 @@
   },
   {
     "date": "2026-03-25",
-    "title": "Araghchi publicly denies any negotiations: 'We do not engage in talks and have no plans to'",
+    "title": "Trump at Republican dinner: Iran 'negotiating but afraid to say it'; names",
+    "direction": "De-escalating",
+    "description": "At a dinner for Republican members of Congress, Trump said of Iran: 'They are negotiating, by the way, and they want to make a deal so badly. But they're afraid to say it, because they figure they'll be killed by their own people.' He named VP JD Vance, Secretary of State Marco Rubio, envoy Steve Witkoff, and Jared Kushner as active participants in the talks — the first public naming of the full US team. Trump also revealed Iran had offered a 'prize' tied to oil, gas, and the Strait of Hormuz. He referred to the conflict as a 'military operation' rather than a 'war,' saying: 'They don't like the word war, because you're supposed to get approval.'",
+    "source": "https://www.rte.ie/news/middle-east/2026/0326/1565260-trump-iran-us/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Israel strikes submarine development center in Isfahan alongside multiple",
+    "direction": "Escalating",
+    "description": "Israel targeted an Iranian submarine development center in Isfahan as part of a broader strike campaign that also completed 'several waves of airstrikes on Tehran.' The Isfahan target — part of Iran's naval-industrial complex developing advanced submarines — represents Israel's continued effort to destroy future force-projection capabilities, not just current missile stocks. Israel's UN Ambassador Danon stated military operations would continue 'until Iran's nuclear and missile capabilities are fully eliminated,' underscoring that Israel views the war as a disarmament campaign with no defined endpoint.",
+    "source": "https://www.pbs.org/newshour/world/iran-dismisses-u-s-ceasefire-plan-issues-counterproposal-as-strikes-land-across-the-mideast",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Araghchi publicly denies any negotiations: 'We do not engage in talks and have",
     "direction": "Escalating",
     "description": "Iranian Foreign Minister Abbas Araghchi appeared on state television and flatly denied that Iran is in any talks to end the war: 'Iran has not engaged in talks to end the war and does not plan on any negotiations.' He called the US 15-point plan 'extremely maximalist and unreasonable.' In a pointed swipe at Trump, he said: 'Didn't the Americans say unconditional surrender? The fact that they are now talking about negotiation is an admission of defeat.' He acknowledged 'exchange of messages through friendly countries' but insisted this does not constitute negotiations.",
     "source": "https://www.aljazeera.com/news/2026/3/25/iran-calls-us-proposal-to-end-war-maximalist-unreasonable",
@@ -497,7 +497,7 @@
   },
   {
     "date": "2026-03-25",
-    "title": "US-Israel rift: Israel alarmed Trump may declare unilateral ceasefire without Israeli consent",
+    "title": "US-Israel rift: Israel alarmed Trump may declare unilateral ceasefire without",
     "direction": "Escalating",
     "description": "Two Israeli government sources told reporters that Israel is alarmed by the possibility that the Trump administration could unilaterally announce a one-month ceasefire in Iran to facilitate negotiations — without Israeli agreement. Israel's UN Ambassador Danny Danon stated publicly: 'Israel is not part of US-Iran talks. Our military operations will continue until Iran's nuclear and missile capabilities are fully eliminated.' The tension signals a potential open rift between Washington and Jerusalem over how and when the war ends.",
     "source": "https://www.pbs.org/newshour/world/iran-dismisses-u-s-ceasefire-plan-issues-counterproposal-as-strikes-land-across-the-mideast",
@@ -528,16 +528,8 @@
     "actor": "Lebanon"
   },
   {
-    "date": "2026-03-23",
-    "title": "US kills 15 PMF fighters in Iraq airstrike; Iraq grants PMF formal right to retaliate",
-    "direction": "Escalating",
-    "description": "A US airstrike at a PMF base in Habbaniyah, Al Anbar Governorate killed 15 fighters from Iran-backed Popular Mobilization Forces, including a local commander. Iraq's federal government subsequently granted Iran-backed PMF groups formal legal authority to respond to US attacks on Iraqi soil. The Islamic Resistance in Iraq claimed 23 separate operations against US bases in the 24 hours ending March 25. Iraq had already summoned the US chargé d'affaires and filed a formal protest over the strike.",
-    "source": "https://www.timesofisrael.com/airstrikes-kill-15-iran-backed-troops-in-iraq-targeting-hq-and-leader/",
-    "actor": "US"
-  },
-  {
     "date": "2026-03-25",
-    "title": "Iran grants selective Hormuz passage to China, Russia, India, Iraq, Pakistan — 2,000 ships still stranded",
+    "title": "Iran grants selective Hormuz passage to China, Russia, India, Iraq, Pakistan —",
     "direction": "Escalating",
     "description": "FM Araghchi confirmed Iran has formally granted Hormuz passage only to vessels from five 'friendly' nations: China, Russia, India, Iraq, and Pakistan. All other shipping must coordinate with Iranian naval authorities or face interception. One container vessel (SELEN) was expelled for violating Iran's rules. Approximately 2,000 vessels and 20,000 seafarers remain stranded in or near the Strait. QatarEnergy, Shell, Kuwait Petroleum, and Bapco have invoked force majeure. Brent crude trades around $100–110/barrel — down from a $126 peak but ~40% above prewar levels.",
     "source": "https://www.aljazeera.com/economy/2026/3/16/strait-of-hormuz-which-countriess-ships-has-iran-allowed-safe-passage-to/",
@@ -545,7 +537,7 @@
   },
   {
     "date": "2026-03-25",
-    "title": "UN Secretary-General: conflict 'totally out of control'; $63 billion in Arab economic losses",
+    "title": "UN Secretary-General: conflict 'totally out of control'; $63 billion in Arab",
     "direction": "Neutral",
     "description": "UN Secretary-General António Guterres stated the fighting 'has broken past limits even leaders thought imaginable' and warned the conflict is 'totally out of control.' The UN separately assessed cumulative economic losses across the Arab region at $63 billion. France's military chief was reported to be preparing talks with regional navies to restore maritime navigation through the Strait of Hormuz. The UN Security Council has been unable to pass any resolution due to US and Russian vetoes on competing texts.",
     "source": "https://news.un.org/en/story/2026/03/1167195",
@@ -569,7 +561,7 @@
   },
   {
     "date": "2026-03-25",
-    "title": "Iran partially opens Strait of Hormuz to 'non-hostile' vessels — only 5 ships transit vs 120/day prewar",
+    "title": "Iran partially opens Strait of Hormuz to 'non-hostile' vessels — only 5 ships",
     "direction": "De-escalating",
     "description": "Iran's UN mission announced that vessels not associated with the US, Israel, or their supporters may transit the Strait of Hormuz 'in coordination with competent Iranian authorities.' Despite the announcement, only 5 ships were tracked transiting versus a prewar average of 120 per day, with an estimated 400 vessels still anchored outside the strait. The partial concession — widely interpreted as the 'oil and gas present' Trump had teased publicly — stopped well short of restoring normal shipping. Analysts noted Iranian naval vessels are still shadowing transiting ships.",
     "source": "https://www.aljazeera.com/economy/2026/3/25/iran-says-non-hostile-ships-can-pass-safely-through-strait-of-hormuz",
@@ -577,7 +569,7 @@
   },
   {
     "date": "2026-03-25",
-    "title": "Mohammad Bagher Zolghadr named Iran's new National Security Council chief, replacing killed Larijani",
+    "title": "Mohammad Bagher Zolghadr named Iran's new National Security Council chief,",
     "direction": "Escalating",
     "description": "President Pezeshkian, with approval from new Supreme Leader Mojtaba Khamenei, appointed IRGC veteran Mohammad Bagher Zolghadr as Secretary of the Supreme National Security Council, replacing Ali Larijani who was killed in an Israeli strike. Zolghadr served as IRGC Joint Staff chief for eight years and deputy commander-in-chief for another eight. He is sanctioned by the US, UK, and EU. Analysts say his appointment militarizes Iran's security decision-making — any negotiated outcome will now require the sign-off of a career IRGC commander with deep hostility toward Washington.",
     "source": "https://www.aljazeera.com/news/2026/3/25/irans-new-security-boss-mohammad-zolghadr-why-his-appointment-matters",
@@ -585,7 +577,7 @@
   },
   {
     "date": "2026-03-25",
-    "title": "US and Israel grant temporary diplomatic immunity to Araghchi and Qalibaf for negotiation window",
+    "title": "US and Israel grant temporary diplomatic immunity to Araghchi and Qalibaf for",
     "direction": "De-escalating",
     "description": "Per Israeli Channel 14, the US and Israel jointly granted temporary immunity from targeting to Iranian Foreign Minister Abbas Araghchi and Parliament Speaker Mohammad Baqer Qalibaf, valid for the duration of the current five-day diplomatic pause. The move is significant: Israel's Defense Minister had previously declared all Islamic Republic leaders legitimate targets. The immunity grants are tied directly to the negotiation window, with the implicit threat that they expire if talks collapse.",
     "source": "https://aninews.in/news/world/middle-east/us-israel-grant-immunity-to-iran-speaker-qalibaf-and-fm-araghchi-as-negotiations-continue-israeli-media20260325083203/",
@@ -617,7 +609,7 @@
   },
   {
     "date": "2026-03-25",
-    "title": "Kim Jong Un: Iran war proves nuclear weapons 'irreversible necessity'; North Korea reportedly arming Iran",
+    "title": "Kim Jong Un: Iran war proves nuclear weapons 'irreversible necessity'; North",
     "direction": "Escalating",
     "description": "Kim Jong Un addressed North Korea's Supreme People's Assembly and declared the country's nuclear-armed status 'irreversible,' explicitly citing US actions in the Iran war as proof that only nuclear weapons guarantee regime survival. North Korea is also reportedly supplying weapons to Iran via covert channels — analysts describe a 'rogue strategic pipeline' from Pyongyang to Tehran delivering munitions that extend Iran's missile campaign. The statements signal a broader proliferation effect from the conflict.",
     "source": "https://www.cnn.com/2026/03/25/asia/north-korea-nuclear-weapons-justified-iran-war-intl-hnk",
@@ -632,16 +624,8 @@
     "actor": "Other"
   },
   {
-    "date": "2026-03-18",
-    "title": "Pentagon requests $200 billion supplemental war budget; Hegseth: 'It takes money to kill bad guys'",
-    "direction": "Escalating",
-    "description": "Defense Secretary Pete Hegseth confirmed the Pentagon is seeking a $200 billion supplemental appropriation from Congress for the Iran war — four times early estimates and in addition to a record $1.5 trillion FY2027 base request. Hegseth justified the figure with the quote 'It takes money to kill bad guys.' Defense contractors are scaling to meet surge demand: Raytheon's Patriot interceptor production is ramping from 600 to 2,000/year, THAAD from 96 to 400/year, and Lockheed Martin's PrSM precision missiles from 400 to 1,600/year.",
-    "source": "https://www.washingtonpost.com/national-security/2026/03/18/iran-cost-budget-pentagon/",
-    "actor": "US"
-  },
-  {
     "date": "2026-03-25",
-    "title": "Second strike hits Bushehr NPP; IAEA confirms 350m from reactor, Rosatom warns of fuel risk",
+    "title": "Second strike hits Bushehr NPP; IAEA confirms 350m from reactor, Rosatom warns",
     "direction": "Escalating",
     "description": "A second projectile struck the Bushehr Nuclear Power Plant compound at 9:08 p.m. local time. The IAEA confirmed 'a structure 350 metres from the reactor was hit and destroyed.' No casualties or reactor damage reported. Russian state nuclear operator Rosatom issued a stark warning: the active reactor holds 72 tons of nuclear fuel and 210 tons of spent fuel — a potential regional-scale radiation disaster. Rosatom announced it is preparing a third evacuation of its ~480 remaining personnel. The back-to-back strikes on the plant represent the most dangerous nuclear threshold crossed since the war began.",
     "source": "https://world-nuclear-news.org/articles/iran-tells-iaea-a-projectile-hit-bushehr-nuclear-plant-premises",
@@ -678,14 +662,6 @@
     "description": "Iran's military spokesperson Lt. Col. Ebrahim Zolfaghari publicly mocked US ceasefire efforts, saying Americans were 'only negotiating with themselves.' Iran's formal counter-demands include: closure of all US military bases in the Gulf, financial compensation for war damages, end to Israel's anti-Hezbollah campaign, and Iran levying fees on Hormuz shipping. The public position directly contradicts a private signal from an Iranian source indicating Tehran is 'willing to listen' to suitable proposals.",
     "source": "https://www.businesstoday.in/world/story/shut-bases-lift-sanctions-or-no-deal-iran-sets-tough-terms-for-ceasefire-us-talks-522259-2026-03-25",
     "actor": "Iran"
-  },
-  {
-    "date": "2026-03-20",
-    "title": "US lifts Iranian oil sanctions for 30 days — 140 million barrels unlocked",
-    "direction": "De-escalating",
-    "description": "The Trump administration enacted a temporary 30-day lifting of Iranian oil sanctions to contain energy prices. Approximately 140 million barrels of Iranian oil were unlocked for export. Additional emergency measures included a Jones Act suspension, temporary Russian oil sanctions relief, and coordinated IEA strategic reserve releases. Brent crude had peaked above $126/barrel before the announcement. The sanction relief marked the first significant economic concession by the US since the war began.",
-    "source": "https://www.nbcnews.com/world/iran/us-eases-iranian-oil-sanctions-scramble-contain-energy-prices-handing-rcna264546",
-    "actor": "US"
   },
   {
     "date": "2026-03-25",
@@ -776,6 +752,110 @@
     "actor": "US"
   },
   {
+    "date": "2026-03-24",
+    "title": "Iran rejects Trump's peace claims as 'fake news'; IRGC threatens Tel Aviv strike",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guard called Trump a 'deceitful American president' and labelled his claims of ongoing peace negotiations 'fake news' and a 'big lie.' IRGC-linked sources warned 'special plans are arranged tonight for Tel Aviv and some regional allies of the US and Israel, which will completely remove any hope of negotiation.' Iranian officials accused the US of fabricating talks to manipulate global oil and financial markets and buy time as more US troops deploy to the region.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Brent crude plunges 7%+ to ~$104/barrel on Trump's 5-day pause announcement",
+    "direction": "Neutral",
+    "description": "Oil markets reacted sharply to Trump's postponement of Iranian energy infrastructure strikes. Brent crude fell more than 7% to around $104/barrel — touching below $99 at its intraday low, a drop of over 13% from the day's peak of $114. WTI fell 6.9% to $91.4/barrel. Despite the drop, prices remain over 40% above the pre-war level of $72.48. Asian equity markets also rallied: Japan's Nikkei up 0.9%, South Korea's Kospi up 1.1%, and Hong Kong's Hang Seng up 1.4%.",
+    "source": "https://www.cnn.com/2026/03/23/business/oil-prices-energy-shock-1970s-intl",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Pakistan offers Iran-US mediation; Netanyahu says military gains can convert to a deal",
+    "direction": "De-escalating",
+    "description": "Pakistani PM Shehbaz Sharif spoke with Iranian President Masoud Pezeshkian, pledging to play 'a constructive role in advancing peace.' Israeli PM Netanyahu, after speaking with Trump, said the US president believes major military gains against Iran can be converted into a negotiated agreement protecting Israel's vital interests — though Israel would continue strikes in both Iran and Lebanon in the meantime. US envoys Witkoff and Kushner were reported to be in contact with Iranian parliament speaker Mohammad Bagher Ghalibaf. Netanyahu also said Israel had recently killed two Iranian nuclear scientists.",
+    "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Iran fires cluster-warhead missiles at Tel Aviv metro area; 6+ injured",
+    "direction": "Escalating",
+    "description": "Iran fired missiles equipped with cluster warheads at the Tel Aviv metropolitan area, with impacts recorded across central Tel Aviv, Ramat Gan, Petah Tikva, and Holon. At least six people were injured. Israeli police estimated one warhead contained approximately 220 pounds of explosives. Cluster munitions disperse into multiple submunitions over a wide area, significantly increasing civilian risk. The Israeli Knesset suspended a late-night session due to missile alerts. Since the war began, 18 Israelis have been killed and over 4,700 injured.",
+    "source": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Iran launches 21 drones and 3 ballistic missiles at Saudi Arabia's Eastern",
+    "direction": "Escalating",
+    "description": "Saudi Arabia's Ministry of Defense intercepted approximately 21 drones and three ballistic missiles targeting the Eastern Province — the heart of the kingdom's oil and gas infrastructure. One ballistic missile headed for Riyadh was intercepted; another fell in an uninhabited area. The IRGC claimed the strikes targeted energy installations supporting US military operations. Bahrain also sounded warning alarms multiple times as Iranian missiles and drones swept across the Gulf.",
+    "source": "https://breakingdefense.com/2026/03/iran-attacks-uae-saudi-missiles-drones-gcc-air-defense/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Lebanon declares Iran's ambassador persona non grata; orders departure by March 29",
+    "direction": "De-escalating",
+    "description": "Lebanon's Foreign Ministry declared Iran's designated ambassador Mohammad Reza Sheibani persona non grata and ordered him to leave by March 29. Lebanon also recalled its own ambassador to Tehran for consultations. Foreign Minister Youssef Raggi cited Iran's violations of diplomatic norms and its role in dragging Lebanon into war through Hezbollah. Lebanon had already reimposed visa requirements on Iranian travellers and begun expelling individuals with IRGC ties. The decision marks a dramatic rupture in Lebanon-Iran relations.",
+    "source": "https://www.aljazeera.com/news/2026/3/24/lebanon-declares-iranian-ambassador-persona-non-grata-amid-israeli-attacks",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "UK deploys additional air defenses and warship to Middle East as Iranian",
+    "direction": "Escalating",
+    "description": "UK Prime Minister Keir Starmer announced Britain is deploying short-range air defense systems and an additional naval vessel to the Middle East to counter Iranian missile and drone attacks. RAF Typhoons from No. 12 Squadron are operating from Al Udeid Air Base at Qatar's request, having already intercepted Iranian drones. The UK also deployed helicopters to help defend Cypriot airspace. The deployment marks a deepening of British military involvement beyond the Diego Garcia basing support already provided to US long-range bombers.",
+    "source": "https://en.wikipedia.org/wiki/United_Kingdom_involvement_in_the_2026_Iran_war",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Mediators push Islamabad meeting between Ghalibaf and US envoys; April 9 set as",
+    "direction": "De-escalating",
+    "description": "Pakistan, Turkey, Egypt, Oman, and Qatar are working to arrange a face-to-face meeting in Islamabad between Iranian Parliament Speaker Mohammad Bagher Ghalibaf and US envoys Steve Witkoff and Jared Kushner, with VP JD Vance potentially attending. An Israeli official confirmed Washington set April 9 as the target date for ending the war. Pakistan's army chief Asim Munir spoke directly with Trump. Iran's Supreme National Security Council had yet to approve the meeting. Israel said it was 'surprised things were moving that fast' when Trump revealed the contacts.",
+    "source": "https://www.axios.com/2026/03/23/trump-suspends-iran-strikes-hormuz-negotiations",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "US kills PMF commander Saad Dawai al-Baiji and 15 fighters in Anbar airstrike",
+    "direction": "Escalating",
+    "description": "A US airstrike in Iraq's Anbar province killed Saad Dawai al-Baiji, provincial commander and head of operations for the pro-Iranian Popular Mobilisation Forces (PMF / Hashed al-Shaabi), along with 15 fighters. The PMF, though formally part of Iraq's army, includes Iran-aligned factions. Al Jazeera's correspondent described Iraq as a secondary battleground where the US is conducting 'deliberate but calibrated' strikes against Iran-aligned group leaders, leaving Iraqis caught in the crossfire.",
+    "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Iran acknowledges receiving US 'outreach' through intermediaries; proposals under review",
+    "direction": "De-escalating",
+    "description": "An Iranian source told CNN there had been 'outreach' between the US and Tehran, and that Iran is willing to listen to 'sustainable' proposals to end the war — a softer line than its public denials. Iran's Foreign Ministry confirmed it received messages through friendly countries and said they were under review. Iran's position: it is ready to guarantee it will never develop nuclear weapons but demands all sanctions be lifted and requires binding guarantees against future US-Israeli strikes. Iran stated it is 'not asking for a meeting' but is 'willing to listen.'",
+    "source": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Philippines declares national energy emergency; ~2,000 vessels trapped in Persian Gulf",
+    "direction": "Neutral",
+    "description": "Philippine President Ferdinand Marcos Jr. declared a 'national energy emergency' citing direct risks to domestic fuel supplies from the Hormuz closure. The International Maritime Organization reported approximately 2,000 vessels are now trapped inside the Persian Gulf, unable to transit the closed strait. Iran has selectively allowed ships from countries it considers neutral — including some Turkish and Indian vessels — to pass. GPS jamming of uncertain origin near the strait is additionally threatening safe navigation for oil tankers.",
+    "source": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Houthis warn Bahrain and UAE: 'first to lose' if they help reopen Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "Yemen's Houthi movement issued a direct threat to Bahrain and the UAE, warning they will be 'the first to lose in this battle' if they assist any effort to reopen the Strait of Hormuz. The Houthis stated they would respond to any escalation against Iran, including maritime operations. Bahrain's forces have intercepted 153 missiles and 301 drones since the war began. The threat underscores how the conflict is creating a broader axis of pressure across the Arabian Peninsula.",
+    "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "US kills 15 PMF fighters in Iraq airstrike; Iraq grants PMF formal right to retaliate",
+    "direction": "Escalating",
+    "description": "A US airstrike at a PMF base in Habbaniyah, Al Anbar Governorate killed 15 fighters from Iran-backed Popular Mobilization Forces, including a local commander. Iraq's federal government subsequently granted Iran-backed PMF groups formal legal authority to respond to US attacks on Iraqi soil. The Islamic Resistance in Iraq claimed 23 separate operations against US bases in the 24 hours ending March 25. Iraq had already summoned the US chargé d'affaires and filed a formal protest over the strike.",
+    "source": "https://www.timesofisrael.com/airstrikes-kill-15-iran-backed-troops-in-iraq-targeting-hq-and-leader/",
+    "actor": "US"
+  },
+  {
     "date": "2026-03-23",
     "title": "IRGC's 78th wave targets Dimona, Tel Aviv and Eilat with Emad and Qadr missiles",
     "direction": "Escalating",
@@ -790,30 +870,6 @@
     "description": "The Israeli Air Force struck Hezbollah command infrastructure in Beirut's southern suburbs (Dahieh), issuing evacuation warnings beforehand. Israeli officials are reported to be pursuing a 'Rafah model' approach — systematically clearing Hezbollah from southern Lebanon district by district, as was done in Rafah during the 2024 Gaza war. Lebanese authorities report over 1,100 killed in Israeli Lebanon strikes since March 2.",
     "source": "https://www.timesofisrael.com/liveblog-march-23-2026/",
     "actor": "Israel"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "Iran rejects Trump's peace claims as 'fake news'; IRGC threatens Tel Aviv strike",
-    "direction": "Escalating",
-    "description": "Iran's Revolutionary Guard called Trump a 'deceitful American president' and labelled his claims of ongoing peace negotiations 'fake news' and a 'big lie.' IRGC-linked sources warned 'special plans are arranged tonight for Tel Aviv and some regional allies of the US and Israel, which will completely remove any hope of negotiation.' Iranian officials accused the US of fabricating talks to manipulate global oil and financial markets and buy time as more US troops deploy to the region.",
-    "source": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake",
-    "actor": "Iran"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "Brent crude plunges 7%+ to ~$104/barrel on Trump's 5-day pause announcement",
-    "direction": "Neutral",
-    "description": "Oil markets reacted sharply to Trump's postponement of Iranian energy infrastructure strikes. Brent crude fell more than 7% to around $104/barrel \u2014 touching below $99 at its intraday low, a drop of over 13% from the day's peak of $114. WTI fell 6.9% to $91.4/barrel. Despite the drop, prices remain over 40% above the pre-war level of $72.48. Asian equity markets also rallied: Japan's Nikkei up 0.9%, South Korea's Kospi up 1.1%, and Hong Kong's Hang Seng up 1.4%.",
-    "source": "https://www.cnn.com/2026/03/23/business/oil-prices-energy-shock-1970s-intl",
-    "actor": "Other"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "Pakistan offers Iran-US mediation; Netanyahu says military gains can convert to a deal",
-    "direction": "De-escalating",
-    "description": "Pakistani PM Shehbaz Sharif spoke with Iranian President Masoud Pezeshkian, pledging to play 'a constructive role in advancing peace.' Israeli PM Netanyahu, after speaking with Trump, said the US president believes major military gains against Iran can be converted into a negotiated agreement protecting Israel's vital interests \u2014 though Israel would continue strikes in both Iran and Lebanon in the meantime. US envoys Witkoff and Kushner were reported to be in contact with Iranian parliament speaker Mohammad Bagher Ghalibaf. Netanyahu also said Israel had recently killed two Iranian nuclear scientists.",
-    "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
-    "actor": "Pakistan"
   },
   {
     "date": "2026-03-23",
@@ -840,6 +896,30 @@
     "actor": "Turkey"
   },
   {
+    "date": "2026-03-23",
+    "title": "US-Israel launch 'unprecedented' new wave of strikes on eastern Tehran",
+    "direction": "Escalating",
+    "description": "Israel and the United States launched a new wave of attacks described as 'unprecedented' by Al Jazeera's correspondent in Tehran, particularly targeting the eastern side of the city. Iran activated air defence systems in response to waves of US-Israeli drones. The Israeli military said it launched a second round of attacks within hours of announcing a 'wide-scale wave of strikes' on Tehran infrastructure. CENTCOM's Admiral Cooper said the campaign was 'ahead or on plan,' claiming 8,000+ targets struck and Iran's military capacity in 'steady decline.'",
+    "source": "https://www.aljazeera.com/news/2026/3/23/unprecedented-israel-us-carry-out-extensive-strikes-across-iran",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "IRGC claims missile strike on Prince Sultan Air Base, Saudi Arabia",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guard Corps announced its forces struck Prince Sultan Air Base in Al-Kharj, Saudi Arabia — a major US military installation hosting American personnel and aircraft used in the Iran campaign. Earlier in the war, US officials told the Wall Street Journal that five US Air Force refueling planes at the base were struck and damaged by Iranian missiles. Saudi Arabia has been intercepting multiple Iranian ballistic missile salvoes targeting the base throughout the conflict.",
+    "source": "https://www.aljazeera.com/news/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "Russia's Lavrov urges Iran to end hostilities; warns Bushehr strikes 'extremely dangerous'",
+    "direction": "De-escalating",
+    "description": "Russian Foreign Minister Sergei Lavrov spoke with Iran's Foreign Minister, urging immediate cessation of hostilities. Lavrov separately condemned US-Israeli strikes near Iran's Bushehr nuclear power plant as 'extremely dangerous,' warning of potential catastrophic consequences. CNN reported Russia has been providing Iran with real-time intelligence on US troop, ship, and aircraft movements — a development the Trump administration was 'taken by surprise' by. Russia also affirmed strong ties with Tehran through IRNA-reported statements.",
+    "source": "https://www.cnn.com/2026/03/22/middleeast/us-israel-iran-middle-east-war-day-23-what-we-know-intl-hnk",
+    "actor": "Russia"
+  },
+  {
     "date": "2026-03-22",
     "title": "Trump threatens to 'obliterate' Iran's power plants within 48 hours",
     "direction": "Escalating",
@@ -859,17 +939,41 @@
     "date": "2026-03-22",
     "title": "Iranian missiles strike near Dimona nuclear facility; at least 180 wounded",
     "direction": "Escalating",
-    "description": "Iran launched a salvo of ballistic missiles targeting Israel's Negev near the Dimona nuclear research complex and the city of Arad, wounding at least 180 people. Two missiles penetrated defences after Israel's David's Sling interceptor system failed \u2014 a system recently upgraded and deployed to conserve Arrow stocks. An initial inquiry also found the US THAAD system missed a missile over Arad. The IDF said the two interception failures were unrelated coincidences, not a systemic breakdown. Iran's IRGC claimed it deliberately targeted Dimona in retaliation for Israeli strikes on Natanz.",
+    "description": "Iran launched a salvo of ballistic missiles targeting Israel's Negev near the Dimona nuclear research complex and the city of Arad, wounding at least 180 people. Two missiles penetrated defences after Israel's David's Sling interceptor system failed — a system recently upgraded and deployed to conserve Arrow stocks. An initial inquiry also found the US THAAD system missed a missile over Arad. The IDF said the two interception failures were unrelated coincidences, not a systemic breakdown. Iran's IRGC claimed it deliberately targeted Dimona in retaliation for Israeli strikes on Natanz.",
     "source": "https://www.timesofisrael.com/liveblog_entry/davids-sling-system-failed-to-down-iranian-ballistic-missiles-that-struck-southern-towns-idf/",
     "actor": "Iran"
   },
   {
     "date": "2026-03-22",
-    "title": "Lebanese PM Salam accuses IRGC of commanding Hezbollah from Lebanon; demands weapons surrender",
+    "title": "Lebanese PM Salam accuses IRGC of commanding Hezbollah from Lebanon; demands",
     "direction": "De-escalating",
     "description": "Lebanese Prime Minister Nawaf Salam stated publicly that Iran's Revolutionary Guards are present in Lebanon and 'managing the military operation' on behalf of Hezbollah, citing an IRGC-linked drone that struck a British base in Cyprus as evidence. Salam declared 'Hezbollah's threats do not intimidate us' and said Beirut had taken the unprecedented step of banning Hezbollah military activities and calling on the group to hand its weapons over to the Lebanese state. He said the government is working to 'regain control over the decision to go to war.'",
     "source": "https://www.cnn.com/2026/03/22/middleeast/us-israel-iran-middle-east-war-day-24-what-we-know-intl-hnk",
     "actor": "Lebanon"
+  },
+  {
+    "date": "2026-03-22",
+    "title": "UK confirms Iran fired two ballistic missiles at Diego Garcia; both failed to hit",
+    "direction": "Escalating",
+    "description": "The UK confirmed Iran fired two intermediate-range ballistic missiles at Diego Garcia, the joint US-UK military base in the Indian Ocean used to stage long-range B-52 bombers. One was intercepted by a US warship; the other failed in flight. Iran denied responsibility, calling it an 'Israeli false flag.' UK Ministry of Defence condemned Iran's 'reckless attacks.' The failed strike showed Iran may possess missiles exceeding its previously self-declared 2,000 km range limit — raising alarm that reversed, they could reach London.",
+    "source": "https://www.cnbc.com/2026/03/22/uk-confirms-iran-fired-two-missiles-at-british-american-base.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-22",
+    "title": "IRGC claims missile and drone strike on US Fifth Fleet base in Bahrain",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guard Corps claimed it struck the US Navy's Fifth Fleet headquarters in Manama, Bahrain, using missiles and drones. Bahrain's Defense Force confirmed intercepting two drones and two ballistic missiles. The Fifth Fleet base, headquartered in the Juffair district, is the primary hub for US naval operations in the Gulf region and has been a repeated target since the war began on February 28.",
+    "source": "https://x.com/TheStudyofWar/status/2035915472386904524",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-22",
+    "title": "David's Sling malfunction allows two Iranian ballistic missiles to strike southern Israel",
+    "direction": "Escalating",
+    "description": "Israel's military confirmed a malfunction in its 'David's Sling' medium-to-long-range interceptor system allowed two Iranian ballistic missiles to breach Israel's multi-layered air defence shield and strike southern Israel, wounding dozens. David's Sling is designed to intercept ballistic missiles and long-range rockets and sits between the Iron Dome and Arrow systems in Israel's defence hierarchy. The failure exposed a critical gap in coverage.",
+    "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
+    "actor": "Iran"
   },
   {
     "date": "2026-03-21",
@@ -897,11 +1001,27 @@
   },
   {
     "date": "2026-03-21",
-    "title": "Saudi Arabia expels Iran's military attach\u00e9 and four embassy staff over repeated attacks",
+    "title": "Saudi Arabia expels Iran's military attaché and four embassy staff over repeated attacks",
     "direction": "Escalating",
-    "description": "Saudi Arabia declared Iran's military attach\u00e9, assistant military attach\u00e9, and three additional embassy staff members persona non grata, giving them 24 hours to leave the kingdom. Riyadh cited repeated Iranian attacks on Saudi sovereignty, civilian infrastructure, and economic interests as violations of international law, the 2023 Beijing normalization agreement, and UNSC Resolution 2817. Qatar took a similar step, expelling Iranian military and security attach\u00e9s following the strike on Ras Laffan. The Saudi foreign minister warned all trust with Tehran had been shattered and reserved the right to act militarily against further Iranian aggression.",
+    "description": "Saudi Arabia declared Iran's military attaché, assistant military attaché, and three additional embassy staff members persona non grata, giving them 24 hours to leave the kingdom. Riyadh cited repeated Iranian attacks on Saudi sovereignty, civilian infrastructure, and economic interests as violations of international law, the 2023 Beijing normalization agreement, and UNSC Resolution 2817. Qatar took a similar step, expelling Iranian military and security attachés following the strike on Ras Laffan. The Saudi foreign minister warned all trust with Tehran had been shattered and reserved the right to act militarily against further Iranian aggression.",
     "source": "https://www.aljazeera.com/news/2026/3/21/saudi-arabia-expels-iran-military-attache-and-four-team-members",
     "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-03-21",
+    "title": "US re-strikes Natanz enrichment facility with GBU-57 bunker-buster bombs",
+    "direction": "Escalating",
+    "description": "The United States struck Iran's Natanz uranium enrichment facility using GBU-57 bunker-buster bombs, designed to penetrate reinforced underground structures. Israel denied involvement, refusing to comment on US activities. Iran confirmed the strike. IAEA head Grossi confirmed 'some recent damage to entrance buildings' of the underground plant and called for 'military restraint to avoid any risk of a nuclear accident,' adding no radiation release was detected. Russia condemned the attack, with spokeswoman Zakharova warning it posed 'real risk of catastrophic disaster throughout the Middle East.'",
+    "source": "https://www.timesofisrael.com/liveblog_entry/report-us-carried-out-strike-on-natanz-enrichment-facility-using-bunker-buster-bombs/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "US lifts Iranian oil sanctions for 30 days — 140 million barrels unlocked",
+    "direction": "De-escalating",
+    "description": "The Trump administration enacted a temporary 30-day lifting of Iranian oil sanctions to contain energy prices. Approximately 140 million barrels of Iranian oil were unlocked for export. Additional emergency measures included a Jones Act suspension, temporary Russian oil sanctions relief, and coordinated IEA strategic reserve releases. Brent crude had peaked above $126/barrel before the announcement. The sanction relief marked the first significant economic concession by the US since the war began.",
+    "source": "https://www.nbcnews.com/world/iran/us-eases-iranian-oil-sanctions-scramble-contain-energy-prices-handing-rcna264546",
+    "actor": "US"
   },
   {
     "date": "2026-03-20",
@@ -926,6 +1046,14 @@
     "description": "IRGC public affairs spokesman Brigadier General Ali Mohammad Naeini was killed in a precision airstrike in Tehran attributed to the Israeli Air Force. His death marks the latest in a string of senior Iranian military and government figures eliminated since Operation Epic Fury began on February 28.",
     "source": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks",
     "actor": "Israel"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "US weighing occupation or naval blockade of Kharg Island to reopen Hormuz",
+    "direction": "Escalating",
+    "description": "Axios reported that the Trump administration is considering plans to occupy or impose a naval blockade on Iran's Kharg Island — through which 90% of Iran's oil exports pass — to force Tehran to reopen the Strait of Hormuz. Three sources said a ground occupation is under serious consideration, with 5,000 Marines and sailors deploying to the Persian Gulf. White House confirmed: 'The United States Military can take out Kharg Island at any time if the President gives the order.' Analysts warned a strike on oil infrastructure could push prices past $200/barrel.",
+    "source": "https://www.axios.com/2026/03/20/iran-invasion-kharg-island-strait-hormuz",
+    "actor": "US"
   },
   {
     "date": "2026-03-19",
@@ -953,7 +1081,7 @@
   },
   {
     "date": "2026-03-19",
-    "title": "G7+ nations issue joint statement condemning Iran's Hormuz closure and commercial shipping attacks",
+    "title": "G7+ nations issue joint statement condemning Iran's Hormuz closure and",
     "direction": "De-escalating",
     "description": "The leaders of the UK, France, Germany, Italy, the Netherlands, Japan, Canada, South Korea, New Zealand, Denmark, Norway, Sweden, Finland, Australia, and others signed a joint statement condemning 'in the strongest terms' Iran's attacks on unarmed commercial vessels, strikes on oil and gas infrastructure, and the de facto closure of the Strait of Hormuz. They called on Iran to immediately cease mine-laying, drone and missile attacks, and all attempts to block the strait, and to comply with UN Security Council Resolution 2817. Hormuz transits had fallen by approximately 95% from peacetime levels, with over 200 vessels anchored outside the strait.",
     "source": "https://www.gov.uk/government/news/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-and-japan-on-the-strait-of-hormuz-19-march-2026",
@@ -963,9 +1091,17 @@
     "date": "2026-03-19",
     "title": "Iran launches record 19 missile attack waves against Israel in a single day",
     "direction": "Escalating",
-    "description": "Israeli air defenses recorded 19 separate Iranian ballistic missile attack waves in a single day on March 19 \u2014 the highest single-day figure of the war. Six waves targeted the Tel Aviv area, six targeted northern Israel, five aimed at Jerusalem, and two hit southern Israel. The barrage was seen as Iran's largest coordinated strike since February 28.",
+    "description": "Israeli air defenses recorded 19 separate Iranian ballistic missile attack waves in a single day on March 19 — the highest single-day figure of the war. Six waves targeted the Tel Aviv area, six targeted northern Israel, five aimed at Jerusalem, and two hit southern Israel. The barrage was seen as Iran's largest coordinated strike since February 28.",
     "source": "https://israel-alma.org/daily-report-the-second-iran-war-march-20-2026-1600/",
     "actor": "Iran"
+  },
+  {
+    "date": "2026-03-18",
+    "title": "Pentagon requests $200 billion supplemental war budget; Hegseth: 'It takes",
+    "direction": "Escalating",
+    "description": "Defense Secretary Pete Hegseth confirmed the Pentagon is seeking a $200 billion supplemental appropriation from Congress for the Iran war — four times early estimates and in addition to a record $1.5 trillion FY2027 base request. Hegseth justified the figure with the quote 'It takes money to kill bad guys.' Defense contractors are scaling to meet surge demand: Raytheon's Patriot interceptor production is ramping from 600 to 2,000/year, THAAD from 96 to 400/year, and Lockheed Martin's PrSM precision missiles from 400 to 1,600/year.",
+    "source": "https://www.washingtonpost.com/national-security/2026/03/18/iran-cost-budget-pentagon/",
+    "actor": "US"
   },
   {
     "date": "2026-03-18",
@@ -1120,6 +1256,14 @@
     "actor": "US"
   },
   {
+    "date": "2026-03-13",
+    "title": "Trump: US 'totally obliterated' Kharg Island military sites in massive bombing raid",
+    "direction": "Escalating",
+    "description": "President Trump announced the US military had 'totally obliterated' military forces on Kharg Island in what he called 'one of the most powerful bombing raids in the History of the Middle East.' US CENTCOM confirmed a large-scale precision strike destroyed 90+ Iranian military sites on the island, including naval mine storage facilities, missile bunkers, and assets used to threaten Hormuz shipping. Trump said he deliberately spared oil infrastructure 'for reasons of decency.'",
+    "source": "https://www.axios.com/2026/03/20/iran-invasion-kharg-island-strait-hormuz",
+    "actor": "US"
+  },
+  {
     "date": "2026-03-12",
     "title": "IEA declares largest oil supply disruption in history; Brent at $101/barrel",
     "direction": "Neutral",
@@ -1145,9 +1289,9 @@
   },
   {
     "date": "2026-03-11",
-    "title": "Hegseth declares 'most intense day' of strikes; Taleqan-2 nuclear facility at Parchin destroyed",
+    "title": "Hegseth declares 'most intense day' of strikes; Taleqan-2 nuclear facility at",
     "direction": "Escalating",
-    "description": "Defense Secretary Pete Hegseth declared March 11 'our most intense day of strikes inside Iran,' involving the most fighters, bombers, and strikes of the war. Satellite imagery confirmed the destruction of the Taleqan-2 facility in Iran's Parchin military complex, a key component of Iran's nuclear weapons program. Iran simultaneously launched 11 waves of ballistic missile attacks against Israel \u2014 the second-highest single-day total of the war. Ten missiles with multiple warheads targeted Tel Aviv, injuring 124 people; targets also included Palmachim Airbase, Ovda Airbase, and Shin Bet headquarters.",
+    "description": "Defense Secretary Pete Hegseth declared March 11 'our most intense day of strikes inside Iran,' involving the most fighters, bombers, and strikes of the war. Satellite imagery confirmed the destruction of the Taleqan-2 facility in Iran's Parchin military complex, a key component of Iran's nuclear weapons program. Iran simultaneously launched 11 waves of ballistic missile attacks against Israel — the second-highest single-day total of the war. Ten missiles with multiple warheads targeted Tel Aviv, injuring 124 people; targets also included Palmachim Airbase, Ovda Airbase, and Shin Bet headquarters.",
     "source": "https://www.timesofisrael.com/liveblog-march-11-2026/",
     "actor": "US"
   },
@@ -1187,7 +1331,7 @@
     "date": "2026-03-08",
     "title": "US-Israel destroy Shahed drone factory in Isfahan, cutting Iran-Russia supply chain",
     "direction": "Escalating",
-    "description": "Satellite imagery published March 8 confirmed the complete destruction of the Shahed Aviation Industries Production Facility in Isfahan \u2014 Iran's primary manufacturer of Shahed-136, Shahed-129, and Shahed-171 attack drones. The facility had supplied drones to Russia for use against Ukraine. The strike was seen as simultaneously degrading both Iranian and Russian military capabilities.",
+    "description": "Satellite imagery published March 8 confirmed the complete destruction of the Shahed Aviation Industries Production Facility in Isfahan — Iran's primary manufacturer of Shahed-136, Shahed-129, and Shahed-171 attack drones. The facility had supplied drones to Russia for use against Ukraine. The strike was seen as simultaneously degrading both Iranian and Russian military capabilities.",
     "source": "https://israel-alma.org/daily-report-the-second-iran-war-march-8-2026-1800/",
     "actor": "Israel"
   },
@@ -1195,21 +1339,21 @@
     "date": "2026-03-08",
     "title": "Israel Navy strikes Ramada hotel in central Beirut, killing 5 IRGC Quds Force commanders",
     "direction": "Escalating",
-    "description": "An Israeli Navy strike hit the Ramada Hotel in Beirut's Raouche neighbourhood \u2014 Israel's first attack on central Beirut since the war began \u2014 killing five senior IRGC Quds Force commanders. The IDF named three: Majid Hassani (responsible for transferring funds to Iranian proxies in Lebanon), and senior intelligence figures Alireza Bi-Azar and Ahmad Rasouli. Iran's UN mission confirmed four of the dead were 'diplomats of the Islamic Republic of Iran.' The hotel was also housing civilians displaced from southern Lebanon. The Lebanese government had days earlier ordered the arrest and repatriation of all IRGC personnel in Lebanon; over 150 Iranian nationals subsequently left the country.",
+    "description": "An Israeli Navy strike hit the Ramada Hotel in Beirut's Raouche neighbourhood — Israel's first attack on central Beirut since the war began — killing five senior IRGC Quds Force commanders. The IDF named three: Majid Hassani (responsible for transferring funds to Iranian proxies in Lebanon), and senior intelligence figures Alireza Bi-Azar and Ahmad Rasouli. Iran's UN mission confirmed four of the dead were 'diplomats of the Islamic Republic of Iran.' The hotel was also housing civilians displaced from southern Lebanon. The Lebanese government had days earlier ordered the arrest and repatriation of all IRGC personnel in Lebanon; over 150 Iranian nationals subsequently left the country.",
     "source": "https://www.timesofisrael.com/idf-says-it-hit-key-commanders-of-irgcs-quds-force-in-beirut-4-reportedly-killed/",
     "actor": "Israel"
   },
   {
     "date": "2026-03-07",
-    "title": "Israel strikes Iranian oil infrastructure in Tehran for first time; 41 killed in Bekaa Valley",
+    "title": "Israel strikes Iranian oil infrastructure in Tehran for first time; 41 killed",
     "direction": "Escalating",
-    "description": "The Israeli Air Force struck Iranian oil infrastructure in Tehran on March 7 \u2014 the first strike on Iranian national civilian energy infrastructure since the war began on February 28. Simultaneously in Lebanon, at least 41 people were killed and 40 wounded in Israeli air-and-ground raids on Nabi Chit in the eastern Bekaa Valley, marking a significant northern expansion of Israeli operations. An Israeli commando unit infiltrated under cover of darkness before being engaged by Hezbollah fighters, triggering intense airstrikes. Israel said the operation was partly aimed at locating the remains of navigator Ron Arad, missing since 1986.",
+    "description": "The Israeli Air Force struck Iranian oil infrastructure in Tehran on March 7 — the first strike on Iranian national civilian energy infrastructure since the war began on February 28. Simultaneously in Lebanon, at least 41 people were killed and 40 wounded in Israeli air-and-ground raids on Nabi Chit in the eastern Bekaa Valley, marking a significant northern expansion of Israeli operations. An Israeli commando unit infiltrated under cover of darkness before being engaged by Hezbollah fighters, triggering intense airstrikes. Israel said the operation was partly aimed at locating the remains of navigator Ron Arad, missing since 1986.",
     "source": "https://www.aljazeera.com/news/2026/3/7/hezbollah-israeli-troops-clash-on-the-ground-in-eastern-lebanons-bekaa",
     "actor": "Israel"
   },
   {
     "date": "2026-03-07",
-    "title": "Trump administration bypasses Congress with emergency $650M arms sale: 20,000 bombs to Israel",
+    "title": "Trump administration bypasses Congress with emergency $650M arms sale: 20,000",
     "direction": "Escalating",
     "description": "The Trump administration used emergency executive authority to bypass the standard 30-day congressional review and expedite the sale of more than 20,000 bombs to Israel worth approximately $650 million. Secretary of State Marco Rubio determined an emergency existed and waived congressional notification requirements. The decision drew criticism from lawmakers who said it circumvented legislative oversight at a critical moment in the conflict.",
     "source": "https://www.timesofisrael.com/liveblog-march-07-2026/",
@@ -1235,7 +1379,7 @@
     "date": "2026-03-05",
     "title": "Iran drones strike Azerbaijan's Nakhchivan exclave; airport hit, diplomats expelled",
     "direction": "Escalating",
-    "description": "Two Iranian drones struck Azerbaijan's Nakhchivan exclave \u2014 one hitting the terminal of Nakhchivan International Airport, the other landing near a school in Shakarabad village \u2014 injuring two civilians. Azerbaijan immediately withdrew its diplomats from Iran and pledged a military response. Iran's Foreign Minister suggested the strikes were an Israeli false flag, but an IRGC-linked Telegram channel claimed responsibility.",
+    "description": "Two Iranian drones struck Azerbaijan's Nakhchivan exclave — one hitting the terminal of Nakhchivan International Airport, the other landing near a school in Shakarabad village — injuring two civilians. Azerbaijan immediately withdrew its diplomats from Iran and pledged a military response. Iran's Foreign Minister suggested the strikes were an Israeli false flag, but an IRGC-linked Telegram channel claimed responsibility.",
     "source": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war",
     "actor": "Iran"
   },
@@ -1251,7 +1395,7 @@
     "date": "2026-03-04",
     "title": "Brent crude surges past $120/barrel as Iran formally closes Strait of Hormuz",
     "direction": "Neutral",
-    "description": "Following Iran's formal declaration of Hormuz closure, Brent crude surged past $120/barrel \u2014 up 65% from $72.48 before the war. QatarEnergy had already declared force majeure on LNG exports on March 2 after initial strikes on Ras Laffan. The IEA stated the global oil market faces its worst disruption in history.",
+    "description": "Following Iran's formal declaration of Hormuz closure, Brent crude surged past $120/barrel — up 65% from $72.48 before the war. QatarEnergy had already declared force majeure on LNG exports on March 2 after initial strikes on Ras Laffan. The IEA stated the global oil market faces its worst disruption in history.",
     "source": "https://www.kpler.com/blog/us-iran-conflict-strait-of-hormuz-crisis-reshapes-global-oil-markets",
     "actor": "Other"
   },
@@ -1267,7 +1411,7 @@
     "date": "2026-03-04",
     "title": "Qatar arrests 10-person IRGC spy and sabotage cell operating in country",
     "direction": "Neutral",
-    "description": "Qatar's security services arrested ten people suspected of operating as two IRGC-linked cells: seven assigned to intelligence collection on military infrastructure and three trained in drone use for sabotage operations. The arrests came as Qatar also shot down two Iranian Su-24 bombers earlier in the conflict \u2014 the first Iranian aircraft destroyed by any nation in the war.",
+    "description": "Qatar's security services arrested ten people suspected of operating as two IRGC-linked cells: seven assigned to intelligence collection on military infrastructure and three trained in drone use for sabotage operations. The arrests came as Qatar also shot down two Iranian Su-24 bombers earlier in the conflict — the first Iranian aircraft destroyed by any nation in the war.",
     "source": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war",
     "actor": "Qatar"
   },
@@ -1283,7 +1427,7 @@
     "date": "2026-03-03",
     "title": "France condemns US-Israel strikes as 'outside international law'",
     "direction": "De-escalating",
-    "description": "French President Macron stated France 'cannot approve' of the strikes being conducted 'outside of international law,' while simultaneously announcing the movement of French naval materiel into the Mediterranean. France's position \u2014 backing defensive measures but condemning offensive strikes \u2014 reflects the broader European attempt to distance itself from the conflict.",
+    "description": "French President Macron stated France 'cannot approve' of the strikes being conducted 'outside of international law,' while simultaneously announcing the movement of French naval materiel into the Mediterranean. France's position — backing defensive measures but condemning offensive strikes — reflects the broader European attempt to distance itself from the conflict.",
     "source": "https://en.wikipedia.org/wiki/Reactions_to_the_2026_Iran_war",
     "actor": "France"
   },
@@ -1339,7 +1483,7 @@
     "date": "2026-03-02",
     "title": "Kuwaiti F/A-18 accidentally shoots down 3 US F-15Es in major friendly fire incident",
     "direction": "Neutral",
-    "description": "A Kuwaiti Air Force F/A-18 Hornet pilot fired three AIM-9 Sidewinder missiles and shot down three USAF F-15E Strike Eagles over Kuwait during a chaotic multi-threat intercept operation. All six US crew members survived after ejecting. The incident \u2014 the first loss of US aircraft in Operation Epic Fury \u2014 raised urgent questions about coalition IFF procedures and came hours after an Iranian drone killed six US soldiers at Shuaiba port.",
+    "description": "A Kuwaiti Air Force F/A-18 Hornet pilot fired three AIM-9 Sidewinder missiles and shot down three USAF F-15E Strike Eagles over Kuwait during a chaotic multi-threat intercept operation. All six US crew members survived after ejecting. The incident — the first loss of US aircraft in Operation Epic Fury — raised urgent questions about coalition IFF procedures and came hours after an Iranian drone killed six US soldiers at Shuaiba port.",
     "source": "https://www.twz.com/news-features/kuwaiti-f-a-18-hornet-responsible-for-shooting-down-three-usaf-f-15e-strike-eagles-report",
     "actor": "Kuwait"
   },
@@ -1395,7 +1539,7 @@
     "date": "2026-02-28",
     "title": "Iran attacks all six GCC states simultaneously for first time in history",
     "direction": "Escalating",
-    "description": "In an unprecedented retaliation, Iran launched simultaneous strikes against all six Gulf Cooperation Council countries \u2014 Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the UAE \u2014 targeting US bases and energy infrastructure. The IRGC specifically struck Al Udeid Air Base (Qatar), Ali Al Salem Air Base (Kuwait), Al Dhafra Air Base (UAE), and US Navy Fifth Fleet HQ (Bahrain).",
+    "description": "In an unprecedented retaliation, Iran launched simultaneous strikes against all six Gulf Cooperation Council countries — Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the UAE — targeting US bases and energy infrastructure. The IRGC specifically struck Al Udeid Air Base (Qatar), Ali Al Salem Air Base (Kuwait), Al Dhafra Air Base (UAE), and US Navy Fifth Fleet HQ (Bahrain).",
     "source": "https://www.aljazeera.com/news/2026/2/28/multiple-gulf-arab-states-that-host-us-assets-targeted-in-iran-retaliation",
     "actor": "Iran"
   },
@@ -1433,7 +1577,7 @@
   },
   {
     "date": "2026-02-28",
-    "title": "Qatar shoots down 2 Iranian Su-24 bombers \u2014 first Iranian aircraft destroyed in war",
+    "title": "Qatar shoots down 2 Iranian Su-24 bombers — first Iranian aircraft destroyed in war",
     "direction": "Neutral",
     "description": "Qatar's air defenses shot down two Iranian Su-24 Fencer bomber aircraft, becoming the first nation to destroy an Iranian manned aircraft in the conflict. Qatar's Patriot and Hawk batteries also intercepted 101 of 104 detected ballistic missiles and 24 of 39 drones fired at Qatari territory, though 15 struck within Qatar, including a residential building on the outskirts of Doha.",
     "source": "https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Qatar",
@@ -1443,7 +1587,7 @@
     "date": "2026-02-28",
     "title": "Oman FM confirms Iran agreed to nuclear zero-enrichment deal hours before war began",
     "direction": "De-escalating",
-    "description": "Oman's Foreign Minister disclosed that just hours before US-Israeli strikes began, Iran had agreed \u2014 through Omani mediation and indirect talks with VP Vance \u2014 to zero enriched uranium stockpiling and full IAEA verification. Trump's 'no aborts' order to CENTCOM came hours after Oman reported the breakthrough, effectively burying the deal. Oman later expressed 'deep disappointment' that active negotiations were abandoned.",
+    "description": "Oman's Foreign Minister disclosed that just hours before US-Israeli strikes began, Iran had agreed — through Omani mediation and indirect talks with VP Vance — to zero enriched uranium stockpiling and full IAEA verification. Trump's 'no aborts' order to CENTCOM came hours after Oman reported the breakthrough, effectively burying the deal. Oman later expressed 'deep disappointment' that active negotiations were abandoned.",
     "source": "https://en.wikipedia.org/wiki/Prelude_to_the_2026_Iran_war",
     "actor": "Other"
   },
@@ -1454,149 +1598,5 @@
     "description": "Iranian drones struck the US Embassy compound in Riyadh, causing fires and minor structural damage; the CIA station housed in the same complex was also hit. No casualties were reported. The State Department closed the Riyadh embassy indefinitely. Iran's IRGC stated the strike on the 'Washington embassy in Riyadh' was part of its campaign to destroy 'American political centers' across the region.",
     "source": "https://www.cnbc.com/2026/03/02/us-iran-live-updates-trump-oil-gold.html",
     "actor": "Iran"
-  },
-  {
-    "date": "2026-03-13",
-    "title": "Trump: US 'totally obliterated' Kharg Island military sites in massive bombing raid",
-    "direction": "Escalating",
-    "description": "President Trump announced the US military had 'totally obliterated' military forces on Kharg Island in what he called 'one of the most powerful bombing raids in the History of the Middle East.' US CENTCOM confirmed a large-scale precision strike destroyed 90+ Iranian military sites on the island, including naval mine storage facilities, missile bunkers, and assets used to threaten Hormuz shipping. Trump said he deliberately spared oil infrastructure 'for reasons of decency.'",
-    "source": "https://www.axios.com/2026/03/20/iran-invasion-kharg-island-strait-hormuz",
-    "actor": "US"
-  },
-  {
-    "date": "2026-03-20",
-    "title": "US weighing occupation or naval blockade of Kharg Island to reopen Hormuz",
-    "direction": "Escalating",
-    "description": "Axios reported that the Trump administration is considering plans to occupy or impose a naval blockade on Iran's Kharg Island \u2014 through which 90% of Iran's oil exports pass \u2014 to force Tehran to reopen the Strait of Hormuz. Three sources said a ground occupation is under serious consideration, with 5,000 Marines and sailors deploying to the Persian Gulf. White House confirmed: 'The United States Military can take out Kharg Island at any time if the President gives the order.' Analysts warned a strike on oil infrastructure could push prices past $200/barrel.",
-    "source": "https://www.axios.com/2026/03/20/iran-invasion-kharg-island-strait-hormuz",
-    "actor": "US"
-  },
-  {
-    "date": "2026-03-21",
-    "title": "US re-strikes Natanz enrichment facility with GBU-57 bunker-buster bombs",
-    "direction": "Escalating",
-    "description": "The United States struck Iran's Natanz uranium enrichment facility using GBU-57 bunker-buster bombs, designed to penetrate reinforced underground structures. Israel denied involvement, refusing to comment on US activities. Iran confirmed the strike. IAEA head Grossi confirmed 'some recent damage to entrance buildings' of the underground plant and called for 'military restraint to avoid any risk of a nuclear accident,' adding no radiation release was detected. Russia condemned the attack, with spokeswoman Zakharova warning it posed 'real risk of catastrophic disaster throughout the Middle East.'",
-    "source": "https://www.timesofisrael.com/liveblog_entry/report-us-carried-out-strike-on-natanz-enrichment-facility-using-bunker-buster-bombs/",
-    "actor": "US"
-  },
-  {
-    "date": "2026-03-22",
-    "title": "UK confirms Iran fired two ballistic missiles at Diego Garcia; both failed to hit",
-    "direction": "Escalating",
-    "description": "The UK confirmed Iran fired two intermediate-range ballistic missiles at Diego Garcia, the joint US-UK military base in the Indian Ocean used to stage long-range B-52 bombers. One was intercepted by a US warship; the other failed in flight. Iran denied responsibility, calling it an 'Israeli false flag.' UK Ministry of Defence condemned Iran's 'reckless attacks.' The failed strike showed Iran may possess missiles exceeding its previously self-declared 2,000 km range limit \u2014 raising alarm that reversed, they could reach London.",
-    "source": "https://www.cnbc.com/2026/03/22/uk-confirms-iran-fired-two-missiles-at-british-american-base.html",
-    "actor": "Iran"
-  },
-  {
-    "date": "2026-03-23",
-    "title": "US-Israel launch 'unprecedented' new wave of strikes on eastern Tehran",
-    "direction": "Escalating",
-    "description": "Israel and the United States launched a new wave of attacks described as 'unprecedented' by Al Jazeera's correspondent in Tehran, particularly targeting the eastern side of the city. Iran activated air defence systems in response to waves of US-Israeli drones. The Israeli military said it launched a second round of attacks within hours of announcing a 'wide-scale wave of strikes' on Tehran infrastructure. CENTCOM's Admiral Cooper said the campaign was 'ahead or on plan,' claiming 8,000+ targets struck and Iran's military capacity in 'steady decline.'",
-    "source": "https://www.aljazeera.com/news/2026/3/23/unprecedented-israel-us-carry-out-extensive-strikes-across-iran",
-    "actor": "US"
-  },
-  {
-    "date": "2026-03-23",
-    "title": "IRGC claims missile strike on Prince Sultan Air Base, Saudi Arabia",
-    "direction": "Escalating",
-    "description": "Iran's Revolutionary Guard Corps announced its forces struck Prince Sultan Air Base in Al-Kharj, Saudi Arabia \u2014 a major US military installation hosting American personnel and aircraft used in the Iran campaign. Earlier in the war, US officials told the Wall Street Journal that five US Air Force refueling planes at the base were struck and damaged by Iranian missiles. Saudi Arabia has been intercepting multiple Iranian ballistic missile salvoes targeting the base throughout the conflict.",
-    "source": "https://www.aljazeera.com/news/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks",
-    "actor": "Iran"
-  },
-  {
-    "date": "2026-03-23",
-    "title": "Russia's Lavrov urges Iran to end hostilities; warns Bushehr strikes 'extremely dangerous'",
-    "direction": "De-escalating",
-    "description": "Russian Foreign Minister Sergei Lavrov spoke with Iran's Foreign Minister, urging immediate cessation of hostilities. Lavrov separately condemned US-Israeli strikes near Iran's Bushehr nuclear power plant as 'extremely dangerous,' warning of potential catastrophic consequences. CNN reported Russia has been providing Iran with real-time intelligence on US troop, ship, and aircraft movements \u2014 a development the Trump administration was 'taken by surprise' by. Russia also affirmed strong ties with Tehran through IRNA-reported statements.",
-    "source": "https://www.cnn.com/2026/03/22/middleeast/us-israel-iran-middle-east-war-day-23-what-we-know-intl-hnk",
-    "actor": "Russia"
-  },
-  {
-    "date": "2026-03-22",
-    "title": "IRGC claims missile and drone strike on US Fifth Fleet base in Bahrain",
-    "direction": "Escalating",
-    "description": "Iran's Revolutionary Guard Corps claimed it struck the US Navy's Fifth Fleet headquarters in Manama, Bahrain, using missiles and drones. Bahrain's Defense Force confirmed intercepting two drones and two ballistic missiles. The Fifth Fleet base, headquartered in the Juffair district, is the primary hub for US naval operations in the Gulf region and has been a repeated target since the war began on February 28.",
-    "source": "https://x.com/TheStudyofWar/status/2035915472386904524",
-    "actor": "Iran"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "Iran fires cluster-warhead missiles at Tel Aviv metro area; 6+ injured",
-    "direction": "Escalating",
-    "description": "Iran fired missiles equipped with cluster warheads at the Tel Aviv metropolitan area, with impacts recorded across central Tel Aviv, Ramat Gan, Petah Tikva, and Holon. At least six people were injured. Israeli police estimated one warhead contained approximately 220 pounds of explosives. Cluster munitions disperse into multiple submunitions over a wide area, significantly increasing civilian risk. The Israeli Knesset suspended a late-night session due to missile alerts. Since the war began, 18 Israelis have been killed and over 4,700 injured.",
-    "source": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks",
-    "actor": "Iran"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "Iran launches 21 drones and 3 ballistic missiles at Saudi Arabia's Eastern Province oil facilities",
-    "direction": "Escalating",
-    "description": "Saudi Arabia's Ministry of Defense intercepted approximately 21 drones and three ballistic missiles targeting the Eastern Province \u2014 the heart of the kingdom's oil and gas infrastructure. One ballistic missile headed for Riyadh was intercepted; another fell in an uninhabited area. The IRGC claimed the strikes targeted energy installations supporting US military operations. Bahrain also sounded warning alarms multiple times as Iranian missiles and drones swept across the Gulf.",
-    "source": "https://breakingdefense.com/2026/03/iran-attacks-uae-saudi-missiles-drones-gcc-air-defense/",
-    "actor": "Iran"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "Lebanon declares Iran's ambassador persona non grata; orders departure by March 29",
-    "direction": "De-escalating",
-    "description": "Lebanon's Foreign Ministry declared Iran's designated ambassador Mohammad Reza Sheibani persona non grata and ordered him to leave by March 29. Lebanon also recalled its own ambassador to Tehran for consultations. Foreign Minister Youssef Raggi cited Iran's violations of diplomatic norms and its role in dragging Lebanon into war through Hezbollah. Lebanon had already reimposed visa requirements on Iranian travellers and begun expelling individuals with IRGC ties. The decision marks a dramatic rupture in Lebanon-Iran relations.",
-    "source": "https://www.aljazeera.com/news/2026/3/24/lebanon-declares-iranian-ambassador-persona-non-grata-amid-israeli-attacks",
-    "actor": "Lebanon"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "UK deploys additional air defenses and warship to Middle East as Iranian missile threat escalates",
-    "direction": "Escalating",
-    "description": "UK Prime Minister Keir Starmer announced Britain is deploying short-range air defense systems and an additional naval vessel to the Middle East to counter Iranian missile and drone attacks. RAF Typhoons from No. 12 Squadron are operating from Al Udeid Air Base at Qatar's request, having already intercepted Iranian drones. The UK also deployed helicopters to help defend Cypriot airspace. The deployment marks a deepening of British military involvement beyond the Diego Garcia basing support already provided to US long-range bombers.",
-    "source": "https://en.wikipedia.org/wiki/United_Kingdom_involvement_in_the_2026_Iran_war",
-    "actor": "UK"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "Mediators push Islamabad meeting between Ghalibaf and US envoys; April 9 set as war-end target",
-    "direction": "De-escalating",
-    "description": "Pakistan, Turkey, Egypt, Oman, and Qatar are working to arrange a face-to-face meeting in Islamabad between Iranian Parliament Speaker Mohammad Bagher Ghalibaf and US envoys Steve Witkoff and Jared Kushner, with VP JD Vance potentially attending. An Israeli official confirmed Washington set April 9 as the target date for ending the war. Pakistan's army chief Asim Munir spoke directly with Trump. Iran's Supreme National Security Council had yet to approve the meeting. Israel said it was 'surprised things were moving that fast' when Trump revealed the contacts.",
-    "source": "https://www.axios.com/2026/03/23/trump-suspends-iran-strikes-hormuz-negotiations",
-    "actor": "Pakistan"
-  },
-  {
-    "date": "2026-03-22",
-    "title": "David's Sling malfunction allows two Iranian ballistic missiles to strike southern Israel",
-    "direction": "Escalating",
-    "description": "Israel's military confirmed a malfunction in its 'David's Sling' medium-to-long-range interceptor system allowed two Iranian ballistic missiles to breach Israel's multi-layered air defence shield and strike southern Israel, wounding dozens. David's Sling is designed to intercept ballistic missiles and long-range rockets and sits between the Iron Dome and Arrow systems in Israel's defence hierarchy. The failure exposed a critical gap in coverage.",
-    "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
-    "actor": "Iran"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "US kills PMF commander Saad Dawai al-Baiji and 15 fighters in Anbar airstrike",
-    "direction": "Escalating",
-    "description": "A US airstrike in Iraq's Anbar province killed Saad Dawai al-Baiji, provincial commander and head of operations for the pro-Iranian Popular Mobilisation Forces (PMF / Hashed al-Shaabi), along with 15 fighters. The PMF, though formally part of Iraq's army, includes Iran-aligned factions. Al Jazeera's correspondent described Iraq as a secondary battleground where the US is conducting 'deliberate but calibrated' strikes against Iran-aligned group leaders, leaving Iraqis caught in the crossfire.",
-    "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
-    "actor": "US"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "Iran acknowledges receiving US 'outreach' through intermediaries; proposals under review",
-    "direction": "De-escalating",
-    "description": "An Iranian source told CNN there had been 'outreach' between the US and Tehran, and that Iran is willing to listen to 'sustainable' proposals to end the war \u2014 a softer line than its public denials. Iran's Foreign Ministry confirmed it received messages through friendly countries and said they were under review. Iran's position: it is ready to guarantee it will never develop nuclear weapons but demands all sanctions be lifted and requires binding guarantees against future US-Israeli strikes. Iran stated it is 'not asking for a meeting' but is 'willing to listen.'",
-    "source": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
-    "actor": "Iran"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "Philippines declares national energy emergency; ~2,000 vessels trapped in Persian Gulf",
-    "direction": "Neutral",
-    "description": "Philippine President Ferdinand Marcos Jr. declared a 'national energy emergency' citing direct risks to domestic fuel supplies from the Hormuz closure. The International Maritime Organization reported approximately 2,000 vessels are now trapped inside the Persian Gulf, unable to transit the closed strait. Iran has selectively allowed ships from countries it considers neutral \u2014 including some Turkish and Indian vessels \u2014 to pass. GPS jamming of uncertain origin near the strait is additionally threatening safe navigation for oil tankers.",
-    "source": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
-    "actor": "Other"
-  },
-  {
-    "date": "2026-03-24",
-    "title": "Houthis warn Bahrain and UAE: 'first to lose' if they help reopen Strait of Hormuz",
-    "direction": "Escalating",
-    "description": "Yemen's Houthi movement issued a direct threat to Bahrain and the UAE, warning they will be 'the first to lose in this battle' if they assist any effort to reopen the Strait of Hormuz. The Houthis stated they would respond to any escalation against Iran, including maritime operations. Bahrain's forces have intercepted 153 missiles and 301 drones since the war began. The threat underscores how the conflict is creating a broader axis of pressure across the Arabian Peninsula.",
-    "source": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
-    "actor": "Other"
   }
 ]
