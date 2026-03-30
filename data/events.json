@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-03-30",
+    "title": "Spain closes airspace to all US military aircraft involved in Iran war",
+    "direction": "Neutral",
+    "description": "Spanish Defence Minister Margarita Robles confirmed Spain had closed its airspace to all US military planes involved in the Iran war, expanding an earlier restriction that blocked US use of the Rota and Morón de la Frontera air bases. Robles declared: 'Neither the bases are authorised, nor is the use of Spanish airspace authorised for any actions related to the war in Iran,' calling the conflict 'profoundly illegal and profoundly unjust.' Foreign Minister José Manuel Albares confirmed the airspace ban would apply even to US aircraft flying from the UK or France. US bombers at RAF Fairford must now bypass the Iberian Peninsula, adding flight time and fuel costs. Trump had earlier threatened to cut trade with Spain for the initial base denial.",
+    "source": "https://www.aljazeera.com/news/2026/3/30/spain-closes-airspace-to-us-planes-involved-in-war-on-iran",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Indonesian UNIFIL peacekeeper killed in southern Lebanon; first UN fatality since hostilities resumed",
+    "direction": "Escalating",
+    "description": "A UNIFIL peacekeeper from Indonesia was killed and another critically injured when a projectile exploded near Adchit Al Qusayr in southern Lebanon. Indonesia confirmed one peacekeeper killed and three others wounded by 'indirect artillery fire.' UNIFIL launched an investigation to determine the origin of the projectile. UN Secretary-General Guterres called for accountability. UNIFIL stated: 'Deliberate attacks on peacekeepers are grave violations of international humanitarian law and of Security Council Resolution 1701, and may amount to war crimes.' It is the first UNIFIL fatality since Israeli-Hezbollah hostilities resumed on March 2.",
+    "source": "https://news.un.org/en/story/2026/03/1167214",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Trump threatens to obliterate Iran's power plants, oil wells, Kharg Island; claims talks with 'new regime'",
+    "direction": "Escalating",
+    "description": "In a Truth Social post, Trump threatened to 'blow up and completely obliterate' all of Iran's 'Electric Generating Plants, Oil Wells and Kharg Island (and possibly all desalinization plants!)' unless the Strait of Hormuz reopens by April 6. In the same post, Trump claimed 'The United States of America is in serious discussions with A NEW, AND MORE REASONABLE, REGIME to end our Military Operations in Iran,' asserting a de facto regime change had occurred with the killing of Khamenei. Iran's Foreign Ministry rejected this framing, saying there had been no direct negotiations — only message exchanges via intermediaries. UN officials reiterated that targeting civilian power and water infrastructure could constitute war crimes.",
+    "source": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-seize-kharg-island-oil-prices-hormuz-talks-rcna265758",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Cosco's CSCL Indian Ocean and Arctic Ocean become first major Chinese state-owned ships to transit Hormuz",
+    "direction": "De-escalating",
+    "description": "Two container ships operated by China's state-owned Cosco Shipping — the CSCL Indian Ocean and CSCL Arctic Ocean — exited the Persian Gulf through the Strait of Hormuz on Monday, the first vessels operated by a major Beijing-backed company to navigate the waterway since the war began. The ships departed from waters off Dubai, transited the IRGC-designated corridor near Larak and Qeshm islands, and are bound for Port Klang, Malaysia. The transit demonstrates China exercising its 'friendly nation' passage rights under Iran's selective Hormuz access policy. Normal pre-war traffic was 120 ships per day; daily crossings remain in single digits.",
+    "source": "https://www.bloomberg.com/news/articles/2026-03-30/two-chinese-container-ships-from-cosco-attempt-hormuz-exit-again",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "Ghalibaf and Araghchi: Iran 'waiting' for US ground invasion; Iran demands Lebanon included in ceasefire",
+    "direction": "Escalating",
+    "description": "Iran's Parliament Speaker Ghalibaf accused the US of 'secretly planning a ground invasion' while floating negotiations, writing on X that 'our forces are waiting for them.' FM Araghchi separately told NBC News: 'No, we are waiting for them — it would be a big disaster for them.' Araghchi also asserted that Iran 'has not asked for a ceasefire,' and that any deal must include a halt to Israeli operations in Lebanon — a condition Washington and Jerusalem have rejected as a non-starter. The dual statements represent Iran's hardest public line on a potential ground operation.",
+    "source": "https://www.cnn.com/2026/03/28/middleeast/us-israel-iran-middle-east-war-day-30-what-we-know-intl-hnk",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-30",
     "title": "IDF strikes Tehran infrastructure, causing hours-long blackout across capital",
     "direction": "Escalating",
     "description": "Israeli forces struck power infrastructure in and around Tehran on Monday, causing a blackout lasting several hours across the capital and nearby areas. The IDF stated it was 'currently attacking the infrastructure' of the Iranian government 'throughout Tehran.' Explosions were also reported in Ray (Greater Tehran), Karaj, Shiraz, Qom, Abadan, and Tabriz. Iranian authorities said power was restored later in the day. A fire at a Tabriz petrochemical plant was reported 'completely contained' by Fars news agency.",
