@@ -1,5 +1,149 @@
 [
   {
+    "date": "2026-03-31",
+    "title": "WSJ: Trump willing to end war without reopening Strait of Hormuz",
+    "direction": "De-escalating",
+    "description": "The Wall Street Journal reported Trump told aides he is willing to end the war even if the Strait of Hormuz remains closed, assessing that prying it open would push the conflict beyond his 4-6 week timeline. The plan: achieve core objectives (destroying Iran's navy, missile stocks, defense industry, nuclear capability), wind down hostilities, then pressure Tehran diplomatically to restore shipping. If that fails, Washington would press European and Gulf allies to lead a Hormuz reopening operation. White House press secretary Karoline Leavitt confirmed Hormuz reopening is not among 'core objectives.' Defense Secretary Hegseth echoed Trump, saying allies 'ought to be prepared to step up on this critical waterway.'",
+    "source": "https://www.wsj.com/world/middle-east/trump-tells-aides-hes-willing-to-end-war-without-reopening-hormuz-3b15e221",
+    "actor": "US"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "UAE intercepts 12 missiles and 36 drones; cumulative toll: 11 dead, 188 injured since Feb 28",
+    "direction": "Escalating",
+    "description": "UAE air defenses intercepted 8 ballistic missiles, 4 cruise missiles, and 36 drones launched from Iran on Tuesday. Cumulative UAE interceptions since February 28: 433 ballistic missiles, 19 cruise missiles, and 1,977 drones. Total UAE casualties since the war began: 11 killed (2 armed forces members, 1 Moroccan contractor, 8 civilians of Pakistani, Nepali, Bangladeshi, Palestinian, and Indian nationalities) and 188 injured. The figures underscore the relentless pace of Iranian attacks on Gulf states even as the air campaign enters its fifth week.",
+    "source": "https://www.thenationalnews.com/news/uae/2026/03/31/uae-missile-drone-strikes-iran/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "Iran International: 4,700 Iranian security forces killed since war began",
+    "direction": "Neutral",
+    "description": "Iran International reported that at least 4,700 Iranian security forces have been killed since the war began on February 28 — far exceeding the Iranian Red Crescent's civilian toll of 1,900 dead as of March 27. The combined figures suggest total Iranian deaths may exceed 6,600. Separately, the Alma Research Center documented 9 Iranian ballistic missile attack waves in the preceding 24 hours, with Iran's cumulative total reaching 413 attack waves against Israel since February 28, killing 19 Israeli civilians and injuring over 6,130.",
+    "source": "https://israel-alma.org/daily-report-the-second-iran-war-march-31-2026-1600/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "IRGC threatens 18 US companies including Apple, Google, Boeing; sets April 1 deadline",
+    "direction": "Escalating",
+    "description": "The IRGC issued a statement naming 18 US companies as 'legitimate targets,' including Microsoft, Google, Apple, Intel, IBM, Tesla, Boeing, Dell, HP, Cisco, Oracle, Meta, JPMorgan Chase, General Electric, and Nvidia. The IRGC stated: 'These companies should expect the destruction of their respective units in exchange for each terror act in Iran, starting from 8 PM Tehran time on Wednesday, April 1st.' The IRGC ordered employees to immediately evacuate and warned residents within a one-kilometer radius to move to safety. The threat follows the killing of Brigadier General Jamshid Eshaghi, head of budget and financial affairs at Iran's armed forces general staff, in a US-Israeli strike. In early March, Iranian drones had already struck Amazon data centers in the UAE and Bahrain.",
+    "source": "https://thehill.com/policy/technology/5809104-iran-irgc-apple-microsoft-google-hp-meta-tesla/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "Pakistan and China release five-point peace plan calling for immediate ceasefire",
+    "direction": "De-escalating",
+    "description": "Pakistani FM Ishaq Dar and Chinese FM Wang Yi released a five-point peace initiative in Beijing — the first concrete roadmap from a major power to end the war. The plan calls for: (1) immediate cessation of hostilities and humanitarian access; (2) start of peace talks safeguarding sovereignty of Iran and Gulf states; (3) immediate halt to attacks on civilians and non-military targets including energy, desalination, and nuclear power plants; (4) protection of commercial shipping and restoration of Strait of Hormuz navigation; (5) a comprehensive UN-based peace framework. Dar's visit followed weekend talks in Islamabad with FMs from Saudi Arabia, Egypt, and Turkey. An Arab diplomat told Middle East Eye that Tehran would look to Beijing as guarantor of any deal.",
+    "source": "https://www.middleeasteye.net/news/china-and-pakistan-issue-five-point-plan-immediate-ceasefire-war-iran",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "Saudi Arabia intercepts 8 ballistic missiles and 10 drones; debris injures 2 in al-Kharj",
+    "direction": "Escalating",
+    "description": "Saudi air defenses intercepted and destroyed seven ballistic missiles targeting the Riyadh region and one targeting the Eastern Province, plus 10 drones. Debris from a downed drone fell on homes and vehicles in a residential neighborhood of al-Kharj, causing limited material damage and injuring two people with minor injuries. The Saudi Defense Ministry reported no major casualties from the missile intercepts themselves.",
+    "source": "https://english.alarabiya.net/News/saudi-arabia/2026/03/31/saudi-arabia-downs-missiles-over-riyadh-eastern-province-drone-debris-hits-alkharj",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "Iran drone strikes Kuwaiti tanker Al Salmi at Dubai port; fire extinguished, no oil spill",
+    "direction": "Escalating",
+    "description": "An Iranian drone struck the Kuwaiti Very Large Crude Carrier Al Salmi while fully laden at anchorage in Dubai port early Tuesday. Maritime firefighting teams extinguished the blaze after extended operations. All 24 crew members were secured safely with no injuries reported and no oil spill. KUNA, citing Kuwait's state oil company, confirmed the attack. The strike demonstrates Iran's willingness to target Gulf-state commercial vessels at supposedly safe anchorages far from the Strait of Hormuz.",
+    "source": "https://www.channelstv.com/2026/03/31/strait-of-hormuz-shipping-blockade-update/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "IDF strikes Tehran weapons factories, Isfahan 'missile city,' Parchin, and Caspian air defenses",
+    "direction": "Escalating",
+    "description": "US-Israeli forces struck Tehran security and industrial infrastructure on Day 32, including a central weapons-component production site, UAV engine manufacturing facilities, an anti-tank missile R&D site, and a factory for casting and filling ballistic missile warheads. In Isfahan, an underground 'missile city,' weapons depots, and military bases were hit. Additional strikes targeted Shiraz, Parchin, and an air defense site near the Caspian Sea. The IAF has dropped nearly 15,000 munitions since Operation Roaring Lion began, rising to over 25,000 combined with US Operation Epic Fury. The IDF stated 60-70% of identified Iranian targets have been destroyed.",
+    "source": "https://israel-alma.org/daily-report-the-second-iran-war-march-31-2026-1600/",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "Iranian missiles hit Bnei Brak and Petah Tikva workshop; 9 attack waves in 24 hours",
+    "direction": "Escalating",
+    "description": "Iranian missiles struck Bnei Brak and a workshop in Petah Tikva on Tuesday as part of nine attack waves over 24 hours, mostly targeting southern Israel, the Tel Aviv area, and the north. A cluster-warhead missile struck northern locations including Shefa-'Amr and the Bazan refinery area near Haifa. Since February 28, Iran has launched 413 attack waves against Israel, killing 19 civilians and injuring over 6,130 from direct hits and debris.",
+    "source": "https://israel-alma.org/daily-report-the-second-iran-war-march-31-2026-1600/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "Iran drone strikes Thuraya Telecom building in Sharjah; 4 hurt in Dubai from debris",
+    "direction": "Escalating",
+    "description": "An Iranian drone struck the administrative building of Thuraya Telecommunications Company in Sharjah's Central Region at 12:16 AM on Tuesday. No injuries were recorded at the Thuraya site. Separately in Dubai's Al Badaa neighborhood at 2:51 AM, debris from air defense interception of incoming fire struck an abandoned house, causing four minor injuries among nearby residents. The UAE has intercepted 11 ballistic missiles and 27 drones in the previous 24 hours; cumulative UAE toll since February 28: 11 dead, 178 injured.",
+    "source": "https://www.khaleejtimes.com/world/us-iran-israel-war-day-31-live-updates",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "NATO intercepts Iranian ballistic missile over Turkish airspace; fourth incident since war began",
+    "direction": "Escalating",
+    "description": "NATO air defense systems intercepted a ballistic missile launched from Iran that entered Turkish airspace on Tuesday — the fourth such incident since the war began on February 28. No casualties or ground damage were reported. The repeated incursions into a NATO member's airspace raise questions about whether Article 5 collective defense obligations could be triggered.",
+    "source": "https://www.aljazeera.com/news/2026/3/31/iran-war-what-is-happening-on-day-32-of-us-israel-attacks",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Two more UNIFIL peacekeepers killed in roadside blast near Bani Hayyan; 3 Indonesian dead total",
+    "direction": "Escalating",
+    "description": "Two UNIFIL peacekeepers were killed and two wounded when an explosion destroyed their vehicle near the southern Lebanese village of Bani Hayyan on Monday. UN peacekeeping chief Jean-Pierre Lacroix confirmed all three peacekeepers killed over the 48-hour period were Indonesian. Initial findings point to a roadside blast. Israel's UN ambassador blamed Hezbollah; UNIFIL spokesperson Kandice Ardiel responded: 'We invite them to share their evidence with our investigative team.' France requested an urgent UN Security Council meeting. Secretary-General Guterres condemned the killings as 'grave violations of international humanitarian law.'",
+    "source": "https://www.aljazeera.com/news/2026/3/30/two-more-un-peacekeepers-killed-in-southern-lebanon-unifil",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Four IDF soldiers killed in Hezbollah ambush at Beit Lif; deadliest single incident in Lebanon",
+    "direction": "Escalating",
+    "description": "Four Israeli soldiers were killed and three wounded in a Hezbollah ambush in the southern Lebanese village of Beit Lif at approximately 6:30 PM Monday. Troops from the Nahal Reconnaissance Unit spotted a Hezbollah cell and exchanged close-range fire, killing one soldier. Reinforcements rushing to assist were ambushed by additional fighters, killing three more. The dead: Cpt. Noam Madmoni (22, Sderot), SSgt. Ben Cohen (21, Lehavim), SSgt. Maxsim Entis (21, Bat Yam), and SSgt. Gilad Harel. Hezbollah also fired an anti-tank missile during the evacuation. The incident is the deadliest single clash for the IDF since the Lebanon front opened March 2; total IDF deaths in Lebanon: 10.",
+    "source": "https://www.aljazeera.com/news/2026/3/31/israel-says-four-soldiers-killed-as-army-pushes-deeper-into-south-lebanon",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "IDF kills Hezbollah Unit 1800 deputy commander Hamza Raqin in Beirut strike",
+    "direction": "Escalating",
+    "description": "The IDF announced it eliminated Hamza Ibrahim Raqin, deputy commander of Hezbollah's Unit 1800, along with the unit's operations chief and a third operative in a precision strike on Beirut. A Lebanese security source told AFP three Hezbollah members were killed and three wounded. Unit 1800 coordinates with Palestinian militant groups in Lebanon, Syria, Gaza, and the West Bank. Raqin oversaw the transfer of Palestinian fighters to combat IDF troops in southern Lebanon. Two additional strikes hit Beirut's southern suburbs, one targeting the Bir Hassan district.",
+    "source": "https://www.ynetnews.com/article/chaw4hmno",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Haifa oil refinery hit again; 3,000 m3 gasoline tank catches fire from intercepted missile debris",
+    "direction": "Escalating",
+    "description": "An industrial building and a fuel tanker at the Bazan oil refinery in Haifa were hit by debris from an intercepted missile during an Iranian-Hezbollah barrage on Monday. Israel's Fire and Rescue Service reported 'a fire at a tank containing 3,000 cubic meters of gasoline,' with fuel being pumped out as crews fought the blaze. Thick black smoke billowed over Haifa. No casualties were reported. Energy Minister Eli Cohen said production facilities were undamaged and fuel supply unaffected. Bazan shares fell 2.5%. This is the second strike on the refinery since an Iranian missile hit it on March 19.",
+    "source": "https://www.aljazeera.com/news/2026/3/30/fire-contained-after-missile-attack-on-oil-refinery-in-israels-haifa",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "IRGC confirms death of naval commander Tangsiri from injuries sustained in Israeli strike",
+    "direction": "Neutral",
+    "description": "Iran's Revolutionary Guard Corps officially confirmed the death of IRGC Navy Commander Admiral Alireza Tangsiri, who had been critically wounded in an Israeli strike on Bandar Abbas on March 26. The IRGC stated Tangsiri died after sustaining injuries while 'organizing and reinforcing defensive positions on islands and coastal areas.' Israel had announced the kill on March 26, but Iran's confirmation came four days later. Combined with the destruction of 92% of Iran's large naval fleet during Operation Epic Fury, Tangsiri's death leaves the IRGC Navy without effective leadership.",
+    "source": "https://www.presstv.ir/Detail/2026/03/30/766063/IRGC-confirms-martyrdom-of-navy-chief-Tangsiri-after-sustaining-injuring-in-US-Israeli-aggression",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "Bahrain arrests 3 for Hezbollah-linked terror cell; reports 182 missiles and 398 drones intercepted since war began",
+    "direction": "Neutral",
+    "description": "Bahrain's Interior Ministry announced the arrest of Ahmed Madan (24), Hassan Ashoor (22), and Muntadhar Madan (29) for forming a Hezbollah-linked terrorist cell. Suspects received weapons training in Lebanon and collected funds under guise of charity to support Hezbollah. Bahrain disclosed it has intercepted 182 missiles and 398 drones since February 28. Separately, three buildings in Manama and Muharraq suffered drone attacks and falling debris, with footage showing a drone striking the Era Views Tower. The arrests follow Bahrain's earlier charging of 14 people for spying for the IRGC.",
+    "source": "https://www.thenationalnews.com/news/mena/2026/03/31/bahrain-arrests-three-people-for-forming-hezbollah-linked-terrorist-cell/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "US gas hits $4/gallon; WTI crude breaches $100 for first time since 2022",
+    "direction": "Neutral",
+    "description": "The average US retail gasoline price crossed $4 per gallon for the first time since the start of the Russia-Ukraine war, with Los Angeles County reaching $5.99 (up from $4.69 a month ago). WTI crude breached $100 per barrel. Trump told countries needing fuel to 'go get your own oil' and go to the Strait of Hormuz to 'just take it.' According to Kpler data, only 201 commodity vessel crossings occurred through Hormuz in all of March — a 95% decrease from peacetime rates of ~120 ships per day.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-uncertainty-oil-prices-strait-of-hormuz-houthis-red-sea/",
+    "actor": "Other"
+  },
+  {
     "date": "2026-03-30",
     "title": "Spain closes airspace to all US military aircraft involved in Iran war",
     "direction": "Neutral",
