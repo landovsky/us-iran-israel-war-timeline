@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-04-01",
+    "title": "Iran fires largest missile salvo of war at Israel on Passover eve; 11-year-old girl critical",
+    "direction": "Escalating",
+    "description": "Iran launched its largest ballistic missile barrage since the war began, firing at least 10 missiles at central Israel just before Passover seder. The IDF reported six separate salvos throughout the day targeting central and northern Israel. Most missiles were intercepted, though cluster-bomb warheads caused damage in Bnei Brak, Rosh HaAyin, and Petah Tikva — one bomblet struck a playground. An 11-year-old girl in Bnei Brak was hospitalized in critical condition; a 13-year-old boy and 36-year-old woman suffered serious shrapnel wounds. At least 25 people were wounded across 20 sites.",
+    "source": "https://www.timesofisrael.com/iran-fires-largest-missile-barrage-in-weeks-as-israelis-set-to-sit-down-for-passover-seder/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Trump claims Iran asked for ceasefire; Tehran calls it 'false and baseless'",
+    "direction": "De-escalating",
+    "description": "Trump posted on Truth Social that Iran's 'new regime president' has 'just asked the United States of America for a CEASEFIRE,' adding 'Until then, we are blasting Iran into oblivion.' He set reopening the Strait of Hormuz as a precondition. Iran's Foreign Ministry called the claim 'false and baseless.' FM Abbas Araghchi told Al Jazeera that messages have been exchanged with US envoy Steve Witkoff but there are 'no negotiations' and Iran has 'zero' trust in Washington. Axios reported the two sides are discussing a ceasefire-for-Hormuz deal via intermediaries including Pakistan.",
+    "source": "https://www.aljazeera.com/news/2026/4/1/iran-denies-trumps-claim-iranian-president-requested-ceasefire",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Trump threatens to pull US out of NATO over allies' refusal to join Iran war",
+    "direction": "Escalating",
+    "description": "In a Telegraph interview, Trump said he is 'beyond reconsideration' of NATO membership after allies declined to support US operations in Iran. He told Reuters withdrawal is 'absolutely, without question' on the table and mocked the UK Royal Navy: 'You don't even have a navy.' Secretary of State Rubio said 'If we can't use those bases when we need them, then NATO becomes a one-way street.' UK PM Starmer dismissed it as 'noise,' calling NATO 'the single most effective military alliance the world has ever seen.' The 2024 NDAA requires two-thirds Senate approval to withdraw.",
+    "source": "https://time.com/article/2026/04/01/trump-considering-pulling-us-out-of-nato-iran-war-legal-options/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Trump to address nation at 9 PM ET; vows to end war in 2-3 weeks",
+    "direction": "De-escalating",
+    "description": "The White House announced Trump's first primetime address since the war began, scheduled for 9 PM ET Wednesday. A White House official said Trump will reaffirm his intention to end the war within three weeks. Trump told reporters gas prices would 'come tumbling down' once fighting ends. His approval rating for handling the economy fell to a career low of 31% in a CNN poll as gas hit $4.06/gallon. Iran's FM Araghchi countered that Iran is prepared for 'at least six months' of war.",
+    "source": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Israeli strike in Beirut kills Hezbollah Iraq commander Yousef Hashem and 6 others",
+    "direction": "Escalating",
+    "description": "An Israeli naval strike in Beirut's Jnah district killed Haj Youssef Ismail Hashem, Hezbollah's military commander for Iraq operations, plus 6 others including commander Mohammad Baqir al-Naboulsi. A source said 'the strike came from warships, and that had not been accounted for.' Hezbollah confirmed Hashem's death, calling him a 'beacon of the Islamic Resistance.' He is the highest-ranking Hezbollah official killed since the war began, inheriting his position from Ali Karaki who was killed alongside Hassan Nasrallah in September 2024. 26 others were wounded.",
+    "source": "https://english.aawsat.com/arab-world/5257503-israeli-strike-beirut-kills-hezbollah-commander-iraq",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Iranian drones hit Kuwait airport fuel tanks; major fire, no casualties",
+    "direction": "Escalating",
+    "description": "Iranian drones struck fuel storage tanks belonging to Kuwait Aviation Fuelling Company (KAFCO) at Kuwait International Airport, triggering a large fire. Civil Aviation Authority spokesman Abdullah Al Rajhi called it a 'blatant assault.' Firefighters extinguished the blaze; no casualties were reported. The airport remains closed to commercial operations after cumulative damage from attacks since late February disabled radar systems and Terminal 1 infrastructure.",
+    "source": "https://gulfnews.com/world/gulf/kuwait/major-fire-breaks-out-in-kuwait-international-airport-after-iranian-drone-attacks-1.500492703",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Iranian missile strikes QatarEnergy tanker Aqua 1 off Doha; 21 crew evacuated",
+    "direction": "Escalating",
+    "description": "Iran fired three cruise missiles toward Qatar; air defenses intercepted two while the third struck the Panama-flagged tanker Aqua 1 operating under QatarEnergy contract, 17 nautical miles north of Doha. Two projectiles hit the vessel — one caused a fire (extinguished), one lodged unexploded in the engine room. All 21 crew were evacuated safely with no casualties or environmental damage. Iranian attacks have knocked out 17% of Qatar's LNG export capacity, sidelining 12.8 million tons/year of output for 3-5 years.",
+    "source": "https://www.euronews.com/2026/04/01/iran-strikes-tanker-off-qatar-coast-as-tehrans-attacks-on-gulf-states-persist",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Houthis fire ballistic missiles at southern Israel in third attack since joining war",
+    "direction": "Escalating",
+    "description": "The Houthis announced they fired ballistic missiles at 'sensitive targets' in southern Israel, marking their third attack on Israel since entering the war on March 28. Military spokesman Brig. Gen. Yahya Saree stated: 'Israel's aggression, crimes and attacks on Lebanon, Iran, Iraq and Palestine will only push us towards further military escalation.' The attack coincided with Iran's largest missile salvo, forcing millions of Israelis into shelters.",
+    "source": "https://www.dropsitenews.com/p/iran-war-trump-israel-houthis-lebanon",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "IDF hits 15 weapons sites in Tehran overnight; 400+ strikes in 48 hours using 650 munitions",
+    "direction": "Escalating",
+    "description": "The IDF announced overnight airstrikes hit 15 Iranian weapon production sites in Tehran, including a 'central complex' of the defense ministry producing advanced anti-aircraft missiles, plus air defense systems, launch sites, and ballistic missile storage. In the previous 48 hours the IDF conducted over 400 strikes using more than 650 munitions. Additional targets hit on Day 33 included pharmaceutical manufacturer Tofigh Daru in Tehran, Isfahan steel plants, and the Shahid Haqqani civilian pier in Bandar Abbas.",
+    "source": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-is-happening-on-day-33-of-us-israel-attacks",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "UAE intercepts 5 ballistic missiles and 35 drones; 1 killed in Fujairah from debris",
+    "direction": "Escalating",
+    "description": "UAE air defenses engaged 5 ballistic missiles and 35 UAVs launched from Iran on Wednesday. Cumulative UAE interceptions since February 28: 438 ballistic missiles, 19 cruise missiles, 2,012 drones. Debris from an intercepted drone killed a Bangladeshi national at Al-Rifa'a farm in Fujairah, while an Indian national was injured in Umm Al Quwain's industrial area. Total UAE casualties since war began: 12 killed and over 190 injured.",
+    "source": "https://gulfnews.com/world/mena/usisrael-war-on-iran-day-33-trump-says-conflict-could-end-in-two-weeks-maybe-three-kuwait-airport-hit-by-drone-attacks-1.500492706",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Brent crude drops below $100 intraday as de-escalation hopes surge",
+    "direction": "De-escalating",
+    "description": "Brent crude fell as low as $98.52/barrel on Wednesday, dipping below $100 for the first time since early March, before settling around $101-102. The drop followed Trump's statements about ending the war in 2-3 weeks and reports of backchannel ceasefire discussions. The 'war premium' shed nearly $20 across several trading sessions. Asian shares jumped on de-escalation optimism. US gas prices hit $4.06/gallon, and Trump's economic approval rating fell to a career low of 31%.",
+    "source": "https://fortune.com/article/price-of-oil-04-01-2026/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Bahrain reports fire at business facility from Iranian attack",
+    "direction": "Escalating",
+    "description": "Bahrain's Interior Ministry said civil defense crews extinguished a fire at a business facility caused by an Iranian attack on Wednesday. The strike was part of a broader wave of Iranian attacks across the Gulf on April 1 that also hit Kuwait, Qatar, Saudi Arabia, and the UAE. Cumulative Bahrain casualties since the war began: at least 2 dead and over 50 injured.",
+    "source": "https://www.thenationalnews.com/news/mena/2026/04/01/kuwait-and-bahrain-report-fires-after-iranian-attacks/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "UK to host 35-nation Hormuz conference; IRGC claims strait 'fully' under its control",
+    "direction": "De-escalating",
+    "description": "Britain announced it will host a virtual meeting Thursday with 35 nations to assess diplomatic options for reopening the Strait of Hormuz. Ship transits have dropped 95% — from 130/day in February to 6 in March — stranding an estimated 20,000 seafarers in the war zone. The IRGC countered that the strait is 'fully' under its control. Oil executives warn that unless the strait reopens by mid-April, the world faces an 'oil cliff' as strategic petroleum reserves run dry.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-nato-tehran-threatens-us-tech-companies-strait-of-hormuz/",
+    "actor": "UK|Iran"
+  },
+  {
     "date": "2026-03-31",
     "title": "WSJ: Trump willing to end war without reopening Strait of Hormuz",
     "direction": "De-escalating",
