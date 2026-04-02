@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-04-02",
+    "title": "US-Israeli strikes devastate Tehran's Pasteur Institute; Iran calls it 'barbaric assault'",
+    "direction": "Escalating",
+    "description": "US-Israeli strikes heavily damaged the Pasteur Institute of Iran, a century-old medical research center in Tehran that has produced vaccines and conducted infectious disease research since 1920. Iranian FM spokesperson Esmaeil Baqaei called it 'heartbreaking, cruel, despicable, and utterly outrageous — a barbaric assault on basic human core values.' The Health Ministry warned of a 'direct assault on international health security.' Neither the US nor Israel claimed responsibility. The same day, strikes hit the Karaj B1 commuter bridge near Tehran twice, and forced Iran's two largest steel plants offline with 6-12 month restart estimates. Iran's cumulative war dead reached 3,519 including 1,598 civilians and at least 244 children, with over 113,000 civilian sites damaged per Iran's Red Crescent.",
+    "source": "https://www.al-monitor.com/originals/2026/04/iran-says-strikes-hit-historic-pasteur-institute-tehran-what-know",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-04-02",
+    "title": "Iran and Oman draft protocol requiring permits and tolls for Hormuz transit",
+    "direction": "De-escalating",
+    "description": "Iran's Deputy FM Kazem Gharibabadi announced that Iran and Oman are drafting a bilateral protocol to 'supervise and coordinate' all vessel transit through the Strait of Hormuz. Ships would need advance permits from Iranian and Omani authorities; Gharibabadi insisted the requirements 'do not constitute restrictions' but aim to 'facilitate and ensure safe passage.' Fortune reported vessels are being charged up to $2 million per transit, with Iran doubling its pre-war oil export revenues from the tolls. US equities reversed earlier losses and turned green on the news, as markets read the protocol as a step toward partial reopening. The protocol is described as a 'peacetime framework' in its final internal drafting stages before formal negotiations with Oman.",
+    "source": "https://fortune.com/2026/04/02/iran-war-strait-hormuz-stocks-sp-500-price-rally-tolls-oman/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-02",
+    "title": "40 nations join UK-led coalition demanding Iran reopen Strait of Hormuz",
+    "direction": "De-escalating",
+    "description": "UK Foreign Secretary Yvette Cooper convened a virtual meeting of 40 nations — including France, Germany, Italy, Canada, Japan, UAE, Bahrain, Panama, Nigeria, and Scandinavian and Baltic states — to address the Hormuz blockade. Cooper declared: 'We have seen Iran hijack an international shipping route to hold the global economy hostage.' The coalition signed a joint statement demanding Iran cease blocking attempts and pledging to 'contribute to appropriate efforts to ensure safe passage.' France's Macron called military force 'unrealistic' and urged direct diplomatic engagement with Tehran. The GCC separately urged UN Security Council action. Iran responded that 'non-hostile' vessels may transit freely; the strait remains closed only to 'enemy nations and their allies.'",
+    "source": "https://www.aljazeera.com/news/2026/4/2/uk-led-coalition-of-35-countries-vows-action-on-hormuz-strait-gridlock",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-04-02",
+    "title": "Oil surges 9% as Trump speech signals prolonged war; WTI hits $108.95",
+    "direction": "Escalating",
+    "description": "US crude (WTI) surged nearly 9% to $108.95/barrel on Thursday while Brent climbed over 5% to $106.55, reversing the previous day's dip below $100. Traders interpreted Trump's primetime speech — threatening to bomb Iran's power grid to 'the Stone Ages' and pledging 2-3 more weeks of 'extremely hard' strikes — as a signal the war would not end quickly. WTI traded above Brent for the first time in the conflict, an unusual spread indicating severe near-term supply anxiety. The Iran-Oman Hormuz protocol partially offset the spike, with equities recovering intraday, but the net move erased days of de-escalation optimism.",
+    "source": "https://gulfnews.com/world/mena/usisrael-war-on-iran-day-34-trump-says-us-to-hit-iran-extremely-hard-for-2-3-weeks-2-1.500493799",
+    "actor": "Other"
+  },
+  {
     "date": "2026-04-01",
     "title": "Iran fires largest missile salvo of war at Israel on Passover eve; 11-year-old girl critical",
     "direction": "Escalating",
@@ -25,10 +57,10 @@
   },
   {
     "date": "2026-04-01",
-    "title": "Trump to address nation at 9 PM ET; vows to end war in 2-3 weeks",
+    "title": "Trump tells nation war 'nearing completion'; threatens to bomb Iran to 'Stone Ages'",
     "direction": "De-escalating",
-    "description": "The White House announced Trump's first primetime address since the war began, scheduled for 9 PM ET Wednesday. A White House official said Trump will reaffirm his intention to end the war within three weeks. Trump told reporters gas prices would 'come tumbling down' once fighting ends. His approval rating for handling the economy fell to a career low of 31% in a CNN poll as gas hit $4.06/gallon. Iran's FM Araghchi countered that Iran is prepared for 'at least six months' of war.",
-    "source": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump",
+    "description": "Trump delivered his first primetime address since the war began, speaking for under 20 minutes from the White House Cross Hall. He claimed 'overwhelming victories,' said Iran's navy is 'absolutely destroyed' and missile capability 'dramatically curtailed,' and declared the US had 'totally obliterated those nuclear sites.' He acknowledged 13 US servicemembers killed. Trump threatened to hit Iran's electric grid into 'the Stone Ages' if no deal, and vowed to strike 'extremely hard over the next two to three weeks.' He denied seeking regime change but said 'regime change has occurred because of all of their original leaders' death.' Oil prices jumped 4% as traders read the speech as a sign the war would not end quickly. His economic approval rating hit a career low of 31% with gas at $4.06/gallon.",
+    "source": "https://www.cbsnews.com/news/trump-primetime-speech-iran-today-2026-04-01/",
     "actor": "US"
   },
   {
