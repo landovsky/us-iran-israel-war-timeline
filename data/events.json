@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-04-03",
+    "title": "Iran shoots down US F-15E over Iran; 1 crew rescued, 1 missing",
+    "direction": "Escalating",
+    "description": "Iran shot down a US F-15E Strike Eagle fighter jet over Iranian territory, the first American aircraft lost in the conflict. Both crew members ejected safely. US special forces located and rescued one crew member on Iranian soil; the second remains missing. Iran offered a bounty to civilians in the area to join the search. Israel suspended airstrikes in areas 'relevant' to the rescue operation to avoid endangering the missing airman. Weapons experts confirmed debris photos were consistent with an F-15E Strike Eagle.",
+    "source": "https://www.axios.com/2026/04/03/iran-us-fighter-shot-down",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "Iranian drones hit Kuwait's Mina al-Ahmadi refinery and desalination plant",
+    "direction": "Escalating",
+    "description": "Iranian drones struck Kuwait's Mina al-Ahmadi oil refinery for the third time since the war began, sparking fires at operational units. A separate strike hit a Kuwaiti power-and-desalination plant, causing 'material' damage — the second confirmed hit on Kuwait's water infrastructure in four days. No employees were reported injured. Kuwait blamed Iran; the IRGC denied responsibility. Kuwait's 1.6 million residents depend heavily on desalinated water, raising concerns about civilian water supply.",
+    "source": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "Drone strike destroys Red Crescent aid warehouse in Bushehr province",
+    "direction": "Escalating",
+    "description": "A drone strike at approximately 5:30 a.m. hit an Iranian Red Crescent Society warehouse in Choghadak, Bushehr province. Bushehr Red Crescent Director General Ehsan Izadpanah confirmed two aid containers, two buses, and multiple emergency vehicles were destroyed. No casualties were reported. The IFRC did not attribute blame. Three IFRC personnel have been killed since the war began on February 28.",
+    "source": "https://www.aa.com.tr/en/middle-east/us-israeli-airstrike-hits-iranian-red-crescent-in-bushehr/3890206",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "Hegseth fires Army Chief of Staff Gen. Randy George and two other generals",
+    "direction": "Neutral",
+    "description": "Defense Secretary Pete Hegseth forced Army Chief of Staff Gen. Randy George into immediate retirement, along with Gen. David Hodne (Transformation and Training Command) and Maj. Gen. William Green Jr. (Chief of Chaplains). The NYT reported George clashed with Hegseth over the blocking of four officer promotions — two Black officers and two women — from a list of 29. George had requested a meeting to discuss the issue two weeks prior; Hegseth refused. Pentagon spokesperson Sean Parnell thanked George for his 'decades of service.' Gen. Chris LaNeve is expected to serve as acting chief of staff.",
+    "source": "https://www.aljazeera.com/news/2026/4/3/hegseth-fires-us-army-chief-of-staff-in-reported-string-of-dismissals",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "French and Japanese ships make first Western/Asian Hormuz crossings since war began",
+    "direction": "De-escalating",
+    "description": "The Maltese-flagged CMA CGM Kribi, owned by France's CMA CGM (world's third-largest container line), transited the Strait of Hormuz eastbound — the first Western European-linked vessel to cross since the war began. The ship navigated the approved corridor between Qeshm and Larak islands after coordinating with Iranian maritime authorities. Separately, the Japanese LNG tanker SOHAR LNG entered the strait, attempting the first Japanese crossing since the conflict started. Strait traffic remains down approximately 90% since March 1, with only ~150 vessels transiting per Lloyd's List Intelligence.",
+    "source": "https://www.euronews.com/business/2026/04/03/french-ship-crosses-strait-of-hormuz-in-first-western-european-transit-during-iran-war",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "Three UNIFIL peacekeepers wounded by explosion in southern Lebanon",
+    "direction": "Escalating",
+    "description": "An explosion inside a UNIFIL position near Adaisseh in southern Lebanon wounded three peacekeepers, two of them seriously. The source of the explosion remains unknown. This was the third UNIFIL incident in a week: an Indonesian peacekeeper was killed on March 29, and two more were killed the following day near the Israeli border. Cumulative since March 2: 10 IDF soldiers and 2 civilians killed on the Lebanon front; 1,045 Hezbollah attack waves recorded.",
+    "source": "https://english.news.cn/20260403/3f1c2343a6ae487e8c255b0caf268dc0/c.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "Oil surges 11% as war escalation fears mount; WTI hits $111.54",
+    "direction": "Escalating",
+    "description": "WTI crude surged 11.4% to $111.54/barrel while Brent jumped 7.8% to $109.03, erasing days of de-escalation optimism. WTI continued trading above Brent, an unusual inversion indicating severe near-term US supply anxiety. The spike was driven by the F-15 shootdown, continued Gulf strikes on energy infrastructure, and Trump's threat that the US 'hasn't even started destroying what's left in Iran. Bridges next, then Electric Power Plants!' US gas prices reached $4.09/gallon, 37% above pre-war levels.",
+    "source": "https://fortune.com/article/price-of-oil-04-03-2026/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "UAE intercepts 19 missiles and 26 drones; Habshan gas facility hit",
+    "direction": "Escalating",
+    "description": "UAE air defenses engaged 19 ballistic missiles and 26 drones launched from Iran on Thursday. An Iranian strike hit the Habshan gas processing complex in Abu Dhabi — a major facility — forcing operations to suspend during emergency response. Falling debris injured 12 people: 7 Nepalese nationals and 5 Indian nationals. Cumulative UAE toll since February 28: 2 service members killed and 191 injured. Bahrain also sounded warning sirens with highway traffic diverted due to falling debris.",
+    "source": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "Iranian missile kills 1 in Tel Aviv; train station damaged by shrapnel",
+    "direction": "Escalating",
+    "description": "An Iranian missile struck a residential building in Tel Aviv, killing one civilian and wounding two others. Shrapnel damaged a nearby train station. Iran maintained its 'consistent attack pattern' throughout the day with multiple salvos targeting the Tel Aviv metropolitan area, with secondary attacks on southern, northern, and Jerusalem regions. Cumulative Israeli civilian toll: 19 killed, over 6,594 injured since the war began. The IDF identified 434 total Iranian attack waves since the conflict started.",
+    "source": "https://www.euronews.com/2026/04/03/tehran-fires-at-israel-as-trump-warns-us-has-not-started-destroying-what-is-left-in-iran",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-04-02",
     "title": "US-Israeli strikes devastate Tehran's Pasteur Institute; Iran calls it 'barbaric assault'",
     "direction": "Escalating",
