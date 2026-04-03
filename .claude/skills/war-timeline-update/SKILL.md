@@ -110,7 +110,7 @@ The file has structure: `{ "daily": { "YYYY-MM-DD": "text", ... }, "weekly": { "
 - If you added events to a week whose **weekly summary** is now materially incomplete → regenerate the weekly summary
 - The current (most recent) week's weekly summary should always be regenerated when new events are added, since it's inherently incomplete
 
-**Briefing style:** Interpretive analysis, not just a list of facts. Read between the lines. Written for someone who wants to understand *what the day/week meant* without reading every event. 3-5 sentences for daily, 5-8 for weekly.
+**Briefing style:** Interpretive analysis, not just a list of facts. Read between the lines. Written for someone who wants to understand *what the day/week meant* without reading every event. 3-5 sentences for daily. Weekly summaries should be ~1500 characters max (hard cap: 1800), structured as 2-3 short paragraphs separated by `\n\n`. Focus on the 3-4 most consequential developments, not an exhaustive recap.
 
 **How to update:**
 1. Read the existing `data/summaries.json`

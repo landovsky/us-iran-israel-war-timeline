@@ -200,17 +200,16 @@
     /* ── Sticky controls bar ─────────────────────────────────────────────── */
     .controls-bar {
       position: sticky;
-      top: 0;
+      top: 37px;
       z-index: 100;
       background: rgba(8,15,26,0.97);
       backdrop-filter: blur(12px);
-      border-bottom: 1px solid var(--border);
       padding: 7px 20px;
     }
 
     .controls-inner {
       max-width: 1020px;
-      margin: 0 auto;
+      margin: 20px auto 0;
       display: flex;
       align-items: center;
       gap: 8px;
@@ -268,30 +267,45 @@
       color: var(--fg);
     }
 
-    /* ── View toggle ─────────────────────────────────────────────────────── */
-    .view-toggle {
+    /* ── View toggle — signal band ──────────────────────────────────────── */
+    .view-band {
       display: flex;
-      border: 1px solid var(--border);
-      border-radius: 4px;
-      overflow: hidden;
-      flex-shrink: 0;
+      justify-content: center;
+      background: var(--bg);
+      position: sticky;
+      top: 0;
+      z-index: 101;
+      padding: 10px 20px 0;
+    }
+    .view-band-inner {
+      display: inline-flex;
     }
     .vt-btn {
-      padding: 3px 11px;
+      padding: 7px 28px;
       background: transparent;
       border: none;
+      border-bottom: 2px solid transparent;
       color: var(--dim);
       font-family: 'IBM Plex Mono', monospace;
-      font-size: 0.58rem;
+      font-size: 0.62rem;
       font-weight: 500;
-      letter-spacing: 0.08em;
+      letter-spacing: 0.18em;
       cursor: pointer;
       text-transform: uppercase;
-      transition: all 0.15s;
+      transition: all 0.2s;
+      text-align: center;
+      position: relative;
     }
     .vt-btn + .vt-btn { border-left: 1px solid var(--border); }
-    .vt-btn.active { background: var(--surface); color: var(--text); }
-    .vt-btn:hover:not(.active) { color: var(--muted); }
+    .vt-btn.active {
+      color: var(--text);
+      border-bottom-color: var(--esc);
+      background: linear-gradient(to top, rgba(239,68,68,0.06) 0%, transparent 70%);
+    }
+    .vt-btn:hover:not(.active) {
+      color: var(--muted);
+      background: rgba(255,255,255,0.02);
+    }
 
     /* ── Weekly view ─────────────────────────────────────────────────────── */
     .week-date-label {
@@ -662,17 +676,19 @@
     /* ── Day summary ─────────────────────────────────────────────────────── */
     .day-summary {
       max-width: 560px;
-      margin: 2px auto 6px;
-      padding: 8px 14px 6px;
-      background: rgba(17,24,39,0.6);
-      border-left: 2px solid var(--dim);
-      border-radius: 0 5px 5px 0;
+      margin: 6px auto 12px;
+      padding: 12px 18px 10px;
+      background: rgba(17,24,39,0.7);
+      border: 1px solid var(--border);
+      border-left: 2px solid var(--muted);
+      border-radius: 0 6px 6px 0;
       position: relative;
       z-index: 1;
       cursor: pointer;
-      transition: background 0.15s;
+      transition: all 0.15s;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.25);
     }
-    .day-summary:hover { background: rgba(17,24,39,0.85); }
+    .day-summary:hover { background: rgba(17,24,39,0.95); border-left-color: var(--desc); }
     .day-summary-header {
       display: flex;
       align-items: center;
@@ -697,7 +713,7 @@
     }
     .day-summary:hover .day-summary-toggle { color: #7bbdf5; }
     .day-summary-text {
-      font-size: 0.69rem;
+      font-size: 0.8rem;
       color: var(--muted);
       line-height: 1.65;
       margin-top: 4px;
@@ -720,17 +736,19 @@
     /* ── Week Briefing (week-level summary card) ────────────────────────── */
     .week-briefing {
       max-width: 560px;
-      margin: 4px auto 8px;
-      padding: 10px 16px 8px;
-      background: rgba(17,24,39,0.6);
-      border-left: 2px solid var(--dim);
+      margin: 6px auto 12px;
+      padding: 12px 18px 10px;
+      background: rgba(17,24,39,0.7);
+      border: 1px solid var(--border);
+      border-left: 2px solid var(--muted);
       border-radius: 0 6px 6px 0;
       cursor: pointer;
-      transition: background 0.15s;
+      transition: all 0.15s;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.25);
     }
-    .week-briefing:hover { background: rgba(17,24,39,0.85); }
+    .week-briefing:hover { background: rgba(17,24,39,0.95); border-left-color: var(--desc); }
     .week-briefing .day-summary-text {
-      font-size: 0.72rem;
+      font-size: 0.8rem;
       color: var(--muted);
       line-height: 1.6;
       margin-top: 4px;
@@ -756,6 +774,10 @@
 
     /* ── Mobile ──────────────────────────────────────────────────────────── */
     @media (max-width: 620px) {
+      .legend { display: none; }
+      .view-band { padding-left: 0; padding-right: 0; }
+      .view-band-inner { display: flex; width: 100%; }
+      .vt-btn { flex: 1; }
       .hero-inner { flex-direction: column; gap: 14px; position: relative; }
       .hero-right { align-items: flex-start; flex-direction: row; flex-wrap: wrap; gap: 12px; }
       .hero-day-counter {
@@ -811,15 +833,19 @@
   </div>
 </section>
 
+<!-- ── View mode band ────────────────────────────────────────────────────── -->
+<div class="view-band">
+  <div class="view-band-inner">
+    <button class="vt-btn active" id="btn-week">Week view</button>
+    <button class="vt-btn" id="btn-day">Day view</button>
+  </div>
+</div>
+
 <!-- ── Sticky controls bar ───────────────────────────────────────────────── -->
 <div class="controls-bar">
   <div class="controls-inner">
     <span class="filter-lbl">Filter:</span>
     <div id="actor-filters"></div>
-    <div class="view-toggle">
-      <button class="vt-btn" id="btn-day">Day</button>
-      <button class="vt-btn active" id="btn-week">Week</button>
-    </div>
   </div>
 </div>
 
