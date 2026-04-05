@@ -9,6 +9,14 @@
   },
   {
     "date": "2026-04-04",
+    "title": "UAE intercepts 23 ballistic missiles and 56 UAVs; Oracle Dubai office hit by debris",
+    "direction": "Escalating",
+    "description": "The UAE Ministry of Defence reported intercepting 23 ballistic missiles and 56 UAVs launched from Iran on April 4 — the largest single-day attack on the UAE since the war began. Debris from one interception struck the facade of Oracle's office in Dubai Internet City; no injuries were reported. The IRGC claimed it deliberately targeted Oracle's data center; Dubai's Media Office called the claim 'fake news.' The IRGC has previously threatened US tech companies operating in the Gulf, naming Apple, Google, Nvidia, Microsoft, and Boeing as potential targets.",
+    "source": "https://www.cnbc.com/2026/04/04/debris-from-interception-strikes-oracle-building-in-dubai-uae-says.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-04",
     "title": "IDF destroys 2 Bekaa Valley bridges linking Sohmor and Mashghara",
     "direction": "Escalating",
     "description": "Israeli warplanes destroyed two bridges linking Sohmor and Mashghara in the western Bekaa Valley after IDF spokesman Avichay Adraee warned residents to evacuate. The strikes isolated the western Bekaa from the rest of Lebanon and cut Hezbollah's supply routes between Syria and the south. Israel has now destroyed at least 8 bridges over or near the Litani River since intensifying operations in early March. Humanitarian organizations warned the destruction blocks delivery of food, medicine, and emergency services to towns already cut off by displacement orders.",
@@ -121,6 +129,22 @@
   },
   {
     "date": "2026-04-02",
+    "title": "IDF advances to Litani River, reoccupies pre-2024 ceasefire positions; Lebanese army withdraws",
+    "direction": "Escalating",
+    "description": "Israeli forces advanced deeper into southern Lebanon, reaching the Litani River and reoccupying positions held before the November 2024 Hezbollah ceasefire. The Lebanese Armed Forces withdrew from border villages as Israeli troops moved in. Israeli strikes killed 27 people and wounded 105 in Lebanon on Thursday alone — the single deadliest day in Lebanon since the war began. Cumulative Lebanese dead since March 2: 1,345, including 125 children.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-04-02/ty-article/.premium/idf-reoccupies-lebanon-areas-it-held-before-2024-hezbollah-cease-fire/0000019d-4e85-d257-a5dd-6e9742cf0000",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-02",
+    "title": "Iran executes 18-year-old protester Amirhossein Hatami, 84 days after arrest",
+    "direction": "Escalating",
+    "description": "Iran hanged 18-year-old musician Amirhossein Hatami at Ghezel Hesar Prison, 84 days after his arrest during the January 2026 protests. He was charged with attacking a Basij militia facility. His trial lasted one day in Branch 15 of Tehran's Revolutionary Court — presided over by Judge Abolqasem Salavati, known as the 'Judge of Death' — with court-appointed counsel he did not choose. Televised confessions obtained under duress were broadcast 10 days after his arrest. Amnesty International called it 'the arbitrary execution of a teenage protester' following a 'grossly unfair' trial.",
+    "source": "https://iranhr.net/en/articles/8663/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-02",
     "title": "US-Israeli strikes devastate Tehran's Pasteur Institute; Iran calls it 'barbaric assault'",
     "direction": "Escalating",
     "description": "US-Israeli strikes heavily damaged the Pasteur Institute of Iran, a century-old medical research center in Tehran that has produced vaccines and conducted infectious disease research since 1920. Iranian FM spokesperson Esmaeil Baqaei called it 'heartbreaking, cruel, despicable, and utterly outrageous — a barbaric assault on basic human core values.' The Health Ministry warned of a 'direct assault on international health security.' Neither the US nor Israel claimed responsibility. The same day, strikes hit the Karaj B1 commuter bridge near Tehran twice, and forced Iran's two largest steel plants offline with 6-12 month restart estimates. Iran's cumulative war dead reached 3,519 including 1,598 civilians and at least 244 children, with over 113,000 civilian sites damaged per Iran's Red Crescent.",
@@ -149,6 +173,14 @@
     "direction": "Escalating",
     "description": "US crude (WTI) surged nearly 9% to $108.95/barrel on Thursday while Brent climbed over 5% to $106.55, reversing the previous day's dip below $100. Traders interpreted Trump's primetime speech — threatening to bomb Iran's power grid to 'the Stone Ages' and pledging 2-3 more weeks of 'extremely hard' strikes — as a signal the war would not end quickly. WTI traded above Brent for the first time in the conflict, an unusual spread indicating severe near-term supply anxiety. The Iran-Oman Hormuz protocol partially offset the spike, with equities recovering intraday, but the net move erased days of de-escalation optimism.",
     "source": "https://gulfnews.com/world/mena/usisrael-war-on-iran-day-34-trump-says-us-to-hit-iran-extremely-hard-for-2-3-weeks-2-1.500493799",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "EU considers fuel rationing; diesel up 30% in Germany, France; Commissioner: 'long crisis'",
+    "direction": "Neutral",
+    "description": "The European Union began assessing fuel rationing and emergency oil reserve releases as EU-average petrol prices reached €1.87/liter (+14% since Feb 28) and diesel hit €2.07/liter (+30.2%). Germany and France saw diesel surge 32%+ each. EU Energy Commissioner Dan Jorgensen stated: 'This will be a long crisis... energy prices will be higher for a very long time.' Asian nations have moved further: Vietnam and Thailand introduced fuel subsidies, Myanmar imposed alternating driving days, and in Bangladesh fuel thefts have turned violent with pump workers killed.",
+    "source": "https://www.turkiyetoday.com/business/eu-considers-fuel-rationing-amid-long-lasting-energy-shock-from-iran-war-3217431",
     "actor": "Other"
   },
   {
