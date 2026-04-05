@@ -24,7 +24,7 @@ Read the last 20-30 events from `data/events.json` (the top of the file — it's
 
 Today's date is injected into your context. Only capture events from the past **48 hours**. Events older than that should already be in the DB.
 
-Run these searches. Use both WebSearch and WebFetch on the most promising articles:
+### Pass 1 — Core searches (run all in parallel)
 
 1. `Iran war latest news [today's date] 2026`
 2. `Israel Iran strikes [today's date] 2026`
@@ -34,6 +34,19 @@ Run these searches. Use both WebSearch and WebFetch on the most promising articl
 6. `82nd Airborne Kharg Island [today's date]`
 7. `Iran nuclear war [today's date] 2026`
 8. `Houthis Red Sea Iran war [today's date]`
+
+### Pass 2 — Wider net (run after Pass 1, also in parallel)
+
+These catch events that don't surface in the main military/diplomatic searches:
+
+9. `Iran domestic protests executions [today's date] 2026`
+10. `Iran war Gulf states UAE Kuwait Bahrain [today's date] 2026`
+11. `Iran war Europe NATO alliance [today's date] 2026`
+12. `Iran war energy fuel crisis rationing [today's date] 2026`
+13. `Iran war Russia China diplomacy [today's date] 2026`
+14. `Iran war civilian casualties infrastructure [today's date] 2026`
+15. `Iran war tech companies data centers [today's date] 2026`
+16. `IDF Lebanon ground fighting casualties [today's date] 2026`
 
 For each result, **fetch the full article** — don't rely on search snippets alone. Snippets often omit the key facts (casualty numbers, exact quotes, actor names).
 
