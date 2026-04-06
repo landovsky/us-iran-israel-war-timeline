@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-04-06",
+    "title": "IDF destroys dozens of aircraft at 3 Tehran-area airports",
+    "direction": "Escalating",
+    "description": "The Israeli Air Force struck three airports in the Tehran area overnight — Bahram, Mehrabad, and Azmayesh — destroying dozens of Iranian military aircraft on the ground. The IDF said the strikes aimed to deliver a decisive blow to both the Iranian air force and the IRGC air force. Mehrabad also serves as Tehran's domestic civilian airport. Separate strikes hit targets in Shiraz, Isfahan, Karaj, and Qom.",
+    "source": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-oil-ceasefire-israel-rcna266833",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "Israel strikes South Pars petrochemical complex; half of Iran's output halted",
+    "direction": "Escalating",
+    "description": "Israeli warplanes struck the South Pars petrochemical complex in Asaluyeh, targeting the Jam and Damavand facilities. Defense Minister Israel Katz described the sites as 'critical assets responsible for around half of Iran's petrochemical output.' Production was suspended. A separate strike hit a petrochemical facility near Marvdasht. Combined with the April 4 Mahshahr strikes, Iran has now lost the majority of its operational petrochemical capacity.",
+    "source": "https://israel-alma.org/daily-report-the-second-iran-war-april-6-2026-1800/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "IDF kills IRGC Intelligence chief Khademi and Quds Force Unit 840 commander",
+    "direction": "Escalating",
+    "description": "Israel killed Majid Khademi, head of the IRGC Intelligence Directorate since June 2025, and Yazdan Mir (also known as Asghar Bakeri), commander of Unit 840 — the Quds Force's special operations division responsible for overseas attacks. The IDF confirmed both eliminations. Separately, Brigadier General Masoud Zare, commander of Iran's Air Defense College, was killed April 5 in an Israeli strike in Isfahan.",
+    "source": "https://israel-alma.org/daily-report-the-second-iran-war-april-6-2026-1800/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "Iranian missile kills 4 in Haifa residential building",
+    "direction": "Escalating",
+    "description": "An Iranian ballistic missile scored a direct hit on a residential building in Haifa, killing 4 civilians and injuring approximately 10. Cumulative Israeli civilian toll since the war began: 23 killed and over 7,035 injured. A total of 6,700 residents from 42 municipalities have been evacuated from damaged homes. Iran's attack frequency has dropped to 7.7 waves daily over the past week, down from the 12.4 daily average since the war began.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "Iran rejects temporary ceasefire; sends 10-clause counter-proposal via Pakistan",
+    "direction": "De-escalating",
+    "description": "Iran conveyed a formal response to US ceasefire demands through Pakistan, rejecting any temporary ceasefire as allowing 'adversaries to pause and prepare for continuation of the conflict.' Iran's 10-clause counter-proposal demands a permanent end to hostilities, a legal protocol for Strait of Hormuz transit using transit-fee revenue for war reparations, full lifting of sanctions, and reconstruction aid. Mediators from Egypt, Pakistan, and Turkey are discussing a two-phase framework: a 45-day ceasefire followed by permanent peace negotiations. A White House official called the 45-day plan 'one of many ideas' being discussed.",
+    "source": "https://www.cnbc.com/2026/04/06/us-and-iran-receive-peace-proposal-as-trump-vows-hell-if-strait-stays-shut.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "Trump sets Tuesday 8pm ET Hormuz deadline; threatens bridges and power plants",
+    "direction": "Escalating",
+    "description": "Trump extended his Hormuz ultimatum by 20 hours to Tuesday April 7 at 8pm ET, posting on Truth Social: 'Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran.' He told reporters 'the entire country can be taken out in one night' and that the US would 'take Iran's oil.' Crude prices jumped from $112 to $114/barrel during his press conference. EU Council President Costa responded that targeting civilian infrastructure 'is illegal.'",
+    "source": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "Lebanon expels Iranian ambassador, bans Hezbollah's military wing",
+    "direction": "De-escalating",
+    "description": "Lebanon's Council of Ministers voted to ban Hezbollah's military and security apparatus and ordered the group to hand over its weapons. Foreign Minister Youssef Ragi announced Lebanon is expelling Iranian Ambassador Mohammad Reza Raouf Sheibani, declaring him persona non grata for Iran's 'continuing interference in Lebanon's internal affairs.' The moves represent Lebanon's sharpest break with Hezbollah and Iran since the group's founding in 1982.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "Iran's Velayati threatens Bab al-Mandeb closure alongside Hormuz",
+    "direction": "Escalating",
+    "description": "Ali Akbar Velayati, adviser to Supreme Leader Mojtaba Khamenei, posted on X that 'the unified command of the Resistance front views Bab al-Mandeb as it does Hormuz,' warning: 'If the White House dares to repeat its foolish mistakes, it will soon realize that the flow of global energy and trade can be disrupted with a single move.' The threat implies Iran-backed Houthis could blockade the Red Sea's southern chokepoint, through which ~12% of global trade passes, in addition to the already-closed Strait of Hormuz.",
+    "source": "https://www.aljazeera.com/news/2026/4/6/iran-threatens-bab-al-mandeb-closure-how-would-that-affect-world-trade",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "Iran hangs Ali Fahim, 23; 10th political prisoner executed in 8 days",
+    "direction": "Escalating",
+    "description": "Iran executed Ali Fahim, 23, convicted of involvement in an attack on a Tehran Basij militia base during the January protests. Human rights groups said Fahim was tortured and denied legal counsel during an expedited trial. IHR director Mahmood Amiry-Moghaddam said: 'These executions are part of the Islamic republic's strategy of survival — waging war against its own people under the shadow of external conflict.' Authorities have executed 10 political prisoners in the past 8 days — 4 for protest charges, 6 for alleged MEK membership.",
+    "source": "https://www.cp24.com/news/world/2026/04/06/iran-wartime-executions-mount-as-another-protester-hanged/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "IAEA warns Bushehr strikes risk 'severe radiological accident'",
+    "direction": "Escalating",
+    "description": "IAEA Director General Rafael Grossi warned that ongoing military strikes near Iran's Bushehr nuclear power plant could cause a 'severe radiological accident' with consequences extending beyond Iran's borders. A projectile struck an area approximately 250 feet from the reactor — the fourth time the site has been targeted since the war began. The most recent previous strike, on April 4, killed a security staff member. Grossi urged an immediate ceasefire around all nuclear facilities.",
+    "source": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-oil-ceasefire-israel-rcna266833",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-05",
+    "title": "UAE intercepts 60 Iranian projectiles; Fujairah communications building hit",
+    "direction": "Escalating",
+    "description": "UAE air defenses engaged 9 ballistic missiles, 1 cruise missile, and 50 UAVs launched from Iran on April 5. An Iranian UAV struck a communications building in Fujairah, on the Gulf of Oman coast. Borouge petrochemical plant caught fire from falling interception debris. Operations at Khor Fakkan port were suspended for damage assessment. Bahrain intercepted 13 drones in the same period, bringing its cumulative interceptions since February 28 to 188 ballistic missiles and 466 drones.",
+    "source": "https://israel-alma.org/daily-report-the-second-iran-war-april-5-2026-1800/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-05",
+    "title": "Iranian drones hit Kuwait power plants and desalination facilities again",
+    "direction": "Escalating",
+    "description": "Iranian drone strikes damaged two additional Kuwait power and water desalination plants, knocking out two electricity-generating units. Approximately 90% of Kuwait's drinking water comes from desalination plants, deepening concerns about civilian water supply. Fires broke out at the Shuwaikh Oil Sector Complex, with Kuwait Petroleum Corp reporting 'significant material losses.' In Bahrain, drones struck Gulf Petrochemical Industries and a Bapco Energies oil storage tank, starting fires that were later contained.",
+    "source": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-05",
+    "title": "Israeli Easter Sunday strikes kill 11 across Lebanon",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes on Easter Sunday killed at least 11 people across Lebanon. A strike on Kfarhata village killed 7 including a 4-year-old child. In Beirut's Jnah neighborhood, 4 were killed and 39 injured. Eight additional airstrikes hit southern Beirut suburbs. The IDF also struck two Hezbollah-controlled 'Al-Amana' gas stations, bringing the total gas stations destroyed since Operation Roaring Lion to over 15. A Lebanese army soldier was killed in a separate strike in southern Lebanon.",
+    "source": "https://www.jpost.com/israel-news/defense-news/article-892080",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-04-05",
     "title": "Missing F-15 WSO rescued from Iran; CIA deception campaign, dozens of special forces used",
     "direction": "De-escalating",
