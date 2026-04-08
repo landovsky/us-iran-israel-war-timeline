@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-04-08",
+    "title": "Vance to lead US delegation at Islamabad peace talks Friday",
+    "direction": "De-escalating",
+    "description": "Trump announced Vice President JD Vance will lead the US negotiating team at the first round of direct US-Iran talks in Islamabad on Friday, April 10. Special envoys Steve Witkoff and Jared Kushner will also participate. Pakistani PM Shehbaz Sharif invited both delegations, with the talks aimed at converting the 2-week ceasefire into a permanent agreement. Iran confirmed its participation, with FM Araghchi expected to lead Tehran's delegation.",
+    "source": "https://www.timesofisrael.com/liveblog-april-08-2026/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Hegseth declares Iran's defense-industrial base 'completely destroyed'",
+    "direction": "Neutral",
+    "description": "Defense Secretary Pete Hegseth said the Pentagon 'has done its part' and that Iran's defense-industrial base has been 'completely' destroyed after 40 days of strikes. Hegseth framed the ceasefire as a military victory, stating the US had achieved all its operational objectives. The claim could not be independently verified. Iran's armed forces have not publicly acknowledged the extent of damage to their military infrastructure.",
+    "source": "https://www.euronews.com/2026/04/08/us-and-iran-agree-to-two-week-truce-after-trump-pulls-back-on-threats",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Gulf states attacked hours after ceasefire; Qatar intercepts 7 missiles",
+    "direction": "Escalating",
+    "description": "Five Gulf states reported Iranian attacks hours after the ceasefire announcement. Qatar intercepted 7 ballistic missiles and multiple drones. Saudi Arabia downed 9 drones. Kuwait's defenses engaged 28 drones targeting oil installations and power stations, with 'severe material damage' at Kuwait Petroleum Corp facilities. A fire broke out at Abu Dhabi's Habshan gas complex from interception debris, injuring 3. Bahrain intercepted a drone over Sitra Island, injuring 2 citizens. Iran attributed the strikes to launches initiated before the ceasefire took effect.",
+    "source": "https://www.aljazeera.com/news/2026/4/8/uae-kuwait-bahrain-report-attacks-despite-iran-us-ceasefire",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Oil plunges 14-16% on ceasefire; WTI drops to $94.52, Brent to $93.73",
+    "direction": "De-escalating",
+    "description": "Oil prices collapsed on the ceasefire announcement. West Texas Intermediate fell 14.3% to $94.52/barrel; Brent crude dropped 13.1% to $93.73/barrel — the largest single-day decline since the war began. S&P 500 futures surged 2.3%. Both benchmarks remained well above pre-war levels (~$70/barrel in late February). Analysts cautioned that prices could reverse if the ceasefire collapses or if Hormuz remains effectively closed despite Iran's reopening pledge.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-deadline-power-plants-human-chains-israel-train-strikes/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Iran re-halts Hormuz shipping after Israel's Lebanon strikes",
+    "direction": "Escalating",
+    "description": "Iran halted oil tanker traffic through the Strait of Hormuz hours after the first vessels were allowed to pass under the ceasefire, citing Israel's massive Lebanon strikes as a violation of the truce. Iran's semi-official Fars news agency reported the passage suspension. Only 3 ships had left the region on Wednesday, versus the normal ~135 daily transits. Over 800 freighters remained stuck inside the Gulf. FM Araghchi stated: 'The Iran–US ceasefire terms are clear and explicit: The US must choose — ceasefire or continued war via Israel. It cannot have both.'",
+    "source": "https://edition.cnn.com/2026/04/08/world/live-news/iran-war-trump-us-ceasefire",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Netanyahu declares ceasefire excludes Lebanon; Iran threatens deal collapse",
+    "direction": "Escalating",
+    "description": "PM Netanyahu stated the US-Iran ceasefire 'does not include Lebanon,' directly contradicting Pakistani PM Sharif's claim that the deal covers 'Lebanon and elsewhere.' Netanyahu added the ceasefire is 'not the end of the war' and that 'all goals will be achieved.' Iran responded that Lebanon's inclusion is non-negotiable, with Araghchi warning the US must choose between the ceasefire and allowing Israeli strikes on Lebanon. The dispute immediately threatened the fragile truce.",
+    "source": "https://www.pbs.org/newshour/world/israel-says-iran-ceasefire-doesnt-apply-to-lebanon-and-strikes-central-beirut-without-warning",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Israel's largest Lebanon strike kills 254; 100+ targets in 10 minutes",
+    "direction": "Escalating",
+    "description": "Israel launched what the IDF called 'the largest coordinated strike in the current war,' hitting over 100 Hezbollah targets in 10 minutes across Beirut, southern Lebanon, and the eastern Bekaa Valley. Lebanon's health ministry reported 254 killed and over 1,165 wounded. Strikes hit at least 5 neighborhoods in central Beirut without advance warning, targeting missile launchers, command centers, and intelligence infrastructure. Lebanon's Social Affairs Minister called it 'a very dangerous turning point,' noting that 'half of the sheltered IDPs are in Beirut in this area.' Cumulative Lebanese death toll: over 1,530.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/4/8/iran-war-live-trump-announces-truce-tehran-agrees-safe-transit-in-hormuz",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-07",
+    "title": "US and Iran agree to 2-week ceasefire; Pakistan brokers deal 90 min before deadline",
+    "direction": "De-escalating",
+    "description": "Pakistan's PM Sharif and Field Marshal Asim Munir requested Trump halt strikes planned for that night, and at 9:48pm ET — 90 minutes before Trump's 8pm deadline effectively expired — Trump announced a 2-week ceasefire on Truth Social. Terms: US and Israel suspend strikes on Iran; Iran commits to 'COMPLETE, IMMEDIATE, and SAFE OPENING of the Strait of Hormuz'; negotiations begin Friday in Islamabad. Iran and Oman can charge transit fees for reconstruction. Neither side committed to sanctions lifting, frozen assets, or US troop withdrawal. The ceasefire is extendable by mutual agreement.",
+    "source": "https://www.npr.org/2026/04/07/nx-s1-5776377/iran-war-updates",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-07",
+    "title": "Iran strikes Ali al-Salem base in Kuwait; 15 US soldiers injured",
+    "direction": "Escalating",
+    "description": "An Iranian UAV struck the Ali al-Salem Air Base in Kuwait, injuring 15 American soldiers. The base has served as a key staging area for US air operations since the war began. Separately, Iran fired 7 ballistic missiles intercepted by Saudi Arabia, and a reported strike hit the al-Jubail refineries. In Bahrain, traffic on the King Fahd Causeway was halted following an Iranian attack. Iran stated its 'restraint in targeting oil infrastructure in the region would no longer apply' following the Kharg Island strikes.",
+    "source": "https://israel-alma.org/daily-report-the-second-iran-war-april-7-2026-1600/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-07",
+    "title": "Iranian civilians form human chains at power plants against Trump's threat",
+    "direction": "Neutral",
+    "description": "Hundreds of Iranian civilians formed human chains around power plants across Iran after Trump threatened to destroy the country's entire electrical grid by 8pm ET. Fars news agency broadcast footage of crowds encircling the Kazerun combined-cycle power plant in Fars Province. The demonstrations spread to multiple facilities, with participants declaring they would shield civilian infrastructure with their bodies. Iran has an installed power capacity of ~90 GW serving 85 million people.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-deadline-power-plants-human-chains-israel-train-strikes/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-07",
+    "title": "US strikes Kharg Island military targets ahead of Trump's deadline",
+    "direction": "Escalating",
+    "description": "US forces struck dozens of military targets on Kharg Island hours before Trump's 8pm deadline, including IRGC positions on the island's northern side. The strikes avoided oil and gas infrastructure — Kharg handles ~90% of Iran's oil exports. In response, Iran declared that its restraint on targeting Gulf oil infrastructure 'would no longer apply,' raising the prospect of retaliatory strikes on Saudi, Emirati, and Kuwaiti energy facilities. Separately, strikes hit two shipbuilding companies in Khorramshahr and multiple sites across Isfahan, Shiraz, Yazd, Parchin, and Bandar Chabahar.",
+    "source": "https://israel-alma.org/daily-report-the-second-iran-war-april-7-2026-1600/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-07",
+    "title": "US-Israel destroys 8 bridges and 10+ railway segments across Iran",
+    "direction": "Escalating",
+    "description": "The IDF destroyed sections of 8 bridges across Iran used for transporting weapons and military equipment, hitting targets in Tehran, Karaj, Tabriz, Kashan, and Qom. Netanyahu stated: 'Yesterday we destroyed transport aircraft and dozens of helicopters, and today we attacked the railway lines and bridges.' Approximately 10 railway segments were also struck, including the Kashan railway bridge (killing 2), the Tabriz-Zanjan rail bridge, and tracks near Karaj. The infrastructure campaign fulfilled Trump's April 6 threat that Tuesday would be 'Bridge Day.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-deadline-power-plants-human-chains-israel-train-strikes/",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-04-07",
+    "title": "Trump warns 'a whole civilization will die tonight' ahead of Iran deadline",
+    "direction": "Escalating",
+    "description": "At 8:07am ET, Trump posted on Truth Social: 'A whole civilization will die tonight, never to be brought back again. I don't want that to happen, but it probably will.' The statement prompted White House denials that nuclear weapons were being considered. House Minority Leader Jeffries called Trump 'completely unhinged.' Amnesty International's Agnès Callamard said the threats 'reveal a staggering level of cruelty and disregard for human life.' Senate Minority Leader Schumer issued a rare joint statement warning the threat could constitute war crimes.",
+    "source": "https://www.nbcnews.com/politics/white-house/trump-threat-whole-civilization-will-die-iran-war-deadline-hormuz-rcna267059",
+    "actor": "US"
+  },
+  {
     "date": "2026-04-06",
     "title": "IDF destroys dozens of aircraft at 3 Tehran-area airports",
     "direction": "Escalating",
