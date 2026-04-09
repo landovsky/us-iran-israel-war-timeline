@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-04-09",
+    "title": "HRANA reports 3,636 killed in Iran war; 1,701 civilians",
+    "direction": "Neutral",
+    "description": "The US-based Human Rights Activists News Agency (HRANA) published an updated death toll for the 40-day Iran war: 3,636 killed including 1,701 civilians, 1,221 military personnel, and 714 unclassified. At least 15% of civilian casualties were under 18. The figures cannot be independently verified as Iran has not released official casualty numbers. HRANA's count is widely cited by international media and rights organizations as the most comprehensive tracker of the war's human toll.",
+    "source": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-ceasefire-trump-hormuz-israel-lebanon-rcna267205",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Ghalibaf calls Islamabad peace talks 'unreasonable' amid violations",
+    "direction": "Escalating",
+    "description": "Iran's parliament speaker Mohammad Bagher Ghalibaf escalated his rhetoric from the previous day's complaints, declaring the upcoming Islamabad talks 'unreasonable' given Israel's continued strikes on Lebanon, Israeli drone overflights of Iranian airspace, and US demands that Iran abandon uranium enrichment. Ghalibaf insisted enrichment would continue under ceasefire terms, directly contradicting Trump's claim that Iran agreed to halt enrichment. The statement raised doubts about whether Iran would participate constructively in Saturday's scheduled negotiations.",
+    "source": "https://www.onmanorama.com/news/world/2026/04/09/iran-peace-talks-unreasonable-israel-strikes-lebanon.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "UK, France, Germany, Australia demand Lebanon ceasefire inclusion",
+    "direction": "De-escalating",
+    "description": "UK Foreign Secretary Yvette Cooper stated 'We want to see Lebanon included in the ceasefire,' calling Israel's strikes 'deeply damaging.' France, Germany, Australia, and UN Secretary-General Antonio Guterres echoed the demand, calling for 'quick progress towards a substantive negotiated settlement.' The joint pressure contradicted Washington and Tel Aviv's insistence that Lebanon was excluded from the US-Iran truce. Cooper's statement marked the UK's most explicit break with the US on the Lebanon question since the war began.",
+    "source": "https://www.foxnews.com/live-news/trump-us-iran-war-ceasefire-strait-hormuz-israel-live-updates-04-08-2026",
+    "actor": "UK|Other"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Israel kills Hezbollah SG Qassem's nephew in Beirut strike",
+    "direction": "Escalating",
+    "description": "The IDF struck and killed Ali Yusuf Harshi, personal secretary and nephew of Hezbollah Secretary-General Naim Qassem, in a targeted Beirut strike. The IDF also hit approximately 10 weapons storage facilities and two key crossings north and south of the Litani River used for transferring weapons. The targeted assassination of a senior figure in Qassem's inner circle signaled Israel's intent to continue decapitating Hezbollah leadership despite the US-Iran ceasefire.",
+    "source": "https://www.foxnews.com/live-news/trump-us-iran-war-ceasefire-strait-hormuz-israel-live-updates-04-08-2026",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Trump warns 'the shootin' starts' if ceasefire terms not met",
+    "direction": "Escalating",
+    "description": "Trump posted on Truth Social warning that 'the Shootin' Starts' if the ceasefire agreement is violated, adding that 'all US ships, aircraft, and military personnel will remain in place' until the 'real agreement is fully complied with.' The US maintains 50,000 troops in the Middle East with two carrier strike groups, nearly 20 warships, and over a dozen air squadrons. VP Vance reinforced the threat, telling reporters: 'If Iran fails to reopen the Strait of Hormuz, the president is not going to abide by our terms.'",
+    "source": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-ceasefire-trump-hormuz-israel-lebanon-rcna267205",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Lebanon declares national day of mourning after 254 killed",
+    "direction": "Neutral",
+    "description": "PM Nawaf Salam declared Thursday April 9 a national day of mourning following Israel's deadliest single-day attack on Lebanon. All public institutions closed, flags flew at half-staff, and broadcast programming was adjusted. Salam vowed to mobilize 'all of Lebanon's political and diplomatic resources to stop the Israeli killing machine.' Cumulative Lebanese death toll from the war reached 1,784 killed and 5,977 wounded. Hundreds gathered in Times Square, New York, demanding a permanent end to the war and halt to Lebanon bombing.",
+    "source": "https://english.news.cn/20260409/8b6acd57f62848c49ef1d9ae34b45e02/c.html",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "IRGC downs Israeli Hermes 900 drone over Fars province",
+    "direction": "Escalating",
+    "description": "Iran's IRGC intercepted and destroyed an Israeli Hermes 900 surveillance drone over Lar in Fars province using its new aerospace defense system integrated into Iran's air defense network. The IRGC declared the overflight a 'flagrant violation' of the ceasefire, warning that 'the entry of any aircraft of the American and Zionist enemies into Iranian airspace — even without military operations — will be considered a violation' triggering a 'decisive response.' The drone's wreckage was reportedly seized for technical examination.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-it-downed-hermes-900-drone-over-fars-province",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-09",
     "title": "Hezbollah fires rockets at Manara; first strike since ceasefire",
     "direction": "Escalating",
     "description": "Hezbollah fired rockets at the kibbutz of Manara in northern Israel early Thursday, its first attack since the US-Iran ceasefire took effect. Hezbollah stated it was informed the ceasefire included Lebanon and had halted attacks Wednesday, but Israel's massive Lebanon strikes violated the truce. Hezbollah warned: 'This response will continue until the Israeli-American aggression against our country and our people ceases.' The IDF reported intercepting incoming missiles. The attack underscored the fragility of a ceasefire whose scope remains disputed.",
