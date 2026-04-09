@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-04-09",
+    "title": "Hezbollah fires rockets at Manara; first strike since ceasefire",
+    "direction": "Escalating",
+    "description": "Hezbollah fired rockets at the kibbutz of Manara in northern Israel early Thursday, its first attack since the US-Iran ceasefire took effect. Hezbollah stated it was informed the ceasefire included Lebanon and had halted attacks Wednesday, but Israel's massive Lebanon strikes violated the truce. Hezbollah warned: 'This response will continue until the Israeli-American aggression against our country and our people ceases.' The IDF reported intercepting incoming missiles. The attack underscored the fragility of a ceasefire whose scope remains disputed.",
+    "source": "https://www.rappler.com/world/middle-east/hezbollah-rockets-northern-israel-ceasefire-breach-april-8-2026/",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Trump slams NATO in Rutte meeting: 'Tested, and they failed'",
+    "direction": "Neutral",
+    "description": "Trump met NATO Secretary General Mark Rutte at the White House for over two hours, using the session to denounce allied inaction during the Iran war. Spokeswoman Karoline Leavitt quoted Trump: 'They were tested, and they failed.' Rutte told CNN afterward: 'He is clearly disappointed with many NATO allies, and I can see his point.' Trump then posted on Truth Social: 'NATO WASN'T THERE WHEN WE NEEDED THEM, AND THEY WON'T BE THERE IF WE NEED THEM AGAIN. REMEMBER GREENLAND.' Bloomberg reported Trump raised the possibility of US withdrawal from the alliance during the meeting.",
+    "source": "https://www.rte.ie/news/us/2026/0409/1567311-us-trump-nato/",
+    "actor": "US|NATO"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "House Democrats demand Iran war powers vote at Thursday session",
+    "direction": "Neutral",
+    "description": "House Minority Leader Hakeem Jeffries announced Democrats would demand passage of a War Powers Resolution via unanimous consent at Thursday's 11:30am pro forma session, following it with a public address from the Capitol grounds. The push gained momentum after Rep. Henry Cuellar (D-TX) reversed his previous opposition, having voted against an earlier war powers measure that failed 219-212 on March 5. Jeffries framed Trump's 'whole civilization will die' threat as proof the president's war authority must be curtailed.",
+    "source": "https://jeffries.house.gov/2026/04/08/dear-colleague-on-permanently-ending-donald-trumps-reckless-war-of-choice/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Pezeshkian tells Pakistan: Lebanon ceasefire is 'essential condition'",
+    "direction": "Escalating",
+    "description": "Iranian President Masoud Pezeshkian told Pakistani PM Shehbaz Sharif that a ceasefire in Lebanon is an 'essential condition' of Iran's 10-point peace plan, directly contradicting US and Israeli claims that Lebanon is excluded from the truce. The statement escalated the dispute that had already prompted Iran to re-close the Strait of Hormuz. Iran's Tasnim news agency reported Tehran would withdraw from the ceasefire entirely if Israeli attacks on Lebanon continued, raising the prospect of the 2-week truce collapsing before Islamabad talks begin Friday.",
+    "source": "https://www.presstv.ir/Detail/2026/04/08/766515/Iran-France-Lebanon-Israel-ceasefire",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Ghalibaf accuses US of violating 3 ceasefire conditions; Vance disputes",
+    "direction": "Escalating",
+    "description": "Iran's parliament speaker Mohammad Bagher Ghalibaf accused the US of 'openly and clearly' violating three of Iran's 10 ceasefire conditions: failing to halt strikes on Lebanon, violating Iranian airspace with drones, and denying Iran's right to uranium enrichment. VP Vance dismissed the complaints, calling them a 'legitimate misunderstanding' and stating the US never promised to include Lebanon. Vance added: 'Iran would be dumb to let the talks collapse over Lebanon.' The US also said the 10-point plan published by Iran was not the version approved as the basis for negotiations.",
+    "source": "https://www.cnbc.com/2026/04/08/ceasefire-iran-war-lebanon.html",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "IRGC navy publishes Hormuz mine map with safe shipping corridors",
+    "direction": "Neutral",
+    "description": "Iran's IRGC navy posted maps showing alternative shipping routes through the Strait of Hormuz to avoid naval mines — the first official Iranian acknowledgment of mine placement in the waterway. The safe entry path runs from the Sea of Oman north of Larak Island; the exit path passes south of Larak Island. Despite the ceasefire's Hormuz reopening pledge, only 2 ships — the Greek-owned NJ Earth and Liberia-flagged Daytona Beach — transited overnight, with traffic still 90% below normal. Over 800 freighters remained trapped inside the Gulf.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-892378",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-04-08",
     "title": "Vance to lead US delegation at Islamabad peace talks Friday",
     "direction": "De-escalating",
