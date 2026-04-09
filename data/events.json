@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-04-09",
+    "title": "US demands allies submit Hormuz security plans within days",
+    "direction": "Neutral",
+    "description": "Bloomberg reported the US demanded European allies, Japan, and Canada submit concrete plans to secure the Strait of Hormuz within 'a few days,' shifting post-war maritime security burden to partners. The request was delivered during Trump's White House meeting with NATO Secretary General Rutte, and in parallel discussions at the Pentagon and State Department. The UK-led coalition of 40+ nations was pressed for specific commitments beyond general pledges. The demand effectively told allies: if you want Hormuz open, you help keep it open.",
+    "source": "https://www.bloomberg.com/news/articles/2026-04-09/us-asks-allies-to-pitch-plans-within-days-to-secure-hormuz",
+    "actor": "US|NATO"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Iranians mark arbaeen for Khamenei; Mojtaba unseen since war began",
+    "direction": "Neutral",
+    "description": "Thousands of Iranians gathered in Tehran and cities across Iran to mark 40 days (arbaeen) since Supreme Leader Ali Khamenei's assassination on February 28, carrying flags and portraits of the slain leader. Home mourning ceremonies were held April 8-10 with mass recitation of Surah Al-Fath. Notably, successor Mojtaba Khamenei has not appeared publicly since the war began, raising questions about his location and the regime's leadership continuity. The arbaeen traditionally marks the end of the formal Shiite mourning cycle.",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Iran ambassador deletes post on Islamabad delegation; talks uncertain",
+    "direction": "Escalating",
+    "description": "Iran's ambassador to Pakistan, Reza Amiri Moghadam, posted then quickly deleted a social media announcement that an Iranian delegation would arrive 'tonight in Islamabad for serious talks based on 10 points proposed by Iran.' An embassy official told AFP the post was removed due to 'timing' concerns. Hours later, Pakistan deployed hundreds of additional police and paramilitary forces in Islamabad, sealing off parts of the city with shipping containers around the Red Zone. The deletion created uncertainty about whether Iran would participate constructively in Friday's scheduled talks.",
+    "source": "https://www.cbsnews.com/live-updates/iran-trump-ceasefire-strait-hormuz-israel-war-hezbollah-continues/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Israel launches 'Operation Eternal Darkness'; 254 killed in Lebanon",
+    "direction": "Escalating",
+    "description": "Israel launched Operation Eternal Darkness, its largest strike on Lebanon since the war began, hitting over 100 Hezbollah targets in approximately 10 minutes starting at 14:00 EEST with 50 fighter jets and 160 munitions. Targets included command centers, intelligence facilities, missile infrastructure, Radwan Force sites, and aerial/naval units across Beirut, southern Lebanon, Sidon, Tyre, and the Bekaa Valley. The Lebanese health ministry reported 254 killed and 1,165 wounded — the war's deadliest day in Lebanon. A strike hit a funeral in Shmestar killing 10 mourners; three girls were killed in Adloun; Doctors Without Borders staff were injured at Hiram Hospital in Tyre.",
+    "source": "https://en.wikipedia.org/wiki/April_8,_2026,_Lebanon_attacks",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "FBI, NSA, CISA warn Iran hackers disrupting US water and energy sites",
+    "direction": "Escalating",
+    "description": "A joint advisory from the FBI, NSA, CISA, and Department of Energy warned that Iranian government-linked hackers had breached and disrupted multiple US oil and gas and water/wastewater facilities. The hackers exploited internet-facing programmable logic controllers (PLCs) manufactured by Rockwell Automation/Allen-Bradley, causing industrial processes to shut down and forcing facilities to switch to manual operations. The advisory called it an 'escalation' of Tehran's cyber campaign since the war began, noting the attacks 'tested the safety systems at US industrial plants that protect human life.'",
+    "source": "https://edition.cnn.com/2026/04/07/politics/iran-linked-hackers-disrupt-us-industrial-sites",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-09",
     "title": "HRANA reports 3,636 killed in Iran war; 1,701 civilians",
     "direction": "Neutral",
     "description": "The US-based Human Rights Activists News Agency (HRANA) published an updated death toll for the 40-day Iran war: 3,636 killed including 1,701 civilians, 1,221 military personnel, and 714 unclassified. At least 15% of civilian casualties were under 18. The figures cannot be independently verified as Iran has not released official casualty numbers. HRANA's count is widely cited by international media and rights organizations as the most comprehensive tracker of the war's human toll.",
