@@ -1,6 +1,38 @@
 [
   {
     "date": "2026-04-09",
+    "title": "Netanyahu orders direct Lebanon talks at Trump's request",
+    "direction": "De-escalating",
+    "description": "PM Netanyahu instructed officials to begin 'direct negotiations with Lebanon as soon as possible' on disarming Hezbollah and establishing formal peace relations. The move came after Trump urged Netanyahu in a Wednesday call to scale back strikes on Lebanon. Israeli Ambassador Yechiel Leiter will represent Israel; Lebanon's Ambassador Nada Hamadeh-Moawad will lead Beirut's delegation. The first meeting is expected next week at the US State Department, led by US Ambassador to Lebanon Michel Issa. VP Vance said Israel 'has actually offered to check themselves a little bit in Lebanon.' However, an Israeli official told CNN: 'There is no ceasefire at the moment. Talks will be held under fire.' Lebanese President Joseph Aoun called the proposal 'the only path forward.'",
+    "source": "https://www.siasat.com/netanyahu-orders-direct-lebanon-talks-focuses-on-hezbollah-disarmament-3449931/",
+    "actor": "Israel|US"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Mojtaba Khamenei breaks silence; vows revenge, orders ceasefire compliance",
+    "direction": "Neutral",
+    "description": "Iran's Supreme Leader Mojtaba Khamenei issued his first public statement since the ceasefire, delivered via Iranian state television as a written declaration. Khamenei vowed to 'take revenge' for his slain father and all those killed in the war, and said Iran would bring management of the Strait of Hormuz 'into a new phase.' But he simultaneously ordered compliance: 'This is not the end of the war, but all military units must obey orders and uphold the ceasefire.' The statement was his first confirmed communication since the war began, ending weeks of speculation about his location and the regime's leadership continuity.",
+    "source": "https://www.israelhayom.com/2026/04/08/mojtaba-khamenei-in-written-message-all-units-must-cease-fire/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Oil rebounds above $100 as Hormuz stays blocked; only 4 ships transit",
+    "direction": "Escalating",
+    "description": "Oil prices reversed much of the ceasefire-day plunge as markets realized the Strait of Hormuz remained effectively closed. WTI crude rose 6% to $100.27/barrel; Brent added 4% to $98.26/barrel. Only 4 ships transited Hormuz on Wednesday — the lowest since March 31 — versus the normal ~135 daily. Over 400 oil-laden tankers and dozens of LNG carriers remained anchored outside the Gulf. Tehran required ships to obtain permission before passage. Shipping firm Hapag-Lloyd warned normalization was 'weeks, if not months' away. The US national average gas price hit $4.17/gallon.",
+    "source": "https://www.nbcnews.com/business/energy/oil-prices-iran-ceasefire-doubts-rcna267421",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Dow surges 1,325 points on ceasefire; S&P up 2.5%, Nasdaq 2.8%",
+    "direction": "De-escalating",
+    "description": "US stock markets rallied sharply on the ceasefire announcement. The Dow Jones surged 1,325 points (2.9%) to close at 47,910; the S&P 500 jumped 166 points (2.5%) to 6,783; the Nasdaq rose 2.8%. Market analyst Nigel Green noted: 'Markets have been primed for this moment — positioning had become defensive, volatility was elevated, and energy prices were reflecting worst-case assumptions.' The rally came despite oil prices rebounding the following day as Hormuz remained effectively closed.",
+    "source": "https://www.cbsnews.com/news/stock-market-dow-oil-prices-iran-ceasefire/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-09",
     "title": "US demands allies submit Hormuz security plans within days",
     "direction": "Neutral",
     "description": "Bloomberg reported the US demanded European allies, Japan, and Canada submit concrete plans to secure the Strait of Hormuz within 'a few days,' shifting post-war maritime security burden to partners. The request was delivered during Trump's White House meeting with NATO Secretary General Rutte, and in parallel discussions at the Pentagon and State Department. The UK-led coalition of 40+ nations was pressed for specific commitments beyond general pledges. The demand effectively told allies: if you want Hormuz open, you help keep it open.",
@@ -25,9 +57,9 @@
   },
   {
     "date": "2026-04-08",
-    "title": "Israel launches 'Operation Eternal Darkness'; 254 killed in Lebanon",
+    "title": "Israel launches 'Operation Eternal Darkness'; 303 killed in Lebanon",
     "direction": "Escalating",
-    "description": "Israel launched Operation Eternal Darkness, its largest strike on Lebanon since the war began, hitting over 100 Hezbollah targets in approximately 10 minutes starting at 14:00 EEST with 50 fighter jets and 160 munitions. Targets included command centers, intelligence facilities, missile infrastructure, Radwan Force sites, and aerial/naval units across Beirut, southern Lebanon, Sidon, Tyre, and the Bekaa Valley. The Lebanese health ministry reported 254 killed and 1,165 wounded — the war's deadliest day in Lebanon. A strike hit a funeral in Shmestar killing 10 mourners; three girls were killed in Adloun; Doctors Without Borders staff were injured at Hiram Hospital in Tyre.",
+    "description": "Israel launched Operation Eternal Darkness, its largest strike on Lebanon since the war began, hitting over 100 Hezbollah targets in approximately 10 minutes starting at 14:00 EEST with 50 fighter jets and 160 munitions. Targets included command centers, intelligence facilities, missile infrastructure, Radwan Force sites, and aerial/naval units across Beirut, southern Lebanon, Sidon, Tyre, and the Bekaa Valley. Lebanon's health ministry initially reported 254 killed; the toll was revised on April 9 to 303 killed and 1,150 wounded, making it the war's deadliest day in Lebanon. Cumulative Lebanese death toll reached 1,888 killed and 6,092 wounded. A strike hit a funeral in Shmestar killing 10 mourners; three girls were killed in Adloun; Doctors Without Borders staff were injured at Hiram Hospital in Tyre. Defense Minister Katz claimed over 200 Hezbollah militants killed, with total Hezbollah fighter deaths exceeding 1,400.",
     "source": "https://en.wikipedia.org/wiki/April_8,_2026,_Lebanon_attacks",
     "actor": "Israel"
   },
@@ -81,9 +113,9 @@
   },
   {
     "date": "2026-04-09",
-    "title": "Lebanon declares national day of mourning after 254 killed",
+    "title": "Lebanon declares national day of mourning after 303 killed",
     "direction": "Neutral",
-    "description": "PM Nawaf Salam declared Thursday April 9 a national day of mourning following Israel's deadliest single-day attack on Lebanon. All public institutions closed, flags flew at half-staff, and broadcast programming was adjusted. Salam vowed to mobilize 'all of Lebanon's political and diplomatic resources to stop the Israeli killing machine.' Cumulative Lebanese death toll from the war reached 1,784 killed and 5,977 wounded. Hundreds gathered in Times Square, New York, demanding a permanent end to the war and halt to Lebanon bombing.",
+    "description": "PM Nawaf Salam declared Thursday April 9 a national day of mourning following Israel's deadliest single-day attack on Lebanon, with the death toll revised upward to 303 killed and 1,150 wounded. All public institutions closed, flags flew at half-staff, and broadcast programming was adjusted. Salam vowed to mobilize 'all of Lebanon's political and diplomatic resources to stop the Israeli killing machine.' Cumulative Lebanese death toll from the war reached 1,888 killed and 6,092 wounded. Hundreds gathered in Times Square, New York, demanding a permanent end to the war and halt to Lebanon bombing.",
     "source": "https://english.news.cn/20260409/8b6acd57f62848c49ef1d9ae34b45e02/c.html",
     "actor": "Lebanon"
   },
@@ -189,14 +221,6 @@
     "direction": "Escalating",
     "description": "PM Netanyahu stated the US-Iran ceasefire 'does not include Lebanon,' directly contradicting Pakistani PM Sharif's claim that the deal covers 'Lebanon and elsewhere.' Netanyahu added the ceasefire is 'not the end of the war' and that 'all goals will be achieved.' Iran responded that Lebanon's inclusion is non-negotiable, with Araghchi warning the US must choose between the ceasefire and allowing Israeli strikes on Lebanon. The dispute immediately threatened the fragile truce.",
     "source": "https://www.pbs.org/newshour/world/israel-says-iran-ceasefire-doesnt-apply-to-lebanon-and-strikes-central-beirut-without-warning",
-    "actor": "Israel"
-  },
-  {
-    "date": "2026-04-08",
-    "title": "Israel's largest Lebanon strike kills 254; 100+ targets in 10 minutes",
-    "direction": "Escalating",
-    "description": "Israel launched what the IDF called 'the largest coordinated strike in the current war,' hitting over 100 Hezbollah targets in 10 minutes across Beirut, southern Lebanon, and the eastern Bekaa Valley. Lebanon's health ministry reported 254 killed and over 1,165 wounded. Strikes hit at least 5 neighborhoods in central Beirut without advance warning, targeting missile launchers, command centers, and intelligence infrastructure. Lebanon's Social Affairs Minister called it 'a very dangerous turning point,' noting that 'half of the sheltered IDPs are in Beirut in this area.' Cumulative Lebanese death toll: over 1,530.",
-    "source": "https://www.aljazeera.com/news/liveblog/2026/4/8/iran-war-live-trump-announces-truce-tehran-agrees-safe-transit-in-hormuz",
     "actor": "Israel"
   },
   {
