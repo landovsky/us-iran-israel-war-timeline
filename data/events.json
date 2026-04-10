@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-04-10",
+    "title": "Hezbollah missile triggers sirens in central Israel and Tel Aviv",
+    "direction": "Escalating",
+    "description": "Hezbollah launched a missile at Israel on Friday that triggered air raid sirens across central Israel including Tel Aviv — a significant range escalation from its usual northern Israel targets. The IDF confirmed the missile was intercepted; Magen David Adom reported no casualties. Hezbollah claimed it targeted 'Israeli military infrastructure in the northern city of Haifa' in the late hours of Thursday. The strike came two days after Israel's Operation Eternal Darkness killed 303 in Lebanon, and represented Hezbollah's most ambitious targeting since the ceasefire, reaching deeper into Israel than any previous attack in the current conflict.",
+    "source": "https://www.al-monitor.com/originals/2026/04/israeli-military-says-hezbollah-launched-missile-israel-triggering-sirens",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "WHO demands Israel reverse Beirut Jnah evacuation order",
+    "direction": "Neutral",
+    "description": "WHO Director-General Tedros Adhanom Ghebreyesus urged Israel to rescind its evacuation order for Beirut's Jnah district, which contains Rafik Hariri University Hospital and Al Zahraa Hospital — two major referral facilities with approximately 450 patients, including 40 in ICU. Tedros said evacuation was 'operationally unfeasible' as no alternative facilities exist. The affected area also includes a health ministry complex and five shelters housing over 5,000 displaced people. Both hospitals were operating at full capacity treating casualties from the April 8 strikes.",
+    "source": "https://english.news.cn/20260410/359be6ba156b4c29b3a9cdc065f544a5/c.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Hengaw: 7,650 killed in 40-day war; 6,620 military, 1,030 civilians",
+    "direction": "Neutral",
+    "description": "Kurdish human rights group Hengaw published its 10th war report covering February 28 to April 8, documenting at least 7,650 killed — dramatically higher than HRANA's 3,636 figure. The toll includes 6,620 military personnel (predominantly IRGC and army), 1,030 civilians (13.5% of total), at least 189 children, and 215 women. In the four Kurdish border provinces alone, 1,630 military and 112 civilians were killed. The report also documented 14 political prisoner executions during the war and over 2,700 arrests by security institutions. The wide gap between Hengaw and HRANA figures reflects the difficulty of counting military deaths in an active conflict.",
+    "source": "https://hengaw.net/en/reports-and-statistics-1/2026/04/article-3",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Hormuz remains at standstill: 9 ships in 48 hours, zero oil tankers",
+    "direction": "Escalating",
+    "description": "Forty-eight hours into the ceasefire, only 9 vessels had transited the Strait of Hormuz — all bulk carriers, with zero oil or gas tankers among them — versus the pre-war average of 100+ daily. UAE oil company CEO Sultan Al Jaber stated bluntly: 'The Strait of Hormuz is not open. Access is being restricted, conditioned and controlled.' Iran required ships to obtain permission, follow new lanes closer to Iran's mainland, and avoid areas marked hazardous on its mine map. An estimated 136 million barrels of crude and refined products remained stranded in the Gulf, with over 230 loaded tankers waiting inside. An Iranian parliamentarian declared Israeli-linked tankers 'absolutely prohibited.'",
+    "source": "https://www.nbcnews.com/world/iran/strait-hormuz-shipping-traffic-effectively-standstill-iran-ceasefire-rcna267391",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Trump attacks Carlson, Kelly, Owens, Jones as 'nut jobs' over Iran war",
+    "direction": "Neutral",
+    "description": "Trump posted a 485-word Truth Social tirade against Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones — four of the most prominent right-wing media figures — for opposing the Iran war. Trump called them 'stupid people' with 'Low IQs' running 'third rate podcasts,' said Carlson 'should see a good psychiatrist,' called Owens 'crazy,' and described Jones as saying 'some of the dumbest things.' The attack exposed a widening fracture within Trump's base, as the four had intensified criticism after his 'whole civilization will die' threat, arguing the war contradicted his 'no new wars' campaign pledge.",
+    "source": "https://variety.com/2026/digital/news/donald-trump-nut-jobs-tucker-carlson-megyn-kelly-candace-owens-alex-jones-iran-war-1236712956/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-10",
     "title": "US-Iran peace talks open in Islamabad; Vance and Ghalibaf lead delegations",
     "direction": "De-escalating",
     "description": "The first direct US-Iran negotiations since the war began opened at Islamabad's Serena Hotel, with VP JD Vance, Steve Witkoff, and Jared Kushner leading the US side and Parliament Speaker Ghalibaf and FM Abbas Araghchi leading Iran's delegation. Pakistan declared a 2-day public holiday (April 9-10), sealed the Red Zone with shipping containers, and deployed hundreds of additional police and paramilitary forces. Deputy PM Ishaq Dar facilitates using an indirect 'shuttle' format — delegations sit in separate rooms with Pakistani officials carrying messages between them. Egypt and Pakistan serve as ceasefire guarantors. The talks must convert the 2-week ceasefire (expiring April 22) into a permanent agreement, with Iran's 10-point plan and uranium enrichment as the central disputes.",
