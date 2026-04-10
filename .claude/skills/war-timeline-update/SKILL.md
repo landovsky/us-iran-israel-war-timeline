@@ -132,10 +132,18 @@ The file has structure: `{ "daily": { "YYYY-MM-DD": "text", ... }, "weekly": { "
 4. Write the updated `data/summaries.json`
 5. Validate: `python3 -c "import json; d=json.load(open('data/summaries.json')); print('valid:', len(d['daily']), 'daily,', len(d['weekly']), 'weekly')"`
 
-## Step 8: Commit and push
+## Step 8: Update meta.json timestamp
+
+Update `data/meta.json` with the current UTC timestamp so the site's "Updated at" display stays current:
 
 ```bash
-git add data/events.json data/summaries.json
+python3 -c "import json,datetime; m={'lastUpdated': datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')}; json.dump(m, open('data/meta.json','w'), indent=2); print('meta updated:', m['lastUpdated'])"
+```
+
+## Step 9: Commit and push
+
+```bash
+git add data/events.json data/summaries.json data/meta.json
 git commit -m "Add N events [date range]: [brief topic list]
 
 via [HAPI](https://hapi.run)
