@@ -1,6 +1,54 @@
 [
   {
     "date": "2026-04-10",
+    "title": "Zelenskyy reveals 228 Ukrainian experts shooting down Iranian drones in Middle East",
+    "direction": "Escalating",
+    "description": "President Zelenskyy disclosed that 228 Ukrainian military experts had been deployed across several Middle Eastern nations to shoot down Iranian Shahed drones, using Ukraine's domestically produced 'Sting' interceptor drones proven against Russian drone attacks. Zelenskyy told reporters Wednesday (embargoed until Friday): 'This was not about a training mission or exercises, but about support in building a modern air defense system that can actually work.' In exchange, Ukraine received weapons to protect its energy infrastructure, oil and diesel supplies, Patriot system missiles, and financial arrangements. The operations occurred before the April 8 ceasefire.",
+    "source": "https://www.inquirer.com/news/nation-world/ukraine-drones-middle-east-iran-20260410.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Kuwait accuses Iran of drone attacks on vital facilities during ceasefire",
+    "direction": "Escalating",
+    "description": "Kuwait accused Iran and its proxies of launching drone attacks on April 9 that targeted vital oil installations, power stations, and a National Guard site, causing 'significant material damage' but no injuries. Kuwait's Foreign Ministry stated: 'Continuation of these blatant attacks undermines regional efforts that resulted in the ceasefire announcement.' The IRGC denied responsibility via Tasnim News Agency, claiming it had 'not launched any attacks on Gulf countries since the ceasefire' and that any Iranian strike would be publicly acknowledged. Kuwait called the attacks a 'blatant violation' of international law and the UN Charter.",
+    "source": "https://www.theepochtimes.com/world/kuwait-accuses-iran-proxies-of-drone-attacks-raising-pressure-on-fragile-ceasefire-6010270",
+    "actor": "Iran|Kuwait"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Saudi Arabia confirms Iranian strikes cut East-West pipeline by 700,000 bpd",
+    "direction": "Escalating",
+    "description": "Saudi Arabia's energy ministry issued its first official confirmation that Iranian strikes had damaged key energy infrastructure, including a pumping station on the East-West pipeline (the kingdom's only Hormuz-bypass export route), the Manifa and Khurais oil processing plants, and refining facilities in Jubail, Ras Tanura, Yanbu, and Riyadh. The pipeline lost approximately 700,000 bpd — about 10% of Saudi export capacity — with Manifa and Khurais losing an additional 600,000 bpd combined. The 1.3 million bpd total loss struck at Saudi Arabia's ability to export oil via the Red Sea, the only route available while Hormuz remained effectively closed.",
+    "source": "https://www.middleeasteye.net/news/attacks-saudi-arabian-pipeline-wiped-out-10-percent-kingdoms-oil-export-capacity",
+    "actor": "Iran|Saudi Arabia"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Spain reopens Tehran embassy; first Western country to restore presence",
+    "direction": "De-escalating",
+    "description": "Spain's Foreign Minister Jose Manuel Albares announced Spain would immediately reopen its embassy in Tehran and ordered Ambassador Antonio Sanchez-Benedito to return, making Spain the first Western country to restore diplomatic presence in Iran since embassies were evacuated on March 7. Albares said: 'We want to contribute from all fronts, including from Tehran, to efforts for peace.' Spain's FM also accused Israel of 'flouting the ceasefire' with its continued Lebanon strikes. Israeli FM Gideon Saar condemned the move as 'shameless alignment with Tehran.'",
+    "source": "https://euroweeklynews.com/2026/04/09/spain-reopens-tehran-embassy-in-fragile-ceasefire-but-what-about-staff-safety/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Vance in Budapest dismisses Iran's 10-point plan as 'written by ChatGPT'",
+    "direction": "Neutral",
+    "description": "VP Vance, in Budapest to campaign for Hungarian PM Viktor Orbán ahead of April 12 elections, dismissed Iran's 10-point peace proposal to reporters. Vance claimed he had 'seen at least three different drafts of the proposals' and said 'The first 10-point proposal was something that was submitted, and we think, frankly, was probably written by ChatGPT.' He called the publicized version the work of a 'random yahoo in Iran submitting it to public access television.' The remarks came days before Vance was set to lead US negotiations in Islamabad, raising questions about the seriousness of American engagement with Iran's framework.",
+    "source": "https://www.aljazeera.com/news/2026/4/9/has-irans-10-point-plan-changed-as-jd-vance-claims",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Trump: US forces stay in place near Iran, ready for 'next conquest'",
+    "direction": "Escalating",
+    "description": "Trump posted on Truth Social late Wednesday that 'All US ships, aircraft, and military personnel will remain in place in, and around, Iran, until such time as the REAL AGREEMENT reached is fully complied with.' He warned that if terms were not met, 'the Shootin' Starts, bigger, and better, and stronger than anyone has ever seen before.' Trump boasted that US forces were 'Loading Up and Resting, looking forward, actually, to its next Conquest.' The bellicose language — posted one day into the ceasefire — contrasted sharply with the diplomatic process underway in Islamabad and drew immediate criticism from Iran's delegation.",
+    "source": "https://www.aljazeera.com/news/2026/4/9/trump-says-us-forces-to-stay-near-iran-ready-for-next-conquest",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-10",
     "title": "Hezbollah missile triggers sirens in central Israel and Tel Aviv",
     "direction": "Escalating",
     "description": "Hezbollah launched a missile at Israel on Friday that triggered air raid sirens across central Israel including Tel Aviv — a significant range escalation from its usual northern Israel targets. The IDF confirmed the missile was intercepted; Magen David Adom reported no casualties. Hezbollah claimed it targeted 'Israeli military infrastructure in the northern city of Haifa' in the late hours of Thursday. The strike came two days after Israel's Operation Eternal Darkness killed 303 in Lebanon, and represented Hezbollah's most ambitious targeting since the ceasefire, reaching deeper into Israel than any previous attack in the current conflict.",
