@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-10",
+    "title": "US-Iran peace talks open in Islamabad; Vance and Ghalibaf lead delegations",
+    "direction": "De-escalating",
+    "description": "The first direct US-Iran negotiations since the war began opened at Islamabad's Serena Hotel, with VP JD Vance, Steve Witkoff, and Jared Kushner leading the US side and Parliament Speaker Ghalibaf and FM Abbas Araghchi leading Iran's delegation. Pakistan declared a 2-day public holiday (April 9-10), sealed the Red Zone with shipping containers, and deployed hundreds of additional police and paramilitary forces. Deputy PM Ishaq Dar facilitates using an indirect 'shuttle' format — delegations sit in separate rooms with Pakistani officials carrying messages between them. Egypt and Pakistan serve as ceasefire guarantors. The talks must convert the 2-week ceasefire (expiring April 22) into a permanent agreement, with Iran's 10-point plan and uranium enrichment as the central disputes.",
+    "source": "https://www.aljazeera.com/news/2026/4/9/us-iran-talks-in-pakistan-whos-attending-whats-on-the-agenda",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "House Republicans block Democratic war powers vote on Iran",
+    "direction": "Neutral",
+    "description": "Rep. Glenn Ivey (D-MD) attended Thursday's 11:30am pro forma House session and attempted to pass an Iran war powers resolution via unanimous consent. Rep. Chris Smith (R-NJ), presiding over the session, ignored Ivey's request and gaveled the House out of session, effectively killing the effort. Democrats vowed to force a vote by calling the privilege of the resolution when the House returns to full session next week. Rep. Sara Jacobs (D-CA) stated: 'War powers is a privileged resolution, we plan on calling the privilege next week when we're back.'",
+    "source": "https://www.axios.com/2026/04/09/trump-iran-democrat-congress-war-powers-vote",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Israel strikes al-Abbassieh and 5 southern Lebanon towns after Eternal Darkness",
+    "direction": "Escalating",
+    "description": "Israeli strikes continued the day after Operation Eternal Darkness, hitting al-Abbassieh (at least 7 killed, several wounded) and targeting Kafra, Jmaijmeh, Safad al-Battikh, Majdal Selem, and Deir Antar near the Qasmiyeh bridge. Artillery shelling damaged the town of Haris. The IDF also struck crossings over the Litani River and approximately 10 weapons storage facilities. The continued strikes deepened the rift over whether Lebanon falls within the US-Iran ceasefire, with Araghchi warning: 'The US must choose between a ceasefire or continued war via Israel. It cannot have both.'",
+    "source": "https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Iranians flood Tehran streets celebrating ceasefire as 'victory' over US",
+    "direction": "Neutral",
+    "description": "Thousands of Iranians took to the streets of Tehran overnight after the ceasefire announcement, converging on Enqelab-e Eslami (Islamic Revolution) Square waving Iranian flags and carrying portraits of Supreme Leader Mojtaba Khamenei. Celebrants burned US and Israeli flags. Iranian state media framed the ceasefire as proof the 'criminal US' accepted 'the general framework' of Iran's 10-point proposal. Celebration and skepticism coexisted — many Iranians expressed relief at the bombing pause while doubting the truce would hold.",
+    "source": "https://www.aljazeera.com/gallery/2026/4/8/tehran-celebrates-as-iran-us-agree-to-two-week-ceasefire",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Houthis operate ship-screening 'tollbooth' in Red Sea and Bab el-Mandeb",
+    "direction": "Escalating",
+    "description": "Iran's Houthi allies expanded their selective-access system in the Bab el-Mandeb Strait and Red Sea, using AIS signals to screen vessels by political identity and allowing only ships that publicly distance themselves from the US and Israel to pass. Ships began transmitting messages emphasizing non-affiliation with Washington and Tel Aviv, with some indicating armed guards aboard. The system mirrors Iran's Hormuz 'tollbooth' model. A senior Iranian source told Reuters: 'If the situation gets out of control, Iran's allies will also close the Bab el-Mandeb Strait.' Oil diverted from Hormuz increased Bab el-Mandeb traffic by 21% in March.",
+    "source": "https://www.thenationalnews.com/news/mena/2026/04/08/ceasefire-provides-opening-for-houthis-to-use-tehran-tollbooth-formula-to-choke-shipping/",
+    "actor": "Other"
+  },
+  {
     "date": "2026-04-09",
     "title": "Netanyahu orders direct Lebanon talks at Trump's request",
     "direction": "De-escalating",
