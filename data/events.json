@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-04-11",
+    "title": "Hormuz traffic falls to 2 ships; 600+ vessels stranded in Gulf",
+    "direction": "Escalating",
+    "description": "Only 2 commercial vessels transited the Strait of Hormuz on Friday, according to S&P Global Market Intelligence — down from 9 in the prior 48 hours and a pre-war average of 130-160 daily. More than 600 vessels, including 325 loaded tankers, remained stranded in the Persian Gulf. Trump claimed the strait would 'open up fairly soon' but offered no specifics. Iran continued requiring advance permission, new navigation lanes closer to its mainland, and avoidance of mine-hazard zones, while an Iranian parliamentarian reiterated that Israeli-linked tankers were 'absolutely prohibited.'",
+    "source": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "US inflation surges to 3.3% as war drives record 21.2% gasoline spike",
+    "direction": "Neutral",
+    "description": "The March CPI report showed US consumer prices rose 3.3% year-over-year — up from 2.4% in February — the fastest pace in nearly two years. Monthly prices jumped 0.9%, triple February's 0.3%. Gasoline prices surged 21.2% in a single month, the steepest monthly increase since the Bureau of Labor Statistics began tracking in 1967. Fuel oil climbed 30.7%. Energy overall drove nearly three-quarters of the monthly increase. Consumers paid an estimated $8.4 billion in additional fuel costs in the first month of the war. Core CPI (excluding food and energy) rose a modest 0.2%, suggesting underlying inflation remained contained while the war-driven energy shock dominated.",
+    "source": "https://www.cnn.com/2026/04/10/economy/us-cpi-inflation-march",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Starmer and Trump discuss military options to reopen Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "UK Prime Minister Keir Starmer revealed he and Trump discussed 'military capabilities and the logistics of actually moving vessels through the strait' during a Thursday phone call. Starmer said the UK was leading a coalition of more than 30 countries focused on the Hormuz reopening — a significant escalation from the UK's previous diplomatic-only approach. The call signaled Britain positioning itself as the primary European partner in any military Hormuz operation, despite NATO's broader refusal to join the Iran campaign.",
+    "source": "https://www.defensenews.com/global/europe/2026/04/10/uks-starmer-and-trump-discussed-military-options-for-strait-of-hormuz/",
+    "actor": "UK|US"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Netanyahu expels Spain from US-led Gaza coordination center",
+    "direction": "Escalating",
+    "description": "Netanyahu ordered Spain's removal from the Civil-Military Coordination Centre (CMCC) in Kiryat Gat — the US-led multinational facility overseeing Gaza ceasefire implementation and aid delivery involving nearly 20 countries. Netanyahu stated: 'Spain has defamed our heroes, the soldiers of the IDF... I have instructed today to remove Spain's representatives.' Foreign Minister Gideon Sa'ar cited Spain's 'obsessive anti-Israel bias.' The expulsion followed Spain's reopening of its Tehran embassy the previous day and its earlier closure of airspace to US warplanes. Spain's FM Albares called the move 'further evidence of Netanyahu's contempt for the international community.'",
+    "source": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Lebanon-Israel ambassadors hold first-ever call; agree to Tuesday talks",
+    "direction": "De-escalating",
+    "description": "Lebanese Ambassador Nada Hamadeh Moawad and Israeli Ambassador Yechiel Leiter held a three-way phone call mediated by US Ambassador to Lebanon Michael Issa — the first direct contact between Lebanon and Israel at the ambassadorial level in decades. The parties agreed to meet at the US State Department on Tuesday to discuss a ceasefire declaration and begin US-sponsored negotiations. However, fundamental gaps remained: Lebanon insisted on a ceasefire before substantive talks, while Israel refused to discuss a truce with Hezbollah. The diplomatic channel opened as Israeli strikes continued killing dozens daily in southern Lebanon.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-and-us-hold-three-way-call-agree-meeting-tuesday",
+    "actor": "Lebanon|Israel"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Israeli strike on Nabatieh government building kills 13 Lebanese security forces",
+    "direction": "Escalating",
+    "description": "An Israeli airstrike hit a State Security directorate building in the southern city of Nabatieh, killing 13 Lebanese state security personnel — the single deadliest strike against Lebanese government forces in the war. President Joseph Aoun condemned the attack, stating that 'targeting state institutions will not deter Lebanon from defending its sovereignty.' The strike was the largest on Nabatieh since fighting began. At least 28 people were killed across Lebanon on April 10, pushing the cumulative toll to 1,953 killed and 6,303 wounded since March 2.",
+    "source": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Former FM Kamal Kharrazi dies from injuries sustained in April 1 strike",
+    "direction": "Neutral",
+    "description": "Kamal Kharrazi, 76, head of Iran's Strategic Council on Foreign Relations and former foreign minister (1997-2005), died Thursday from injuries sustained when a US-Israeli strike hit his Tehran residence on April 1. His wife was killed in the same attack. Supreme Leader Mojtaba Khamenei offered condolences, calling him a 'tireless soldier of diplomacy.' Kharrazi was a member of the Expediency Discernment Council and one of Iran's most prominent diplomatic figures, having served as a key advisor on foreign policy to both the elder and younger Khamenei. His death removed another senior figure from Iran's dwindling pool of experienced diplomats.",
+    "source": "https://www.presstv.ir/Detail/2026/04/10/766585/Top-Iranian-officials-mourn-martyrdom-of-Kamal-Kharrazi",
+    "actor": "US|Israel"
+  },
+  {
     "date": "2026-04-10",
     "title": "Zelenskyy reveals 228 Ukrainian experts shooting down Iranian drones in Middle East",
     "direction": "Escalating",
