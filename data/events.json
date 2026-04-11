@@ -1,6 +1,54 @@
 [
   {
     "date": "2026-04-11",
+    "title": "Vance arrives in Islamabad; highest-level US-Iran engagement since 1979",
+    "direction": "De-escalating",
+    "description": "VP JD Vance landed in Islamabad at 12:06 PM local time to lead the US delegation — alongside Steve Witkoff, Jared Kushner, and CENTCOM commander Brad Cooper — in the highest-level US-Iran engagement since the 1979 Islamic Revolution. Vance met Pakistani PM Shehbaz Sharif, who called the weekend a 'make-or-break moment.' Vance told reporters: 'If the Iranians are willing to negotiate in good faith, we are certainly willing to extend an open hand,' but warned: 'Don't try to play us.' Three hours after arrival, formal negotiations had not commenced as Iran insisted on preconditions. Pakistan sealed Islamabad's Red Zone with shipping containers and deployed hundreds of police and paramilitary forces.",
+    "source": "https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-hormuz-israel-lebanon-ceasefire-talks-pakistan-rcna285140",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-11",
+    "title": "Ghalibaf demands Lebanon ceasefire and frozen assets before talks begin",
+    "direction": "Escalating",
+    "description": "Iran's Parliament Speaker Mohammad Bagher Ghalibaf posted on X that two preconditions must be met before negotiations with the US can start: a ceasefire in Lebanon and the release of Iran's blocked assets abroad. Ghalibaf wrote: 'These two matters must be fulfilled before negotiations begin.' The demand threatened to derail talks before they started. A US official responded: 'False. The meetings have not even started yet,' denying Washington had agreed to unfreeze assets. Iran's frozen reserves are scattered across multiple jurisdictions — roughly $7 billion in Qatar, $6-10 billion in Iraq, and approximately $20 billion in China. Oil prices jumped on the news as traders reassessed the likelihood of a deal.",
+    "source": "https://wanaen.com/oil-prices-jump-after-ghalibafs-tweet-on-irans-preconditions-for-talks/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-11",
+    "title": "Israel rejects Hezbollah ceasefire; agrees only to Lebanon 'peace talks'",
+    "direction": "Escalating",
+    "description": "Israel announced it would not discuss a ceasefire with Hezbollah when it meets Lebanese officials at the US State Department on Tuesday (April 15). Ambassador Yechiel Leiter stated Israel 'agreed to begin formal peace negotiations' with Lebanon but refused any discussions involving Hezbollah as a party. Hezbollah-affiliated lawmaker Hassan Fadlallah rejected the direct Israel-Lebanon talks entirely, calling them violations of Lebanon's national pact. The disconnect — Israel seeking permanent peace while refusing a truce, Lebanon wanting a ceasefire before substantive talks — left the Tuesday meeting's prospects uncertain.",
+    "source": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-11",
+    "title": "Israeli strikes kill 10 in southern Lebanon; 3 emergency workers among dead",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes killed at least 10 people in southern Lebanon on Saturday, including three civil defense emergency workers — the latest targeting of first responders that Lebanon's Health Ministry condemned as 'systematic.' A residential building in Mayfadoun, Nabatieh district, was destroyed. In Beirut's Caracas neighborhood, civil defense crews continued searching rubble three days after earlier strikes, with 6 confirmed dead and a teenager still missing under a collapsed roof. The cumulative Lebanon toll reached approximately 1,960 killed and 6,300+ wounded since March 2.",
+    "source": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-11",
+    "title": "Brent crude posts steepest weekly decline since August 2022",
+    "direction": "De-escalating",
+    "description": "Brent futures settled at $95.20/barrel on Friday, down 12.7% for the week — the steepest weekly decline since August 2022 — as the ceasefire's initial promise of Hormuz reopening drove a massive selloff. US crude fell 13.4% weekly to $96.57. The drop followed a near-13% single-day plunge after the ceasefire announcement on April 8, the biggest one-day fall since the 1991 Gulf War outside COVID. However, prices remained roughly 50% above pre-war levels, and Brent briefly traded above $99 mid-week as traders priced in the ceasefire's fragility and continued supply disruptions from damaged Saudi and Gulf infrastructure.",
+    "source": "https://www.marketscreener.com/news/oil-climbs-as-strikes-on-saudi-facilities-stoke-anxiety-hormuz-near-standstill-ce7e50d8dc81fe24",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-11",
+    "title": "Saudi Finance Minister al-Jadaan arrives in Islamabad for talks",
+    "direction": "De-escalating",
+    "description": "Saudi Finance Minister Mohammed al-Jadaan arrived in Islamabad on Saturday, signaling Riyadh's direct engagement in the US-Iran peace process despite Saudi Arabia's extensive infrastructure damage from Iranian strikes during the war. Saudi Arabia lost 1.3 million bpd of export capacity from pipeline and processing plant damage. Al-Jadaan's presence added economic weight to Pakistan's mediation, with Saudi Arabia positioning itself as a stakeholder in any deal that would reopen Hormuz and stabilize Gulf energy markets.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-ceasefire-talks/",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-04-11",
     "title": "Hormuz traffic falls to 2 ships; 600+ vessels stranded in Gulf",
     "direction": "Escalating",
     "description": "Only 2 commercial vessels transited the Strait of Hormuz on Friday, according to S&P Global Market Intelligence — down from 9 in the prior 48 hours and a pre-war average of 130-160 daily. More than 600 vessels, including 325 loaded tankers, remained stranded in the Persian Gulf. Trump claimed the strait would 'open up fairly soon' but offered no specifics. Iran continued requiring advance permission, new navigation lanes closer to its mainland, and avoidance of mine-hazard zones, while an Iranian parliamentarian reiterated that Israeli-linked tankers were 'absolutely prohibited.'",
