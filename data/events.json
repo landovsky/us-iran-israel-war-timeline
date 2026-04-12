@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-12",
+    "title": "Islamabad talks collapse after 21 hours; Vance presents 'best and final offer'",
+    "direction": "Escalating",
+    "description": "VP Vance concluded 21 hours of direct US-Iran negotiations in Islamabad — the highest-level meeting since 1979 — without a deal, then departed immediately after a 4-minute press conference. Vance said the US sought 'a fundamental commitment' from Iran not to develop nuclear weapons but 'we haven't seen that yet.' He called the US proposal a 'best and final offer,' adding: 'I think that we were quite flexible, we were quite accommodating.' Sources close to the Iranian delegation told Al Jazeera the US was 'looking for an excuse to leave' and that 'the ball is in America's court.' Iranian media said the talks failed due to 'excessive demands' from Washington. No timeline for resumed discussions was set.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-04-12",
+    "title": "Israeli strikes kill 11 in southern Lebanon; hospital area hit",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes killed at least 11 people in southern Lebanon on Sunday. In Tuffahta, 8 were killed and 9 wounded (5 critically). In the Toul district near Nabatieh, 3 were killed in multiple consecutive strikes that sent thick smoke plumes near Nabih Berri Governmental University Hospital, with structures reduced to rubble. The cumulative Lebanon toll surpassed 2,020 killed and 6,436 wounded since March 2. The strikes continued as Vance's Islamabad talks were collapsing, underscoring Iran's argument that Israel's Lebanon campaign renders the ceasefire 'meaningless.'",
+    "source": "https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-hormuz-israel-lebanon-ceasefire-talks-pakistan-rcna285140",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-12",
+    "title": "Hormuz sees 16 ships transit — busiest day since ceasefire began",
+    "direction": "De-escalating",
+    "description": "At least 16 commercial vessels transited the Strait of Hormuz on Sunday morning, including three crude oil tankers flying Chinese, Hong Kong, and Liberian flags — the busiest single day since the April 8 ceasefire. The uptick followed Saturday's US mine-clearing operation and suggested some shipowners were testing the corridor despite Iran's continued restrictions. However, traffic remained roughly 90% below the pre-war average of 130-160 daily transits, and more than 600 vessels including 325 tankers remained stranded in the Gulf.",
+    "source": "https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-hormuz-israel-lebanon-ceasefire-talks-pakistan-rcna285140",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-11",
+    "title": "US destroyers transit Hormuz for mine-clearing; Iran denies and threatens response",
+    "direction": "Escalating",
+    "description": "CENTCOM announced that guided-missile destroyers USS Frank E. Peterson and USS Michael Murphy transited the Strait of Hormuz on Saturday to begin mine-clearing operations. Admiral Brad Cooper stated: 'Today, we began the process of establishing a new passage, and we will share this safe pathway with the maritime industry soon.' Iran's Khatam al-Anbiya Central Headquarters 'strongly denied' the transit occurred, while the IRGC Navy warned: 'Any attempt by military vessels to pass through the Strait of Hormuz will be dealt with severely.' US intelligence had assessed at least a dozen mines in the waterway, including Iran-manufactured Maham 3 moored mines and Maham 7 seabed-sticking mines. CENTCOM said underwater drones would join the effort in coming days.",
+    "source": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-04-11",
+    "title": "Trump says deal outcome 'makes no difference'; warns China on Iran weapons",
+    "direction": "Escalating",
+    "description": "Speaking at the White House before departing for Miami, Trump declared: 'Whether we make a deal or not makes no difference to me. Regardless of what happens, we win. We totally defeated that country.' He warned China that supplying weapons to Iran would mean 'China's going to have a big problem.' On Hormuz mine-clearing, Trump claimed the US had 'the most sophisticated mine equipment in the world' and the strait would open 'in the not-too-distant future.' The remarks — dismissing the talks his own VP was leading — set the stage for the collapse of negotiations hours later and signaled the US was preparing domestic framing for a return to military operations.",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074",
+    "actor": "US"
+  },
+  {
     "date": "2026-04-11",
     "title": "Vance arrives in Islamabad; highest-level US-Iran engagement since 1979",
     "direction": "De-escalating",
