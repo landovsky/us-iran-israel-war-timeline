@@ -1,6 +1,38 @@
 [
   {
     "date": "2026-04-13",
+    "title": "IDF encircles Bint Jbeil; claims 100+ Hezbollah fighters killed",
+    "direction": "Escalating",
+    "description": "The IDF's 98th Division — Paratroopers, Commando, and Givati brigades — completed the encirclement of the Hezbollah stronghold of Bint Jbeil in southern Lebanon and began an assault on the town. IDF spokesman Colonel Avichay Adraee announced the operation, claiming Israeli forces killed over 100 Hezbollah fighters including Radwan Force members through 'face-to-face' clashes and airstrikes over the preceding week. The IDF estimated approximately 150 Hezbollah operatives had been in the area at the start of the operation and said 'only a small number of terrorists remains.' Full operational control is expected within days. Bint Jbeil, 5 km from the Israeli border, holds symbolic significance from the 2006 war. Separately, Israeli strikes killed at least 4 people in Mabrouh.",
+    "source": "https://english.aawsat.com/arab-world/5261772-israel-says-south-lebanon%E2%80%99s-bint-jbeil-encircled-full-control-within-days",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-13",
+    "title": "Iran condemns US blockade as 'act of piracy'; threatens severe response",
+    "direction": "Escalating",
+    "description": "Iran's armed forces declared the US naval blockade of Iranian ports — which took effect at 10:00 AM ET (14:00 GMT) — 'an illegal act' that 'amounts to piracy,' rejecting CENTCOM's authority to restrict vessel movement in international waters. The IRGC Navy warned that any military vessels approaching the Strait of Hormuz would be 'considered a violation of the ceasefire and will be dealt with severely.' CENTCOM clarified the blockade applies to 'all maritime traffic entering and exiting Iranian ports' on the Arabian Gulf and Gulf of Oman but 'will not impede freedom of navigation for vessels transiting the Strait of Hormuz to and from non-Iranian ports' — a narrower scope than Trump's original threat to block 'any and all ships.' The distinction between Trump's rhetoric and CENTCOM's operational rules created what Al Jazeera called 'conflicting information' from US officials.",
+    "source": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-04-13",
+    "title": "France and UK announce conference to launch Hormuz defensive mission",
+    "direction": "De-escalating",
+    "description": "French President Macron announced that France and the UK will organize a conference 'in the coming days' for countries willing to contribute to a 'peaceful, multinational mission' to restore free transit through the Strait of Hormuz. Over 15 countries are participating in planning under French leadership. Macron emphasized the mission would be 'strictly defensive' and 'separate from the warring parties,' designed to escort commercial vessels once conditions allow. The initiative represents a European-led alternative to the US military approach — operating outside NATO to avoid alliance splits — and implicitly positions the EU as a neutral guarantor of navigation rights that Tehran might accept, unlike a US-enforced blockade.",
+    "source": "https://www.bloomberg.com/news/articles/2026-04-13/france-uk-plan-conference-in-coming-days-on-hormuz-transit",
+    "actor": "France|UK"
+  },
+  {
+    "date": "2026-04-13",
+    "title": "Germany slashes fuel tax by €0.17/liter as war energy shock deepens",
+    "direction": "Neutral",
+    "description": "Chancellor Friedrich Merz announced Germany will cut fuel taxes by €0.17 per liter on petrol and diesel for two months, financed by a tobacco tax increase. Employers can also provide tax-free bonuses up to €1,000. Merz said the measure 'will very quickly improve the situation for drivers and businesses.' German fuel prices had topped €2/liter as the Hormuz crisis and blockade announcement pushed oil back above $100/barrel. Leading economic institutes slashed Germany's 2026 growth forecast to 0.6%, down from 1.3% pre-war. The move followed similar emergency fuel-tax cuts across Europe — Poland set daily maximum prices, Austria cut fuel duties — making Germany the largest economy to resort to direct price intervention since the crisis began.",
+    "source": "https://www.freemalaysiatoday.com/category/business/2026/04/13/germany-to-cut-fuel-taxes-amid-iran-war-energy-shock",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-13",
     "title": "Trump orders US Navy blockade of all Iranian ports through Hormuz",
     "direction": "Escalating",
     "description": "Hours after the Islamabad talks collapsed, Trump posted on Truth Social that the US Navy would 'begin the process of BLOCKADING any and all Ships' entering or leaving the Strait of Hormuz, warning Iranian forces would be 'BLOWN TO HELL' if they fired on US vessels or civilian shipping. CENTCOM clarified the blockade targets only maritime traffic to and from Iranian ports, starting April 13 at 10:00 AM ET, and 'will not impede freedom of navigation for vessels transiting the Strait of Hormuz to and from non-Iranian ports.' Iran's IRGC warned that any military vessels approaching the strait 'will be considered a violation of the ceasefire and will be met with severe force,' while insisting the strait remains open for civilian traffic under Iranian regulations. Trump stated: 'We're not going to let Iran make money on selling oil to people that they like. It's going to be all or none.'",
