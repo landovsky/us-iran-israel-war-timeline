@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-14",
+    "title": "Trump claims Iran 'reached out' to resume talks; oil cuts early gains",
+    "direction": "De-escalating",
+    "description": "President Trump told reporters Iran had contacted the US to resume negotiations: 'We've been called by the other side. They'd like to make a deal very badly.' The claim — unconfirmed by Tehran — shifted market sentiment: WTI crude, which had surged 9% to $107/barrel in early Monday trading on blockade fears, retreated to under $98/barrel by afternoon, cutting gains to less than 2%. Brent settled near $103/barrel. US Energy Secretary Chris Wright said oil prices would remain elevated until 'meaningful ship traffic' resumed through Hormuz but predicted prices would 'peak' within weeks. The nationwide US gasoline average reached $4.125/gallon, up from $2.98 pre-war.",
+    "source": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-13",
+    "title": "Israel and Lebanon announce direct Washington talks for April 15",
+    "direction": "De-escalating",
+    "description": "Israeli Ambassador Yechiel Leiter confirmed Israel agreed to 'formal peace negotiations' with Lebanon on Tuesday April 15, hosted by US Ambassador to Lebanon Michel Issa in Washington. Lebanese Ambassador Nada Hamadeh Moawad will represent Beirut. The two sides disagree fundamentally on scope: Lebanon's presidency said talks aim to establish a ceasefire, while Israel insists on negotiating Hezbollah's disarmament and a broader peace agreement — refusing to discuss any ceasefire. Hezbollah-affiliated lawmaker Hassan Fadlallah rejected the talks entirely. The announcement came as Lebanon's death toll from Israeli strikes reached 2,089 since March 2, with over 1.2 million displaced.",
+    "source": "https://www.aljazeera.com/news/2026/4/13/who-is-israels-us-envoy-leading-negotiations-with-lebanon",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-04-13",
+    "title": "Lavrov tells Araghchi conflict has 'no military solution'",
+    "direction": "De-escalating",
+    "description": "Russian Foreign Minister Sergey Lavrov called Iranian FM Abbas Araghchi and told him the conflict has 'no military solution,' urging Iran to prevent any resumption of hostilities. Lavrov confirmed 'Russia's unwavering readiness' to assist in resolving the crisis. Araghchi briefed Lavrov on the failed Islamabad talks. The call represented Moscow's most direct pressure on Tehran since the war began — Russia has benefited from elevated oil prices (estimated $45-151 billion in additional 2026 budget revenues) but fears the conflict spiraling further, particularly given Russian engineers still working at Iran's Bushehr nuclear plant.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/lavrov-tells-iran-conflict-has-no-military-solution",
+    "actor": "Russia"
+  },
+  {
+    "date": "2026-04-13",
+    "title": "China-Pakistan present 5-point initiative; Wang Yi warns ceasefire 'very fragile'",
+    "direction": "De-escalating",
+    "description": "Chinese FM Wang Yi told Pakistani FM Ishaq Dar in a phone call that the ceasefire is 'very fragile' and the region is 'at a critical turning point,' urging the international community to 'take a clear stand against any action that could undermine the ceasefire or escalate confrontation.' The two unveiled a joint 5-point initiative for preserving the truce, which Wang said 'reflects the consensus of the international community.' Separately, Pakistani, Egyptian, and Turkish mediators launched shuttle diplomacy: FM Dar spoke with Egyptian and Turkish counterparts, then with US envoy Steve Witkoff and Iranian FM Araghchi, aiming to arrange fresh dialogue before the April 21 ceasefire expiry.",
+    "source": "https://english.news.cn/20260414/503987413c2d497da59776b6f62eeda4/c.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-13",
+    "title": "Iran demands war reparations from 5 Gulf states at UN",
+    "direction": "Escalating",
+    "description": "Iran's UN Ambassador formally demanded compensation from Bahrain, Saudi Arabia, Qatar, the UAE, and Jordan, claiming they 'breached their international obligations toward the Islamic Republic of Iran under international law' by allowing their territory to be used for US-Israeli strikes. Iran argued the five states owe reparations for enabling the air campaign. None of the named countries responded publicly. The demand came as the UAE had itself demanded compensation from Iran for missile and drone strikes that killed 13 people and injured 224 across Emirati territory, and after the UAE intercepted 537 ballistic missiles, 2,256 drones, and 26 cruise missiles since the war began.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-demands-compensation-five-regional-states-over-war-damage",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-04-13",
     "title": "IDF encircles Bint Jbeil; claims 100+ Hezbollah fighters killed",
     "direction": "Escalating",
