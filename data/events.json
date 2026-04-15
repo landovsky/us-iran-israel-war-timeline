@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-15",
+    "title": "Israel, Lebanon hold first direct talks since 1993; agree to launch negotiations",
+    "direction": "De-escalating",
+    "description": "Israeli Ambassador Yechiel Leiter and Lebanese Ambassador Nada Mouawad held a two-hour meeting in Washington — the first direct diplomatic engagement between the two countries since 1993 — with Secretary of State Marco Rubio participating. A joint US-Israel-Lebanon statement said participants held 'productive discussions' and agreed to 'launch direct negotiations at a mutually agreed time and venue.' The statement said negotiations could curb Iran's influence and 'unlock significant reconstruction assistance and economic recovery for Lebanon.' Leiter stated: 'We are both united in liberating Lebanon from an occupation power dominated by Iran called Hezbollah.' Rubio framed the session as foundational: 'This is a process, not an event.' Lebanon's President Aoun expressed hope the talks would 'mark the beginning of the end of the suffering of the Lebanese people.' Hezbollah rejected the framework entirely.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-peace-talks-us-blockade-irans-ports-day-2/",
+    "actor": "Israel|Lebanon|US"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Oil plunges 7-8% as US-Iran talks-resume hopes build; WTI falls below $92",
+    "direction": "De-escalating",
+    "description": "WTI crude futures plunged 7.9% to fall below $92/barrel on Tuesday — their lowest level in three weeks — while Brent dropped 4.6%, driven by Trump's statement that 'something could be happening over the next two days' in Islamabad and Vice President Vance's remark: 'I feel very good about where we are.' UN Secretary-General Guterres called talks resuming 'highly probable.' The sell-off erased the blockade premium from Monday's surge. Trump told reporters he views the conflict 'as very close to over.' Treasury Secretary Bessent characterized current economic pain as justified, noting oil prices remain 'transient.' The average US gasoline price stood at $4.12/gallon. The IEA warned the ongoing conflict could wipe out global oil demand growth this year, producing the first annual decline since the pandemic.",
+    "source": "https://www.cnbc.com/2026/04/14/oil-wti-brent-as-markets-hormuz-blockade-vance-trump.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Pentagon declares Hormuz blockade 'fully implemented'; interdicts 2 tankers",
+    "direction": "Escalating",
+    "description": "CENTCOM Commander Admiral Brad Cooper announced the naval blockade 'has been fully implemented' with over 10,000 sailors, Marines, and airmen, more than a dozen warships, and dozens of aircraft executing the operation. In the first 36 hours, US forces 'completely halted economic trade going into and out of Iran by sea,' turning back six merchant vessels and interdicting two oil tankers in the Strait of Hormuz. More than 20 non-Iranian ships safely transited. CENTCOM issued a Notice to Mariners warning: 'Any vessel entering or departing the blockaded area without authorization is subject to interception, diversion, and capture.' Humanitarian shipments — food, medical supplies, and essential goods — receive authorization subject to inspection. The Pentagon reported 399 US service members wounded since the war began, with 354 returned to duty.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-893011",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-14",
+    "title": "10 IDF paratroopers wounded in Bint Jbeil firefight; battalion commander seriously hurt",
+    "direction": "Escalating",
+    "description": "Ten paratroopers from the 101st Battalion were wounded in a firefight with three Hezbollah gunmen inside Bint Jbeil — three seriously, one moderately, six lightly. The soldiers exchanged fire with the cell; two Hezbollah fighters were killed by combined infantry, tank, and airstrike fire, and the third was killed attempting to flee. Separately, the commander of the 401st Brigade's 52nd Armored Battalion was seriously wounded in the Bint Jbeil area and evacuated by helicopter to hospital. The IDF Home Front Command warned that 'Hezbollah might temporarily increase its attacks on Israel's North' to influence the Israel-Lebanon negotiations opening in Washington. The IDF also captured three Hezbollah Radwan special forces fighters who 'initially put up a strong fight, but eventually they were overwhelmed' and transferred them for interrogation.",
+    "source": "https://www.jpost.com/middle-east/article-892972",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-14",
+    "title": "Sanders forces Senate vote to block $500M Israel arms sale; 100 arrested at NYC protest",
+    "direction": "Neutral",
+    "description": "Senator Bernie Sanders announced he will force a Senate vote on Wednesday April 16 on legislation to block a nearly $500 million arms transfer to Israel — including bombs and bulldozers — that Secretary Rubio authorized via emergency determination just six days into the Iran war, bypassing the statutory congressional notification period. The bill is unlikely to pass in the Republican-controlled Senate but forces lawmakers to take a public position. Separately, nearly 100 protesters were arrested outside the offices of Senators Schumer and Gillibrand in New York at a Jewish Voice for Peace-led demonstration demanding the senators block the weapons sale. JVP's Sonya Meyerson-Knox said: 'Our senators need to listen to their constituents... Stop arming Israel.' Democratic Leader Hakeem Jeffries announced House Democrats will compel a vote on an Iran war powers resolution.",
+    "source": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel",
+    "actor": "US"
+  },
+  {
     "date": "2026-04-14",
     "title": "Sanctioned Chinese tankers defy US blockade, transit Hormuz on Day 1",
     "direction": "Escalating",
