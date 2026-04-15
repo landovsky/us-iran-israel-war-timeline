@@ -1,6 +1,54 @@
 [
   {
     "date": "2026-04-15",
+    "title": "Iran threatens to block all Gulf and Red Sea shipping if US blockade persists",
+    "direction": "Escalating",
+    "description": "Iranian armed forces commander Gen. Ali Abdollahi declared the US naval blockade 'a violation of the ceasefire' and threatened to prevent 'any exports and imports' across the Persian Gulf, Gulf of Oman, and Red Sea if the US continues 'creating insecurity for Iranian commercial ships and oil tankers.' The threat expanded Iran's retaliatory posture to explicitly include the Red Sea for the first time, raising the specter of coordinated disruption alongside Houthi forces at the Bab el-Mandeb strait. The statement came hours after CENTCOM announced the blockade was 'fully implemented' and had 'completely halted economic trade going into and out of Iran by sea.'",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Saudi Arabia pledges $3B to Pakistan; extends $5B deposit",
+    "direction": "De-escalating",
+    "description": "Saudi Arabia committed $3 billion in additional deposits to Pakistan and extended an existing $5 billion deposit by removing previous rollover conditions, Finance Minister Muhammad Aurangzeb announced, with disbursement expected within a week. The financial backing came as PM Sharif departed on a shuttle diplomacy tour to revive US-Iran talks — effectively underwriting Pakistan's role as ceasefire mediator. Pakistan faces a $3.5 billion debt repayment to the UAE by month's end and needs to maintain $18 billion in reserves under its IMF program.",
+    "source": "https://www.bloomberg.com/news/articles/2026-04-15/pakistan-secures-3-billion-in-saudi-funding-to-bolster-reserves",
+    "actor": "Saudi Arabia|Pakistan"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Pakistan PM Sharif begins Saudi-Qatar-Turkey tour to revive US-Iran talks",
+    "direction": "De-escalating",
+    "description": "Pakistani Prime Minister Shehbaz Sharif departed for a four-day diplomatic tour (April 15-18) to Saudi Arabia, Qatar, and Turkey, accompanied by Foreign Minister Ishaq Dar, aiming to facilitate a second round of US-Iran peace talks before the April 21 ceasefire expires. Bilateral meetings are scheduled in Riyadh and Doha, with multilateral talks planned at the Antalya Diplomacy Forum. A diplomat confirmed Tehran and Washington agreed in principle to further talks, though location, timing, and delegation composition remain undecided, with Islamabad and Geneva under consideration. Trump said talks could happen 'over the next two days,' calling it 'more likely' they would be in Pakistan.",
+    "source": "https://www.aljazeera.com/news/2026/4/14/pakistan-pm-headed-to-saudi-and-turkiye-amid-prospect-of-new-us-iran-talks",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-04-14",
+    "title": "IMF cuts 2026 global growth to 3.1%; warns war could trigger recession",
+    "direction": "Neutral",
+    "description": "The IMF released its World Economic Outlook, cutting 2026 global growth to 3.1% from 3.3% projected in January, with global inflation expected at 4.4% (up 0.6 points). Chief Economist Pierre-Olivier Gourinchas warned the impact would be 'highly uneven,' hitting conflict-zone and commodity-importing countries hardest. Regional cuts: Middle East & North Africa slashed 2.8 points to 1.1%, Iran to -6.1% contraction (down 7.2 points), Eurozone to 1.1%, Saudi Arabia to 3.1% (from 4.5%), US trimmed 0.1 point to 2.3%. In a 'severe scenario' where energy shocks persist and central banks raise rates, global growth could fall to 2% in 2026-2027.",
+    "source": "https://www.aljazeera.com/economy/2026/4/14/imf-cuts-global-growth-forecast-during-hormuz-blockade",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-14",
+    "title": "Iran sentences 4 January protesters to death; first woman faces execution",
+    "direction": "Escalating",
+    "description": "Branch 26 of Tehran's Revolutionary Court, under Judge Iman Afshari, sentenced four detainees from the January 2026 protests to death on charges of 'operational actions for the hostile government of the United States and hostile groups': Mohammad Reza Majidi-Asl, Bita Hemmati, Behrouz Zamani-Nejad, and Kourosh Zamani-Nejad. Each also received five years for 'assembly and collusion' with full property confiscation. Hemmati is the first woman sentenced to death in connection with the protests. A fifth defendant, Amir Hemmati, received five years and eight months. HRANA reported inmates in 56 prisons held hunger strikes for the 116th consecutive week of the 'No to Executions' campaign.",
+    "source": "https://english.shabtabnews.com/2026/04/14/death-sentence-issued-for-4-detainees-of-the-january-protests/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-13",
+    "title": "Pope Leo XIV condemns 'delusion of omnipotence'; Trump calls him 'weak'",
+    "direction": "Neutral",
+    "description": "Pope Leo XIV — the first American pontiff — condemned the 'delusion of omnipotence' fueling the Iran war during a vigil at St. Peter's Basilica, calling for an end to the 'madness of war.' Trump responded on social media: 'I don't want a pope who criticizes the president of the United States.' He called Leo 'weak' and 'terrible,' adding: 'If I wasn't in the White House, Leo wouldn't be in the Vatican.' Departing for an 11-day Africa tour starting in Algeria, Leo told NBC News: 'I have no fear neither of the Trump administration, nor speaking out loudly about the message of the Gospel.' The Vatican-White House rift marked the most prominent institutional opposition to the war from within the US establishment.",
+    "source": "https://www.nbcnews.com/politics/donald-trump/trump-says-not-big-fan-weak-terrible-pope-leo-rcna331461",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-15",
     "title": "Israel, Lebanon hold first direct talks since 1993; agree to launch negotiations",
     "direction": "De-escalating",
     "description": "Israeli Ambassador Yechiel Leiter and Lebanese Ambassador Nada Mouawad held a two-hour meeting in Washington — the first direct diplomatic engagement between the two countries since 1993 — with Secretary of State Marco Rubio participating. A joint US-Israel-Lebanon statement said participants held 'productive discussions' and agreed to 'launch direct negotiations at a mutually agreed time and venue.' The statement said negotiations could curb Iran's influence and 'unlock significant reconstruction assistance and economic recovery for Lebanon.' Leiter stated: 'We are both united in liberating Lebanon from an occupation power dominated by Iran called Hezbollah.' Rubio framed the session as foundational: 'This is a process, not an event.' Lebanon's President Aoun expressed hope the talks would 'mark the beginning of the end of the suffering of the Lebanese people.' Hezbollah rejected the framework entirely.",
