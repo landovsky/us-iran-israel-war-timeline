@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-04-16",
+    "title": "US Treasury refuses to renew Iran oil sanctions easing; tightens shadow fleet pressure",
+    "direction": "Escalating",
+    "description": "The US Treasury Department announced it will not renew a temporary authorization that had permitted the sale of Iranian crude and petroleum products loaded onto ships before March 20. The waiver, originally set to expire April 19, had been issued to ease wartime energy price shocks. Treasury simultaneously sanctioned more than two dozen individuals, companies, and vessels tied to Iran's illicit oil transportation network, tightening pressure on Tehran's 'shadow fleet' as the naval blockade enters its fourth day. The move signaled Washington will not let the blockade be softened by exemptions, despite ongoing efforts to revive talks.",
+    "source": "https://www.nation.com.pk/15-Apr-2026/us-treasury-says-renewing-temporary-easing-sanctions-iran-oil",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Senate rejects Sanders arms-block resolutions 40-59 and 36-63; record Democratic support",
+    "direction": "Neutral",
+    "description": "The Senate rejected two resolutions introduced by Sen. Bernie Sanders (I-VT) to block arms sales to Israel — a $295 million armored bulldozer sale failed 40-59, and a separate measure to block 1,000-pound bomb transfers failed 36-63. All Republicans opposed both measures. More than 80% of the Democratic caucus voted to block the bulldozer sale — the highest support Sanders has secured in three years of forcing such votes and more than double his 2024 tally. Democrats voting against both resolutions included Minority Leader Chuck Schumer, Richard Blumenthal, Chris Coons, John Fetterman, Kirsten Gillibrand, and Jacky Rosen. Sanders said: 'The overwhelming majority of American people do not want to continue to give weapons to Netanyahu.' The votes marked a watershed in Democratic-Israel relations but fell short of reversing Secretary Rubio's emergency authorization.",
+    "source": "https://theintercept.com/2026/04/15/senate-democrats-block-arms-sales-israel/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Pakistan Army Chief Munir arrives Tehran with US message for second round of talks",
+    "direction": "De-escalating",
+    "description": "Field Marshal Asim Munir, chief of Pakistan's army, arrived in Tehran on Wednesday evening with Interior Minister Mohsin Naqvi and a delegation of officials, carrying what Pakistani state media called 'a new message from Washington' for a potential second round of US-Iran negotiations. Iranian FM Abbas Araghchi greeted Munir — dressed in military gear — at the airport. Munir's rare diplomatic mission — conducted in parallel with PM Sharif's Gulf-Turkey tour — is the most senior Pakistani engagement of the war. Pakistani sources said mediators are 'optimistic about a potential major breakthrough on the nuclear front' but named 'elements in Tehran, in Washington, DC, and biggest of them all...Israel' as the primary detractors. Trump told reporters to brace for 'amazing two days' as the war is 'close to over.'",
+    "source": "https://www.aljazeera.com/news/2026/4/15/pakistan-army-chief-in-tehran-to-advance-next-round-of-us-iran-talks",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "IDF Chief Zamir: Air Force 'armed and ready' for immediate strike on Iran",
+    "direction": "Escalating",
+    "description": "IDF Chief of Staff Lt. Gen. Eyal Zamir toured southern Lebanon with senior Northern Command officers and announced that the General Staff has approved updated plans for continued combat 'both on the Lebanese front and against Iran.' Zamir stated: 'We are at a very high level of readiness. Israeli Air Force planes are armed and ready, and the targets are loaded into the systems. We know how to launch them for a powerful strike immediately.' He added that in coordination with US forces, Israel had struck the Iranian regime 'hard' and weakened its defensive capabilities. The public threat — issued as Pakistani mediators shuttled toward a second round of talks — underscored Israel's posture that the Iran ceasefire is conditional, not final.",
+    "source": "https://www.israelhayom.com/2026/04/16/idf-chief-israeli-air-force-ready-for-immediate-strike-including-in-iran",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Israeli 'triple-tap' strikes kill 4 Lebanese paramedics in Mayfadoun",
+    "direction": "Escalating",
+    "description": "Three consecutive Israeli airstrikes on the southern Lebanese village of Mayfadoun, near Nabatiyeh, killed four Lebanese rescue workers and wounded six others in a 'triple-tap' pattern targeting successive responder teams. The first strike killed two paramedics from Lebanon's Hezbollah-affiliated Islamic Health Committee responding to a civilian distress call. A second Islamic Health Committee team dispatched to evacuate colleagues was struck, wounding three. A third team from Nabatiyeh Emergency Services and the Amal-linked Islamic Risala Scout Association was hit, killing two more medics. Islamic Health Committee official Abou Haidar Hayya said: 'Ambulances are protected under all international laws and conventions...when those prohibitions collapse, we have nothing left.' At least 91 Lebanese medical workers have been killed since March 2. The strikes occurred one day after Israel-Lebanon held their first direct talks since 1993 in Washington.",
+    "source": "https://www.opb.org/article/2026/04/15/back-to-back-israeli-strikes-kill-4-lebanese-medics-as-israel-hezbollah-war-grinds-on/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Iran suspends all petrochemical exports citing domestic shortages from April 6 strikes",
+    "direction": "Escalating",
+    "description": "Iran's National Petrochemical Company suspended all petrochemical product exports 'until further notice' to prioritize domestic market supply, state media Mehr News reported. The decision cited damage from April 6 airstrikes on two petrochemical plants in the South Pars region. Petrochemicals constitute Iran's largest non-oil export earner — roughly 29 million tons and approximately $13 billion annually — supplying Turkey, China, India, and Southeast Asia with plastics, polymers, and agricultural chemicals. The self-imposed export halt compounds the US naval blockade's impact and is expected to drive global polymer and plastics prices sharply higher, disrupting supply chains already strained by pre-war South Pars strikes.",
+    "source": "https://redstate.com/streiff/2026/04/15/iran-announces-blockade-of-its-own-petrochemical-industry-n2201329",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Xi meets Lavrov in Beijing; Russia offers to fill China's energy gap",
+    "direction": "Neutral",
+    "description": "Chinese President Xi Jinping met Russian Foreign Minister Sergey Lavrov at the Great Hall of the People, with both sides condemning US military action against Iran and reaffirming their 'strategic cooperation.' Lavrov told Chinese counterparts Russia could 'fill the resource gap' created by the Hormuz blockade, offering to expand crude and LNG supplies to Beijing. China imports approximately one-third of its oil through the Strait of Hormuz, and 90% of Russia's Q1 2026 crude exports went to China and India. The meeting crystallized the Russia-China response to the blockade: Moscow profits from elevated prices, Beijing secures alternative supply, and both cement Iran's pivot east. Lavrov reiterated Russia's position that the conflict has 'no military solution.'",
+    "source": "https://www.cnbc.com/2026/04/15/russia-china-energy-supplies-iran-war-trump-strait-of-hormuz-blockade.html",
+    "actor": "Russia"
+  },
+  {
+    "date": "2026-04-14",
+    "title": "IEA declares 'Code Red'; calls Iran crisis worse than 1973+1979+2022 combined",
+    "direction": "Escalating",
+    "description": "IEA Executive Director Fatih Birol issued the agency's most severe warning in its 52-year history at an emergency Paris briefing, declaring the Iran conflict a 'total systemic failure' of the global energy artery and characterizing the crisis as surpassing the combined impact of the 1973 Arab oil embargo, 1979 Iranian revolution, and 2022 Russia invasion shocks. The Hormuz closure and blockade removed an estimated 21 million barrels/day of oil and 20% of the world's LNG from the market — versus the 1973 embargo's 5 million b/d loss. Birol warned an immediate supply chain collapse could trigger a depression 'worse than the Great Recession.' Brent crude briefly touched $185/barrel (up 28%) on the warning; the S&P 500 dropped 4.2% in a single session. Unlike prior shocks, the crisis paralyzes oil and gas markets simultaneously, threatening electricity grids across Europe and Asia.",
+    "source": "https://markets.financialcontent.com/stocks/article/marketminute-2026-4-14-iea-issues-code-red-warning-iran-conflict-sparks-energy-shock-surpassing-1973-and-1979-combined",
+    "actor": "Other"
+  },
+  {
     "date": "2026-04-15",
     "title": "Iran threatens to block all Gulf and Red Sea shipping if US blockade persists",
     "direction": "Escalating",
