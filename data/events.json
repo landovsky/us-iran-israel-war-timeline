@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-04-16",
+    "title": "USS Spruance forces Iranian cargo ship back to Iran; CENTCOM says 10 vessels turned back",
+    "direction": "Escalating",
+    "description": "The guided-missile destroyer USS Spruance (DDG 111) intercepted an Iranian-flagged cargo vessel that had departed Bandar Abbas and attempted to evade the US naval blockade by transiting along the Iranian coastline after exiting the Strait of Hormuz. CENTCOM said the Aegis destroyer 'successfully redirected the vessel, which is heading back to Iran,' marking the first named US Navy interdiction since the blockade was declared fully implemented. CENTCOM reported: 'Ten vessels have now been turned around and ZERO ships have broken through since the start of the U.S. blockade on Monday.' The enforcement action on day 3 of the blockade contradicted shipping-data reports of at least two sanctioned supertankers still entering the Gulf.",
+    "source": "https://openthemagazine.com/world/uss-spruance-forces-iranian-cargo-vessel-to-turn-back-amid-gulf-blockade",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-16",
+    "title": "Hezbollah rocket attack wounds 5 IDF soldiers at Bint Jbeil; drone strikes Nahariya",
+    "direction": "Escalating",
+    "description": "A Hezbollah rocket attack in Bint Jbeil, southern Lebanon, wounded five Israeli soldiers — one seriously, four lightly — all evacuated for medical treatment, the IDF announced. Separately, Hezbollah claimed two drone attacks targeting Israeli forces near Nahariya in northern Israel, stating via Telegram it struck 'a logistics base belonging to the Israeli army's 146th Division using a squadron of attack drones' and conducted a second strike on a settlement near the Liman barracks. The attacks expanded Hezbollah's resistance pattern one day after Israel and Lebanon launched their first direct talks since 1993 in Washington, validating Hezbollah chief Qassem's vow that 'the battlefield will speak for itself.' The incidents brought the weekly IDF casualty count in Bint Jbeil to at least 15 wounded and one killed.",
+    "source": "https://en.tempo.co/read/2098542/hezbollah-rocket-attack-injures-5-israeli-soldiers-in-lebanon",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-04-16",
+    "title": "IEA warns 'six weeks of jet fuel left'; ACI Europe flags full-blown aviation crisis",
+    "direction": "Escalating",
+    "description": "IEA Executive Director Fatih Birol warned Europe has 'maybe six weeks or so of jet fuel left' even if the Strait of Hormuz reopened immediately, because tanker voyages from Kuwait to Rotterdam take six weeks. Airports Council International Europe's April 9 letter to the European Commission warned that without 'significant and stable' Hormuz shipping resumption within three weeks, 'a full-blown crisis for EU aviation will become reality.' Jet fuel prices in the US have nearly doubled from $2.50/gallon on Feb 27 to $4.88/gallon on April 2. On Monday nearly 7% of all global flights — 7,049 of 104,618 scheduled — were cancelled, with 14.6% of North American departures grounded. United Airlines CEO Scott Kirby announced cuts to approximately 5% of planned Q2-Q3 2026 routes, while average US airfares hit $465 — the highest since at least 2019.",
+    "source": "https://www.irishtimes.com/world/middle-east/2026/04/16/us-iran-war-news-updates-latest-live/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "S&P 500 closes above 7,000 for first time; Nasdaq hits record as war losses erased",
+    "direction": "De-escalating",
+    "description": "The S&P 500 rose 0.8% (56 points) to close at 7,023 — its first-ever close above 7,000 — while the Nasdaq Composite gained 1.6% (377 points) to 24,016, eclipsing its October 2025 record of 23,958. The dual record capped a two-week rally in which US equities erased every loss tied to the Iran war, driven by Trump's declaration that the conflict is 'very close to over' and reports that Washington and Tehran had reached an 'in principle' agreement to extend the ceasefire. Trump told Fox Business the market 'is going to boom,' adding: 'We've beaten them militarily, totally.' The rally decoupled equities from oil pain: WTI crude had plunged 7.9% the same day below $92/barrel.",
+    "source": "https://www.cbsnews.com/news/stocks-market-today-s-p-500-record-highs/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "US, Iran reach 'in principle' agreement to extend ceasefire two weeks; Washington hedges",
+    "direction": "De-escalating",
+    "description": "Regional officials told the Associated Press the United States and Iran reached an 'in principle agreement' to extend the April 8 two-week ceasefire — set to expire April 21 — by another two weeks to allow more diplomacy. Bloomberg and Fortune confirmed both sides are 'weighing' the extension. A senior US official responding to the report told Reuters that Washington 'has not formally agreed' to any extension. Mediators are pushing for compromise on three sticking points that derailed the Islamabad talks: Iran's nuclear program, reopening the Strait of Hormuz, and compensation for wartime damages. US negotiators reportedly favor a 5-year enrichment moratorium; Iran had rejected a 20-year demand.",
+    "source": "https://fortune.com/2026/04/15/iran-u-s-close-to-agreeing-cease-fire-extension-officials-say/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "IAEA chief Grossi in Seoul: inspector access 'indispensable' for any Iran deal",
+    "direction": "Neutral",
+    "description": "IAEA Director General Rafael Grossi told a press conference in Seoul that verification of any Iran peace agreement must be 'very detailed,' warning: 'Iran has a very ambitious, wide nuclear programme. So all of that will require the presence of IAEA inspectors; otherwise you will not have an agreement, you will have an illusion of an agreement.' Grossi said the agency must 'provide the indispensable safeguard verification component' of any settlement. His intervention raised the technical bar for a deal as Pakistani mediators shuttled toward a second round of talks. Tehran has denied IAEA inspectors access to nuclear facilities damaged by US-Israeli strikes since February 28, making independent verification of enrichment suspension currently impossible.",
+    "source": "https://www.euronews.com/2026/04/15/un-nuclear-chief-urges-checks-of-irans-programme-in-potential-deal-to-end-war",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Netanyahu: Iran ceasefire 'could turn on a dime'; Israel ready for resumed fighting",
+    "direction": "Escalating",
+    "description": "PM Benjamin Netanyahu told a cabinet meeting the Iran ceasefire 'could turn on a dime,' signaling the truce's fragility as Israel continues operations against Hezbollah. 'It is too early to say how this will end, or even how it will progress. And in light of the possibility that the fighting may resume, we are prepared for any scenario,' Netanyahu said. He reiterated Israel's demands: 'We want to see Iran's enriched material removed, and we want to see the elimination of its enrichment capability inside Iran.' Netanyahu's public declaration he 'backs Trump's blockade' aligned Israel's PM with Washington's maximum pressure posture — even as Pakistani mediators pushed toward a second round of talks — and put daylight between Netanyahu and US negotiators reportedly willing to accept a 5-year enrichment moratorium.",
+    "source": "https://www.timesofisrael.com/netanyahu-iran-ceasefire-could-end-at-any-moment-we-back-trumps-blockade/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-16",
     "title": "US Treasury refuses to renew Iran oil sanctions easing; tightens shadow fleet pressure",
     "direction": "Escalating",
     "description": "The US Treasury Department announced it will not renew a temporary authorization that had permitted the sale of Iranian crude and petroleum products loaded onto ships before March 20. The waiver, originally set to expire April 19, had been issued to ease wartime energy price shocks. Treasury simultaneously sanctioned more than two dozen individuals, companies, and vessels tied to Iran's illicit oil transportation network, tightening pressure on Tehran's 'shadow fleet' as the naval blockade enters its fourth day. The move signaled Washington will not let the blockade be softened by exemptions, despite ongoing efforts to revive talks.",
