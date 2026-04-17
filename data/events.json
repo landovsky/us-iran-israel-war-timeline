@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-04-17",
+    "title": "Israeli artillery shells Khiam and Dibbine within 30 minutes of Lebanon ceasefire",
+    "direction": "Escalating",
+    "description": "Israeli artillery struck the southern Lebanese towns of Khiam and Dibbine approximately 30 minutes after the 10-day ceasefire took effect at midnight local time, with machine gun fire also reported during sweeping operations. Reconnaissance aircraft were observed over the Rashaya region and western slopes of Jabal al-Sheikh in the western Bekaa Valley. IDF Arabic-language spokesperson Avichay Adraee warned residents not to return south of the Litani River 'until further notice,' citing 'Hezbollah's ongoing terrorist activities.' The Lebanese army separately warned civilians to avoid 'approaching areas where Israeli occupation forces have advanced.' The violations echoed the 2024 Lebanon ceasefire, which saw more than 10,000 violations — mostly by Israeli forces — according to UN peacekeepers.",
+    "source": "https://aninews.in/news/world/middle-east/ceasefire-violations-reported-in-lebanon-as-israeli-artillery-shelling-aerial-surveillance-continue20260417044322/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-16",
+    "title": "Trump announces 10-day Israel-Lebanon ceasefire; Netanyahu keeps troops in 'expanded security zone'",
+    "direction": "De-escalating",
+    "description": "President Trump announced via Truth Social that Lebanese President Joseph Aoun and Israeli PM Benjamin Netanyahu agreed to a 10-day ceasefire effective 5 PM EST (midnight Israel time), growing out of the first direct Israel-Lebanon talks since 1993 held Tuesday in Washington. Trump invited both leaders to White House peace talks and directed VP Vance and Secretary Rubio to work toward 'a Lasting PEACE.' Netanyahu confirmed but stated: 'We are remaining in Lebanon in an expanded security zone' and Israel 'had not agreed to withdraw.' Lebanon committed to 'take meaningful steps to prevent Hezbollah and all other rogue non-state armed groups' from attacking Israel; Israel preserved the right to 'take all necessary measures in self-defense.' A senior Hezbollah official told NBC News the group would consider compliance 'if Israel is fully committed to a complete cessation of hostilities.' Lebanese PM Nawaf Salam welcomed the deal. The ceasefire may be extended 'by mutual agreement if progress is demonstrated.' Lebanese casualties since March 2: over 2,100 killed including 172 children and 91 healthcare workers, over 1 million displaced — 20% of the population.",
+    "source": "https://www.nbcnews.com/world/middle-east/trump-announces-israel-lebanon-ceasefire-hezbollah-rcna331999",
+    "actor": "US|Israel|Lebanon"
+  },
+  {
+    "date": "2026-04-16",
+    "title": "Pentagon: 10,000+ troops enforce blockade with 16 warships; Hegseth threatens infrastructure bombing",
+    "direction": "Escalating",
+    "description": "Defense Secretary Pete Hegseth told a Pentagon briefing the Iran blockade will continue 'as long as it takes,' warning: 'If Iran chooses poorly, then they will have a blockade and bombs dropping on infrastructure, power and energy.' He said US forces were 'locked and loaded' on Iran's 'critical dual-use infrastructure, remaining power generation and energy industry.' Gen. Dan Caine, Chairman of the Joint Chiefs, said 14 ships had turned around in three days and the blockade applies to 'all ships, regardless of nationality, heading into or from Iranian ports.' Over 10,000 American troops are enforcing the blockade with 16 warships — 11 destroyers, 3 amphibious assault ships, 1 aircraft carrier, and 1 littoral combat ship — representing 'less than 10% of America's naval power,' per Hegseth. No ships have been boarded; the Navy is warning Iran-linked vessels it could fire warning shots or escalate. CENTCOM Admiral Brad Cooper: 'We're rearming, we're retooling, and we're adjusting our tactics, techniques and procedures.'",
+    "source": "https://www.military.com/daily-news/2026/04/16/over-10000-us-troops-are-enforcing-iran-blockade-no-ships-boarded-so-far-military-says.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-16",
+    "title": "NBC: Half of Iran's missile launchers intact; Iran digging out weapons despite 'destroyed' claim",
+    "direction": "Escalating",
+    "description": "NBC News reported that roughly half of Iran's ballistic missile launchers remain intact and thousands of one-way attack drones survive, with multiple underground missile stockpiles undamaged — contradicting Defense Secretary Hegseth's claim last week that Iran's missile program was 'functionally destroyed.' At the same Pentagon briefing, Hegseth acknowledged Iran is 'digging out' remaining missiles and launchers but insisted: 'You have no defense industry, no ability to replenish your offensive or defensive capabilities.' U.S. intelligence also reported China was planning to provide new air defense weaponry to Iran in coming weeks, though Trump said Beijing gave assurances it would not send arms. Separately, NBC revealed Iran obtained a Chinese satellite in late 2024 used to monitor US military sites, capturing images of Prince Sultan Air Base in Saudi Arabia in mid-March — days before IRGC strikes hit the base.",
+    "source": "https://www.nbcnews.com/politics/national-security/hegseth-says-iran-digging-missile-launchers-rcna332161",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-04-16",
     "title": "USS Spruance forces Iranian cargo ship back to Iran; CENTCOM says 10 vessels turned back",
     "direction": "Escalating",
