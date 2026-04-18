@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-18",
+    "title": "Trump extends Russian oil sanctions waiver to May 16, reversing Treasury refusal",
+    "direction": "Neutral",
+    "description": "The Trump administration renewed a temporary waiver permitting countries to purchase sanctioned Russian oil transported by sea, effective immediately through May 16. The waiver covers an additional 100 million barrels of Russian exports, bringing the combined total with the earlier Iranian waiver to approximately 200 million barrels. The reversal was striking: Treasury Secretary Scott Bessent had explicitly told reporters two days earlier that Washington would not renew the waiver. A Treasury spokesperson called it 'a balancing act between geopolitical strategy and global energy needs.' Russia's special envoy Kirill Dmitriev celebrated the decision on Telegram. European Commission President Ursula von der Leyen opposed easing restrictions, and lawmakers from both parties criticized the move as weakening pressure on Moscow while the Ukraine war continues.",
+    "source": "https://yournews.com/2026/04/18/6809759/trump-administration-extends-waiver-on-russian-oil-purchases-amid-global/",
+    "actor": "US|Russia"
+  },
+  {
+    "date": "2026-04-18",
+    "title": "IRGC gunboats fire on tanker and two merchant vessels in Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "Two Iranian Revolutionary Guard gunboats opened fire on an Indian-flagged supertanker approximately 20 miles northeast of Oman in the Strait of Hormuz, forcing it to turn around. Two additional merchant vessels reported being hit by gunfire as they attempted to cross the strait. The UK Maritime Trade Operations center confirmed the incidents; no injuries were reported and vessels were reported safe. The attacks came hours after the IRGC declared the strait had 'returned to its previous state' under military control, representing the first use of force to enforce the re-closure. CENTCOM reported 23 vessels had complied with US blockade directions to turn around since the blockade began.",
+    "source": "https://www.wsls.com/news/world/2026/04/18/iran-reimposes-restrictions-on-strait-of-hormuz-accusing-us-of-violating-deal-to-reopen-it/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-18",
+    "title": "IRGC reverses Hormuz reopening <24h after Araghchi declared it 'completely open'",
+    "direction": "Escalating",
+    "description": "Iran's joint military command announced the Strait of Hormuz has 'returned to its previous state' and is under 'strict management and control of the armed forces,' reversing Foreign Minister Araghchi's declaration less than 24 hours earlier that the strait was 'completely open.' The Khatam al-Anbiya Central Headquarters — Iran's unified military command — accused the US of 'piracy and maritime robbery under the so-called blockade' and said Iran had allowed 'managed passage of a limited number of oil tankers and commercial vessels in good faith' but that Washington failed to uphold commitments. The IRGC stated restrictions will remain 'until the US completely lifts its blockade of Iranian ports.' Ship tracking data showed approximately two dozen vessels had moved toward the strait Friday morning before most turned back. Supreme Leader Mojtaba Khamenei warned on Telegram that Iran's navy was ready to inflict 'new bitter defeats' on adversaries.",
+    "source": "https://www.middleeastmonitor.com/20260418-strait-of-hormuz-back-to-previous-state-under-control-of-armed-forces-says-iran-citing-ongoing-us-blockade",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-17",
+    "title": "Trump declares Israel 'PROHIBITED' from bombing Lebanon; IDF drone kills 1 minutes later",
+    "direction": "De-escalating",
+    "description": "President Trump posted on Truth Social: 'Israel will not be bombing Lebanon any longer. They are PROHIBITED from doing so by the U.S.A. Enough is enough!!!' He told Axios: 'Israel has to stop. They can't continue to blow buildings up. I am not gonna allow it.' Israeli PM Netanyahu and his advisers were 'personally shocked and alarmed,' according to Axios — the post contradicted the State Department's ceasefire text, which preserved Israel's right to strike 'in self-defense, at any time, against planned, imminent, or ongoing attacks.' Israeli Ambassador Yechiel Leiter scrambled to get White House clarification. Minutes after Trump's post, an IDF drone struck a motorcycle between the southern Lebanese towns of Kounine and Beit Yahoun, killing one person — the first confirmed fatality during the ceasefire. The IDF did not comment on the strike. Lebanon's cumulative death toll reached 2,196 killed and 7,185 wounded.",
+    "source": "https://www.mediaite.com/media/news/trump-declares-israel-is-prohibited-from-bombing-lebanon-after-new-iran-deal-enough-is-enough/",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-04-17",
+    "title": "Trump warns US will 'start dropping bombs again' if no Iran deal by April 22",
+    "direction": "Escalating",
+    "description": "Aboard Air Force One, President Trump warned that if no deal is reached by the ceasefire's April 22 expiry: 'I don't know. Maybe I won't extend it — but the blockade is going to remain... Unfortunately, we'll have to start dropping bombs again.' He said the naval blockade would 'remain in full force and effect as it pertains to Iran until such time as our transaction with Iran is 100 per cent complete and fully signed.' At a Turning Point USA event in Phoenix, he called it 'a great and brilliant day for the world,' claiming to have received 'some pretty good news 20 minutes ago' about Iran. He said Iran 'can be trusted' because 'they have had enough' and that the US plans to retrieve enriched nuclear material through excavation coordinated with Iranian officials — a claim no Iranian official confirmed.",
+    "source": "https://www.newsweek.com/donald-trump-iran-ultimatium-strait-of-hormuz-ceasefire-11848548",
+    "actor": "US"
+  },
+  {
     "date": "2026-04-17",
     "title": "Iranian sources: Round 2 of US-Iran talks set for Monday in Islamabad",
     "direction": "De-escalating",
