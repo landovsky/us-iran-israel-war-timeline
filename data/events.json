@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-19",
+    "title": "Ghalibaf says Iran 'far from final deal' despite progress; no date set for talks",
+    "direction": "Neutral",
+    "description": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf said in a nationally televised address that negotiations with Washington have produced 'progress' but 'there are many gaps and some fundamental points remain. We are still far from the final discussion.' He asserted Iran was 'victorious in the field' and accepted the ceasefire only because 'they accepted our demands.' He emphasized Iran controls the Strait of Hormuz: 'It is impossible for others to pass through the Strait of Hormuz while we cannot.' Separately, Deputy FM Khatibzadeh said at the Antalya Diplomacy Forum that no date has been set for a new round of face-to-face talks, demanding a 'framework agreement' first and blaming Washington's 'maximalist' approach. Egypt's FM Badr Abdelatty struck a more optimistic tone, saying Cairo and Islamabad hope to secure a final agreement 'in the coming days.' The ceasefire expires Wednesday April 22.",
+    "source": "https://gulfnews.com/world/mena/us-iran-ceasefire-trump-ghalibaf-see-progress-in-talks-but-major-gaps-remain-1.500511759",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-19",
+    "title": "Iran's Foundation of Martyrs reports 3,468 killed in war with US and Israel",
+    "direction": "Neutral",
+    "description": "Iran's state-run Foundation of Martyrs and Veterans Affairs announced the war's official Iranian death toll has reached 3,468. Foundation head Ahmad Mousavi told ISNA that 3,468 'martyrs fell during the recent conflict,' up from 3,375 reported by the Legal Medicine Organisation on April 12. The US-based Human Rights Activists News Agency (HRANA) had independently documented at least 3,636 deaths as of April 7 — including 1,701 civilians (among them 254 children), 1,221 military personnel, and 714 unclassified — suggesting the official figure understates the true toll. AFP noted it could not independently verify figures due to reporting restrictions inside Iran.",
+    "source": "https://www.freemalaysiatoday.com/category/world/2026/04/19/iran-reports-3468-dead-in-war-with-us-israel",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-19",
+    "title": "Trump says Iran 'got a little cute'; war cabinet convenes at White House",
+    "direction": "Escalating",
+    "description": "President Trump expressed frustration with Iran's Hormuz re-closure, saying: 'They got a little cute, as they have been doing for 47 years. They wanted to close up the strait again. They can't blackmail us.' Senior administration officials — including Defense Secretary Pete Hegseth, CIA Director, and Chairman of the Joint Chiefs of Staff — were seen arriving at the White House for what appeared to be a war cabinet session three days before the ceasefire expires on April 22. Trump maintained that negotiations are progressing but warned Iran could not use Hormuz as leverage. The Saturday meeting signaled intensifying contingency planning as the administration weighs whether to extend the ceasefire or resume strikes.",
+    "source": "https://www.euronews.com/2026/04/19/iran-says-deal-still-far-off-as-hormuz-strait-remains-shut",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-19",
+    "title": "IDF confirms first strikes on Hezbollah since Lebanon ceasefire began",
+    "direction": "Escalating",
+    "description": "The Israeli military confirmed carrying out 'several strikes' in southern Lebanon against Hezbollah operatives who 'violated the ceasefire understandings,' marking the first acknowledged offensive action since the truce took effect at midnight April 17. The IDF said operatives approached the 'yellow line' separating IDF-controlled areas and conducted 'air and ground attacks' with 'support artillery fire.' The IDF stated it 'will not allow harm to Israeli civilians and IDF soldiers and will take all necessary measures.' Hezbollah called the strikes a ceasefire violation; parliament member Hassan Fadlallah said: 'We contacted the leadership in Iran and informed them of Israeli violations.' A US official clarified that while offensive operations are prohibited, the truce allows 'defensive strikes against planned, imminent, or ongoing attacks.' The strikes came one day after Trump declared Israel 'PROHIBITED' from bombing Lebanon.",
+    "source": "https://www.jpost.com/middle-east/article-893405",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-19",
+    "title": "Oil surges back toward $98 as Hormuz re-closure reverses Friday's 11% crash",
+    "direction": "Escalating",
+    "description": "Brent crude surged to $98.01 per barrel and WTI climbed to $93.19, nearly erasing Friday's 11-12% crash that had been triggered by Iran's brief Hormuz reopening. The whipsaw — the largest two-day oil price reversal of the war — reflected the IRGC's re-closure of the strait less than 24 hours after FM Araghchi declared it 'completely open.' The S&P 500's record close on Friday was overtaken by renewed supply fears. The rebound confirmed that the market's brief euphoria over Hormuz reopening was premature, with physical oil flows through the strait remaining near zero. Three days before the ceasefire expires, Brent had returned to within striking distance of the $100 psychological barrier that analysts warned could trigger a second wave of global fuel rationing.",
+    "source": "https://angle360ng.com/crude-oil-price-today-april-19-2026/",
+    "actor": "Other"
+  },
+  {
     "date": "2026-04-18",
     "title": "Iran's internet blackout hits 50 consecutive days, longest nationwide shutdown on record",
     "direction": "Neutral",
