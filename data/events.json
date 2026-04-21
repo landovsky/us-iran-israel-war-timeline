@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-21",
+    "title": "Israel strikes Qaaqaaiyet el-Jisr and Khiam during Lebanon ceasefire; 6 wounded",
+    "direction": "Escalating",
+    "description": "Israeli forces struck the southern Lebanese towns of Qaaqaaiyet el-Jisr and Khiam during the 10-day Israel-Lebanon ceasefire, wounding six people in Qaaqaaiyet el-Jisr and demolishing homes in Khiam, according to Al Jazeera's live reporting. The strikes continued Israel's pattern of ceasefire violations in southern Lebanon, where the IDF maintains five divisions operating south of its self-declared 'forward defense line.' The attacks came as the State Department confirmed a second round of Israel-Lebanon direct talks would take place Thursday in Washington, with Lebanese diplomat Simon Karam leading Beirut's delegation. Lebanese President Joseph Aoun stated: 'These negotiations are not a weakness...They are a decision stemming from strength in our belief in our rights.' Hezbollah chief Naim Qassem rejected the talks as 'losing concessions.'",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/4/21/iran-war-live-tehran-shuns-talks-trump-says-us-blockade-to-remain",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-20",
+    "title": "Trump tells Bloomberg ceasefire expires Wednesday evening; extension 'highly unlikely'",
+    "direction": "Escalating",
+    "description": "President Trump told Bloomberg News in a phone interview that the Iran ceasefire will end 'Wednesday evening Washington time' and that extending it is 'highly unlikely' if no deal is reached. He added the US naval blockade of Iranian ports 'stays in place until a deal is signed,' saying: 'I'm not opening it until a deal is signed.' The statement set a hard deadline of approximately 8 PM ET on Wednesday April 22 — clarifying what had been an ambiguous expiry date. Energy Secretary Chris Wright separately told CNN that the Strait of Hormuz will likely remain closed until a permanent deal is reached and that US gas prices, which hit a national average of $4.05/gallon, may not return below $3 'until next year.' The remarks came as the White House confirmed special envoy Steve Witkoff would depart Sunday night for Islamabad, though Iran had not confirmed participation in a second round of talks.",
+    "source": "https://www.bloomberg.com/news/articles/2026-04-20/trump-says-iran-truce-extension-unlikely-hormuz-to-stay-blocked",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-20",
+    "title": "Iran executes two MEK members at Karaj prison; judiciary vows 'no leniency'",
+    "direction": "Neutral",
+    "description": "Iran executed Hamed Validi, 45, a civil engineer and father of one daughter, and Mohammad Masoum 'Nima' Shahi, 38, a technical worker, at Karaj Central Prison at dawn on April 20. Both were convicted of espionage linked to Mossad and membership in the People's Mojahedin Organization of Iran (MEK). They had been arrested on May 13, 2025 — one month before the war began — and sentenced by Branch 3 of the Revolutionary Court of Karaj, with the Supreme Court confirming the sentence by September 27, 2025. Their families and lawyers received no prior notice of the execution; the state-run Mizan News Agency announced it at 6:35 AM. The executions brought the wartime total to at least 12 political prisoners executed since hostilities began, part of what HRANA called 'a noticeable acceleration in executions.' Separately, Iran has seized assets of over 400 journalists and artists abroad for allegedly supporting 'hostile foreign actors.'",
+    "source": "https://iran-hrm.com/2026/04/20/political-executions-amidst-global-inaction-hamed-validi-and-nima-shahi-hanged-in-iran/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-20",
+    "title": "UAE dismantles Iran-linked Velayat-e Faqih terror cell; arrests 27 suspects",
+    "direction": "Neutral",
+    "description": "The UAE State Security Service announced it had dismantled a covert cell linked to Iran's Velayat-e Faqih doctrine and arrested 27 members. The suspects were charged with establishing and operating a secret organization from within the UAE, pledging allegiance to foreign entities, conducting clandestine recruitment and indoctrination of Emirati youth, collecting funds through unofficial channels and transferring them to 'suspicious foreign entities' abroad, and holding meetings with 'terrorist elements.' The State Security Service said the cell aimed to 'spread misleading ideas among Emirati youth and recruit them to serve foreign loyalties, incite against the country's foreign policy.' The names and mugshots of all 27 suspects were posted publicly. The arrests came amid the broader Iran war, during which the UAE has intercepted 537 ballistic missiles, 2,256 drones, and 26 cruise missiles, with 13 killed and 224 wounded.",
+    "source": "https://www.aljazeera.com/news/2026/4/20/uae-reports-dismantling-of-iran-linked-terror-cell",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-04-20",
+    "title": "Lebanon health ministry: 2,387 killed and 7,602 wounded since Israeli escalation began March 2",
+    "direction": "Neutral",
+    "description": "Lebanon's health ministry reported the cumulative death toll from Israeli attacks since the March 2 escalation had reached 2,387, with 7,602 wounded. The toll rose by 332 deaths since the April 12 count of 2,055 — meaning roughly 42 Lebanese were killed per day during the eight-day period that included the April 16 Israel-Lebanon ceasefire. Separately, the Israeli military released casualty data showing 15 IDF soldiers killed and 690 wounded (42 serious, 96 moderate, 552 minor) in the Lebanon ground operation, including 37 soldiers wounded in a single 24-hour period between April 18-19. The figures underscored that the Lebanon ceasefire had not halted the killing on either side, with Israel continuing strikes on southern towns and Hezbollah maintaining resistance against the IDF's five-division ground presence south of the Litani River.",
+    "source": "https://news-pravda.com/world/2026/04/20/2256334.html",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-04-20",
     "title": "Iran launches drone strikes on US warships in Gulf of Oman in retaliation for Touska seizure",
     "direction": "Escalating",
