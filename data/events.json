@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-04-22",
+    "title": "Hezbollah fires rockets and drones at northern Israel — first attack since Lebanon ceasefire",
+    "direction": "Escalating",
+    "description": "Hezbollah fired rockets and attack drones at a military position in northern Israel on Tuesday, the first attack since the April 16 Israel-Lebanon ceasefire took effect. Hezbollah said it targeted a position that had been striking southern Lebanon, accusing Israel of 'attacking civilians and destroying homes in breach of the truce.' The IDF said it intercepted a drone, struck the rocket launcher, and called the attack a 'blatant violation' of the ceasefire. No casualties were reported on either side. The attack came one day before the second round of US-mediated Israel-Lebanon ambassador-level talks was scheduled in Washington for Thursday April 24. Lebanon's disaster management unit separately raised the cumulative war death toll to 2,454 killed and 7,658 wounded since March 2 — up from 2,387 on April 20, with the increase driven by body recovery in areas previously subjected to heavy Israeli strikes.",
+    "source": "https://www.koreaherald.com/article/10723012",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-04-21",
+    "title": "Trump extends Iran ceasefire indefinitely, cancels Vance Islamabad trip",
+    "direction": "De-escalating",
+    "description": "President Trump reversed course and extended the Iran ceasefire with no new deadline, posting on Truth Social: 'Based on the fact that the Government of Iran is seriously fractured...we have been asked to hold our Attack on the Country of Iran until such time as their leaders and representatives can come up with a unified proposal.' He added the US military would 'continue the Blockade and, in all other respects, remain ready and able.' The White House then cancelled VP Vance's planned trip to Islamabad, saying the US awaits 'a unified proposal from the Iranians.' Pakistan PM Sharif thanked Trump for accepting his request to extend the truce. Ghalibaf adviser Mahdi Mohammadi dismissed the extension as 'means nothing,' calling the blockade 'no different from bombardment' and warning the extension was 'a ploy to buy time for a surprise strike.' Iran's semi-official Tasnim agency said Tehran's position would be 'officially announced later.' Brent crude spiked 3.14% to $98.48 before retreating; only 3 ships transited Hormuz in 24 hours.",
+    "source": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-04-21",
+    "title": "US Treasury sanctions 14 entities supporting Iran's missile and drone programs",
+    "direction": "Escalating",
+    "description": "The Treasury Department sanctioned 14 individuals, entities, and aircraft in Iran, Turkey, and the UAE for procuring or transporting weapons components for Iran's UAV and ballistic missile programs and Mahan Air. Targets included Dubai-based Chabok FZCO, accused of procuring US-origin aircraft sensors and components for Mahan Air, and Iranian money exchanger Kamal Sabah Balkhkanlu. Treasury also identified two aircraft as blocked property of Mahan Air, which has transported IRGC operatives, weapons, and funds. Treasury stated the action aims to prevent Iran from 'reconstituting its production capacity' as the US 'continues to deplete Iran's ballistic missile inventories.' The sanctions were announced on the eve of the ceasefire deadline, even as the US publicly sought to restart negotiations — underscoring the administration's 'maximum pressure while negotiating' posture.",
+    "source": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan",
+    "actor": "US"
+  },
+  {
     "date": "2026-04-21",
     "title": "Vance departs for Islamabad; Iran state TV says no delegation has left for talks",
     "direction": "De-escalating",
