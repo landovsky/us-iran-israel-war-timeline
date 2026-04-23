@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-04-23",
+    "title": "Trump says 'no time frame' for ending Iran war, denies midterms influence",
+    "direction": "De-escalating",
+    "description": "President Trump told Fox News on Wednesday there is 'no time frame' and 'no time pressure' on the extended ceasefire or pending peace talks with Iran, a significant shift from his initial prediction that the war would last four to six weeks. Asked whether the November 2026 midterm elections were driving his desire to end the conflict, Trump responded: 'People say I want to get it over because of the midterms, not true.' The statement came one day after he extended the ceasefire indefinitely, and as Iran continued to refuse to send a delegation for a second round of talks. Brent crude held near $98/barrel.",
+    "source": "https://www.freemalaysiatoday.com/category/world/2026/04/23/trump-says-no-time-frame-set-for-ending-iran-conflict",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "Israeli strike kills journalist Amal Khalil in al-Tiri; rescue workers fired on",
+    "direction": "Escalating",
+    "description": "An Israeli airstrike struck a building in the southern Lebanese village of al-Tiri where Al-Akhbar newspaper reporter Amal Khalil and freelance photojournalist Zeinab Faraj had taken shelter while covering the war. The strike hit shortly after a separate strike on a civilian vehicle on the town's main road. Rescue workers reached Faraj, who was seriously wounded, but Israeli forces fired on the rescue team, forcing them to halt attempts to reach Khalil. Her body was recovered nearly six hours later, shortly before midnight. The Committee to Protect Journalists confirmed her death. Khalil had covered the Israel-Hezbollah conflict since October 2023 and is the fourth media worker killed by Israel in Lebanon since the war began in March. At least five people were killed in Israeli strikes across southern Lebanon on the same day.",
+    "source": "https://cpj.org/2026/04/cpj-calls-for-immediate-rescue-of-lebanese-journalist-amal-khalil-trapped-under-rubble-in-southern-lebanon/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "Pentagon fires Navy Secretary Phelan; Hung Cao takes acting role during blockade",
+    "direction": "Neutral",
+    "description": "Navy Secretary John Phelan departed the Trump administration 'effective immediately' on Wednesday, Pentagon spokesman Sean Parnell announced on behalf of Secretary of War Hegseth. No reason was given for the abrupt exit, which came one day after Phelan delivered a keynote at the Sea-Air-Space symposium touting Trump's next-generation battleship initiative. Undersecretary Hung Cao — a Naval Academy graduate, former special operations officer, and 2024 Virginia GOP Senate nominee — assumed the acting role. The departure marks the second top Pentagon civilian ousted during the war, following Hegseth's firing of Army Chief of Staff Gen. Randy George on April 3. Phelan's exit came as the Navy enforces the blockade of Iranian ports with 16+ warships and has interdicted or turned back 31 vessels.",
+    "source": "https://defensescoop.com/2026/04/22/john-phelan-leaving-trump-adminitration-navy-secretary-hung-cao/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "Senate rejects 5th Iran war powers resolution 46-51; weekly votes pledged",
+    "direction": "Neutral",
+    "description": "The Senate for a fifth time rejected a resolution to constrain President Trump's authority to wage war on Iran, voting 46-51 on a discharge motion forced by Sen. Tammy Baldwin (D-WI). The resolution would have required withdrawal of US forces unless Congress authorized further action. Sen. John Fetterman (D-PA) again voted with Republicans against the measure; Sen. Rand Paul (R-KY) again crossed the aisle to support it. Three senators did not vote: Chuck Grassley (R-IA), Dave McCormick (R-PA), and Mark Warner (D-VA). Senate Minority Leader Schumer said: 'Every day we hear new promises from the Trump administration — that victory has been achieved, that peace is at hand — and every day we see the opposite.' Democrats vowed to force weekly votes as long as the war persists. The margin has narrowed from the initial 40-55 on March 4.",
+    "source": "https://www.stripes.com/theaters/middle_east/2026-04-22/senate-fifth-vote-iran-war-21456611.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "Second French UNIFIL peacekeeper dies from Hezbollah ambush wounds in Lebanon",
+    "direction": "Escalating",
+    "description": "Corporal Anicet Girardin of France's 132nd Cynotechnical Infantry Regiment died Wednesday from wounds sustained in a weekend ambush in southern Lebanon's Ghanduriyeh. President Macron announced: 'Corporal Anicet Girardin, brought home yesterday from Lebanon where he was badly wounded by Hezbollah fighters, died this morning of the consequences of his wounds.' Girardin was part of an explosive ordnance disposal team clearing a booby-trapped road to re-establish access to isolated UNIFIL positions when the team came under attack. Staff Sergeant Florian Montorio of the 17th Parachute Engineer Regiment was killed in the same ambush. Hezbollah denied responsibility. Girardin is the third French soldier killed in the war overall, after Montorio and Arnaud Frion, who died from an Iranian drone strike in Iraq's Kurdistan region. Both Macron and UN Secretary General Guterres blamed Hezbollah for the attack.",
+    "source": "https://www.scmp.com/news/world/europe/article/3351049/second-french-peacekeeper-dies-after-ambush-blamed-hezbollah",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "Lufthansa cancels 20,000 flights through October as jet fuel doubles from war",
+    "direction": "Neutral",
+    "description": "Lufthansa Group announced it will remove 20,000 short-haul European flights from its summer schedule through October, saving approximately 40,000 metric tonnes of jet fuel. European jet fuel has reached $188 per barrel, a 106.5% year-over-year increase driven by the Hormuz closure and Gulf refinery damage. The first wave of 120 daily cancellations took effect immediately, targeting unprofitable routes at Frankfurt and Munich hubs. Three routes were eliminated entirely: Bydgoszcz and Rzeszów in Poland, and Stavanger in Norway. Other European carriers followed suit: SAS cut 1,000 flights, KLM cancelled 160, Norse Atlantic axed transatlantic routes, and Aer Lingus reduced 500 flights — all citing the Iran war fuel crisis. The IEA had warned days earlier that Europe has roughly six weeks of jet fuel remaining.",
+    "source": "https://www.euronews.com/travel/2026/04/22/lufthansa-group-cancels-20000-flights-as-jet-fuel-prices-soar",
+    "actor": "Other"
+  },
+  {
     "date": "2026-04-22",
     "title": "IRGC fires on 3 container ships in Hormuz and seizes 2 — hours after ceasefire extension",
     "direction": "Escalating",
