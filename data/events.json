@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-04-23",
+    "title": "Pezeshkian says Iran open to dialogue but US blockade prevents talks",
+    "direction": "De-escalating",
+    "description": "Iranian President Masoud Pezeshkian posted on X that Tehran 'wants to continue peace talks' but that the 'US' breach of commitments, blockade and threats are the main obstacles to genuine negotiations.' He accused Washington of 'endless hypocritical rhetoric and contradiction between claims and actions,' responding directly to Trump's indefinite ceasefire extension while maintaining the naval blockade. Parliament Speaker Ghalibaf separately reiterated that Iran will not reopen the Strait of Hormuz while the US blockade persists, calling it a 'blatant violation' of ceasefire terms. Foreign ministry spokesman Baqaei stressed diplomacy must serve Iranian 'national interests and security.' The statements marked Iran's first coordinated presidential-level response to Trump's open-ended ceasefire extension.",
+    "source": "https://tribune.com.pk/story/2604309/pezeshkian-blames-us-blockade-for-impasse",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "Pentagon tells Congress Hormuz mine-clearing could take 6 months",
+    "direction": "Neutral",
+    "description": "A senior Defense Department official told the House Armed Services Committee in a classified briefing that clearing Iranian mines from the Strait of Hormuz could take at least six months, and that no mine-clearing operation is likely to begin until the war ends. The Pentagon assessed that Iran deployed 20 or more mines in and around the strait. The timeline contradicts Trump's recent Truth Social claim that Iran 'with the help of the United States' had removed or was removing all sea mines. The assessment alarmed both Democrats and Republicans, signaling that oil and gasoline prices may remain elevated long after a peace agreement is reached. The Washington Post first reported the briefing.",
+    "source": "https://www.washingtonpost.com/national-security/2026/04/22/iran-hormuz-mines/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "Politico: White House compiles NATO 'naughty and nice' list over Iran war",
+    "direction": "Neutral",
+    "description": "Politico reported that the Trump administration compiled a classified ranking of NATO member states based on their support for the US war against Iran, prepared ahead of NATO Secretary General Mark Rutte's April 8-12 Washington visit. Three European diplomats and a Pentagon official confirmed the document's existence. Secretary of War Pete Hegseth stated: 'Model allies that step up will receive our special favor. Allies that still fail to do their part for collective defense will face consequences.' Romania and Poland, which opened bases for Operation Epic Fury, are on the 'good' list. Spain, France, and the UK — which refused or delayed assistance — are on the blacklist. The ranking deepens the transatlantic rift, coming weeks after NATO formally rejected Trump's call for military support.",
+    "source": "https://nato.news-pravda.com/nato/2026/04/22/101047.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "Pentagon removes 15 wounded troops from Iran war casualty count",
+    "direction": "Neutral",
+    "description": "The Pentagon's official casualty tally dropped from 428 to 413 wounded-in-action on Tuesday without public explanation, The Intercept reported. The count had risen steadily from 385 on the day the ceasefire took effect (April 8) to 428 on Monday. A US government official called the unexplained removal 'the definition of a cover-up.' Two Pentagon spokespersons said they were unable to field questions, claiming only the 'duty officer' could respond but that person was unavailable. The Intercept had previously documented broader patterns of casualty undercounting, including the omission of 200+ sailors injured in the USS Gerald R. Ford fire and the death of Maj. Sorffly Davius at Camp Buehring, Kuwait. Official US war dead remain listed at 13.",
+    "source": "https://theintercept.com/2026/04/22/iran-war-military-casualties-wounded/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "USS George H.W. Bush carrier group 3-5 days from Middle East; US to field 3 carriers",
+    "direction": "Escalating",
+    "description": "The USS George H.W. Bush carrier strike group, which departed Norfolk on March 31 with Carrier Air Wing 7 and 5,000+ sailors, is expected to arrive in the Middle East within 3-5 days after transiting around the Horn of Africa, Ynet reported. Its arrival will give the US three carrier strike groups in the region — the most since the war began. Simultaneously, CBS News reported additional deployments including three missile destroyers, an amphibious assault ship carrying 2,500 Marines, and a dock landing ship, pushing total US forces in the region above 50,000 service members, compared to 30,000-40,000 pre-war. The buildup continued despite the indefinite ceasefire extension, with 17 warships and 100+ aircraft enforcing the naval blockade.",
+    "source": "https://news.usni.org/2026/04/20/usni-news-fleet-and-marine-tracker-april-20-2026",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-23",
     "title": "Trump says 'no time frame' for ending Iran war, denies midterms influence",
     "direction": "De-escalating",
     "description": "President Trump told Fox News on Wednesday there is 'no time frame' and 'no time pressure' on the extended ceasefire or pending peace talks with Iran, a significant shift from his initial prediction that the war would last four to six weeks. Asked whether the November 2026 midterm elections were driving his desire to end the conflict, Trump responded: 'People say I want to get it over because of the midterms, not true.' The statement came one day after he extended the ceasefire indefinitely, and as Iran continued to refuse to send a delegation for a second round of talks. Brent crude held near $98/barrel.",
