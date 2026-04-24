@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-04-24",
+    "title": "Pentagon email floats suspending Spain from NATO over Iran war",
+    "direction": "Escalating",
+    "description": "Reuters reported that an internal Pentagon email outlined options to punish NATO allies who refused to support US operations in the Iran war, including suspending Spain from the alliance and reassessing US diplomatic backing for Britain's Falkland Islands claim. The email described access, basing, and overflight rights as 'just the absolute baseline for NATO' and aimed at 'decreasing the sense of entitlement on the part of the Europeans.' Spain banned the use of its Rota and Moron bases and closed its airspace to all US military aircraft involved in the war. Pentagon Press Secretary Kingsley Wilson confirmed the document's thrust: 'The War Department will ensure that the president has credible options to ensure that our allies are no longer a paper tiger and do their part.' NATO's founding charter contains no mechanism to expel or suspend a member state. The email escalated tensions beyond the previously reported White House 'naughty and nice' ranking of allies, moving from classification to proposed punitive action.",
+    "source": "https://www.euronews.com/2026/04/24/pentagon-email-floats-punishing-nato-allies-over-iran-war-suspending-spain",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-24",
+    "title": "Hezbollah fires 4 rockets at Shtula; IDF destroys launchers within minutes",
+    "direction": "Escalating",
+    "description": "Hezbollah fired four rockets at the northern Israeli border community of Shtula at approximately 11:30 PM Thursday, the first rocket attack since the Israel-Lebanon ceasefire took effect April 16. The IDF said all rockets that crossed the border were intercepted. Hezbollah stated the salvo was 'in defence of Lebanon and its people, and in response to the Israeli enemy's violation of the ceasefire and its targeting of the town of Yater in southern Lebanon.' The IDF said it destroyed the launcher used in the attack 'within several minutes,' along with a second launcher 'that was loaded and ready to be launched' at Israeli troops. The exchange underscored the fragility of the truce hours after Trump announced a three-week extension and as Brent crude surged above $106/barrel — the first time above $100 in two weeks.",
+    "source": "https://www.timesofisrael.com/hezbollah-fires-rocket-salvo-at-northern-israel-shortly-before-ceasefire-extended/",
+    "actor": "Lebanon|Israel"
+  },
+  {
+    "date": "2026-04-23",
+    "title": "USS George H.W. Bush enters CENTCOM; US fields 3 carriers in region",
+    "direction": "Escalating",
+    "description": "The aircraft carrier USS George H.W. Bush and its strike group — including destroyers USS Mason, USS Donald Cook, and USS Ross with Destroyer Squadron 22 — entered the US Central Command area of responsibility after sailing around the Horn of Africa. The arrival gave the US three carrier strike groups in the Middle East simultaneously, joining the USS Gerald R. Ford and USS Abraham Lincoln. The Bush carries a high-energy laser weapon tested in partnership with AeroVironment and the US Army in October 2025, the first such system deployed to a combat theater. USNI News confirmed the carrier's entry into CENTCOM. The three-carrier posture represents the largest US naval concentration in the region since the war began, with 50,000+ US service members now deployed despite the indefinite ceasefire.",
+    "source": "https://news.usni.org/2026/04/23/carrier-uss-george-h-w-bush-now-in-u-s-central-command-after-traveling-around-africa",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-23",
+    "title": "UK-France host 30+ nation Hormuz military planning conference at Northwood",
+    "direction": "Neutral",
+    "description": "Military planners from over 30 nations concluded a two-day conference at the UK's Permanent Joint Headquarters at Northwood, north London, advancing detailed planning for a multinational mission to reopen the Strait of Hormuz. UK Defence Secretary John Healey said: 'The task, today and tomorrow, is to translate the diplomatic consensus into a joint plan to safeguard freedom of navigation.' The conference discussed command and control structures, military capabilities, and force deployment, aiming to establish 'an independent and strictly defensive multinational mission to protect merchant vessels, reassure commercial shipping operators and conduct mine clearance operations.' Plans will activate 'as soon as conditions permit, following a sustainable ceasefire agreement.' The conference built on the 51-nation Paris summit where Macron and Starmer called for 'unconditional, unrestricted, and immediate re-opening' of the strait.",
+    "source": "https://www.gov.uk/government/news/uk-and-france-to-lead-multinational-strait-of-hormuz-military-planning-conference",
+    "actor": "UK|France"
+  },
+  {
+    "date": "2026-04-23",
+    "title": "US Navy seizes supertanker M/T Majestic X carrying Iranian oil in Indian Ocean",
+    "direction": "Escalating",
+    "description": "US military forces boarded and seized the Guyana-flagged supertanker M/T Majestic X (formerly Phonix) in the Indian Ocean between Sri Lanka and Indonesia. The vessel, a Very Large Crude Carrier capable of transporting 2 million barrels of oil, was bound for Zhoushan, China. The US Treasury Department had sanctioned the ship in 2024 for smuggling Iranian crude. The Pentagon stated: 'We will continue global maritime enforcement to disrupt illicit networks and interdict vessels providing material support to Iran, wherever they operate.' The seizure — occurring in the INDOPACOM area of responsibility, far from the Middle East theater — demonstrated the global reach of US enforcement operations and came one day after the IRGC seized two container ships in the Strait of Hormuz.",
+    "source": "https://abcnews.com/Business/wireStory/us-military-seizes-oil-tanker-iran-132307687",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-24",
     "title": "China, Russia, Iran hold joint IAEA meeting on nuclear program",
     "direction": "Neutral",
     "description": "Chinese, Russian, and Iranian officials met jointly with IAEA Director General Rafael Grossi on April 24 to discuss Iran's nuclear program, Chinese state media reported. The trilateral meeting — the first of its kind during the war — came two days before a planned third round of US-Iran negotiations scheduled for April 26 in Muscat, Oman. The coordinated diplomatic front underscored Beijing and Moscow's effort to position themselves as counterweights to Washington's demands for permanent Iranian nuclear disarmament. Russia and China have consistently opposed the reimposition of UN 'snapback' sanctions on Iran, challenging their legality at the Security Council. The meeting followed Lavrov's earlier visit to Beijing where he and Xi reaffirmed strategic cooperation, and preceded Pakistan's continued shuttle diplomacy to revive stalled US-Iran talks.",
