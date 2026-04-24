@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-04-24",
+    "title": "China, Russia, Iran hold joint IAEA meeting on nuclear program",
+    "direction": "Neutral",
+    "description": "Chinese, Russian, and Iranian officials met jointly with IAEA Director General Rafael Grossi on April 24 to discuss Iran's nuclear program, Chinese state media reported. The trilateral meeting — the first of its kind during the war — came two days before a planned third round of US-Iran negotiations scheduled for April 26 in Muscat, Oman. The coordinated diplomatic front underscored Beijing and Moscow's effort to position themselves as counterweights to Washington's demands for permanent Iranian nuclear disarmament. Russia and China have consistently opposed the reimposition of UN 'snapback' sanctions on Iran, challenging their legality at the Security Council. The meeting followed Lavrov's earlier visit to Beijing where he and Xi reaffirmed strategic cooperation, and preceded Pakistan's continued shuttle diplomacy to revive stalled US-Iran talks.",
+    "source": "https://www.fdd.org/analysis/2025/04/25/our-friends-in-china-russia-iran-and-china-jointly-meet-with-iaea-ahead-of-negotiations-with-united-states/",
+    "actor": "Russia|Iran"
+  },
+  {
+    "date": "2026-04-23",
+    "title": "Trump orders Navy to 'shoot and kill' boats laying mines in Hormuz",
+    "direction": "Escalating",
+    "description": "President Trump posted on Truth Social: 'I have ordered the United States Navy to shoot and kill any boat, small boats though they may be...that is putting mines in the waters of the Strait of Hormuz. There is to be no hesitation.' He simultaneously ordered mine-sweeping operations to continue 'at a tripled-up level.' The directive came as only 3 tankers crossed the strait on Wednesday versus a pre-war daily average of 129, and as the Pentagon assessed Iran had deployed 20+ mines in the waterway. Trump added: 'No ship can enter or leave without the approval of the United States Navy. It is Sealed up Tight, until such time as Iran is able to make a DEAL.' The order risked jeopardizing the fragile ceasefire, with the US Navy having already turned back 33 vessels since the blockade began April 13.",
+    "source": "https://www.aljazeera.com/news/2026/4/23/us-to-shoot-and-kill-iranian-boats-laying-mines-in-hormuz-trump-says",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-23",
+    "title": "Israel-Lebanon ceasefire extended 3 weeks after White House talks",
+    "direction": "De-escalating",
+    "description": "President Trump announced a three-week extension of the Israel-Lebanon ceasefire following a second round of talks at the White House — the first direct Israel-Lebanon negotiations since 1993. Trump, VP Vance, Secretary of State Rubio, Ambassador to Israel Huckabee, and Ambassador to Lebanon Issa met with Israeli and Lebanese representatives in the Oval Office. Trump posted: 'The Ceasefire between Israel and Lebanon will be extended by THREE WEEKS.' He said he looks forward to hosting PM Netanyahu and President Aoun at the White House during the extended period. Lebanese officials cautioned that a trilateral summit is unlikely while Israel occupies 6% of Lebanon's territory and continues strikes despite the truce. The original 10-day ceasefire had begun April 16. Rubio credited Trump's involvement for making the extension possible.",
+    "source": "https://www.washingtonpost.com/national-security/2026/04/23/us-israel-lebanon-ceasefire-talks/",
+    "actor": "US|Israel|Lebanon"
+  },
+  {
+    "date": "2026-04-23",
+    "title": "Katz: Israel awaiting US 'green light' to return Iran to 'Stone Age'",
+    "direction": "Escalating",
+    "description": "Israeli Defense Minister Israel Katz declared that Israel is 'prepared to renew the war against Iran' and awaiting US authorization. 'The IDF is ready both defensively and offensively, and the targets have been marked,' Katz said. He specified two objectives: 'first and foremost to complete the elimination of the Khamenei dynasty' and to 'return Iran to the Dark Age and the Stone Age by destroying key energy and electricity facilities and dismantling its national economic infrastructure.' The remarks came one day after Trump extended the Iran ceasefire indefinitely, and as planned US-Iran talks in Pakistan remained in limbo after Tehran called its decision not to participate 'definitive.' Mojtaba Khamenei, who succeeded his father as supreme leader after the Feb 28 strike, has not appeared publicly.",
+    "source": "https://www.freemalaysiatoday.com/category/world/2026/04/24/israel-awaiting-us-green-light-to-return-iran-to-stone-age-says-defence-minister",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-23",
+    "title": "Iran collects first toll revenue from ships transiting Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "Iran announced it had collected its first revenue from tolls imposed on vessels transiting the Strait of Hormuz. Parliament Deputy Speaker Hamidreza Haji Babaei told Tasnim News Agency: 'First revenues from transit fees in the Strait of Hormuz have been deposited into the Central Bank account.' Charges vary by vessel type, cargo volume, and assessed risk level; analysts project up to $20 million in daily revenue from oil tankers alone. Iran's central bank denied earlier reports that payments were being accepted in cryptocurrency and Chinese yuan, insisting only cash currency was used. The toll system formalizes Iran's wartime control of the strait, transforming it from a military chokepoint into a revenue-generating mechanism managed by the IRGC — a development first signaled when Iran's parliament began drafting a Hormuz toll law in late March.",
+    "source": "https://www.middleeastmonitor.com/20260423-iran-says-it-collected-1st-revenue-from-tolls-imposed-on-ships-transiting-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-23",
+    "title": "IEA chief: 'biggest energy security threat in history' with 13M barrels/day lost",
+    "direction": "Neutral",
+    "description": "IEA Executive Director Fatih Birol warned on Wednesday that the world faces 'the biggest energy security threat in history,' with 13 million barrels per day of oil removed from global markets — far exceeding the 5 million bpd lost in each of the 1970s oil crises. Birol noted that 100 billion cubic meters of natural gas have also been lost, surpassing the 75 billion cubic meters disrupted by the Ukraine war. Only 3 tankers crossed the Strait of Hormuz on Wednesday versus a pre-war daily average of 129. Brent crude traded above $103/barrel Thursday morning after briefly dipping below $100 the previous week. The IEA had already released 400 million barrels of emergency reserves in early March. Birol said reopening the strait is 'the cure,' as mine-clearing alone could take six months even after hostilities end.",
+    "source": "https://fortune.com/2026/04/23/iea-fatih-birol-energy-crisis-iran-war-strait-hormuz-oil-barrels/",
+    "actor": "Other"
+  },
+  {
     "date": "2026-04-23",
     "title": "Pezeshkian says Iran open to dialogue but US blockade prevents talks",
     "direction": "De-escalating",
