@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-25",
+    "title": "Witkoff and Kushner fly to Islamabad as Araghchi arrives for Iran talks",
+    "direction": "De-escalating",
+    "description": "White House press secretary Karoline Leavitt announced that US special envoy Steve Witkoff and senior adviser Jared Kushner would travel to Islamabad on Saturday morning for Pakistan-mediated talks with Iran — the third round of US-Iran negotiations since the ceasefire. Iranian Foreign Minister Abbas Araghchi arrived in Islamabad Friday, but Iran's Foreign Ministry spokesperson Esmaeil Baghaei stated: 'No meeting is planned to take place between Iran and the U.S.' VP Vance, who led the first Islamabad delegation, will not attend; the White House said he is 'on standby.' Araghchi will present Iran's 'considerations regarding ending the imposed war,' according to Iranian state media. Trump told Reuters that Iran is 'making an offer' and talks are 'set to resume.' The contradictory signals — Washington announcing direct talks, Tehran denying them — reprised the pattern from every prior negotiating round.",
+    "source": "https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-04-24",
+    "title": "Netanyahu reveals he hid prostate cancer diagnosis during Iran war",
+    "direction": "Neutral",
+    "description": "Israeli Prime Minister Benjamin Netanyahu disclosed that he was diagnosed with early-stage prostate cancer and underwent radiation therapy approximately two months earlier — concealing his condition throughout the most intense phase of the Iran war. 'I requested to delay its publication by two months so that it would not be released at the height of the war,' Netanyahu said, citing concern it would generate 'false propaganda against Israel.' Dr. Aharon Popovtser, director of Hadassah Hospital's oncology unit, confirmed the cancer was detected during routine monitoring after December 2024 prostate surgery and stated: 'We can say based on the findings of these tests that the disease has disappeared.' Netanyahu, 76, had faced AI-generated death hoaxes in March, recording a Jerusalem café video to refute them. The revelation raised questions about wartime decision-making by a leader undergoing cancer treatment while directing operations against Iran.",
+    "source": "https://www.aljazeera.com/news/2026/4/24/israels-benjamin-netanyahu-says-he-received-treatment-for-prostate-cancer",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-24",
+    "title": "Treasury sanctions China's Hengli refinery and ~40 shippers over Iranian oil",
+    "direction": "Escalating",
+    "description": "The US Treasury Department sanctioned Hengli Petrochemical (Dalian) Refinery Co., Ltd. — China's second-largest independent refinery with 400,000 barrels/day capacity — for processing Iranian crude since at least 2023. OFAC simultaneously designated approximately 40 shipping companies and 19 'shadow fleet' vessels responsible for transporting billions of dollars' worth of Iranian crude oil, LPG, and petrochemicals. The sanctions package, branded 'Economic Fury,' targeted the global network enabling Iran's oil exports despite the blockade. The action came weeks before a planned Trump-Xi meeting, deliberately escalating US-China economic friction over Iran. Hengli had generated 'hundreds of millions of dollars in revenue for the Iranian military,' according to Treasury. The sanctions represented the largest single-day Iran-related enforcement action of the war.",
+    "source": "https://www.usnews.com/news/politics/articles/2026-04-24/us-imposes-sanctions-on-a-china-based-oil-refinery-and-40-shippers-over-iranian-oil",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-24",
+    "title": "Trump extends Jones Act waiver 90 days to ease wartime fuel costs",
+    "direction": "De-escalating",
+    "description": "The Trump administration extended its Jones Act waiver by 90 days through mid-August, allowing foreign-flagged tankers to transport oil between US ports — a measure normally prohibited to protect domestic shipping. The original 60-day waiver, issued March 18 as the Hormuz closure removed one-fifth of global oil supply, enabled foreign tankers to move approximately 9 million barrels of oil, boosting effective domestic shipping capacity by about 70%. White House spokeswoman Taylor Rogers said: 'This waiver extension provides both certainty and stability for the US and global economies.' The extension reflected political urgency: a Reuters/Ipsos poll released the same day found 77% of registered voters blame Trump for rising gas prices, including 55% of Republicans. US gas averaged $4.06/gallon, up from $2.98 before the war. Analysts questioned whether the waiver meaningfully reduces consumer prices, with the Center for American Progress estimating only a 3-cent reduction on the East Coast.",
+    "source": "https://www.aljazeera.com/economy/2026/4/24/trump-government-extends-jones-act-waiver-by-90-days-to-dampen-oil-prices",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-24",
+    "title": "Baker Hughes: Strait of Hormuz may not fully reopen until H2 2026",
+    "direction": "Neutral",
+    "description": "Baker Hughes CFO Ahmed Moghal told investors that the oilfield services giant is planning on the assumption that the US-Iran conflict continues through end of June and the Strait of Hormuz may not be fully operational until the second half of 2026. The assessment aligned with a Dallas Fed Energy Survey in which nearly 80% of oil and gas executives said the strait will not reopen until August or later. The closure has removed 10% of global oil volumes and 20% of global LNG supplies. Baker Hughes and rival SLB both reported rising oil exploration spending as producers outside the Gulf rush to fill the supply gap, with Baker Hughes noting 'persistent risk premiums for oil and LNG prices.' Brent crude traded above $105/barrel. The industry consensus contradicted optimistic White House messaging about an imminent diplomatic resolution.",
+    "source": "https://www.cnbc.com/2026/04/24/strait-hormuz-baker-hughes-iran-war-oil-lng.html",
+    "actor": "Other"
+  },
+  {
     "date": "2026-04-24",
     "title": "Pentagon email floats suspending Spain from NATO over Iran war",
     "direction": "Escalating",
