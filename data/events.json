@@ -1,6 +1,38 @@
 [
   {
     "date": "2026-04-25",
+    "title": "Iran reopens Tehran airport; first international flights in 56 days",
+    "direction": "De-escalating",
+    "description": "Iran's Imam Khomeini International Airport resumed international flights on April 25, ending a 56-day shutdown caused by the war. State-owned Iran Air and Mahan Air operated the first departures to Istanbul, Muscat, and Medina; Flightradar24 confirmed at least 3 flights to Istanbul departed Saturday morning. The Civil Aviation Organisation of Iran (CAO) confirmed that technical checks were complete and that 'no-fly zones' over western and central Iran had been lifted for commercial traffic. The reopening is part of a phased plan to gradually restore full passenger services while monitoring the security situation. The closure had stranded thousands of Iranian citizens abroad and severely disrupted the flow of essential medical supplies.",
+    "source": "https://www.indiatvnews.com/news/world/iran-resumes-flights-from-tehran-international-airport-first-time-since-war-with-us-israel-2026-04-25-1038865",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-25",
+    "title": "IDF kills 8 in Lebanon despite extended ceasefire; death toll reaches 2,491",
+    "direction": "Escalating",
+    "description": "Israeli forces killed 6 Hezbollah fighters in a firefight in Bint Jbeil, southern Lebanon, after an IDF Oketz Unit canine revealed the location of a Hezbollah cell — all 6 were killed within 90 minutes of identification. The IDF canine was killed in the operation. Separately, an Israeli airstrike killed 2 people in the town of Touline, and artillery fire wounded several in Yater. Hezbollah lawmaker Ali Fayyad stated: 'The ceasefire is meaningless in light of Israel's insistence on hostile acts, including assassinations, shelling, and gunfire.' The Lebanese Health Ministry updated the war's toll to 2,491 killed and 7,719 wounded since March 2. PM Netanyahu accused Hezbollah of 'trying to sabotage' the ceasefire. UN Secretary-General Guterres called for full compliance with cessation of hostilities.",
+    "source": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-04-24",
+    "title": "Treasury freezes $344M in cryptocurrency linked to Iran's Central Bank",
+    "direction": "Escalating",
+    "description": "As part of the 'Economic Fury' sanctions package, OFAC sanctioned multiple cryptocurrency wallets attributed to the Central Bank of Iran, with links to the IRGC-Qods Force and Hezbollah. Tether coordinated with OFAC to freeze $344.2 million in USDT across two wallet addresses. Treasury Secretary Scott Bessent announced the action, which targeted Iran's digital-asset sanctions evasion infrastructure. Chainalysis estimates Iran's crypto ecosystem reached approximately $7.8 billion in 2025, with IRGC-linked activity representing roughly half by Q4. The crypto freeze complemented the same day's Hengli refinery and shadow fleet sanctions, extending 'Economic Fury' from physical oil infrastructure into digital finance.",
+    "source": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-24",
+    "title": "11-year-old Nesya Karadi dies from Passover eve cluster munition wounds",
+    "direction": "Neutral",
+    "description": "Nesya Karadi, 11, died at Sheba Medical Center near Tel Aviv from wounds sustained in an Iranian cluster munition strike on Bnei Brak on Passover eve (April 1). The girl was asleep when the siren sounded and was critically injured by a submunition before she could reach shelter. Her parents, Rabbi Elazar and Hila Karadi, had named her Nesya ('miracle of God') after her birth, which they described as miraculous. She is the 21st person killed by Iranian missile strikes in Israel since February 28, bringing the war's total Israeli death toll to 28. The death came as US envoys prepared for a third round of talks with Iran in Islamabad.",
+    "source": "https://www.timesofisrael.com/11-year-old-girl-from-bnei-brak-dies-of-wounds-from-iranian-strike-on-passover-eve/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-25",
     "title": "Witkoff and Kushner fly to Islamabad as Araghchi arrives for Iran talks",
     "direction": "De-escalating",
     "description": "White House press secretary Karoline Leavitt announced that US special envoy Steve Witkoff and senior adviser Jared Kushner would travel to Islamabad on Saturday morning for Pakistan-mediated talks with Iran — the third round of US-Iran negotiations since the ceasefire. Iranian Foreign Minister Abbas Araghchi arrived in Islamabad Friday, but Iran's Foreign Ministry spokesperson Esmaeil Baghaei stated: 'No meeting is planned to take place between Iran and the U.S.' VP Vance, who led the first Islamabad delegation, will not attend; the White House said he is 'on standby.' Araghchi will present Iran's 'considerations regarding ending the imposed war,' according to Iranian state media. Trump told Reuters that Iran is 'making an offer' and talks are 'set to resume.' The contradictory signals — Washington announcing direct talks, Tehran denying them — reprised the pattern from every prior negotiating round.",
