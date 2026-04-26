@@ -1,6 +1,38 @@
 [
   {
     "date": "2026-04-25",
+    "title": "Trump cancels Witkoff/Kushner Pakistan trip; Araghchi leaves with no deal",
+    "direction": "Escalating",
+    "description": "President Trump cancelled envoys Steve Witkoff and Jared Kushner's planned trip to Islamabad for a third round of US-Iran talks. Trump told Fox News: 'I said, nope, you're not making an 18-hour flight to go there. We have all the cards.' The cancellation came after Iranian FM Abbas Araghchi departed Pakistan without a breakthrough, having presented what he called 'a workable framework to permanently end the war' to Pakistani PM Shehbaz Sharif, Army Chief Field Marshal Asim Munir, and FM Ishaq Dar. Araghchi posted on X: 'Have yet to see if the U.S. is truly serious about diplomacy.' He flew to Muscat, Oman, with plans to visit Russia before returning to Islamabad. Trump said he received a new proposal from Tehran offering 'a lot but not enough,' and blamed 'tremendous infighting and confusion' within Iran's leadership. The collapse marked the third failed attempt at direct talks since the April 8 ceasefire.",
+    "source": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-04-25",
+    "title": "Hezbollah fires projectiles at northern Israel; Netanyahu orders strikes 'with force'",
+    "direction": "Escalating",
+    "description": "Hezbollah launched two projectiles at northern Israel, triggering air raid sirens in Manara, Margaliot, and Misgav Am — the second ceasefire violation since the truce began April 16. The IDF intercepted one projectile; the other landed in an open area with no casualties. Hezbollah also launched explosive drones toward Israeli troops south of the Forward Defense Line, detonating near soldiers without causing injuries. PM Netanyahu ordered the IDF to strike Hezbollah targets in southern Lebanon 'with force,' and the military struck multiple Hezbollah structures, killed three terrorists on a motorcycle, and hit two armed operatives near the Litani River. Reserve paratroopers also uncovered anti-tank missiles in a weapons storage facility and dismantled infrastructure in the Bint Jbeil area. Israel separately requested US pressure on Lebanon to act against Hezbollah outside the IDF's Forward Defense Line, warning the ceasefire could collapse without American intervention.",
+    "source": "https://www.jpost.com/israel-news/article-894104",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-04-25",
+    "title": "USS Pinckney intercepts shadow fleet tanker MV Sevan; 37th vessel redirected",
+    "direction": "Escalating",
+    "description": "The guided-missile destroyer USS Pinckney (DDG-91) intercepted the Iranian-linked tanker M/V Sevan in the Arabian Sea after a helicopter from the Pinckney tracked and identified the vessel. The Sevan, one of 19 vessels sanctioned by Treasury for transporting billions of dollars in Iranian oil, gas, propane, and butane to foreign markets, was forced to turn back toward an Iranian port under escort. CENTCOM stated: 'The merchant vessel is currently complying with U.S. military direction to turn back to Iran under escort.' The interception brought the total number of vessels redirected since the April 13 blockade began to 37. Secretary of War Pete Hegseth said the blockade now extends 'from the Gulf of Oman to other waters,' signaling an expanding enforcement perimeter.",
+    "source": "https://timesofsandiego.com/military/2026/04/25/san-diego-based-destroyer-intercepts-iranian-shadow-fleet-vessel/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-25",
+    "title": "Iran executes Erfan Kiani over alleged Mossad links and protest charges",
+    "direction": "Escalating",
+    "description": "Iran hanged Erfan Kiani in the early hours of Saturday after the Supreme Court upheld his death sentence. The judiciary-affiliated Mizan news agency said Kiani was convicted of acting as a 'hired thug of Mossad,' destruction and arson of public and private property, wielding a machete, and 'spreading fear and terror across Isfahan' during nationwide protests in January. Tasnim News Agency described him as one of the 'main operatives' in a Mossad-assigned mission during the Isfahan unrest. No evidence of the alleged Mossad link was publicly presented. Human rights group Hengaw reported Kiani was the eighth protest detainee executed in Iranian prisons since the war began on February 28, part of a pattern in which Tehran has accelerated political executions under wartime emergency — averaging one execution every 48 hours, more than half the total political executions recorded in all of 2025.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-894102",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-25",
     "title": "Iran reopens Tehran airport; first international flights in 56 days",
     "direction": "De-escalating",
     "description": "Iran's Imam Khomeini International Airport resumed international flights on April 25, ending a 56-day shutdown caused by the war. State-owned Iran Air and Mahan Air operated the first departures to Istanbul, Muscat, and Medina; Flightradar24 confirmed at least 3 flights to Istanbul departed Saturday morning. The Civil Aviation Organisation of Iran (CAO) confirmed that technical checks were complete and that 'no-fly zones' over western and central Iran had been lifted for commercial traffic. The reopening is part of a phased plan to gradually restore full passenger services while monitoring the security situation. The closure had stranded thousands of Iranian citizens abroad and severely disrupted the flow of essential medical supplies.",
