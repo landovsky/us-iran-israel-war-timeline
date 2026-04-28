@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-04-28",
+    "title": "Hezbollah drone severely wounds IDF soldier in southern Lebanon",
+    "direction": "Escalating",
+    "description": "A Hezbollah explosive drone struck IDF troops in southern Lebanon, seriously wounding one soldier and lightly wounding another — the fourth and fifth Israeli military casualties since the Lebanon ceasefire began April 17. The IDF said troops attempted to intercept a 'suspicious aerial target' in a separate incident the same morning. Secretary of State Rubio stated Israel had 'a right to defend itself from an attack from Hezbollah elements.' The attack came two days after Sgt. Idan Fooks was killed by a similar drone strike, underscoring Hezbollah's sustained use of first-person-view drones to target Israeli forces despite the truce.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-04-28/ty-article/.premium/israeli-soldier-seriously-wounded-in-southern-lebanon-drone-attack-idf-says/0000019d-d29f-d623-ad9f-fedfaa920000",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-04-28",
+    "title": "Kpler: Iran has 12-22 days of oil storage left as blockade chokes exports",
+    "direction": "Escalating",
+    "description": "Research firm Kpler reported that Iran's unused onshore oil storage capacity will be exhausted within 12 to 22 days, raising the prospect of forced production cuts of up to 1.5 million barrels per day by mid-May, Bloomberg reported. Iranian crude exports have collapsed from 1.85 million bpd in March to roughly 567,000 bpd — a 70% drop — since the US naval blockade took effect in early April. Kpler said no tankers have successfully evaded the blockade around the Strait of Hormuz. Goldman Sachs estimated Iran has already curtailed 2.5 million bpd of daily crude production. Total usable onshore storage stands at approximately 39 million barrels, with Kharg Island holding 20-30 million barrels, but operational constraints reduce effective working volumes. The storage crisis represents the blockade's most concrete economic pressure on Tehran to date.",
+    "source": "https://www.bloomberg.com/news/articles/2026-04-27/iran-s-unused-oil-storage-shrinks-to-22-days-or-less-kpler-says",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-27",
+    "title": "Guterres demands Hormuz reopening at UN Security Council maritime debate",
+    "direction": "De-escalating",
+    "description": "UN Secretary-General Antonio Guterres addressed a high-level Security Council debate on maritime security, delivering his strongest statement yet on the Hormuz crisis: 'I appeal to the parties: Open the Strait. Let ships pass. No tolls. No discrimination. Let trade resume. Let the global economy breathe.' Guterres warned that over 20,000 seafarers remain stranded at sea and more than 2,000 commercial vessels are trapped in dangerous conditions, calling the disruption the most severe to supply chains since the COVID-19 pandemic and Ukraine war. He cited the strait's role carrying one-fifth of global oil and nearly one-third of internationally traded fertilizers, warning the crisis is 'cascading into empty fuel tanks, empty shelves and empty plates.' The IMO Secretary-General declared there is 'no safe transit anywhere in the Strait of Hormuz.' The debate was the Security Council's first formal session focused on the maritime dimension of the conflict.",
+    "source": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260427-unsc01.htm",
+    "actor": "Other"
+  },
+  {
     "date": "2026-04-27",
     "title": "Rubio rejects Iran's Hormuz proposal as 'unacceptable'",
     "direction": "Escalating",
