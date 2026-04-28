@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-04-27",
+    "title": "Rubio rejects Iran's Hormuz proposal as 'unacceptable'",
+    "direction": "Escalating",
+    "description": "Secretary of State Marco Rubio rejected Iran's proposal to reopen the Strait of Hormuz, saying the US cannot accept any deal where Tehran retains control over the waterway. Rubio told Fox News: 'If what they mean by opening the strait is yes, it's open — but you must coordinate with us, get our permission, or we'll blow you up and charge you anyway, then that is not opening.' He acknowledged the proposal was 'better than what we thought they were going to submit' but insisted any final deal must block Iran from obtaining nuclear weapons. White House Press Secretary Karoline Leavitt confirmed Trump had discussed the proposal with his national security team but declined to comment on next steps. The rejection hardened the US negotiating position as Araghchi continued shuttle diplomacy across the region.",
+    "source": "https://www.ms.now/liveblog/iran-war-live-updates-news-today-april-27-2026",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-27",
+    "title": "German Chancellor Merz says Iran is 'humiliating' the United States",
+    "direction": "Neutral",
+    "description": "German Chancellor Friedrich Merz delivered an unusually blunt rebuke of both Iran's negotiating tactics and US strategy, telling students in Marsberg: 'An entire nation is being humiliated by the Iranian leadership, particularly by the Islamic Revolutionary Guard Corps.' Merz warned Washington lacks a clear exit strategy, comparing the conflict to Afghanistan and Iraq: 'The problem with conflicts like this is always you don't just have to get in — you have to get out again.' He described Iran as 'clearly stronger than one thought' and said the war was directly impacting Germany's economy. Merz confirmed Germany remains ready to deploy minesweepers to Hormuz shipping routes contingent on a ceasefire. The remarks underscored deepening divisions between Washington and European NATO allies over the war.",
+    "source": "https://www.aljazeera.com/news/2026/4/27/iran-very-skilful-as-us-humiliated-says-german-chancellor",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-27",
+    "title": "Hezbollah's Qassem rejects Israel talks; Aoun calls war 'treason'",
+    "direction": "Escalating",
+    "description": "Hezbollah Secretary-General Naim Qassem categorically rejected Lebanon's direct negotiations with Israel, calling them a 'grave sin' and demanding the government 'stop direct negotiations with the Israeli enemy.' He declared: 'We will not give up our weapons, and the Israeli enemy will not remain on a single inch of our occupied land.' Qassem also demanded Lebanon annul its March 2 decision criminalizing Hezbollah. President Joseph Aoun fired back: 'What we are doing is not treason. Rather, treason is committed by those who take their country to war to achieve foreign interests.' Aoun said he seeks an armistice agreement modeled on the 1949 accord, asking Hezbollah: 'When you went to war, did you first obtain national consensus?' The exchange marked the sharpest public rift between the Lebanese government and Hezbollah since the war began.",
+    "source": "https://www.freemalaysiatoday.com/category/world/2026/04/27/lebanons-president-hits-back-at-hezbollah-over-israel-talks-criticism",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-04-27",
     "title": "Iran proposes Hormuz reopening deal; nuclear talks deferred",
     "direction": "De-escalating",
     "description": "Iran conveyed a new proposal to the US through Pakistani, Egyptian, Turkish, and Qatari mediators offering to reopen the Strait of Hormuz and extend the ceasefire toward a permanent end to fighting, with nuclear negotiations deferred until after the US lifts its naval blockade, Axios reported. FM Araghchi told mediators over the weekend that there is no consensus within Iran's leadership on how to address US demands. White House spokesperson Olivia Wales responded: 'The United States holds the cards and will only make a deal that puts the American people first, never allowing Iran to have a nuclear weapon.' Trump separately told reporters Iran has 'about three days' before the blockade's full effects take hold. The proposal marked a significant tactical shift from Tehran's earlier insistence on simultaneous nuclear and Hormuz negotiations.",
@@ -27,8 +51,8 @@
     "date": "2026-04-27",
     "title": "Araghchi arrives in Russia to brief Putin on stalled war diplomacy",
     "direction": "Neutral",
-    "description": "Iranian Foreign Minister Abbas Araghchi arrived in Russia on April 27 for talks with President Vladimir Putin, the most senior Iranian diplomatic engagement with Moscow since the war began. Araghchi flew from Oman after stops in Pakistan and meetings with Sultan Haitham bin Tariq al-Said, continuing an intensive regional tour to mobilize support as US-Iran negotiations remain frozen. The visit came as Russia's Vienna envoy Mikhail Ulyanov publicly criticized Washington's approach, saying officials should abandon 'blackmail' and ultimatums. Tehran is aiming to balance regional diplomacy with coordination among key partners ahead of possible direct or indirect negotiations, according to Al Jazeera. The trip signals Iran is seeking Russian backing to strengthen its negotiating position before any resumption of talks.",
-    "source": "https://www.theweek.in/news/middle-east/2026/04/27/what-signal-is-iran-sending-to-the-us-through-araghchis-moscow-trip.html",
+    "description": "Iranian Foreign Minister Abbas Araghchi met President Vladimir Putin at the Boris Yeltsin Presidential Library in St. Petersburg — the most senior Iranian diplomatic engagement with Moscow since the war began. Putin told Araghchi: 'We see how courageously and heroically the Iranian people are fighting for their independence and sovereignty,' pledging 'we will do everything that serves your interests...so that peace can be achieved as soon as possible.' Araghchi flew from Oman after stops in Pakistan and meetings with Sultan Haitham bin Tariq al-Said, continuing an intensive regional tour as US-Iran negotiations remain frozen. Russia's Vienna envoy Mikhail Ulyanov publicly criticized Washington's approach, saying officials should abandon 'blackmail' and ultimatums. The meeting signals Iran is securing Russian backing to strengthen its negotiating position before any resumption of talks.",
+    "source": "https://www.aljazeera.com/news/2026/4/27/iran-foreign-minister-in-russia-for-putin-talks",
     "actor": "Iran|Russia"
   },
   {
