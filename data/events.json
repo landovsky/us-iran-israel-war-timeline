@@ -1,6 +1,38 @@
 [
   {
     "date": "2026-04-29",
+    "title": "Hegseth defends $1.5T defense budget in first war testimony to Congress",
+    "direction": "Neutral",
+    "description": "Defense Secretary Pete Hegseth appeared before the House Armed Services Committee for his first congressional testimony since the Iran war began, defending a proposed $1.5 trillion FY2027 defense budget — the largest in US history. Democrats pressed Hegseth on the war's ballooning costs, the drawdown of critical munitions stockpiles, and the bombing of a school that killed children. Republicans also challenged Hegseth's firing of Army Chief of Staff Gen. Randy George mid-war. Sen. Thom Tillis demanded: 'Tell us why. You know these are important positions. We are in a war posture with Iran.' The hearing marked Congress's first formal oversight of the conflict 60 days after it began.",
+    "source": "https://www.military.com/daily-news/2026/04/29/hegseth-will-be-grilled-congress-first-time-iran-war-began.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-29",
+    "title": "IAEA chief says Iran's enriched uranium likely intact at Isfahan",
+    "direction": "Neutral",
+    "description": "IAEA Director General Rafael Grossi told the Associated Press that the majority of Iran's highly enriched uranium — 440.9 kg enriched to 60% purity, a short technical step from weapons-grade 90% — is likely still stored in tunnels at the Isfahan Nuclear Technology Center. Grossi said roughly 200 kg is believed to be at the site, which has not been inspected since June 2025. Airbus satellite imagery showed a truck carrying 18 blue containers entering a tunnel at Isfahan on June 9, 2025, just before the 12-Day War, and the IAEA believes the material has remained there since. 'We haven't been able to inspect or to reject that the material is there and that the seals — the IAEA seals — remain there,' Grossi said. The disclosure underscored that despite months of US-Israeli strikes on Iran's nuclear infrastructure, Tehran's most sensitive fissile material may be beyond reach in hardened tunnels.",
+    "source": "https://www.clickondetroit.com/news/politics/2026/04/29/irans-highly-enriched-uranium-likely-is-at-the-isfahan-site-the-un-nuclear-chief-tells-the-ap/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-29",
+    "title": "Iran threatens Bab el-Mandeb closure via Houthi allies",
+    "direction": "Escalating",
+    "description": "Alaaeddin Boroujerdi, Deputy Head of Iran's National Security Committee in parliament, warned that Iran could retaliate against the US naval blockade by directing its Houthi allies in Yemen to shut the Bab el-Mandeb strait — the second of the Middle East's two critical maritime chokepoints. Boroujerdi declared Iran 'will never relinquish its control over the Strait of Hormuz' and said the importance of Bab el-Mandeb 'may be no less than that of the Strait of Hormuz,' adding that Iran's 'Yemeni allies are waiting to block it.' Closure of both straits simultaneously would cut off roughly one-quarter of the world's energy supply. The threat marked the most explicit linkage yet between Iran's Hormuz strategy and Houthi capabilities at Bab el-Mandeb.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-strait-of-hormuz-bab-el-mandeb-threat-oil-prices/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-29",
+    "title": "Israeli strikes kill 8 in Lebanon including 3 paramedics; army troops hit",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes across southern Lebanon killed 8 people and wounded at least 30, including the first direct targeting of Lebanese army troops since the April 17 ceasefire. In Majdal Zoun, a 'double-tap' strike killed 5 people including 3 Lebanese Civil Defense paramedics trapped under rubble while conducting a rescue mission, and wounded 2 Lebanese army soldiers accompanying the patrol with civilian bulldozers. In Jebchit, 2 were killed and 13 wounded; in Jwaya, 1 killed and 15 wounded including 5 children and 5 women. Lebanese PM Nawaf Salam called the paramedic killings a 'war crime.' Lebanon's cumulative toll since March 2 reached 2,534 killed and 7,863 wounded.",
+    "source": "https://www.euronews.com/2026/04/29/israeli-strikes-kill-eight-in-southern-lebanon-including-three-rescue-workers",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-04-29",
     "title": "WSJ: Trump orders aides to prepare extended Iran blockade",
     "direction": "Escalating",
     "description": "President Trump directed aides to prepare for a prolonged naval blockade of Iran, the Wall Street Journal reported, citing US officials. In a Situation Room meeting on Monday, Trump concluded that continuing economic pressure through port restrictions carried less risk than resuming bombing or walking away from the conflict. CENTCOM reported vessel congestion at Iran's Chabahar port had quadrupled from 5 ships pre-blockade to over 20. The decision effectively shelved Iran's latest Hormuz proposal and signaled Washington's strategy has shifted from seeking a rapid diplomatic resolution to a long-term economic squeeze.",
