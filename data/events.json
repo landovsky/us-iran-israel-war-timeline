@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-04-29",
+    "title": "WSJ: Trump orders aides to prepare extended Iran blockade",
+    "direction": "Escalating",
+    "description": "President Trump directed aides to prepare for a prolonged naval blockade of Iran, the Wall Street Journal reported, citing US officials. In a Situation Room meeting on Monday, Trump concluded that continuing economic pressure through port restrictions carried less risk than resuming bombing or walking away from the conflict. CENTCOM reported vessel congestion at Iran's Chabahar port had quadrupled from 5 ships pre-blockade to over 20. The decision effectively shelved Iran's latest Hormuz proposal and signaled Washington's strategy has shifted from seeking a rapid diplomatic resolution to a long-term economic squeeze.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-04-28/live-updates-894376",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-28",
+    "title": "UAE quits OPEC effective May 1 amid Iran war energy crisis",
+    "direction": "Neutral",
+    "description": "The United Arab Emirates announced its withdrawal from OPEC effective May 1, the most significant departure from the cartel since Qatar left in 2019. Energy Minister Suhail Mohamed al-Mazrouei said the decision reflects 'the UAE's long-term strategic and economic vision and evolving energy profile.' The UAE has 4.8 million barrels per day of production capacity but has been capped at roughly 3.2 million bpd under OPEC quotas. Rystad Energy warned the withdrawal removes a significant shock absorber from oil markets, forcing Saudi Arabia to bear more responsibility for price stability. The move came as Brent crude topped $111/barrel and the Iran war has shattered OPEC's ability to coordinate production amid the Hormuz crisis.",
+    "source": "https://www.aljazeera.com/news/2026/4/28/uae-leaves-opec-and-opec",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-04-28",
+    "title": "GCC summit in Jeddah rejects Iran's Hormuz actions, calls for missile shield",
+    "direction": "Neutral",
+    "description": "Gulf Cooperation Council leaders held an extraordinary consultative summit in Jeddah, chaired by Saudi Crown Prince Mohammed bin Salman, in their first collective gathering since the war began. The leaders issued a categorical rejection of Iran's Strait of Hormuz closure and any transit fees or restrictions, demanding restoration of pre-crisis shipping conditions. They called for development of a joint ballistic missile early warning system and broader military integration across the six-member bloc. Qatar warned against using the waterway as leverage and cautioned of a potential 'frozen conflict.' The summit marked the GCC's strongest unified response to Iran's maritime actions since the war began.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/04/28/gulf-co-operation-council-holds-summit-in-saudi-arabias-jeddah/",
+    "actor": "Saudi Arabia|UAE|Qatar|Kuwait"
+  },
+  {
+    "date": "2026-04-28",
+    "title": "US sanctions 35 entities in Iran's shadow banking network",
+    "direction": "Escalating",
+    "description": "The Treasury Department sanctioned 35 entities and individuals operating Iran's covert financial network, targeting what it called 'tens of billions of dollars' in sanctions evasion and terrorism financing. OFAC designated 22 entities in Hong Kong, the UAE, and Turkey for facilitating Iranian oil sales benefiting the IRGC and Quds Force. The sanctions targeted 'rahbars' — private companies that execute payments through shell company accounts at foreign banks on behalf of the IRGC and National Iranian Oil Company. Treasury Secretary Bessent warned financial institutions of 'severe consequences' for engaging with Iran's shadow banking infrastructure and specifically threatened sanctions against any firm paying Hormuz transit tolls to the IRGC.",
+    "source": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/united-states-cuts-off-billions-in-illicit-funding-to-iranian-regime/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-28",
+    "title": "IDF destroys largest Hezbollah tunnel network near Qantara",
+    "direction": "Escalating",
+    "description": "The IDF announced it had located and destroyed the largest Hezbollah underground complex found in southern Lebanon — two parallel tunnels near Qantara, 11 km from the Israeli border, spanning 2 km in length and reaching depths of 25 meters. The tunnels were built over a decade with 'direct guidance' from Iran and designed to house thousands of Radwan Force elite fighters, containing weapons caches, sleeping quarters, water tanks, and communications infrastructure. Destruction required hundreds of tons of explosives; the Geological Survey of Israel detected the blasts on its seismic monitoring system. Units from Division 36, the 7th Armored Brigade, Golani Brigade, and Yahalom special engineering unit participated in the week-long mapping and demolition operation.",
+    "source": "https://www.jpost.com/middle-east/article-894497",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-28",
+    "title": "World Bank forecasts 24% energy price surge, largest since 2022",
+    "direction": "Neutral",
+    "description": "The World Bank's Commodity Markets Outlook projected a 24% increase in energy prices for 2026 — the largest surge since Russia's 2022 invasion of Ukraine — driven by the Hormuz closure removing over 10 million barrels per day from global supply. Brent crude is forecast to average $86/barrel for the year, up from $69 in 2025, with a severe scenario pushing the average to $115 if further infrastructure damage occurs. The report projected a 16% rise in overall commodity costs. Brent traded above $111 on the day of the report's release, well above the baseline forecast, suggesting current prices already reflect the severe scenario.",
+    "source": "https://www.euronews.com/business/2026/04/28/iran-war-will-trigger-largest-energy-price-surge-since-2022-world-bank-warns",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-28",
+    "title": "Hezbollah drone kills Israeli defense contractor and his son is wounded",
+    "direction": "Escalating",
+    "description": "A Hezbollah explosive drone struck a bulldozer in southern Lebanon, killing 44-year-old Amer Hujairat, a civilian contractor working for the Defense Ministry's engineering company, and lightly wounding his 19-year-old son who was working alongside him. The son was evacuated to Ziv Hospital in Safed. Hujairat, from Shfaram, was demolishing structures in a southern Lebanese village when the drone detonated. Hezbollah claimed responsibility, saying it targeted an Israeli bulldozer. Hujairat's death — the sixth Israeli fatality since the Lebanon ceasefire began April 17 — marked the first killing of a civilian contractor in the conflict.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-04-28/ty-article/civilian-contractor-working-for-defense-ministry-killed-in-southern-lebanon/0000019d-d5ca-d9f6-a1dd-ddca943a0000",
+    "actor": "Israel|Lebanon"
+  },
+  {
     "date": "2026-04-28",
     "title": "Hezbollah drone severely wounds IDF soldier in southern Lebanon",
     "direction": "Escalating",
