@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-04-29",
+    "title": "Israel asks Trump for 2-3 week deadline on Lebanon talks",
+    "direction": "Escalating",
+    "description": "Israel asked President Trump to limit diplomatic efforts with Lebanon to a 2-3 week window, after which Jerusalem wants US blessing for an expanded military campaign against Hezbollah, Israeli media reported. Israeli officials argued that ongoing Hezbollah drone and rocket attacks on IDF troops — six Israeli fatalities since the April 17 ceasefire — are eroding deterrence while diplomacy stalls. IDF Chief of Staff Lt. Gen. Eyal Zamir declared there 'is no ceasefire' in southern Lebanon. If no breakthrough is reached by mid-May, Israel intends to launch a major escalation in Lebanon, effectively setting a parallel deadline to the broader Iran peace process.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/israel-asks-trump-to-put-2-3-week-deadline-on-lebanon-talks-amid-growing-hezbollah-attacks-report/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-29",
+    "title": "UN: Iran has executed 21 and arrested 4,000+ since war began",
+    "direction": "Escalating",
+    "description": "UN High Commissioner for Human Rights Volker Türk reported that Iran has executed 21 people since the war began on February 28 — 9 linked to the January 2026 protests, 10 for alleged opposition group membership, and 2 on espionage charges. More than 4,000 people have been detained on national security charges since March 9, with the UN documenting enforced disappearances, torture, and mock executions, disproportionately targeting ethnic and religious minorities. 'I am shocked and alarmed. The Iranian authorities continue to severely restrict people's rights,' Türk said. Trump claimed he had persuaded Iran to halt approximately 800 executions; Tehran denied both claims.",
+    "source": "https://www.euronews.com/2026/04/29/iran-executed-21-and-arrested-thousands-since-start-of-war-un-warns",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-29",
+    "title": "Trump and Putin hold 90-minute call on Iran and Ukraine",
+    "direction": "De-escalating",
+    "description": "President Trump and Russian President Putin spoke for over 90 minutes in a call initiated by Moscow, described by Kremlin aide Yuri Ushakov as 'frank and businesslike.' Putin renewed Russia's offer to serve as a third country to handle Iran's 970 pounds of highly enriched uranium that Washington demands Tehran surrender. Trump dismissed the offer, telling Putin: 'I'd much rather have you be involved with ending the war with Ukraine.' Putin proposed a temporary ceasefire in Ukraine during Victory Day celebrations on May 9; Trump 'actively supported this initiative.' Putin warned of 'inevitable and extremely damaging consequences' if the US and Israel resume strikes on Iran. The call marked the most substantive Trump-Putin engagement on the Iran conflict to date.",
+    "source": "https://www.themoscowtimes.com/2026/04/29/putin-trump-discuss-iran-ukraine-in-phone-call-kremlin-aide-says-a92641",
+    "actor": "US|Russia"
+  },
+  {
+    "date": "2026-04-29",
+    "title": "USS Gerald Ford to depart Middle East after record 295-day deployment",
+    "direction": "Neutral",
+    "description": "The USS Gerald R. Ford aircraft carrier will depart the Middle East in coming days and return to Norfolk, Virginia, the Washington Post reported, ending the longest post-Vietnam War carrier deployment at 295 days — surpassing the USS Abraham Lincoln's 294-day COVID-era record. Defense Secretary Hegseth said 'operational requirements demanded additional assets in real time' that led to repeated extensions. The Ford's roughly 4,500 sailors have been deployed since June 2025. Two carriers remain in the region: the USS George H.W. Bush (arrived the previous week) and the USS Abraham Lincoln (deployed since January), enforcing the blockade from the Arabian Sea.",
+    "source": "https://www.wsls.com/news/politics/2026/04/29/uss-ford-aircraft-carrier-will-be-heading-home-after-record-breaking-deployment/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-29",
+    "title": "CENTCOM: Blockade has redirected 42 vessels, trapping $6B in Iranian oil",
+    "direction": "Escalating",
+    "description": "CENTCOM commander Adm. Brad Cooper announced that US forces have redirected 42 commercial vessels attempting to enter or exit Iranian ports since the blockade began on April 13. Cooper reported 41 tankers carrying 69 million barrels of oil are now unable to reach market, representing over $6 billion in revenue Iran cannot access. 'The blockade is highly effective and U.S. forces remain fully committed to total enforcement,' Cooper said. The update came as vessel congestion at Iran's Chabahar port quadrupled from 5 ships pre-blockade to over 20, and Hormuz transit held at approximately 13 crossings per day — roughly 5% of pre-war levels.",
+    "source": "https://www.theepochtimes.com/world/us-blocks-42-vessels-in-iran-blockade-centcom-6019253",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-29",
+    "title": "Iran rial hits record low of 1.81M per dollar amid blockade",
+    "direction": "Escalating",
+    "description": "Iran's national currency plunged to a record low of 1.81 million rials per US dollar on the black market, a 12% decline in a single week, as the US naval blockade choked Tehran's remaining oil export revenue. The rial has lost roughly a third of its value since the war began on February 28. Economists warned the collapse will further fuel inflation in a country where imported goods — food, medicine, electronics, and raw materials — are priced against the dollar. The currency's slide reflected market expectations that the blockade will persist for months, with peace talks stalled and Iran's revised proposal not expected until Friday at the earliest.",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/04/29/iran-rial-hits-record-low-against-dollar-amid-us-blockade",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-29",
+    "title": "Trump threatens US troop reduction in Germany after Merz criticism",
+    "direction": "Escalating",
+    "description": "President Trump threatened to reduce the approximately 34,500 US troops stationed in Germany, posting on social media: 'The United States is studying and reviewing the possible reduction of Troops in Germany, with a determination to be made over the next short period of time.' The threat came after German Chancellor Friedrich Merz said the US was being 'humiliated' by Iran and expressed doubts about the war from 'the very beginning.' Trump fired back: 'The Chancellor of Germany, Friedrich Merz, thinks it's OK for Iran to have a Nuclear Weapon. He doesn't know what he's talking about!' Germany hosts US European Command, US Africa Command, Ramstein Air Base, and Landstuhl Regional Medical Center — critical nodes for US global military operations.",
+    "source": "https://www.washingtontimes.com/news/2026/apr/29/trump-says-hes-weighing-reducing-american-troop-presence-germany-iran/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-29",
     "title": "Hegseth defends $1.5T defense budget in first war testimony to Congress",
     "direction": "Neutral",
     "description": "Defense Secretary Pete Hegseth appeared before the House Armed Services Committee for his first congressional testimony since the Iran war began, defending a proposed $1.5 trillion FY2027 defense budget — the largest in US history. Democrats pressed Hegseth on the war's ballooning costs, the drawdown of critical munitions stockpiles, and the bombing of a school that killed children. Republicans also challenged Hegseth's firing of Army Chief of Staff Gen. Randy George mid-war. Sen. Thom Tillis demanded: 'Tell us why. You know these are important positions. We are in a war posture with Iran.' The hearing marked Congress's first formal oversight of the conflict 60 days after it began.",
