@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-04-30",
+    "title": "Khamenei breaks silence: nuclear and missile capabilities are 'national assets'",
+    "direction": "Escalating",
+    "description": "Supreme Leader Mojtaba Khamenei issued his first public statement since the war began, marking National Persian Gulf Day. In remarks read on state television — Khamenei has communicated only through written statements since being wounded in the February 28 strike that killed his father — he declared Iran's nuclear and missile capabilities 'national assets' that 90 million Iranians 'will protect just as they protect the country's waters, land and airspace.' He vowed to 'secure the Persian Gulf region and eliminate the hostile enemy's misuse of this waterway,' adding: 'Foreigners who come from thousands of kilometers away to act with greed and malice there have no place in it — except at the bottom of its waters.' The statement effectively ruled out trading away nuclear or missile programs in any deal.",
+    "source": "https://www.cp24.com/news/world/2026/04/30/irans-supreme-leader-says-americans-have-no-place-in-the-persian-gulf/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "CENTCOM briefs Trump on 'short and powerful' strike plan to break deadlock",
+    "direction": "Escalating",
+    "description": "Axios reported that CENTCOM commander Adm. Brad Cooper briefed President Trump on Thursday on new military options against Iran, including a plan for 'short and powerful' strikes on infrastructure targets designed to force Tehran back to the negotiating table with more flexibility on the nuclear issue. Additional options included a ground operation to seize part of the Strait of Hormuz to reopen it to commercial shipping, and a special forces mission to secure Iran's stockpile of highly enriched uranium. Trump told Axios he viewed the blockade as 'somewhat more effective than the bombing' and sees it as his primary leverage, but would consider military action if Iran refuses to negotiate. Iran's IRGC Aerospace Force Commander Majid Mousavi warned Iran would respond with 'long and painful strikes.'",
+    "source": "https://www.axios.com/2026/04/30/trump-military-plans-iran-briefing-centcom",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "Hezbollah drone wounds 12 IDF soldiers inside northern Israel",
+    "direction": "Escalating",
+    "description": "A Hezbollah explosive drone struck an armored cargo carrier near the northern Israeli community of Shomera in the Western Galilee, wounding 12 soldiers — the largest single-incident casualty toll from a Hezbollah drone since the war began. Two soldiers were moderately wounded; the rest sustained light injuries. The cargo carrier caught fire and several nearby artillery shells exploded from the blast. The IDF is investigating whether the drone was guided by a fiber-optic cable, which is immune to electronic jamming. The drone also detonated near a school in Shomera, marking the first time an explosive drone reached the Western Galilee. The attack underscored Hezbollah's shift to near-daily precision drone strikes against Israeli forces.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/12-soldiers-wounded-as-hezbollah-drone-hit-armored-cargo-carrier-in-northern-israel-says-idf/",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "Brent crude hits $126 wartime high; US gas reaches $4.30/gallon",
+    "direction": "Escalating",
+    "description": "Brent crude surged to $126 per barrel on Thursday — the highest intraday price since Russia's 2022 invasion of Ukraine and a new wartime high — before pulling back to $114.70 by session close. West Texas Intermediate topped $110. Deutsche Bank analysts attributed the spike to 'a report from Axios, suggesting that an escalation in the conflict was still being considered as an option.' US inventory data showed sharp declines in crude and fuel stockpiles while exports surged to record highs above 6 million barrels per day. The national average gasoline price hit $4.30 per gallon, the highest since July 2022, up 44% since the war began. Global oil prices have risen for eight consecutive trading sessions.",
+    "source": "https://www.cnbc.com/2026/04/30/oil-prices-today-brent-wti-us-iran-war-trump.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "Israeli strikes kill 9 in southern Lebanon including 2 children",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes across three southern Lebanese villages killed 9 people, including 2 children and 5 women, according to Lebanon's health ministry and the National News Agency. The strikes came as Lebanon's President Joseph Aoun urged Israel to fully implement the ceasefire before pursuing direct talks. Combined with the previous day's 8 deaths, Israeli strikes killed at least 17 people across southern Lebanon in 48 hours. Lebanon's cumulative toll since March 2 climbed past 2,543 killed and 7,893 wounded.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "IDF orders evacuation of 8 south Lebanon villages beyond buffer zone",
+    "direction": "Escalating",
+    "description": "The IDF issued evacuation notices for eight southern Lebanese villages located outside its declared buffer zone: Al-Samia, Al-Hania, Al-Qalila, Wadi Jilo, Al-Kanisa, Kafra, Majdal Zoun, and Siddiqin. The orders signaled a potential expansion of Israeli military operations beyond the territory it already occupies, contradicting the April 17 ceasefire framework. The evacuation notices followed Israel's request to Trump for a 2-3 week deadline on Lebanon talks, after which Jerusalem wants US blessing for an expanded campaign against Hezbollah.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-04-30/ty-article-live/israeli-defense-officials-confirm-ongoing-seizure-of-gaza-bound-flotilla-vessels/0000019d-dc8d-d473-a1bf-fded8e920000",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "Ghalibaf mocks US blockade: 'No wells exploded — try 30 days'",
+    "direction": "Neutral",
+    "description": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf taunted the Trump administration over the naval blockade's effectiveness, posting on X that no Iranian oil wells had 'exploded' after three days of blocked exports as US officials had predicted, adding: 'Try 30 and we'll Livestream it.' He called Treasury Secretary Scott Bessent's strategic advice 'junk' and claimed the blockade had only spiked global oil prices to $120 per barrel, with '$140 as the next stop.' Ghalibaf argued the policy was harming American consumers, not Iran. In response, Trump posted on Truth Social: 'Iran can't get their act together. They don't know how to sign a nonnuclear deal. They better get smart soon!' and told Axios Iran must 'cry uncle' before the blockade ends.",
+    "source": "https://gulfnews.com/world/mena/irans-ghalibaf-mocks-trumps-blockade-no-wells-exploded-in-3-days-try-30-and-well-livestream-it-1.500523900",
+    "actor": "Iran|US"
+  },
+  {
     "date": "2026-04-29",
     "title": "Israel asks Trump for 2-3 week deadline on Lebanon talks",
     "direction": "Escalating",
