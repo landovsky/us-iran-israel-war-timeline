@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-01",
+    "title": "Israeli strikes kill 30+ in southern Lebanon; deadliest day since ceasefire",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes killed more than 30 people across southern Lebanon on May 1 — the deadliest single day since the April 17 US-mediated ceasefire — according to Lebanon's National News Agency. The strikes further undermined the ceasefire framework as Israel continued operations beyond its declared buffer zone. Lebanon's cumulative toll since March 2 reached at least 2,586 killed and more than 8,020 wounded, with over 1 million displaced — 20% of the country's population.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-05-01",
+    "title": "War Powers 60-day deadline expires; Trump claims ceasefire pauses clock",
+    "direction": "Neutral",
+    "description": "The 60-day War Powers Resolution deadline expired on May 1, the statutory limit for unauthorized military operations. The Trump administration argued the ceasefire pauses the clock. 'We are in a ceasefire right now, which our understanding means the 60-day clock pauses or stops,' Defense Secretary Hegseth told Congress. Sen. Tim Kaine (D-VA) countered that the statute contains no such provision. House Speaker Mike Johnson claimed the US is 'not at war' with Iran. Multiple Democrats said they would sue Trump in federal court if the war continues without authorization. Trump indicated he 'might need' to restart military operations against Iran.",
+    "source": "https://www.cbsnews.com/news/iran-war-powers-resolution-60-day-deadline-congress-trump/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-01",
+    "title": "Pezeshkian calls US blockade 'intolerable' extension of military operations",
+    "direction": "Escalating",
+    "description": "Iranian President Masoud Pezeshkian denounced the US naval blockade, calling it 'an extension of military operations against a nation paying the price for its resistance and independence' and declaring the situation 'intolerable.' He warned that 'any attempt to impose a blockade and maritime restrictions on the waterway is contrary to international law and a threat to regional nations' interests and global peace.' The statement, issued on Persian Gulf National Day alongside Supreme Leader Khamenei's address, framed the blockade as a ceasefire violation ahead of Iran's expected delivery of a revised three-phase peace proposal to Pakistan.",
+    "source": "https://www.businessupturn.com/world/irans-president-masoud-pezeshkian-slams-blockade-move-says-irans-patience-being-tested",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "Senate rejects War Powers Resolution 49-50; Collins breaks with GOP",
+    "direction": "Neutral",
+    "description": "The Senate rejected a Democratic-led War Powers Resolution to end military operations against Iran by a vote of 49-50, the closest margin yet and the sixth failed attempt since the war began. Sen. Susan Collins (R-ME) became the first Republican to vote for the measure, joining Sen. Rand Paul (R-KY) and declaring: 'Further military action against Iran must have a clear mission, achievable goals and a defined strategy.' Sen. John Fetterman (D-PA) was the sole Democrat to vote against. The one-vote margin — matching the House's 214-213 defeat on April 16 — showed war opposition intensifying across both chambers but still short of constraining the executive.",
+    "source": "https://www.notus.org/senate/susan-collins-iran-war-powers-vote-reversal",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "Israel seizes Gaza-bound flotilla near Crete; 175 activists detained",
+    "direction": "Escalating",
+    "description": "Israeli naval forces seized 22 of 58 vessels in the Global Sumud Flotilla approximately 1,000 km from Gaza near Crete — the farthest-ever interception of an aid flotilla, dwarfing the previous record of 72 nautical miles. Israeli military speedboats used drones, communications jamming, and armed raiding parties, ordering activists to kneel at gunpoint. The 175 detained crew members were transferred to Greek authorities on May 1. Turkey's foreign ministry condemned the seizure as 'an act of piracy.' The flotilla, which departed Italy, was described as the largest humanitarian aid convoy to attempt reaching Gaza during the war.",
+    "source": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-04-30",
     "title": "Khamenei breaks silence: nuclear and missile capabilities are 'national assets'",
     "direction": "Escalating",
@@ -33,9 +73,9 @@
   },
   {
     "date": "2026-04-30",
-    "title": "Israeli strikes kill 9 in southern Lebanon including 2 children",
+    "title": "Israeli strikes kill 28 across southern Lebanon despite ceasefire",
     "direction": "Escalating",
-    "description": "Israeli airstrikes across three southern Lebanese villages killed 9 people, including 2 children and 5 women, according to Lebanon's health ministry and the National News Agency. The strikes came as Lebanon's President Joseph Aoun urged Israel to fully implement the ceasefire before pursuing direct talks. Combined with the previous day's 8 deaths, Israeli strikes killed at least 17 people across southern Lebanon in 48 hours. Lebanon's cumulative toll since March 2 climbed past 2,543 killed and 7,893 wounded.",
+    "description": "Israeli airstrikes killed at least 28 people across southern Lebanon on April 30 — the deadliest day in weeks — striking Jebchit (4 killed including a child), Toul (5 killed), Zebdine (6 killed near a cemetery by drone), Harouf (2 killed), Qana (2 killed), Kfar Rumman (a Lebanese soldier and family members killed), and Qlawiyah (1 killed). Over 70 people were wounded including children. Lebanon's President Joseph Aoun demanded Israel 'cease targeting civilians, paramedics, civil defence, and humanitarian organisations.' Parliament Speaker Nabih Berri called for an international fact-finding committee. Lebanon's cumulative toll since March 2 reached 2,586 killed and 8,020 wounded.",
     "source": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge",
     "actor": "Israel"
   },
