@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-05-01",
+    "title": "Trump threatens to pull US troops from Italy and Spain over Iran war stance",
+    "direction": "Escalating",
+    "description": "President Trump extended his troop-reduction threats from Germany to Italy and Spain, telling reporters: 'Italy has not been of any help to us and Spain has been horrible, absolutely horrible.' When asked if he was considering pulling troops, Trump responded: 'Yeah, probably.' As of December 2025, the US stations 12,662 active-duty troops in Italy and 3,814 in Spain. Spain previously closed its airspace to US military aircraft involved in Iran strikes. The threat — covering three NATO allies in 48 hours — marked the most aggressive US posture toward European basing since NATO's founding.",
+    "source": "https://www.cnn.com/2026/04/30/europe/trump-troops-germany-spat-intl",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-01",
+    "title": "Murkowski to introduce AUMF if White House lacks war plan within one week",
+    "direction": "Neutral",
+    "description": "Sen. Lisa Murkowski (R-AK) announced she will introduce an Authorization for Use of Military Force when the Senate returns May 11 if the White House does not present a 'credible plan' for the war. 'I do not accept that we should engage in open-ended military action without clear direction or accountability,' she said in a floor speech. Murkowski became the third Republican to break with the White House on war powers, following Collins's War Powers vote and Paul's consistent opposition, but took a different approach: rather than trying to halt the war, her AUMF would force the administration to define objectives and a strategy. She distinguished her stance from the six failed Democratic War Powers resolutions, saying they 'attempted to stop this conflict without establishing a path forward.'",
+    "source": "https://alaskapublic.org/news/politics/washington-d-c/2026-04-30/murkowski-asserts-congresss-role-in-war-diverging-from-her-alaska-colleague",
+    "actor": "US"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "Tehran air defenses fire for 20 minutes against unidentified drones",
+    "direction": "Escalating",
+    "description": "Air defense systems activated across western, central, and southeastern Tehran on Thursday night, firing for approximately 20 minutes against what Iranian state media described as 'small aircraft and reconnaissance drones.' Tasnim and Fars news agencies reported the situation returned to 'normal' afterward. No attribution was given for the drones. The incident occurred during the ceasefire, raising questions about whether surveillance overflights are continuing. Iran's air defenses had not been publicly activated since the April 7 ceasefire took effect.",
+    "source": "https://www.arabnews.com/node/2641949/middle-east",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "Hezbollah drone kills IDF Sgt. Liem Ben Hamo, 19, in southern Lebanon",
+    "direction": "Escalating",
+    "description": "Sgt. Liem Ben Hamo, 19, of the Golani Brigade's 13th Battalion from Herzliya, was killed by a Hezbollah explosive drone in the village of Qantara in southern Lebanon at approximately 10:20 AM. Another soldier was moderately wounded. Hezbollah launched two drones at the position; troops intercepted one, but the second struck nearby. Ben Hamo was the 16th IDF soldier killed in Lebanon since Operation Roaring Lion began on February 28. The attack was separate from a second Hezbollah drone strike hours later that wounded 12 soldiers at an artillery position near Shomera in northern Israel.",
+    "source": "https://www.jpost.com/israel-news/defense-news/article-894753",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "UAE bans citizens from traveling to Iran, Lebanon, and Iraq",
+    "direction": "Escalating",
+    "description": "The UAE Ministry of Foreign Affairs issued a formal travel ban prohibiting Emirati citizens from traveling to Iran, Lebanon, and Iraq, citing 'current regional disturbances.' The ministry urged all UAE nationals currently in those countries to 'leave immediately and return home.' The ban reflected the UAE's assessment that all three countries remain active conflict zones despite the ceasefire — Iran under naval blockade, Lebanon under continued Israeli strikes, and Iraq home to US troops and Iranian-backed militias. The UAE joined OPEC's exit the previous day, signaling a broader strategic realignment away from the region's instability.",
+    "source": "https://www.mofa.gov.ae/en/MediaHub/News/2026/4/30/UAE-IRAN",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-05-01",
     "title": "Israeli strikes kill 30+ in southern Lebanon; deadliest day since ceasefire",
     "direction": "Escalating",
     "description": "Israeli airstrikes killed more than 30 people across southern Lebanon on May 1 — the deadliest single day since the April 17 US-mediated ceasefire — according to Lebanon's National News Agency. The strikes further undermined the ceasefire framework as Israel continued operations beyond its declared buffer zone. Lebanon's cumulative toll since March 2 reached at least 2,586 killed and more than 8,020 wounded, with over 1 million displaced — 20% of the country's population.",
