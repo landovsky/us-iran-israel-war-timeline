@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-05-02",
+    "title": "Trump rejects Iran's peace proposal; warns he'll 'blast them away'",
+    "direction": "Escalating",
+    "description": "President Trump declared he is 'not satisfied' with Iran's latest peace proposal, submitted through Pakistani mediators on May 1. 'They're asking for things I can't agree to,' Trump said, without specifying which terms he rejected. He warned he would 'blast them away' if negotiations fail, adding the US may be 'better off' without a deal. Iran's military responded by declaring conflict is 'likely' to restart and that forces are 'fully prepared for any new adventures or foolishness from the Americans.' The rejection left talks stalled since the April 12 Islamabad collapse, with no new round scheduled.",
+    "source": "https://www.aljazeera.com/news/2026/5/1/us-president-trump-not-satisfied-with-irans-latest-peace-proposal",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "State Dept bypasses Congress for $8.6B in arms sales to 4 Middle East allies",
+    "direction": "Escalating",
+    "description": "Secretary of State Rubio invoked an emergency declaration to bypass congressional review for $8.6 billion in military sales: $4.01 billion in Patriot air defense replenishment to Qatar, $2.5 billion for an integrated battle command system to Kuwait, $992.4 million in Advanced Precision Kill Weapon Systems (APKWS) each to Qatar and Israel, and $147.6 million in APKWS to the UAE. Principal contractors include BAE Systems, RTX, Lockheed Martin, and Northrop Grumman. The emergency bypass was the second of the war, following the March 7 $650 million sale.",
+    "source": "https://www.freemalaysiatoday.com/category/world/2026/05/02/us-bypasses-congressional-review-for-military-sales-of-us8-6bil-to-middle-east-allies",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "14 IRGC soldiers killed defusing unexploded ordnance in Zanjan province",
+    "direction": "Neutral",
+    "description": "Fourteen IRGC specialized demolition personnel were killed and two wounded when an unexploded munition detonated during a clearance operation in northwestern Zanjan province. The IRGC said the dead were 'experienced, trained, and specialized personnel' who had previously neutralized over 15,000 items including three GBU-57 Massive Ordnance Penetrators and 9,500 bomblets. Over 1,200 hectares of agricultural land in the province remain contaminated by cluster bombs and aerial mines from US-Israeli airstrikes. The incident was the single deadliest loss of Iranian military personnel since the April 7 ceasefire.",
+    "source": "https://www.presstv.ir/Detail/2026/05/02/767885/IRGC-14-martyred-Zanjan-unexploded-ordnance-blast-caused-US-Israeli-aggression",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "IRGC Navy announces 'new rules' over 2,000 km of Gulf coastline",
+    "direction": "Escalating",
+    "description": "The IRGC Navy announced enforcement of 'new rules' governing nearly 2,000 km of Iran's southern coastline, spanning the Persian Gulf and Strait of Hormuz. The statement said the measures would turn the waters into 'a source of pride and power for the dear people of Iran, and a source of security and prosperity for the region.' The new maritime regime will be aligned with Supreme Leader Khamenei's directives, effectively formalizing IRGC control over Iran's coastal waters during the blockade standoff. The announcement came as Washington warned shipping companies against paying Iran's Hormuz transit tolls, threatening sanctions for non-compliance.",
+    "source": "https://newsable.asianetnews.com/world/irans-irgc-announces-new-rules-for-control-over-arabian-gulf-waters-articleshow-lgtvw2i",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "US sanctions Chinese oil terminal Qingdao Haiye over Iran crude imports",
+    "direction": "Escalating",
+    "description": "The State Department sanctioned Qingdao Haiye Oil Terminal Co., Ltd., a China-based crude oil terminal that received tens of millions of barrels of Iranian crude in 2025, along with its president Xingchun Li, UK-based Thriving Times International, and Hong Kong-based Onboard Ship Management Limited. Beijing rejected the sanctions as 'unlawful unilateral measures.' The action targeted what Treasury described as key intermediaries in Iran's petroleum export network — the regime's 'most critical economic lifeline' — and furthered Trump's NSPM-2 maximum-pressure directive.",
+    "source": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-sanctions-network-facilitating-irans-illicit-oil-trade/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "Israeli strikes kill 12 across southern Lebanon; Berri accuses Israel of ceasefire cover",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes killed at least 12 people across southern Lebanon on Friday, hitting Kfar Dajal (2 killed), Lwaizeh (3 killed), Shoukin (2 killed), and other villages. Parliament Speaker Nabih Berri accused Israel of using the ceasefire as 'cover to intensify attacks.' Lebanon's cumulative death toll since March 2 surpassed 2,600, with over 1 million displaced. Separately, Hezbollah fired rockets and explosive drones at IDF troops in southern Lebanon; projectiles exploded near forces but caused no injuries.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-05-01",
+    "title": "USS Gerald R. Ford departs Middle East after record 10-month deployment",
+    "direction": "De-escalating",
+    "description": "The USS Gerald R. Ford, the Navy's most advanced aircraft carrier, departed the Middle East for its homeport in Norfolk, Virginia, ending a deployment exceeding 10 months — the longest for a US carrier since the Vietnam War. The Ford participated in Operation Epic Fury from its opening day. Its departure reduced the US carrier presence from three strike groups to two, with the USS Abraham Lincoln and USS George H.W. Bush remaining in the Arabian Sea enforcing the naval blockade. The Pentagon said the withdrawal did not represent a change in military capability, calling two carrier groups the 'typical' regional posture.",
+    "source": "https://www.freemalaysiatoday.com/category/world/2026/05/01/uss-gerald-r-ford-aircraft-carrier-leaves-middle-east",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-01",
+    "title": "Iran executes 21-year-old karate champion arrested during protests",
+    "direction": "Escalating",
+    "description": "Iran executed Sassan Azadvar Joonqani, 21, a karate champion from Isfahan province, at dawn at Dastgerd Prison in Isfahan. Arrested on January 8 during nationwide protests, he was charged with moharebeh ('enmity against God') and 'effective cooperation with the enemy' for allegedly attacking security force vehicles. Human rights group Hengaw said he was subjected to severe physical and psychological torture to force a confession. Iran's judiciary chief stated courts should process detainee cases 'outside normal procedures' at faster pace. The UN reported at least 21 executions and over 4,000 arrests since the war began; Amnesty International documented at least 19 executions in recent weeks.",
+    "source": "https://www.euronews.com/2026/05/01/iran-executes-21-year-old-karate-champion-as-un-warns-of-death-penalty-surge",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-05-01",
     "title": "Trump threatens to pull US troops from Italy and Spain over Iran war stance",
     "direction": "Escalating",
