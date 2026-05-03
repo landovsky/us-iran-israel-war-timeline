@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-05-03",
+    "title": "IRGC: Trump must choose 'impossible military operation or bad deal'",
+    "direction": "Escalating",
+    "description": "The IRGC intelligence department declared that 'Trump must choose between an impossible military operation or a bad deal with the Islamic Republic of Iran,' adding that 'the room for US decision-making has narrowed.' The statement cited Iran's one-month deadline for the US to end its naval blockade, and claimed a shift in Russia, China, and European countries' tone toward Washington. The statement came as Trump said on social media he would 'soon be reviewing the plan Iran has just sent' but that Iran has 'not yet paid a big enough price for what they have done to Humanity, and the World, over the last 47 years.' Iran's deputy FM Gharibabadi said 'the ball is in America's court to choose the path of diplomacy or to continue the confrontational approach.'",
+    "source": "https://www.middleeastmonitor.com/20260503-trump-must-choose-impossible-war-or-bad-deal-with-iran-says-irgc",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "Spirit Airlines ceases all operations; 17,000 jobs lost to fuel crisis",
+    "direction": "Neutral",
+    "description": "Spirit Airlines began an immediate wind-down of operations on May 2, canceling 4,119 scheduled flights carrying 809,638 passengers and putting 17,000 employees out of work. The airline's restructuring plan had assumed jet fuel at $2.24/gallon, but prices climbed to $4.51/gallon due to the Iran war's disruption of oil supplies. A $500 million White House bailout collapsed after a final board meeting on May 1 failed to reach agreement. Transportation Secretary Sean Duffy said: 'If no one else wants to buy them, why would we buy them?' No US carrier of Spirit's size — 5% of domestic flights at peak — has liquidated in two decades. The shutdown was expected to raise fares across the entire US airline industry.",
+    "source": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "Italy warns Iran nuclear program is 'red line'; Araghchi calls stance irresponsible",
+    "direction": "De-escalating",
+    "description": "Italian Foreign Minister Antonio Tajani told Iranian FM Abbas Araghchi in a phone call that 'for Italy, the development of an Iranian nuclear programme for military purposes represents a red line, with the concrete risk of triggering a dangerous nuclear arms race in the region.' Tajani urged Iran to reopen the Strait of Hormuz and to use its influence over Hezbollah to cease strikes against Israel. Araghchi rejected the position, expressing 'regret at the unconstructive and irresponsible approach of certain European countries in repeating unfounded accusations regarding the Iranian nuclear issue,' insisting Iran's program is 'exclusively peaceful.' The exchange highlighted Europe's emerging mediating role between Washington and Tehran.",
+    "source": "https://uk.lapresse.it/world-en/2026/05/02/tajani-speaks-to-araghchi-for-italy-a-military-nuclear-programme-is-a-red-line/",
+    "actor": "Other|Iran"
+  },
+  {
+    "date": "2026-05-03",
     "title": "Rubio dismisses Iran 14-point proposal; demands nuclear concessions first",
     "direction": "Escalating",
     "description": "Secretary of State Marco Rubio rejected Iran's 14-point peace proposal, insisting that any deal must address Tehran's nuclear program. 'The nuclear question is the reason why we're in this in the first place,' Rubio said. He dismissed Iran's offer to reopen the Strait of Hormuz under its own conditions as unacceptable, characterizing it as: 'Yes, the straits are open, as long as you coordinate with Iran, get our permission, or we'll blow you up, and you pay us.' Rubio acknowledged Iran is 'serious about getting themselves out of the mess that they're in' but said competing 'hardliner factions' in Tehran are complicating negotiations. The rejection deepened the diplomatic impasse with no new talks scheduled.",
