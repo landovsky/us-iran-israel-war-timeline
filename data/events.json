@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-05-03",
+    "title": "Rubio dismisses Iran 14-point proposal; demands nuclear concessions first",
+    "direction": "Escalating",
+    "description": "Secretary of State Marco Rubio rejected Iran's 14-point peace proposal, insisting that any deal must address Tehran's nuclear program. 'The nuclear question is the reason why we're in this in the first place,' Rubio said. He dismissed Iran's offer to reopen the Strait of Hormuz under its own conditions as unacceptable, characterizing it as: 'Yes, the straits are open, as long as you coordinate with Iran, get our permission, or we'll blow you up, and you pay us.' Rubio acknowledged Iran is 'serious about getting themselves out of the mess that they're in' but said competing 'hardliner factions' in Tehran are complicating negotiations. The rejection deepened the diplomatic impasse with no new talks scheduled.",
+    "source": "https://thehill.com/policy/international/5852376-marco-rubio-iran-offer-nuclear-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-03",
+    "title": "Nick Stewart, FDD-linked lobbyist, joins Iran negotiating team at Kushner's request",
+    "direction": "Neutral",
+    "description": "The White House confirmed that Nick Stewart, a former State Department official and lobbyist for the Foundation for Defense of Democracies — a hawkish think tank supportive of military action against Iran — joined the Iran negotiating team as policy adviser to Special Envoy Steve Witkoff. Stewart was brought on at Jared Kushner's request. He previously worked for Rep. Claudia Tenney (R-NY), who called him 'one of America's sharpest experts on Iran policy.' His appointment drew Congressional scrutiny over his qualifications for sensitive diplomacy. Stewart joined the team that traveled to Islamabad in early April alongside VP Vance, Kushner, and Witkoff.",
+    "source": "https://www.voiceofemirates.com/en/news/2026/05/03/washington-bolsters-iran-team-nick-stewart-joins-at-kushners-behest-sparking-congressional-debate/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "Pentagon orders 5,000 troops withdrawn from Germany; Trump vows deeper cuts",
+    "direction": "Escalating",
+    "description": "The Pentagon announced withdrawal of approximately 5,000 troops from Germany over the next 6-12 months, including one brigade combat team and a long-range fires battalion. Germany hosts over 35,000 U.S. service members. The next day, Trump escalated: 'We're going to cut way down. And we're cutting a lot further than 5,000.' The withdrawal followed Chancellor Merz saying the U.S. was being 'humiliated' by Iran and criticizing Washington's lack of strategy. Republican armed services committee chairs said they were 'very concerned,' warning the decision risked 'undermining deterrence and sending the wrong signal to Vladimir Putin.' German Defense Minister Pistorius said American presence benefits both sides.",
+    "source": "https://www.militarytimes.com/news/pentagon-congress/2026/05/01/us-withdrawing-5000-troops-from-germany-us-officials-say/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "Trump calls US Navy 'like pirates'; Iran condemns as 'admission of piracy'",
+    "direction": "Escalating",
+    "description": "President Trump boasted at a Florida rally that the naval blockade is 'a very profitable business,' describing how the Navy seizes Iranian ships and cargo. 'We took over the ship. We took over the cargo, took over the oil. It's a very profitable business,' he said, adding: 'We're sort of like pirates.' Iran's Foreign Ministry spokesperson Esmaeil Baghaei condemned the remarks as a 'damning admission of the criminal nature of their actions,' stating: 'This is the outright legalization of piracy and armed robbery on the high seas. Welcome to the return of the pirates — only now, they operate with government-issued warrants, sail under official flags, and call their plunder law enforcement.'",
+    "source": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "CENTCOM: 48 ships redirected in 20 days; blockade costs Iran $4.8B",
+    "direction": "Escalating",
+    "description": "U.S. Central Command announced that 48 vessels have been redirected from Iranian ports since the blockade began on April 13 — up from 42 reported three days earlier — with three ships turned back in the preceding 20 hours. Pentagon press secretary Joel Valdez stated: 'The United States' blockade in the Strait of Hormuz is operating with full force and delivering the decisive impact we intended.' Pentagon officials told Axios the blockade has cost Iran approximately $4.8 billion in lost oil revenue. Separately, shipping traffic through the Strait has dropped over 90% from pre-conflict levels, with approximately 20,000 seafarers stranded on 2,000 vessels in the Persian Gulf.",
+    "source": "https://www.newsweek.com/us-ports-blockade-cost-iran-billions-ships-redirected-11906238",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "IDF bulldozes Catholic convent in Yaroun; military claims Hezbollah used site",
+    "direction": "Escalating",
+    "description": "Israeli military bulldozers destroyed parts of a Catholic convent belonging to the Basilian Salvatorian Sisters in the southern Lebanese village of Yaroun. Superior General Gladys Sabbagh confirmed: 'What we heard is that it was destroyed with bulldozers.' The compound included a school closed since 2006 and a clinic recently relocated to Rmeich; two nuns had evacuated due to fighting. The IDF admitted damaging a 'religious building' but claimed it had 'no religious signs' visible and that soldiers 'prevented any further damage' once informed. The military alleged Hezbollah used the compound to fire rockets at Israel 'on several occasions.' The incident drew condemnation from Lebanese Christian leaders.",
+    "source": "https://www.timesofisrael.com/idf-admits-damaging-catholic-convent-in-southern-lebanon-denies-site-demolished/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-05-01",
+    "title": "Trump calls criticism of Iran war 'treasonous'; claims hostilities 'terminated'",
+    "direction": "Neutral",
+    "description": "President Trump said he considers it 'treasonous' for critics to say the U.S. is not 'winning' the war with Iran. 'We get the radical left to say, we're not winning, we're not winning. They don't have any military left,' Trump told supporters in Florida. The same day, Trump formally notified Congress that hostilities have 'terminated,' writing: 'On April 7, 2026, I ordered a 2-week ceasefire. The ceasefire has since been extended. There has been no exchange of fire between United States Forces and Iran since April 7, 2026. The hostilities that began on February 28, 2026, have terminated.' The notification contradicted his simultaneous threats to resume strikes.",
+    "source": "https://www.cnn.com/2026/05/01/politics/video/trump-treason-winning-iran-war-vrtc",
+    "actor": "US"
+  },
+  {
     "date": "2026-05-02",
     "title": "Trump rejects Iran's peace proposal; warns he'll 'blast them away'",
     "direction": "Escalating",
