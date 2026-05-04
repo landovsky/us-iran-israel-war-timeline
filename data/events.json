@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-05-04",
+    "title": "NATO chief: Europeans have 'gotten the message' on defense spending from Trump",
+    "direction": "Neutral",
+    "description": "NATO Secretary-General Mark Rutte acknowledged American frustration with European allies regarding the Iran war, stating that European leaders 'have gotten the message' and 'heard it loud and clear' about increasing defense spending. 'Europeans are stepping up, a bigger role for Europe and a stronger NATO,' Rutte said. His comments came after President Trump announced withdrawal of 5,000 U.S. troops from Germany and threatened deeper cuts, following criticism from German Chancellor Merz that Washington was being 'humiliated' by Iran in negotiations.",
+    "source": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence",
+    "actor": "NATO|US"
+  },
+  {
+    "date": "2026-05-04",
+    "title": "Iran executes 7, including 3 protesters; human rights groups cite torture concerns",
+    "direction": "Neutral",
+    "description": "Iran's judiciary executed seven people: three at Vakilabad prison in Mashhad linked to January protests—Mehdi Rasouli (25), Mohammad Reza Miri (21), and Ebrahim Dolatabadi—and four at Dastgerd prison in Isfahan under qisas (retaliatory justice) for murder convictions. Human rights groups said Rasouli accepted charges only after 'being beaten and tortured,' while the Hengaw Organization said Dolatabadi was executed despite 'no evidentiary proof being presented against him.' Since February 28, Iran's judiciary has executed at least 30 individuals linked to January protests or espionage charges.",
+    "source": "https://www.euronews.com/2026/05/04/tehran-regime-executes-three-protesters-one-without-evidence",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-04",
+    "title": "Iran claims two missiles hit US frigate in Hormuz Strait; Pentagon denies",
+    "direction": "Escalating",
+    "description": "Iran's military claimed that two missiles struck a U.S. Navy frigate in the Strait of Hormuz after it ignored warnings from Iran's navy to halt operations. The Iranian army statement alleged the strike occurred without providing evidence. U.S. Central Command immediately denied the claim, stating no such attack had taken place. The allegation came hours after President Trump announced Project Freedom would begin guiding stranded merchant ships through the strait. Iran's Foreign Ministry warned that any American interference in the 'new maritime regime of the Strait of Hormuz' would be considered a ceasefire violation.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire",
+    "actor": "Iran|US"
+  },
+  {
     "date": "2026-05-03",
     "title": "Trump announces 'Project Freedom' to escort ships through Hormuz; Iran warns ceasefire violation",
     "direction": "Escalating",
