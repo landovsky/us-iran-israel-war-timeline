@@ -1,6 +1,54 @@
 [
   {
     "date": "2026-05-05",
+    "title": "Trump says war could last '2-3 more weeks'; refuses to confirm ceasefire",
+    "direction": "Escalating",
+    "description": "In a phone interview with Hugh Hewitt, President Trump refused to say whether the ceasefire with Iran was over, stating: 'Well, I can't tell you that.' He projected the war could continue for 'probably another two weeks' or 'maybe three weeks,' adding: 'Time is not of the essence for us.' Trump dismissed Iran's enriched uranium stockpile: 'From a standpoint of value, it's not very valuable. Probably can't be used.' He claimed Iran's navy had been destroyed — 'they had 159 ships, Hugh, now they have none. They're all at the bottom of the sea' — and said the outcome is binary: 'We either make the right deal or we win very easily.'",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "Iran parliament speaker Ghalibaf: 'We have not even begun yet'",
+    "direction": "Escalating",
+    "description": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf posted on X that 'the new equation of the Strait of Hormuz is in the process of being solidified,' accusing the US and allies of jeopardizing maritime security 'through the violation of the ceasefire and the imposition of a blockade.' He warned: 'We know full well that the continuation of the status quo is intolerable for America; while we have not even begun yet.' The statement signaled Iran views the Hormuz standoff as strategically favorable to Tehran and intends to escalate if Project Freedom continues.",
+    "source": "https://www.turkiyetoday.com/region/new-equation-taking-shape-in-strait-of-hormuz-irans-parliament-speaker-3219399",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "Brent crude surges 5.8% to $114.44 — highest close of 2026",
+    "direction": "Escalating",
+    "description": "Brent crude futures rose 5.8% to close at $114.44 per barrel on Monday — the highest settlement price of 2026 — as Project Freedom's launch triggered Iranian attacks on commercial shipping and the UAE. Prices have risen more than 50% since the war began in late February. Analyst June Goh of Sparta Singapore said markets are pricing in 'more oil infrastructure damage and the likelihood that the Strait of Hormuz will be shut beyond the timeline that the Trump administration has laid out.' US gasoline hit a record $4.46/gallon national average. An estimated 14.5 million barrels per day remain offline due to the Hormuz closure.",
+    "source": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "2 IDF soldiers wounded in Hezbollah clash near Deir Seryan; 17 Lebanese killed",
+    "direction": "Escalating",
+    "description": "Hezbollah fighters opened fire on Israeli troops attempting to advance near the town of Deir Seryan in south Lebanon, inside the IDF's declared 10-km 'yellow line' buffer zone. The IDF confirmed two soldiers were moderately wounded in the clash. Israeli forces returned fire and the Air Force struck Hezbollah positions including buildings and anti-tank missile launch posts. Separately, Israeli strikes killed 17 Lebanese and wounded 35 over the preceding 24 hours, including 4 killed in Meiss Ej Jabal. The violence continued despite the Israel-Lebanon ceasefire declared April 16.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-05-04/ty-article/.premium/two-idf-soldiers-wounded-in-clash-with-hezbollah-17-lebanese-killed-in-past-day/0000019d-f2f4-d22e-a9ff-fafe98990000",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "US intelligence: Iran nuclear breakout timeline unchanged despite 2 months of strikes",
+    "direction": "Neutral",
+    "description": "US intelligence assessments concluded that the time Iran would need to build a nuclear weapon has not changed since last summer, despite two months of a war Trump launched partly to stop Iran from developing a bomb. The unchanged timeline suggests that destroying Iran's remaining stockpile of 440.9 kg of highly enriched uranium — believed stored in Isfahan tunnels — remains necessary to significantly impede Tehran's nuclear capability. The assessment undercut the administration's narrative that military operations had degraded Iran's nuclear program, and came as Trump publicly dismissed the uranium as 'not very valuable' and 'probably can't be used.'",
+    "source": "https://www.pakistantoday.com.pk/2026/05/05/war-fails-to-cripple-irans-nuclear-capability",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-05-03",
+    "title": "OPEC+ approves 188,000 bpd output increase for June; first meeting without UAE",
+    "direction": "Neutral",
+    "description": "OPEC+ agreed to raise production quotas by 188,000 barrels per day for June at a virtual Sunday meeting — the group's first since the UAE's exit from OPEC effective May 1. Seven producers participated: Algeria, Iraq, Kazakhstan, Kuwait, Oman, Russia, and Saudi Arabia. The increase represented less than 2% of the 14.5 million bpd disrupted by the Hormuz closure. Saudi Arabia's actual March production stood at 7.76 million bpd against a quota of 10.29 million bpd, illustrating how export constraints — not quotas — are the binding limitation. Oil remained above $125/barrel at the time of the decision. The UAE withdrew from OPEC on April 28 after 59 years, citing frustration with production quotas.",
+    "source": "https://www.aljazeera.com/news/2026/5/3/opec-announces-symbolic-oil-output-rise-during-strait-of-hormuz-closure",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-05-05",
     "title": "UAE orders nationwide remote learning May 5-8 after Iran missile strikes",
     "direction": "Escalating",
     "description": "The UAE Ministry of Education ordered all nurseries, schools, and universities to switch to distance learning from May 5-8, covering all students, teachers, and administrative staff nationwide. The Ministry of Higher Education confirmed universities would also shift to remote instruction, exempting only clinical training, laboratory, and examination programmes. Dubai's KHDA issued a parallel directive for all private schools. The decision followed Iran's May 4 missile and drone attacks on the UAE. The Ministry stated the situation 'will be reassessed' before any return to physical classes.",
