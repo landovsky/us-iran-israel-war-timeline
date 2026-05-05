@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-05-05",
+    "title": "UAE orders nationwide remote learning May 5-8 after Iran missile strikes",
+    "direction": "Escalating",
+    "description": "The UAE Ministry of Education ordered all nurseries, schools, and universities to switch to distance learning from May 5-8, covering all students, teachers, and administrative staff nationwide. The Ministry of Higher Education confirmed universities would also shift to remote instruction, exempting only clinical training, laboratory, and examination programmes. Dubai's KHDA issued a parallel directive for all private schools. The decision followed Iran's May 4 missile and drone attacks on the UAE. The Ministry stated the situation 'will be reassessed' before any return to physical classes.",
+    "source": "https://www.khaleejtimes.com/uae/uae-schools-distance-learning-friday-renewed-iranian-attacks",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-05-04",
+    "title": "Iran fires 12 ballistic missiles, 3 cruise missiles, 4 drones at UAE; Fujairah oil fire wounds 3",
+    "direction": "Escalating",
+    "description": "Iran launched its first attack on the UAE since the April 8 ceasefire. The UAE Defence Ministry reported engaging 12 ballistic missiles, 3 cruise missiles, and 4 drones fired from Iran. Three missiles were intercepted over UAE waters and a fourth crashed into the sea. One drone struck the Fujairah Petroleum Industries Zone, sparking a large fire and wounding three Indian nationals. Iran initially denied planning any attack, with a military source telling state media Iran had 'no pre-planned programme to attack the mentioned oil facilities.' However, an IRGC-linked social media account later posted visuals claiming credit. The UAE Foreign Ministry condemned 'the renewed terrorist, unprovoked Iranian attacks, targeting civilian sites' and reserved 'the full and legitimate right to respond.' Qatar, Saudi Arabia, Kuwait, Jordan, France, Germany, and the UK condemned the strikes.",
+    "source": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran",
+    "actor": "Iran|UAE"
+  },
+  {
+    "date": "2026-05-04",
+    "title": "US helicopters sink 6 Iranian fast boats during Project Freedom launch in Hormuz",
+    "direction": "Escalating",
+    "description": "U.S. Apache and MH-60 Seahawk helicopters destroyed six Iranian fast boats that attempted to interfere with commercial shipping during the first day of Operation Project Freedom. CENTCOM Commander Admiral Brad Cooper reported that Iran 'launched multiple cruise missiles, drones, and small boats' and that U.S. forces 'defeated each and every one.' Trump later claimed seven boats were destroyed: 'We've shot down seven small Boats or, as they like to call them, fast Boats.' Iran's military denied the claim, with a senior official stating: 'The US claim that it sank a number of Iranian war boats is false.' Two U.S.-flagged vessels successfully transited the strait; USS Truxtun and USS Mason navigated the strait without sustaining hits.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-ship-attack-threat-peace-proposal/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-05-04",
+    "title": "Maersk Alliance Fairfax becomes first commercial ship to exit Hormuz under US escort",
+    "direction": "De-escalating",
+    "description": "The Alliance Fairfax, a U.S.-flagged vehicle carrier operated by Maersk's Farrell Lines subsidiary, exited the Persian Gulf via the Strait of Hormuz accompanied by U.S. military assets — the first commercial vessel to transit the strait under Operation Project Freedom. Maersk confirmed the transit was 'completed without incident.' The ship had been stranded in the Gulf since late February when shipping through the strait collapsed amid missile, drone, and mine threats. Approximately 2,000 ships with 20,000 crew remain stranded in the Gulf awaiting safe passage.",
+    "source": "https://www.prismnews.com/news/maersk-vessel-exits-strait-of-hormuz-under-us-military",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-04",
+    "title": "Trump warns Iran will be 'blown off face of the earth'; declines to confirm ceasefire",
+    "direction": "Escalating",
+    "description": "President Trump warned in a Fox News interview that Iran would be 'blown off the face of the earth' if it attacks U.S. Navy vessels carrying out Project Freedom. When asked whether the ceasefire between the US and Iran remains in effect, Trump declined to confirm it, marking the first time either side refused to acknowledge the truce's validity. Treasury Secretary Bessent stated the US has 'absolute control' of the Strait and called Iran's navy 'a band of pirates.' The comments came after Iranian forces fired missiles and deployed boats against commercial shipping during Project Freedom's first day of operations.",
+    "source": "https://www.irishtimes.com/world/middle-east/2026/05/04/ceasefire-all-but-over-after-trumps-project-freedom-in-the-strait-of-hormuz-provokes-iran/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-04",
+    "title": "South Korean cargo ship HMM Namu hit by explosion near Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "The South Korean-operated cargo ship HMM Namu reported a fire and explosion while anchored near the Strait of Hormuz off the UAE coast. Trump posted that Iran had 'taken some shots at unrelated Nations with respect to the Ship Movement, PROJECT FREEDOM, including a South Korean Cargo Ship,' adding: 'Other than the South Korean Ship, there has been, at this moment, no damage going through the Strait.' South Korea's presidential office said it was unclear if the explosion was caused by an Iranian attack, and no meeting of the National Security Council had been called. The incident occurred amid coordinated Iranian attacks on shipping and the UAE during Project Freedom's first day.",
+    "source": "https://www.euronews.com/2026/05/04/iranian-military-claims-it-prevented-us-navy-ships-from-entering-strait-of-hormuz",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-05-04",
     "title": "NATO chief: Europeans have 'gotten the message' on defense spending from Trump",
     "direction": "Neutral",
