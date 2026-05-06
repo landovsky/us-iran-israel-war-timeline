@@ -1,6 +1,54 @@
 [
   {
     "date": "2026-05-06",
+    "title": "Israel strikes kill 6 in Lebanon; IDF orders evacuation of 12 villages",
+    "direction": "Escalating",
+    "description": "Israeli air strikes on southern and eastern Lebanon killed at least 6 and wounded 3 on May 6. In Zellaya, western Bekaa, an airstrike killed municipal council head Ali Qassem Ahmad and three family members in their home. Two more were killed by artillery shelling in the southern village of Mayfadoun. The IDF simultaneously issued urgent evacuation warnings to residents of 12 towns and villages in southern Lebanon — including some north of the Litani River — claiming Hezbollah had violated the ceasefire. Fighter jets, drones, and artillery were used. Al Jazeera reported the strikes violated the US-brokered ceasefire effective since April 17.",
+    "source": "https://www.aljazeera.com/news/2026/5/6/israeli-attacks-on-southern-eastern-lebanon-kill-at-least-six-people",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-05-06",
+    "title": "Axios: US and Iran nearing 14-point MOU to end war",
+    "direction": "De-escalating",
+    "description": "Axios reported May 6 that the White House believes it is close to a one-page, 14-point memorandum of understanding with Iran to end the war and begin 30 days of detailed nuclear negotiations. The MOU, negotiated by Steve Witkoff and Jared Kushner with Iranian officials, would include mutual lifting of blockades, US sanctions removal, and an Iranian moratorium on uranium enrichment of at least 12 years (Iran proposed 5, the US demanded 20). Two sources said Iran would agree to remove its highly enriched uranium from the country — a key US priority Tehran had previously rejected. The US expects Iranian responses on several points within 48 hours. Sources cautioned nothing has been agreed yet but called this the closest the parties have been to a deal since February 28.",
+    "source": "https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-05-06",
+    "title": "Oil plunges 12% on deal reports; Brent falls below $100 for first time since April",
+    "direction": "De-escalating",
+    "description": "Oil prices crashed on May 6 after Axios reported the US and Iran were nearing a deal. WTI crude fell over 12% to $89.76/barrel — the largest single-day drop since the April 8 ceasefire — while Brent dropped below $100 for the first time since mid-April. The plunge reversed the previous day's surge to $114.44 (the 2026 high). Markets rallied on renewed hopes for Hormuz reopening. The move came one day after Trump paused Project Freedom, citing 'great progress' toward a deal. Goldman Sachs analyst Yulia Zhestkova Grigsby warned Europe still faces 'large risks of jet fuel shortages this summer,' with UK supplies most at risk as the continent has lost 75% of its jet fuel imports.",
+    "source": "https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "CMA CGM container ship hit by possible cruise missile in Hormuz; crew injured",
+    "direction": "Escalating",
+    "description": "The Maltese-flagged CMA CGM San Antonio (2,824 TEU), owned by French shipping giant CMA CGM, was struck by an unknown projectile — possibly a cruise missile per CBS reporting — while transiting the Strait of Hormuz on May 5. Several crew members were injured and evacuated for medical care. The vessel sustained damage and went dark, ceasing AIS transmission. The attack occurred during the first day of Project Freedom, the US-led corridor to escort stranded commercial ships. UKMTO confirmed the incident, bringing total maritime incidents since February 28 to 46, with 10 confirmed seafarer fatalities across all incidents. Trump paused Project Freedom hours later.",
+    "source": "https://maritime-executive.com/article/after-attack-on-cma-cgm-boxship-trump-suspends-new-hormuz-transit-corridor",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "Rubio and Lavrov hold first phone call in 6 months; discuss Iran and Ukraine",
+    "direction": "Neutral",
+    "description": "US Secretary of State Marco Rubio spoke by phone with Russian Foreign Minister Sergei Lavrov on May 5 — their first call in more than six months. The call was held at Lavrov's request and covered the US-Russia relationship, the Iran war ceasefire, potential regional escalation, and the Ukraine conflict. Russia's foreign ministry described the conversation as 'constructive and businesslike.' The call came less than a week after Putin spoke with Trump and ahead of Trump's scheduled May 14-15 Beijing summit with Xi Jinping, as great-power diplomacy intensified around a potential Iran deal.",
+    "source": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/secretary-rubios-call-with-russian-foreign-minister-lavrov-5",
+    "actor": "US|Russia"
+  },
+  {
+    "date": "2026-05-06",
+    "title": "Rubio: Israel-Lebanon peace deal 'imminently achievable'; Hezbollah the obstacle",
+    "direction": "De-escalating",
+    "description": "Secretary of State Marco Rubio stated that an Israel-Lebanon peace deal was 'imminently achievable,' adding: 'The problem with Israel and Lebanon is not Israel or Lebanon, it's Hezbollah.' The comments came as the US sought to separate the Lebanon track from the broader Iran negotiations. Rubio also reported that 10 civilian sailors had been killed in escalating Hormuz violence. The diplomatic signal aligned with the broader shift: with Epic Fury declared over and Project Freedom paused, the administration was pivoting from military operations to parallel diplomatic tracks on Iran nuclear issues and Lebanon peace.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-05-05/ty-article-live/iran-media-u-s-targeted-two-civilian-boats-carrying-goods-not-irgc-speedboats/0000019d-f5d5-d369-a19d-f7ffbfc80000",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-06",
     "title": "Iran FM Araghchi meets Wang Yi in Beijing; first China visit since war began",
     "direction": "Neutral",
     "description": "Iranian Foreign Minister Abbas Araghchi met Chinese Foreign Minister Wang Yi in Beijing on May 6 — his first visit to China since the war began on February 28. The meeting came days before President Trump's scheduled visit to Beijing, allowing Tehran to demonstrate it retains major-power diplomatic options. Araghchi had previously dismissed Project Freedom as 'Project Deadlock,' writing on X that 'events in the Strait of Hormuz have made it crystal clear that there is no military solution to the political crisis.' Iran's foreign ministry said talks covered bilateral relations and regional developments. For Tehran, the visit signaled it is not diplomatically isolated despite two months of war.",
