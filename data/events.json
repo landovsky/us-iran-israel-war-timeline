@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-05-06",
+    "title": "Iran FM Araghchi meets Wang Yi in Beijing; first China visit since war began",
+    "direction": "Neutral",
+    "description": "Iranian Foreign Minister Abbas Araghchi met Chinese Foreign Minister Wang Yi in Beijing on May 6 — his first visit to China since the war began on February 28. The meeting came days before President Trump's scheduled visit to Beijing, allowing Tehran to demonstrate it retains major-power diplomatic options. Araghchi had previously dismissed Project Freedom as 'Project Deadlock,' writing on X that 'events in the Strait of Hormuz have made it crystal clear that there is no military solution to the political crisis.' Iran's foreign ministry said talks covered bilateral relations and regional developments. For Tehran, the visit signaled it is not diplomatically isolated despite two months of war.",
+    "source": "https://www.bloomberg.com/news/articles/2026-05-06/iran-s-top-diplomat-meets-wang-yi-in-first-china-trip-since-war",
+    "actor": "Iran|Other"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "Rubio declares Operation Epic Fury 'over'; Trump notifies Congress",
+    "direction": "De-escalating",
+    "description": "Secretary of State Marco Rubio announced that Operation Epic Fury — the roughly two-month US-Israeli offensive air campaign against Iran launched February 28 — had effectively ended. Rubio said the US had 'achieved the objectives' of the war and shifted to a 'defensive' posture: 'This is not an offensive operation; this is a defensive operation.' Trump formally notified Congress of the operation's completion. Rubio warned Iran faces 'catastrophic destruction to their economy' but acknowledged Project Freedom alone would not solve 'the whole Straits problem.' The declaration marked the official end of the offensive phase that began with 900+ sorties on Day 1.",
+    "source": "https://thehill.com/homenews/administration/5864851-rubio-project-freedom-iran/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "Trump pauses Project Freedom after 1 day, cites 'great progress' on Iran deal",
+    "direction": "De-escalating",
+    "description": "President Trump announced Tuesday evening that Project Freedom — the US military operation to guide stranded ships through the Strait of Hormuz launched just Monday morning — was being paused 'for a short period of time to see whether or not the Agreement can be finalized and signed.' Trump said the decision was made 'at the request of Pakistan,' which has mediated indirect US-Iran talks, and cited 'Great Progress' toward 'a Complete and Final Agreement.' The US blockade of Iranian ports would remain in place. The abrupt about-face came hours after the administration had framed the operation as a life-or-death matter for 23,000 stranded sailors from 87 countries. Only two US-flagged vessels had successfully transited before the pause.",
+    "source": "https://www.cbsnews.com/news/trump-pauses-u-s-mission-to-guide-ships-through-strait-of-hormuz-project-freedom/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "Hegseth: 'ceasefire is not over' despite 10+ Iranian attacks since April 8",
+    "direction": "De-escalating",
+    "description": "Defense Secretary Pete Hegseth told reporters that 'the ceasefire is not over,' characterizing the Hormuz exchanges of fire as a 'separate and distinct project' from the broader truce. 'We expected there would be some churn at the beginning, which happened,' Hegseth said. Chairman of the Joint Chiefs Gen. Dan Caine revealed Iran had attacked US forces 'more than 10 times' since the April 8 ceasefire but said it 'fell below the threshold of restarting major combat operations.' Hegseth stressed the ceasefire's future 'ultimately rests with President Donald Trump,' adding: 'Right now the cease-fire certainly holds, but we're going to be watching very, very closely.'",
+    "source": "https://www.cbsnews.com/news/pete-hegseth-dan-caine-iran-war-update-strait-of-hormuz-pentagon/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "UAE reports second day of Iranian missile and drone attacks; IRGC denies all",
+    "direction": "Escalating",
+    "description": "The UAE Ministry of Defence reported its air defense systems engaged Iranian missiles and drones for the second consecutive day, following the May 4 barrage of 12 ballistic missiles, 3 cruise missiles, and 4 drones. Details of the May 5 interceptions were limited, with the ministry not specifying exact numbers. Iran's IRGC categorically denied the attacks, stating it had 'not carried out any missile or drone operations against the UAE in recent days' and calling the claims 'absolutely denied and devoid of any truth.' The denial covered both the May 4 and May 5 strikes, despite the UAE having presented physical evidence of the previous day's Fujairah fire.",
+    "source": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day",
+    "actor": "Iran|UAE"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "Iran judiciary vows to execute 'enemy's mercenaries without leniency'",
+    "direction": "Escalating",
+    "description": "Iran's judiciary and security authorities declared on state television they would 'act decisively against the enemies' mercenaries without leniency until the very last one.' The statement came as execution pace continued: the UN confirmed at least 21 executions on national security charges since the start of 2026, with over 4,000 arrested. Authorities seized assets of 22 individuals in Semnan Province, confiscating property from those deemed 'linked with the Zionist regime and hostile countries.' Political prisoners across 56 Iranian prisons launched a coordinated hunger strike marking the 119th consecutive week of the 'No to Executions Tuesdays' campaign.",
+    "source": "https://www.aljazeera.com/news/2026/5/5/irans-judiciary-vows-action-against-enemys-mercenaries-amid-executions",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-05-05",
     "title": "Trump says war could last '2-3 more weeks'; refuses to confirm ceasefire",
     "direction": "Escalating",
