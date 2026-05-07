@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-05-06",
+    "title": "Trump threatens 'much higher level' bombing if Iran rejects deal",
+    "direction": "Escalating",
+    "description": "President Trump posted on Truth Social: 'Assuming Iran agrees to give what has been agreed to, which is perhaps a big assumption, the already legendary Epic Fury will be at an end.' He added: 'If they don't agree, the bombing starts, and it will be, sadly, at a much higher level and intensity than it was before.' The ultimatum came hours after Axios reported the US and Iran were nearing a 14-point MOU to end the war. Trump also said the US had 'very good talks' with Iran over the past 24 hours and that a deal was 'very possible.' Iran's FM spokesperson Esmaeil Baqaei confirmed Tehran was reviewing the US proposal and would relay its response to mediator Pakistan.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-06",
+    "title": "IRGC Navy announces safe Hormuz passage under 'new protocols'",
+    "direction": "De-escalating",
+    "description": "Iran's IRGC Navy posted on X: 'We thank captains & shipowners in the Persian Gulf & Gulf of Oman for complying with Iran's Strait of Hormuz regulations & contributing to regional maritime security. With the aggressor's threats neutralized & new protocols in place, safe, stable passage through SOH will be ensured.' The statement did not specify what the new protocols entailed but referenced 'designated corridors' for ship passage. It came hours after Trump paused Project Freedom, and signaled Iran intended to reassert control over Hormuz transit on its own terms rather than accept US-led escort operations. Iran introduced a new mechanism allowing ships to pass through designated corridors in the Strait.",
+    "source": "https://www.presstv.ir/Detail/2026/05/06/768144/Iran-IRGC-Navy-statement-resumed-passage-Hormuz-Strait",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-06",
+    "title": "Two IDF soldiers wounded by Hezbollah drones in south Lebanon",
+    "direction": "Escalating",
+    "description": "Two IDF soldiers were wounded when Hezbollah detonated explosive drones near their position in southern Lebanon on May 6 — one severely, one lightly. Both were evacuated for medical treatment. The IDF responded by striking approximately 25 Hezbollah targets over 24 hours, including weapons storage facilities and military structures, and killed multiple operatives. IDF Chief of Staff Lt.-Gen. Eyal Zamir visited the El-Khiam area to conduct operational assessments. Separately, the IDF intercepted a hostile aircraft before it crossed into Israeli territory. Hezbollah claimed 'fierce clashes' were taking place in Bint Jbeil, with rocket and drone strikes targeting Merkava tanks.",
+    "source": "https://www.jpost.com/middle-east/article-895320",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-05-06",
     "title": "Israel strikes kill 6 in Lebanon; IDF orders evacuation of 12 villages",
     "direction": "Escalating",
     "description": "Israeli air strikes on southern and eastern Lebanon killed at least 6 and wounded 3 on May 6. In Zellaya, western Bekaa, an airstrike killed municipal council head Ali Qassem Ahmad and three family members in their home. Two more were killed by artillery shelling in the southern village of Mayfadoun. The IDF simultaneously issued urgent evacuation warnings to residents of 12 towns and villages in southern Lebanon — including some north of the Litani River — claiming Hezbollah had violated the ceasefire. Fighter jets, drones, and artillery were used. Al Jazeera reported the strikes violated the US-brokered ceasefire effective since April 17.",
