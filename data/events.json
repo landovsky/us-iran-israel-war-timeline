@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-05-07",
+    "title": "Iran attacks 3 US destroyers in Hormuz; US strikes 3 Iranian ports",
+    "direction": "Escalating",
+    "description": "Iranian forces launched missiles, drones, and fast-attack boats at three US Navy destroyers — USS Truxtun, USS Mason, and USS Rafael Peralta — as they transited the Strait of Hormuz on May 7, in the second Iranian barrage against US warships in three days. US forces responded with five-inch naval guns, CIWS, .50-caliber fire, and Apache helicopters firing Hellfire missiles. CENTCOM then struck Iranian military facilities at three ports — Bandar Abbas, Qeshm Island, and Bandar Kargan — targeting missile and drone launch sites, command and control locations, and ISR nodes. CENTCOM stated 'no US assets were struck' and called the Iranian attacks 'unprovoked.' Iran's Khatam al-Anbiya headquarters claimed the US had violated the ceasefire by targeting an Iranian tanker in Iranian waters, and said its response caused 'significant damage' to US ships. Trump called the exchange a 'love tap' and insisted the ceasefire remained in effect, adding: 'Just like we knocked them out again today, we'll knock them out a lot harder, and a lot more violently, in the future, if they don't get their Deal signed, FAST!'",
+    "source": "https://www.cbsnews.com/news/u-s-destroyers-face-second-round-of-iranian-attacks/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-05-07",
+    "title": "Rubio meets Pope Leo XIV at Vatican amid Trump-papacy rift over Iran war",
+    "direction": "De-escalating",
+    "description": "Secretary of State Marco Rubio met Pope Leo XIV at the Vatican for over 45 minutes on May 7 — the first meeting between a Trump administration official and the pontiff in nearly a year. The two discussed the Iran war, Lebanon, and conflicts in Africa. The State Department said the meeting 'underscored the strong relationship between the United States and the Holy See and their shared commitment to promoting peace and human dignity.' The meeting followed weeks of extraordinary public tension between Trump and the first North American pope, who had condemned the 'delusion of omnipotence' fueling the war. Rubio dismissed the notion he was attempting to reset relations, but Vatican spokesman Matteo Bruni described the discussion as covering 'areas of disagreement.'",
+    "source": "https://www.nbcnews.com/world/pope-leo-xiv/marco-rubio-meets-pope-leo-trump-criticism-iran-war-vatican-rcna343991",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-07",
+    "title": "WaPo: Satellite images show Iran damaged 228 structures at 15 US bases",
+    "direction": "Neutral",
+    "description": "A Washington Post investigation published May 6-7, using satellite imagery verified via EU Copernicus and Planet Labs data, revealed Iranian strikes had damaged or destroyed at least 228 structures and pieces of equipment across 15 US military sites in the Gulf — far exceeding Pentagon disclosures. The heaviest damage was at Naval Support Activity Bahrain (5th Fleet HQ), Ali al-Salem Air Base, Camp Arifjan, and Camp Buehring in Kuwait. Imagery showed a destroyed E-3 Sentry AWACS aircraft, damage to Patriot and THAAD air-defense positions, collapsed hangars, destroyed fuel depots, and strikes on radar and communications systems at al-Udeid Air Base in Qatar. The investigation confirmed 7 US service members killed (6 in Kuwait, 1 in Saudi Arabia) and over 400 troops injured, with at least 12 suffering serious injuries.",
+    "source": "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-05-07",
+    "title": "Rep. Barrett introduces AUMF capping Iran operations at July 30",
+    "direction": "Neutral",
+    "description": "Republican Rep. Tom Barrett of Michigan introduced the 2026 Authorization for Use of Military Force Against Iran on May 7, granting President Trump congressional authority to 'demolish, degrade or defeat' Iran's nuclear weapons program, enforce the blockade, and ensure safe passage through the Strait of Hormuz — but with a hard expiration of July 30, 2026 with a 30-day wind-down period. The bill prohibits occupying or seizing Iranian territory. Barrett noted the War Powers Resolution's 60-day clock expired on May 1, after which the Trump administration told Congress the 'use of military force had concluded' — despite ongoing military operations including the May 7 Hormuz strikes. The bill represented the first Republican attempt to reassert congressional war powers since the conflict began February 28.",
+    "source": "https://barrett.house.gov/media/press-releases/barrett-introduces-aumf-limit-wind-down-conflict-iran-and-restore",
+    "actor": "US"
+  },
+  {
     "date": "2026-05-06",
     "title": "Israel kills Radwan Force commander in first Beirut strike since ceasefire",
     "direction": "Escalating",
