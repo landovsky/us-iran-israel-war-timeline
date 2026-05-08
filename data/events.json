@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-05-08",
+    "title": "Iran rejects enrichment freeze; calls US deal proposal 'wish-list'",
+    "direction": "Escalating",
+    "description": "Iran signaled it would reject key terms of the US one-page peace proposal, with officials declaring nuclear enrichment 'non-negotiable' and refusing to transfer its 440kg stockpile of 60%-enriched uranium abroad. Lawmaker Ebrahim Rezaee called the proposal 'more of an American wish-list than a reality.' Parliament Speaker Ghalibaf mocked the negotiations on social media. Iran's foreign ministry said it was still reviewing the proposal and would convey its response to Pakistani mediators, but insisted on sequencing — war cessation and sanctions relief first, nuclear program second — rejecting the US demand to bundle both into a single MOU. The hardened stance contrasted sharply with Axios reports two days earlier that Iran was close to agreeing on enrichment terms.",
+    "source": "https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-08",
+    "title": "Israeli strikes kill 12 across southern Lebanon; paramedic and child among dead",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes across southern Lebanon killed at least 12 people and wounded dozens on May 8, with a paramedic and a child among the dead. The IDF also killed two Hezbollah operatives and three Palestinian Islamic Jihad members in separate targeted strikes. Since March 2, Israeli operations in Lebanon have killed more than 2,700 people, displaced over 1.2 million, and established a six-mile-plus buffer zone in the south that Israel says it will hold 'indefinitely.' Hezbollah's attack rate has more than doubled its 2024 peak frequency, with a veteran special forces officer telling the Christian Science Monitor the militia 'has more [weapons] now than before' due to weapons transfers from Syria.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-05-07",
+    "title": "Israeli strikes kill 11 in Nabatiyeh; UN calls Beirut attack 'alarming'",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes killed at least 11 people across three towns in Lebanon's Nabatiyeh district — Doueir, Harouf, and Habboush — on May 7. In Habboush, the Lebanese health ministry confirmed 8 killed including one child and two women, with 21 wounded. The strikes came hours after the IDF killed Radwan Force commander Balout in Beirut's Dahieh. UN spokesperson Stéphane Dujarric called the Beirut strike 'a very alarming development,' adding the UN was 'deeply worried about reports of civilians being killed, including children.' Over 126,000 displaced Lebanese remain sheltered in 600+ collective facilities. Five UNIFIL peacekeepers have been killed since fighting resumed March 2.",
+    "source": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260507-unnews01.htm",
+    "actor": "Israel|Lebanon"
+  },
+  {
     "date": "2026-05-07",
     "title": "Iran attacks 3 US destroyers in Hormuz; US strikes 3 Iranian ports",
     "direction": "Escalating",
