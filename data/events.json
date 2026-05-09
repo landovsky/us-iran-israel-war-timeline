@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-05-09",
+    "title": "Trump threatens 'Project Freedom Plus' if Iran rejects deal",
+    "direction": "Escalating",
+    "description": "President Trump warned on the White House South Lawn that Washington may revive and expand the suspended Strait of Hormuz escort operation if Iran does not accept the US peace proposal. 'We may go back to Project Freedom if things don't happen... it would be Project Freedom Plus, meaning Project Freedom plus other things,' Trump said, without elaborating. He added: 'We'll go a different route if everything doesn't get signed up, buttoned up.' Pakistan, which is mediating the talks, asked the US not to resume the military operation. The threat came as Washington awaited Tehran's formal response to the 14-point MOU that would end the war before addressing Iran's nuclear program.",
+    "source": "https://tribune.com.pk/story/2607162/trump-threatens-project-freedom-plus-if-iran-deal-not-sealed",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-09",
+    "title": "Rubio in Rome says US expects Iran peace deal response 'today'",
+    "direction": "De-escalating",
+    "description": "Secretary of State Marco Rubio, speaking to reporters in Rome during a visit to Pope Leo XIV, said the US expected Iran's response to the peace proposal on Friday. 'We're expecting a response from them,' Rubio said. 'We'll see what the response entails. The hope is it's something that can put us into a serious process in negotiation.' Iran's foreign ministry said it was still reviewing the proposal and would relay its response through Pakistani mediators. The statement came as sporadic clashes between Iranian and US forces continued in the Strait of Hormuz, with Iran's Fars news agency reporting ongoing confrontations despite the ceasefire.",
+    "source": "https://www.cnbc.com/2026/05/08/marco-rubio-says-us-expects-iran-response-on-peace-deal-today.html",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-05-09",
+    "title": "Israeli strikes kill 31 across southern Lebanon; paramedics hit",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes killed at least 31 people across southern Lebanon on May 9 — one of the deadliest days since the March 2 invasion — including a civil defense rescue worker. In Toura (Tyre district), two airstrikes killed 5 and wounded 3, with rescue operations ongoing for a missing girl under rubble. Near Sheikh Ragheb Harb Hospital in Toul, a building was destroyed and 4 paramedics were injured. Strikes hit targets across Marjayoun, Hasbaya, Bint Jbeil, Nabatiyeh, Sidon, and Jezzine districts, targeting vehicles, motorcycles, and residential areas. Artillery shelling struck Mansouri and Buyout al-Sayyad. The IDF issued mass evacuation warnings for towns near Tyre including Tayr Debba, Al Abbasiyeh, Burj Rahhal, and Ain Baal. The IDF separately reported striking 85+ Hezbollah targets in 24 hours, including an underground weapons facility in the Beqaa Valley.",
+    "source": "https://mediaselangor.com/en/2026/05/356213",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-05-09",
+    "title": "CIA assesses Iran can withstand US naval blockade for four months",
+    "direction": "Neutral",
+    "description": "A CIA analysis concluded Iran could endure the US naval blockade of its ports for approximately four months before facing severe economic pressure, according to a US official briefed on the assessment. The finding suggested US leverage over Tehran remained limited as both nations sought to resolve the conflict. A senior intelligence official disputed the conclusion, stating the blockade 'is inflicting real, compounding damage — severing trade, crushing revenue, and accelerating systemic economic collapse.' The assessment surfaced as sporadic clashes continued between Iranian and US forces in the Strait of Hormuz on May 9, and as the US awaited Iran's response to the peace proposal.",
+    "source": "https://www.onmanorama.com/news/world/2026/05/09/iran-can-withstand-blockade-for-4-months-cia-says-as-clashes-flare-in-hormuz.html",
+    "actor": "US"
+  },
+  {
     "date": "2026-05-08",
     "title": "US schedules third round of Israel-Lebanon talks for May 14-15",
     "direction": "De-escalating",
