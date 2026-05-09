@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-05-08",
+    "title": "US schedules third round of Israel-Lebanon talks for May 14-15",
+    "direction": "De-escalating",
+    "description": "The State Department announced the US will host a third round of Israel-Lebanon peace talks on May 14-15 in Washington, building on the April 23 round led by President Trump. Lebanon's delegation will be led by Simon Karam and Israel's by Ron Dermer. Discussions will focus on 'a framework for lasting peace and security arrangements, the full restoration of Lebanese sovereignty throughout its territory, the delineation of borders, and creating concrete pathways for humanitarian relief and reconstruction in Lebanon.' The announcement came as fighting in southern Lebanon continued unabated, with the IDF breaking through Hezbollah defenses in three sectors on May 8 — occupying Buyut al-Siyad, crossing the Litani River near Deir Sirian, and advancing toward Rishafah.",
+    "source": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/next-meeting-between-the-governments-of-the-united-states-lebanon-and-israel",
+    "actor": "US|Israel|Lebanon"
+  },
+  {
+    "date": "2026-05-08",
+    "title": "IRGC seizes Barbados-flagged tanker Ocean Koi in Gulf of Oman",
+    "direction": "Escalating",
+    "description": "Iran's IRGC Navy seized the Barbados-flagged oil tanker M/T Ocean Koi in the Gulf of Oman in what it called a 'special operation,' claiming the vessel had 'attempted to disrupt oil exports and the interests of the Iranian nation.' Press TV released video of Iranian forces boarding and detaining the ship. The seizure came hours after US-Iran clashes in the Strait of Hormuz and the same day the US disabled two more Iranian-flagged tankers (M/T Sea Star III and M/T Sevda) by firing precision munitions into their smokestacks — bringing to four the total vessels disabled enforcing the blockade. Bloomberg reported the Ocean Koi appeared to be carrying Iranian oil, suggesting Iran seized a vessel transporting its own crude.",
+    "source": "https://www.aljazeera.com/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-08",
+    "title": "US disables two more Iranian tankers; blockade traps 70+ vessels",
+    "direction": "Escalating",
+    "description": "US Navy forces disabled two Iranian-flagged tankers — M/T Sea Star III and M/T Sevda — by firing precision munitions into their smokestacks as they attempted to dock at Iranian ports in the Gulf of Oman on May 8, bringing the total vessels disabled to four since the blockade began. Admiral Bradley Cooper stated: 'US forces in the Middle East remain committed to full enforcement of the blockade of vessels entering or leaving Iran.' The blockade was now preventing 70+ tankers carrying 166+ million barrels worth an estimated $13 billion from entering or leaving Iranian ports. Over 20 warships, 200+ aircraft, and 15,000 troops were enforcing the interdiction. A total of 57 commercial vessels had been redirected since the blockade's April 12 start.",
+    "source": "https://www.foxnews.com/live-news/iran-war-news-trump-strait-hormuz-blockade-ceasefire-may-8",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-08",
+    "title": "Iran fires 2 ballistic missiles and 3 drones at UAE; 3 injured",
+    "direction": "Escalating",
+    "description": "Iran launched 2 ballistic missiles and 3 drones at the United Arab Emirates on May 8, injuring 3 people. The attack brought Iran's cumulative fire against the UAE since the war began to 551 ballistic missiles, 29 cruise missiles, and 2,263 UAVs intercepted, with 230 total injuries. The strikes came hours after US forces struck Iranian military facilities at Bandar Abbas, Qeshm Island, and Bandar Kargan in response to Iranian attacks on US destroyers. Iran's foreign ministry spokesman accused the US of a 'reckless military adventure,' while IRGC officials claimed Iran's missile inventory stood at '120% of prewar levels' — contradicting US intelligence assessments that Iran had expended approximately 75% of its stockpile.",
+    "source": "https://www.foxnews.com/live-news/iran-war-news-trump-strait-hormuz-blockade-ceasefire-may-8",
+    "actor": "Iran|UAE"
+  },
+  {
+    "date": "2026-05-08",
+    "title": "US sanctions 14 entities for supplying Iran's Shahed drone network",
+    "direction": "Neutral",
+    "description": "The US Treasury and State Department imposed sanctions on 14 entities across China, Hong Kong, Dubai, and Belarus for aiding Iran's military procurement and Shahed drone production. Treasury Secretary Bessent stated: 'The targeting of U.S. service members will not go unanswered.' The State Department separately sanctioned three Chinese firms — Meentropy Technology/MizarVision, The Earth Eye, and Chang Guang Satellite Technology — plus Iran's MINDEX defense export arm for providing satellite imagery and intelligence support to Iranian forces. One sanctioned firm, Pishgam Electronic Safeh Company, had procured thousands of servomotors found in downed Shahed-136 drones. The sanctions came days before Trump's planned visit to China to meet President Xi Jinping, and Treasury warned of potential secondary sanctions against Chinese 'teapot' oil refineries processing Iranian crude.",
+    "source": "https://www.al-monitor.com/originals/2026/05/us-imposes-sanctions-10-individuals-companies-aiding-irans-weapons-sector",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-08",
     "title": "Iran rejects enrichment freeze; calls US deal proposal 'wish-list'",
     "direction": "Escalating",
     "description": "Iran signaled it would reject key terms of the US one-page peace proposal, with officials declaring nuclear enrichment 'non-negotiable' and refusing to transfer its 440kg stockpile of 60%-enriched uranium abroad. Lawmaker Ebrahim Rezaee called the proposal 'more of an American wish-list than a reality.' Parliament Speaker Ghalibaf mocked the negotiations on social media. Iran's foreign ministry said it was still reviewing the proposal and would convey its response to Pakistani mediators, but insisted on sequencing — war cessation and sanctions relief first, nuclear program second — rejecting the US demand to bundle both into a single MOU. The hardened stance contrasted sharply with Axios reports two days earlier that Iran was close to agreeing on enrichment terms.",
