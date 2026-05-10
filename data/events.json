@@ -1,11 +1,43 @@
 [
   {
     "date": "2026-05-10",
+    "title": "IRGC says missiles 'locked onto' US targets; threatens 'heavy assault'",
+    "direction": "Escalating",
+    "description": "Iran's IRGC issued its most explicit military threat of the ceasefire period on May 10. The IRGC Aerospace Force declared: 'IRGC Aerospace Force missiles and drones have locked onto American targets in the region and the enemy aggressor's ships. We are awaiting the order to fire.' The IRGC Navy Command warned: 'Any aggression against Iran's oil tankers and commercial vessels will result in a heavy assault against one of the American centres in the region and the enemy's ships.' Separately, Army spokesman Brigadier General Amir Akraminia warned that countries enforcing US sanctions 'will certainly face problems passing through the Strait of Hormuz.' The threats came after the US disabled two Iranian tankers on May 8 and as Washington awaited Tehran's formal response to the 14-point peace proposal.",
+    "source": "https://www.tribuneindia.com/news/american-centers/irans-irgc-warns-us-assets-against-strikes-on-its-vessels-in-persian-gulf-says-missiles-locked-onto-targets",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-10",
+    "title": "Kuwait and UAE intercept Iranian drones targeting infrastructure",
+    "direction": "Escalating",
+    "description": "Kuwait's armed forces detected and intercepted hostile Iranian drones at dawn on May 10, with some targeting oil facilities, power stations, and water desalination plants, causing infrastructure damage. The UAE Defense Ministry separately reported intercepting 2 drones 'coming from Iran.' The attacks continued Iranian strikes on Gulf states despite the month-old ceasefire, following the May 8 attack that injured 3 in the UAE. Iran's cumulative fire against the UAE since the war began has included 551 ballistic missiles, 29 cruise missiles, and 2,263 UAVs intercepted.",
+    "source": "https://english.alarabiya.net/News/gulf/2026/05/10/kuwait-detects-hostile-drones-in-airspace",
+    "actor": "Iran|Kuwait|UAE"
+  },
+  {
+    "date": "2026-05-10",
     "title": "Qatari LNG tanker transits Hormuz — first passage since war began",
     "direction": "De-escalating",
     "description": "The Qatari LNG tanker Al Kharaitiyat sailed from Ras Laffan toward the Strait of Hormuz en route to Pakistan's Port Qasim, marking the first transit by a Qatari LNG vessel through the strait since the war began on February 28. Iran approved the shipment — a government-to-government gas sale from Qatar to Pakistan — as a confidence-building measure toward both Qatar and Pakistan, which is mediating the US-Iran peace talks. LSEG shipping data confirmed the vessel's course. QatarEnergy declined to comment. The transit came as relative calm prevailed around the strait after days of sporadic US-Iran clashes, and as Washington continued to await Tehran's formal response to the 14-point peace proposal.",
     "source": "https://www.freemalaysiatoday.com/category/highlight/2026/05/10/us-iran-no-closer-to-ending-war-as-qatari-tanker-sails-toward-strait-of-hormuz",
     "actor": "Qatar|Iran"
+  },
+  {
+    "date": "2026-05-09",
+    "title": "Satellite images reveal 52 km² oil slick off Iran's Kharg Island",
+    "direction": "Neutral",
+    "description": "Satellite imagery from Copernicus Sentinel-1, Sentinel-2, and Sentinel-3 satellites revealed an oil slick covering more than 52 square kilometers (20 square miles) off the west coast of Iran's Kharg Island, the country's primary oil export terminal handling 90% of exports. Orbital EOS told the New York Times that more than 3,000 barrels of oil may have been released. The cause remained unclear — Kharg has been struck multiple times by US and Israeli forces since March. Iran denied the spill. The Conflict and Environment Observatory said the slick was 'drifting south' and 'unlikely to be addressed appropriately' given wartime conditions.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-895580",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-05-09",
+    "title": "Iran parliament security chief warns Hormuz could close 'forever'",
+    "direction": "Escalating",
+    "description": "Ebrahim Azizi, head of Iran's parliamentary national security commission, warned that the Strait of Hormuz could be permanently closed to countries supporting US-backed resolutions. 'We warn governments, including microstates like Bahrain, that siding with the U.S.-backed resolution will bring severe consequences. The Strait of Hormuz is a vital lifeline; do not risk closing it on yourselves FOREVER,' Azizi said. The threat escalated Iran's Hormuz rhetoric from temporary wartime closure to permanent exclusion, specifically targeting smaller Gulf states that have supported US diplomatic initiatives.",
+    "source": "https://www.irishtimes.com/world/middle-east/2026/05/09/iranian-minister-accuses-us-of-reckless-military-adventure/",
+    "actor": "Iran"
   },
   {
     "date": "2026-05-09",
