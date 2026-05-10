@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-05-10",
+    "title": "Qatari LNG tanker transits Hormuz — first passage since war began",
+    "direction": "De-escalating",
+    "description": "The Qatari LNG tanker Al Kharaitiyat sailed from Ras Laffan toward the Strait of Hormuz en route to Pakistan's Port Qasim, marking the first transit by a Qatari LNG vessel through the strait since the war began on February 28. Iran approved the shipment — a government-to-government gas sale from Qatar to Pakistan — as a confidence-building measure toward both Qatar and Pakistan, which is mediating the US-Iran peace talks. LSEG shipping data confirmed the vessel's course. QatarEnergy declined to comment. The transit came as relative calm prevailed around the strait after days of sporadic US-Iran clashes, and as Washington continued to await Tehran's formal response to the 14-point peace proposal.",
+    "source": "https://www.freemalaysiatoday.com/category/highlight/2026/05/10/us-iran-no-closer-to-ending-war-as-qatari-tanker-sails-toward-strait-of-hormuz",
+    "actor": "Qatar|Iran"
+  },
+  {
+    "date": "2026-05-09",
+    "title": "Hezbollah explosive drones wound 3 Israeli soldiers near Misgav Am",
+    "direction": "Escalating",
+    "description": "Hezbollah launched several explosive drones at Israeli soldiers operating near the Lebanese border on May 9, severely wounding one IDF reservist and moderately injuring a reservist officer and another soldier near Misgav Am. A separate drone struck the Shlomi helicopter landing pad, damaging an unmanned engineering vehicle without causing casualties. Hezbollah claimed it 'targeted a gathering of Israeli enemy army soldiers near Misgav Am' in response to 'the Israeli enemy's violation of the ceasefire.' The IDF Air Force intercepted several additional projectiles aimed at Israeli troops. In retaliation, the IDF struck over 85 Hezbollah infrastructure sites in 24 hours, including weapons storage facilities, launcher positions, and an underground weapons production facility in the Beqaa Valley.",
+    "source": "https://www.jpost.com/middle-east/article-895604",
+    "actor": "Lebanon|Israel"
+  },
+  {
+    "date": "2026-05-09",
+    "title": "Israeli drone strikes on highway south of Beirut kill 4",
+    "direction": "Escalating",
+    "description": "Three Israeli drone strikes on vehicles south of Beirut killed 4 people on May 9 — the first strikes this close to the Lebanese capital since the April 17 ceasefire. Two strikes hit the highway linking Beirut to Sidon, killing one person in the town of Saadiyat where an AP journalist confirmed a body on the road, while the third struck a road leading to Lebanon's Chouf region, killing three. The strikes expanded Israel's targeting beyond southern Lebanon into the greater Beirut commuter corridor. Separately, strikes across southern Lebanon killed at least 13 more, including 7 in Saksakiyeh (with a child), 3 in Bourj Rahhal, and a Syrian man with his 12-year-old daughter in Nabatiyeh. Lebanon's health ministry denounced the 'deliberate violence against civilians and children' as violations of international humanitarian law.",
+    "source": "https://www.pbs.org/newshour/world/israeli-drone-strikes-kill-4-near-beirut-as-southern-airstrikes-kill-at-least-13",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-05-09",
+    "title": "Rubio and Witkoff meet Qatari PM in Miami; Qatar joins Iran mediation",
+    "direction": "De-escalating",
+    "description": "Secretary of State Marco Rubio and special envoy Steve Witkoff met Qatari Prime Minister Mohammed bin Abdulrahman Al Thani in Miami on May 9 to discuss Iran peace talks, according to Axios. The meeting came a day after Al Thani told al-Araby al-Jadeed there was a 'high probability' the US and Iran would reach a deal, and after he met Vice President JD Vance at the White House on May 8 to discuss LNG markets, regional stability, and the Iranian conflict. Qatar has been operating as a go-between alongside Pakistan's lead mediation role, though Doha has been reluctant to take a more prominent position for fear of blame if talks collapse. The diplomatic flurry came as Washington awaited Tehran's response to the 14-point MOU that would formally end the war before addressing Iran's nuclear program.",
+    "source": "https://www.axios.com/2026/05/09/witkoff-rubio-qatar-iran-deal",
+    "actor": "US|Qatar"
+  },
+  {
     "date": "2026-05-09",
     "title": "Trump threatens 'Project Freedom Plus' if Iran rejects deal",
     "direction": "Escalating",
