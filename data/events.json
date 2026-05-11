@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-05-11",
+    "title": "Oil surges 5% as markets react to collapse of US-Iran diplomacy",
+    "direction": "Escalating",
+    "description": "Oil prices surged nearly 5% on May 11 after Trump rejected Iran's counter-proposal as 'totally unacceptable.' Brent crude rose 4.3% to $105.70 per barrel and WTI jumped 4.96% to $100.20 — the first time WTI crossed $100 since the ceasefire rally. The spike reflected market fears that the diplomatic impasse would prolong the Strait of Hormuz disruption, which has removed approximately 21 million barrels per day from global markets. Oil prices are up roughly 45% since the war began on February 28. The Indian rupee also fell sharply, prompting the Reserve Bank of India to intervene in currency markets.",
+    "source": "https://www.thenationalnews.com/business/energy/2026/05/11/oil-prices-trump-iran-hormuz/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-05-11",
+    "title": "Modi urges 1.4 billion Indians to conserve fuel, work from home amid oil shock",
+    "direction": "Neutral",
+    "description": "Indian Prime Minister Narendra Modi, speaking at a BJP rally in Hyderabad on May 11, urged citizens to conserve fuel, postpone foreign travel for one year, delay gold purchases for one year, use public transport, carpool, and switch to electric vehicles. 'We got used to work-from-home, virtual meetings and video conferencing during Covid-19. The need of the hour is to bring back those methods,' Modi said. India imports 85% of its fuel and relies on the Strait of Hormuz for approximately 50% of its crude, 60% of LNG, and nearly all LPG supplies. UBS Securities cut India's FY2027 growth forecast from 6.7% to 6.2%. The appeal made India — the world's most populous nation and third-largest oil importer — the first major economy to publicly ask citizens to change daily behavior because of the war.",
+    "source": "https://www.onmanorama.com/news/india/2026/05/11/modi-fuel-cuts-economy-wfh-foreign-travel-gold-west-asia-crisis.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-05-11",
+    "title": "Iran FM spokesman calls US demands 'unreasonable,' defends counter-proposal",
+    "direction": "Escalating",
+    "description": "Iran's Foreign Ministry spokesperson Esmaeil Baghaei responded to Trump's rejection on May 11 by calling Iran's counter-proposal 'generous and responsible' and accusing Washington of 'unreasonable and one-sided demands.' Baghaei said: 'Our demand is legitimate: demanding an end to the war, lifting the blockade and piracy, and releasing Iranian assets that have been unjustly frozen.' He cited the US withdrawal from the JCPOA in 2018 as evidence that 'the United States has repeatedly proven unreliable.' He added: 'Whenever we are forced to fight, we will fight and whenever there is room for diplomacy, we will seize that opportunity.' The statement hardened Iran's negotiating posture ahead of Trump's planned May 13-16 Middle East tour to Saudi Arabia, Qatar, and the UAE.",
+    "source": "https://tribune.com.pk/story/2607468/stability-undermined-in-region-iranian-fm-spokesperson",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-05-10",
     "title": "Iran sends counter-proposal via Pakistan; Trump rejects it as 'totally unacceptable'",
     "direction": "Escalating",
