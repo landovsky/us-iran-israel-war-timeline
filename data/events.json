@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-05-12",
+    "title": "Trump calls Iran proposal 'garbage,' aides say he mulls resuming combat",
+    "direction": "Escalating",
+    "description": "President Trump escalated his rejection of Iran's counter-proposal on May 12, calling it 'a piece of garbage' he 'didn't even finish reading' and declaring the ceasefire 'on massive life support.' CNN reported that Trump aides said he is 'more seriously considering a resumption of major combat operations' than at any point since the ceasefire began. Iran's Parliament Speaker Ghalibaf responded that the US has 'no alternative but to accept' Tehran's 14-point proposal. The diplomatic impasse came one day before Trump's departure for Beijing, where he plans to press Xi Jinping on Iran. A regional source told CNN the talks are unlikely to advance until after the Trump-Xi meeting.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-05-12",
+    "title": "Huckabee reveals Israel deployed Iron Dome batteries and personnel to UAE",
+    "direction": "Neutral",
+    "description": "US Ambassador to Israel Mike Huckabee publicly confirmed at a Tel Aviv University event on May 12 that Israel sent Iron Dome anti-missile batteries and personnel to the UAE to defend against Iranian attacks — the first time Israel has deployed its air defense system to another nation. 'Israel just sent them Iron Dome batteries and personnel to help operate them,' Huckabee said, attributing the cooperation to the 2020 Abraham Accords. The disclosure came after Iran fired over 550 ballistic missiles and 2,200 drones at the UAE during the war. The UAE maintained up to 17 daily flights to Israel when Western carriers withdrew. US Ambassador to the UN Mike Waltz had also referenced the deployment the previous evening.",
+    "source": "https://www.jns.org/news/israel-news/huckabee-confirms-israel-sent-uae-iron-dome-personnel-during-iran-war",
+    "actor": "Israel|UAE"
+  },
+  {
+    "date": "2026-05-12",
+    "title": "IDF intercepts Houthi drone near Eilat; first attack on city since ceasefire",
+    "direction": "Escalating",
+    "description": "The IDF intercepted a drone launched by Yemen's Houthis near Eilat on May 12, marking the first attack on the southern Israeli city since the Iran ceasefire took effect on April 8. The drone was shot down off the coast of Eilat. The IDF said no sirens sounded 'according to protocol' because the drone did not pose a threat to populated areas. The Houthis joined the war on March 28 by launching a ballistic missile at Israel and have continued sporadic attacks despite the ceasefire.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-intercepted-houthi-drone-strike-off-eilat-coast/",
+    "actor": "Other|Israel"
+  },
+  {
+    "date": "2026-05-12",
+    "title": "Israeli strikes kill 6, wound 7 in Kfar Dounine despite Lebanon ceasefire",
+    "direction": "Escalating",
+    "description": "Israeli strikes hit a house in Kfar Dounine, a town 95 km south of Beirut, on the night of May 12, killing 6 people and wounding 7, according to Lebanon's National News Agency. The wounded were transported to hospitals in Tyre. Separately, the IDF issued evacuation orders for Sohmor in Lebanon's Bekaa Valley. The strike brought Lebanon's cumulative death toll to over 2,800 since March 2, with the April 17 ceasefire failing to halt Israeli operations. Israeli military losses in Lebanon stand at 18 soldiers and one civilian contractor.",
+    "source": "https://www.arabnews.com/node/2643219/middle-east",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-05-12",
+    "title": "Hezbollah fires surface-to-air missile at Israeli drone over Lebanon; IDF retaliates",
+    "direction": "Escalating",
+    "description": "Hezbollah fired a surface-to-air missile at an Israeli drone operating over southern Lebanon on May 12, in what the IDF said was a 'failed' launch that caused no damage or injuries. The Israeli Air Force subsequently struck a suspect fleeing the missile launch site on a motorcycle. Separately, Hezbollah claimed it conducted 20 military operations on May 11 against Israeli forces across eight areas in southern Lebanon — including Taybeh, Naqoura, and Adaisseh — using strike drones, artillery, and missiles. Hezbollah's media chief stated the group believes FPV drone casualties can force an Israeli withdrawal more effectively than negotiations.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/idf-says-hezbollah-tried-failed-to-down-israeli-drone-over-lebanon-terror-groups-uav-downed/",
+    "actor": "Lebanon|Israel"
+  },
+  {
+    "date": "2026-05-12",
+    "title": "UN warns Hormuz fertilizer blockade could push 45 million into hunger",
+    "direction": "Neutral",
+    "description": "Jorge Moreira da Silva, head of the UN task force on Hormuz humanitarian access, warned on May 12 that the strait's closure could force 45 million additional people into hunger and starvation. 'We have a few weeks ahead of us to prevent what will likely be a massive humanitarian crisis,' he told AFP in Paris. One-third of global fertilizer trade transits the Strait of Hormuz, and the blockade has halted virtually all shipments since March. The UN proposed a humanitarian corridor requiring just five vessels daily, which could be operational within seven days, but Moreira da Silva said the US, Iran, and Gulf states have shown insufficient 'political will.' Full normalization would take three to four months even if the strait reopened immediately.",
+    "source": "https://www.al-monitor.com/originals/2026/05/tens-millions-risk-hunger-hormuz-standoff-blocks-fertiliser-un-official-says",
+    "actor": "Other"
+  },
+  {
     "date": "2026-05-11",
     "title": "US sanctions 12 entities for IRGC oil sales to China; offers $15M reward",
     "direction": "Escalating",
