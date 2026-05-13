@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-05-13",
+    "title": "Israeli drone strikes kill 8 including 2 children on highway south of Beirut",
+    "direction": "Escalating",
+    "description": "Three Israeli drone strikes hit vehicles on the main coastal highway linking Beirut to southern Lebanon in the Jiyeh area, approximately 20 km south of Beirut, on May 13, killing at least 8 people including 2 children. Vehicles were described as 'severely damaged, their exteriors charred and torn apart.' The IDF simultaneously issued forced displacement orders for six southern Lebanese villages, warning residents to evacuate at least 1,000 meters. The strikes came one day before a third round of US-brokered Lebanon-Israel direct talks scheduled for May 16 in Washington. Lebanon's health ministry said at least 380 people have been killed since the April 17 ceasefire, with the total death toll surpassing 2,800 since March 2.",
+    "source": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "Trump departs for Beijing; tells reporters Iran war 'will not be long'",
+    "direction": "De-escalating",
+    "description": "President Trump departed Washington for Beijing on May 13 for a state visit and summit with President Xi Jinping, his first trip to China since 2017. Trump told reporters he would have a 'long talk' on Iran with Xi but downplayed the need for Beijing's help, saying 'we have Iran very much under control.' He predicted the war's end would trigger sharp drops in oil prices and inflation, noting hundreds of oil tankers were waiting to leave the region. Trump also said 'I don't think about Americans' financial situation' when asked about the war's economic toll. The summit agenda includes trade, Taiwan, AI, and the Iran war, with formal meetings scheduled for May 15-16.",
+    "source": "https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "Hegseth tells Congress Iran war has cost at least $29 billion in 74 days",
+    "direction": "Neutral",
+    "description": "Defense Secretary Pete Hegseth told lawmakers on May 13 that the Iran war has cost the US at least $29 billion in munitions and equipment over 74 days, excluding damage to US bases from Iranian attacks. The figure exceeded the $25 billion estimate the Pentagon provided to Congress two weeks earlier. A Harvard Kennedy School expert estimated in April the total cost could reach $1 trillion. Hegseth stated that military escalation remains an option if diplomacy fails.",
+    "source": "https://edition.cnn.com/2026/05/13/world/live-news/trump-iran-war-news",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "US intel: Iran retains 70% of mobile launchers, restored 30 of 33 Hormuz missile sites",
+    "direction": "Escalating",
+    "description": "The New York Times reported on May 13 that classified US intelligence assessments show Iran retains approximately 70% of its mobile missile launchers and pre-war missile stockpiles despite 39 days of US-Israeli airstrikes. Iran has also restored access to 30 of 33 missile sites along the Strait of Hormuz, undermining US claims of having degraded Iran's military capability by 90%. The assessment raises questions about whether a resumption of strikes could meaningfully change Iran's military posture.",
+    "source": "https://edition.cnn.com/2026/05/13/world/live-news/trump-iran-war-news",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "Kuwait arrests 4 IRGC members attempting to infiltrate Bubiyan Island",
+    "direction": "Escalating",
+    "description": "Kuwaiti security forces arrested four alleged IRGC members attempting to infiltrate Bubiyan Island, Kuwait's largest island near the Iraqi border, by sea on May 13. A Kuwaiti soldier was injured during the operation. The incident marked the first reported Iranian ground infiltration attempt against a Gulf state during the conflict, escalating beyond the missile and drone attacks that have characterized Iran's campaign against Gulf states since February.",
+    "source": "https://edition.cnn.com/2026/05/13/world/live-news/trump-iran-war-news",
+    "actor": "Iran|Kuwait"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "IEA: Global oil stocks down 250 million barrels; 14 mb/d shut in from Gulf",
+    "direction": "Neutral",
+    "description": "The International Energy Agency published its May Oil Market Report on May 13, warning that global oil stockpiles fell by 250 million barrels over March and April combined — a drawdown rate of 4 million barrels per day. More than 14 mb/d of Gulf oil production is now shut in, with cumulative supply losses of 12.8 mb/d since February. The IEA projected world oil demand would contract by 420,000 b/d year-on-year in 2026 to 104 mb/d, with the steepest drops in petrochemicals and aviation. North Sea Dated crude averaged $120.36/bbl in April with a nearly $50/bbl intra-month range. The market remains in deficit through Q4 2026 unless the Strait of Hormuz reopens.",
+    "source": "https://www.iea.org/reports/oil-market-report-may-2026",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "UAE designates 21 Hezbollah-linked individuals and entities as terrorists",
+    "direction": "Escalating",
+    "description": "The UAE Cabinet approved Resolution No. 63 of 2026 on May 13, designating 16 Lebanese nationals and 5 Lebanon-based organizations on its Local Terrorist List over links to Hezbollah. All UAE regulatory authorities were ordered to freeze assets of those listed within 24 hours. In March, Abu Dhabi had arrested five members of a 'terrorist network' linked to Hezbollah and Iran allegedly targeting UAE financial stability. The designation followed months of Iranian missile and drone attacks on the UAE — totaling 551 ballistic missiles, 29 cruise missiles, and 2,263 UAVs intercepted since the war began.",
+    "source": "https://english.aawsat.com/gulf/5272709-uae-designates-21-hezbollah-linked-individuals-entities-terrorists",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-05-12",
+    "title": "Iranian MP threatens 90% weapons-grade uranium enrichment if US resumes strikes",
+    "direction": "Escalating",
+    "description": "Ebrahim Rezaei, Iranian MP for Dashtestan and spokesperson for parliament's National Security and Foreign Policy Committee, posted on X on May 12 that Iran could enrich uranium to weapons-grade 90% if the US resumes military strikes, saying the option would be discussed in parliament. Iran holds approximately 400 kg of uranium enriched to 60% — enough for roughly 10 nuclear weapons if further enriched. The IAEA has assessed Iran could reach weapons-grade material within one to two weeks. The threat represented the most explicit nuclear escalation signal from an Iranian official since the ceasefire began on April 8.",
+    "source": "https://www.euronews.com/2026/05/12/iran-threatens-weapons-grade-uranium-enrichment-as-peace-talks-falter",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-05-12",
     "title": "Trump calls Iran proposal 'garbage,' aides say he mulls resuming combat",
     "direction": "Escalating",
