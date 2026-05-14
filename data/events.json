@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-14",
+    "title": "Trump and Xi hold formal summit at Great Hall of the People in Beijing",
+    "direction": "De-escalating",
+    "description": "President Trump and Chinese President Xi Jinping held a formal summit on May 14 at the Great Hall of the People in Beijing, with a military honor guard, brass band playing The Star-Spangled Banner, and schoolchildren waving flags. Xi told Trump: 'A stable bilateral relationship is good for the world. We should be partners, not rivals.' Trump called Xi a 'great leader' and predicted 'a fantastic future together.' The US delegation included Secretary of State Rubio, Treasury Secretary Bessent, Defense Secretary Hegseth, and CEOs Elon Musk (Tesla), Jensen Huang (Nvidia), and Tim Cook (Apple). Discussions covered trade, rare earth elements, semiconductors, Taiwan, and the Iran war — with Trump pressing Xi to use China's leverage as Iran's largest oil buyer to push Tehran toward a deal and reopen the Strait of Hormuz. No concrete agreements were announced.",
+    "source": "https://www.cbsnews.com/news/trump-xi-jinping-meeting-china-beijing-trade-tariffs-taiwan-iran/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-14",
+    "title": "51 GOP senators and 177 House Republicans demand zero Iran enrichment",
+    "direction": "Escalating",
+    "description": "Fifty-one Republican senators — every GOP senator except Rand Paul — and 177 House Republicans (80% of the caucus) sent a letter to President Trump on May 14 demanding that any deal with Iran require the 'total dismantlement' of its uranium enrichment capability. 'The scope and breadth of Iran's nuclear buildout have made it impossible to verify any new deal that allows Iran to continue enriching uranium,' the letter stated. Led by Senate Foreign Relations Committee Chairman Jim Risch and Sen. Pete Ricketts, the letter responded to mixed signals from the administration after Middle East envoy Steve Witkoff briefly suggested 3.67% enrichment might be acceptable before reversing course. Iran holds approximately 400 kg of uranium enriched to 60%, and the IAEA assesses it could reach weapons-grade 90% within one to two weeks.",
+    "source": "https://www.jns.org/republicans-urge-trump-to-reject-any-iranian-nuclear-enrichment/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-14",
+    "title": "Israel-Lebanon third round of peace talks opens in Washington",
+    "direction": "De-escalating",
+    "description": "Israel and Lebanon opened a third round of US-facilitated peace talks at the State Department on May 14, with sessions scheduled through May 15. Lebanon's delegation is led by former Ambassador Simon Karam, accompanied by Ambassador Nada Mouawad and Military Attaché Oliver Hakmeh. Israel's delegation is led by Strategic Affairs Minister Ron Dermer, with Ambassador Yehiel Leiter. The talks aim to advance a comprehensive agreement covering full Israeli withdrawal from southern Lebanon, border delineation, prisoner exchanges, the return of displaced residents, and reconstruction. The round builds on the April 23 session chaired by President Trump, who announced a three-week ceasefire extension. Hezbollah demanded Lebanon cancel the talks, calling them treason.",
+    "source": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/next-meeting-between-the-governments-of-the-united-states-lebanon-and-israel",
+    "actor": "Israel|Lebanon|US"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "Netanyahu reveals secret March 26 wartime visit to UAE; Abu Dhabi denies",
+    "direction": "Neutral",
+    "description": "Israeli PM Netanyahu's office disclosed on May 13 that he secretly visited the UAE on March 26, meeting President Mohammed bin Zayed in Al-Ain for several hours while US-Israeli strikes on Iran were underway. MBZ 'personally drove the PM in his personal car from the plane to the palace,' according to former PMO spokesperson Ziv Agmon. Netanyahu's office called it a 'historic breakthrough in relations.' Mossad Chief David Barnea and Shin Bet Chief David Zini also made separate visits to the UAE during the war to coordinate on Iranian threats. The UAE Foreign Ministry denied the claims, stating: 'Any claims regarding unannounced visits or undisclosed arrangements are entirely unfounded.' The disclosure came one day after Huckabee confirmed Israel deployed Iron Dome batteries to the UAE. The UAE conducted strikes on Iran's Lavan Island refinery in early April.",
+    "source": "https://www.aljazeera.com/news/2026/5/13/netanyahu-visited-uae-in-secret-during-us-israel-war-on-iran-office-says",
+    "actor": "Israel|UAE"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "Pentagon considers 'Operation Sledgehammer' if Iran ceasefire collapses",
+    "direction": "Escalating",
+    "description": "NBC News reported on May 13 that the Pentagon is considering renaming the Iran war 'Operation Sledgehammer' if the ceasefire collapses, replacing the current 'Operation Epic Fury' designation that was formally ended on May 5. US officials said the name change could allow the Trump administration to argue it restarts the 60-day War Powers Resolution clock requiring congressional authorization — a legal maneuver to avoid seeking a formal vote. Trump told reporters the ceasefire has a '1% chance of living.' Operation Sledgehammer is not the only name under consideration. The discussions underscore how seriously the administration is weighing a resumption of major combat operations against Iran.",
+    "source": "https://www.nbcnews.com/politics/national-security/pentagon-considering-re-naming-iran-war-sledgehammer-ceasefire-collaps-rcna344630",
+    "actor": "US"
+  },
+  {
     "date": "2026-05-13",
     "title": "Israeli drone strikes kill 8 including 2 children on highway south of Beirut",
     "direction": "Escalating",
