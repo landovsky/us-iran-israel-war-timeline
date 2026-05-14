@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-05-14",
+    "title": "Vessel seized off Fujairah, directed toward Iranian waters",
+    "direction": "Escalating",
+    "description": "UK Maritime Trade Operations reported on May 14 that a vessel at anchor was seized by 'unauthorized personnel' approximately 38 nautical miles northeast of Fujairah at 0545 GMT and directed toward Iranian waters. The ship's identity was not disclosed and no group claimed responsibility. Maritime intelligence firm Windward AI tracked 342 active Iranian fast-attack boats across five monitored zones of the Strait of Hormuz on May 14, down from 454 on May 13, using 'swarm-style formations' and 'escort-like behavior.' All large-hull commercial vessels in the strait remained stationary, with a total halt in traffic. Iran has laid claim to expanded 'sovereignty' rights in and around the strait under a newly redrawn map of Iranian waters that appears to cover the area where the vessel was seized.",
+    "source": "https://english.alarabiya.net/News/gulf/2026/05/14/ukmto-says-vessel-seized-off-uae-s-fujairah-heads-toward-iranian-waters",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-14",
+    "title": "Hezbollah drone strikes Rosh Hanikra, injuring 3 Israeli civilians",
+    "direction": "Escalating",
+    "description": "An explosive drone launched by Hezbollah struck a parking area near Rosh Hanikra on the Israel-Lebanon border at 09:02 GMT on May 14, injuring 3 Israeli civilians — 2 seriously and 1 lightly. No warning sirens sounded, indicating the drone evaded Israeli air defense detection systems. The IDF called the attack 'a blatant violation of the ceasefire understandings by the terrorist organization Hezbollah.' Israel launched retaliatory strikes on Hezbollah targets in southern Lebanon. The attack came on the same day as the opening of a third round of US-brokered Israel-Lebanon peace talks in Washington.",
+    "source": "https://www.albawaba.net/news/israel-hezbollah-drone-strikes-parking-1627635",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-05-14",
+    "title": "Iran's World Cup squad given public sendoff in Tehran amid war",
+    "direction": "Neutral",
+    "description": "Thousands gathered in Tehran's Enqelab Square on May 13-14 for a public sendoff of Iran's national football team ahead of the 2026 FIFA World Cup in the United States — the host nation currently at war with Iran. Football Federation president Mehdi Taj called it 'the best sendoff in the last four World Cup campaigns.' Iran is drawn in Group G against New Zealand, Belgium, and Egypt, opening June 15 in Los Angeles. The team will train in Turkey before traveling to the US, but visa complications remain unresolved: an IRGC-affiliated delegation was previously turned back at Toronto's airport, and FIFA has been asked to guarantee entry for all team staff. Iran demanded guarantees for its flag, anthem, and security at stadiums.",
+    "source": "https://www.aljazeera.com/sports/2026/5/14/irans-us-bound-world-cup-squad-given-public-sendoff-in-tehran",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-14",
     "title": "Trump and Xi hold formal summit at Great Hall of the People in Beijing",
     "direction": "De-escalating",
     "description": "President Trump and Chinese President Xi Jinping held a formal summit on May 14 at the Great Hall of the People in Beijing, with a military honor guard, brass band playing The Star-Spangled Banner, and schoolchildren waving flags. Xi told Trump: 'A stable bilateral relationship is good for the world. We should be partners, not rivals.' Trump called Xi a 'great leader' and predicted 'a fantastic future together.' The US delegation included Secretary of State Rubio, Treasury Secretary Bessent, Defense Secretary Hegseth, and CEOs Elon Musk (Tesla), Jensen Huang (Nvidia), and Tim Cook (Apple). Discussions covered trade, rare earth elements, semiconductors, Taiwan, and the Iran war — with Trump pressing Xi to use China's leverage as Iran's largest oil buyer to push Tehran toward a deal and reopen the Strait of Hormuz. No concrete agreements were announced.",
@@ -43,7 +67,7 @@
     "date": "2026-05-13",
     "title": "Israeli drone strikes kill 8 including 2 children on highway south of Beirut",
     "direction": "Escalating",
-    "description": "Three Israeli drone strikes hit vehicles on the main coastal highway linking Beirut to southern Lebanon in the Jiyeh area, approximately 20 km south of Beirut, on May 13, killing at least 8 people including 2 children. Vehicles were described as 'severely damaged, their exteriors charred and torn apart.' The IDF simultaneously issued forced displacement orders for six southern Lebanese villages, warning residents to evacuate at least 1,000 meters. The strikes came one day before a third round of US-brokered Lebanon-Israel direct talks scheduled for May 16 in Washington. Lebanon's health ministry said at least 380 people have been killed since the April 17 ceasefire, with the total death toll surpassing 2,800 since March 2.",
+    "description": "Israeli drone strikes hit vehicles on the main coastal highway linking Beirut to southern Lebanon in the Jiyeh area, approximately 20 km south of Beirut, on May 13, killing at least 15 people including 2 children in three separate strikes. Vehicles were described as 'severely damaged, their exteriors charred and torn apart.' The IDF simultaneously issued forced displacement orders for six southern Lebanese villages, warning residents to evacuate at least 1,000 meters. The strikes came one day before a third round of US-brokered Lebanon-Israel direct talks in Washington. Lebanon's health ministry said at least 380 people have been killed since the April 17 ceasefire, with the total death toll surpassing 2,800 since March 2.",
     "source": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut",
     "actor": "Israel"
   },
@@ -94,6 +118,30 @@
     "description": "The UAE Cabinet approved Resolution No. 63 of 2026 on May 13, designating 16 Lebanese nationals and 5 Lebanon-based organizations on its Local Terrorist List over links to Hezbollah. All UAE regulatory authorities were ordered to freeze assets of those listed within 24 hours. In March, Abu Dhabi had arrested five members of a 'terrorist network' linked to Hezbollah and Iran allegedly targeting UAE financial stability. The designation followed months of Iranian missile and drone attacks on the UAE — totaling 551 ballistic missiles, 29 cruise missiles, and 2,263 UAVs intercepted since the war began.",
     "source": "https://english.aawsat.com/gulf/5272709-uae-designates-21-hezbollah-linked-individuals-entities-terrorists",
     "actor": "UAE"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "Senate rejects 7th war powers resolution in closest vote yet, 49-50",
+    "direction": "Neutral",
+    "description": "The Senate rejected a seventh Democratic attempt to limit Trump's Iran war powers on May 13, with a motion to discharge the resolution from committee failing 49-50 — the closest vote yet. Three Republicans broke ranks: Rand Paul, Susan Collins, and Lisa Murkowski, who voted for the first time to advance the measure, saying 'We're in a different place than we were last time we voted on this.' Sen. John Fetterman was the sole Democrat to oppose. The resolution, led by Sen. Jeff Merkley, would have required Trump to 'remove the United States Armed Forces from hostilities within or against Iran' unless Congress declared war. Sen. Jim Risch countered: 'The hostilities ended with the April 7 ceasefire. They're over — full stop.' Sen. Tim Kaine predicted: 'There will be a day, and it might be soon, where this Senate will say to the president, stop this war.'",
+    "source": "https://www.cbsnews.com/news/senate-defeats-7th-trump-war-powers-iran/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "Iran executes alleged Mossad spy Ehsan Afreshteh, 6th since war began",
+    "direction": "Escalating",
+    "description": "Iran executed Ehsan Afreshteh, 32, on May 13 on charges of 'espionage and intelligence cooperation in favor of Israel,' making him the sixth person executed on espionage charges since the war began. According to Iranian court documents, Afreshteh was recruited by Mossad in Turkey, trained in Nepal, and systematically funneled intelligence from Iranian military and cyber institutions to Israel. Iran Human Rights reported he was subjected to forced confessions, prolonged solitary confinement, and denial of access to a lawyer of his choosing. Iran also executed Mohammad Abbasi on May 13 for killing a police officer during January 2026 protests.",
+    "source": "https://english.shabtabnews.com/2026/05/13/ehsan-afrashteh-executed-on-espionage-charges/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "US wholesale prices surge 6% YoY in April, highest since Dec 2022",
+    "direction": "Neutral",
+    "description": "The Bureau of Labor Statistics reported on May 13 that the US Producer Price Index rose 1.4% month-on-month in April — nearly triple the 0.5% Dow Jones consensus forecast — and 6.0% year-on-year, the highest annual increase since December 2022. Goods prices jumped 2.0%, led by a 15.6% surge in gasoline, with more than three-quarters of the broad-based increase traced to a 7.8% jump in final demand energy prices driven by the Iran war's disruption of Gulf oil flows. Services rose 1.2%, the largest monthly gain since March 2022, with two-thirds attributed to a 2.7% rise in trade services as tariff costs widened.",
+    "source": "https://www.cnbc.com/2026/05/13/ppi-inflation-report-april-2026-.html",
+    "actor": "US"
   },
   {
     "date": "2026-05-12",
