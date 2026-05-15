@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-15",
+    "title": "Trump and Xi agree Iran must never have nuclear weapons; Xi pledges no arms",
+    "direction": "De-escalating",
+    "description": "President Trump announced on May 15 that he and Chinese President Xi Jinping agreed during their Beijing summit that Iran 'can never have a nuclear weapon.' Trump said Xi pledged China would not provide military equipment or weapons to Iran — though US intelligence has assessed China may have already sent shoulder-mounted missiles to Tehran. Secretary of State Rubio told reporters the US and China agreed the Strait of Hormuz should not be 'militarized,' and Trump said Xi offered to help negotiate an end to the Iran war and reopen the strait. No formal written agreement was produced. Xi also agreed to purchase 200 Boeing jets and to work on stopping fentanyl precursor flows to the US.",
+    "source": "https://www.foxnews.com/politics/trumps-upbeat-china-message-collides-deepening-beijing-rivalry",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-15",
+    "title": "IDF kills 40+ Hezbollah fighters in south Lebanon; Israeli soldier killed by mortar",
+    "direction": "Escalating",
+    "description": "The IDF's 36th Division killed more than 40 Hezbollah operatives and struck approximately 75 targets in southern Lebanon on May 15, including three fighters operating a rocket launcher. The Israeli Air Force intercepted a suspicious aerial target over southern Lebanon in the early hours. Separately, Staff Sgt. Negev Dagan, 20, was killed by a Hezbollah mortar shell in southern Lebanon — the 17th IDF soldier killed in Lebanon since the ground operation began. Hezbollah claimed attacks on Israeli positions at Ras al-Naqoura, a Merkava tank in Taybeh, and a Humvee in Tayr Harfa. The operations came as the third round of Israel-Lebanon peace talks concluded a second day at the State Department, with a US official calling them 'productive and positive.'",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-05-14/live-updates-896134",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-05-14",
+    "title": "CENTCOM commander tells Senate Epic Fury 'rolled back 40 years' of Iran's military",
+    "direction": "Neutral",
+    "description": "Admiral Brad Cooper, CENTCOM commander, testified before the Senate Armed Services Committee on May 14 that Operation Epic Fury conducted 10,200+ sorties and 13,500+ strikes over 38 days, destroying 161 Iranian vessels across 16 warship classes, 90% of Iran's 8,000+ naval mines, and 85% of its ballistic missile, drone, and naval industrial base. US forces intercepted 6,000+ attack drones and 1,500+ ballistic missiles. Cooper said Iran's daily air sorties dropped from 30-100 to zero and 82% of its air defense systems were destroyed. He stated 14 US servicemen were killed in the operation. Cooper disputed the New York Times report that Iran retained 70% of its missile capacity, calling open-source numbers 'not accurate,' but acknowledged Iran retains 'nuisance capability' including fast-boat harassment and isolated strikes. He confirmed the military's investigation into the strike on an Iranian girls' school that killed approximately 150 people remains ongoing.",
+    "source": "https://gcaptain.com/u-s-admiral-says-operation-epic-fury-rolled-back-40-years-of-iranian-military-investment/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-14",
+    "title": "Israel's Katz warns military operations against Iran may resume soon",
+    "direction": "Escalating",
+    "description": "Israeli Defense Minister Israel Katz declared on May 14 that 'the military operation against Iran has not been completed and may be resumed in the near future,' stressing the need to ensure Iran no longer poses an existential threat to Israel or the United States. MK Nissim Vaturi said Israel is 'closer than ever' to returning to fighting in Iran. The warnings came as US-Iran negotiations remained deadlocked over Tehran's demands for Hormuz sovereignty recognition and sanctions relief. Separately, Al Hadath reported that Trump may order the resumption of military strikes on Iran immediately upon returning from China, and that Israeli leadership had been notified of this possibility.",
+    "source": "https://www.yahoo.com/news/articles/israels-defense-minister-israel-katz-104945575.html",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-05-12",
+    "title": "US April CPI surges to 3.8% as war drives energy prices up 17.9% annually",
+    "direction": "Neutral",
+    "description": "The Bureau of Labor Statistics reported on May 12 that the Consumer Price Index rose 0.6% month-on-month in April and 3.8% year-over-year — the highest annual rate since May 2023. Core CPI excluding food and energy rose 0.4% monthly and 2.8% annually, with the monthly rate the highest since January 2025. Energy prices jumped 3.8% for the month and 17.9% year-over-year, accounting for more than 40% of the headline increase. Food prices climbed 0.5% monthly and 3.2% annually. The report followed the April PPI data showing wholesale prices surging 6.0% annually, confirming the Iran war's energy shock is driving a broad-based inflation acceleration that is complicating the Federal Reserve's rate-cutting plans.",
+    "source": "https://www.cnbc.com/2026/05/12/cpi-inflation-april-2026-.html",
+    "actor": "US"
+  },
+  {
     "date": "2026-05-14",
     "title": "Vessel seized off Fujairah, directed toward Iranian waters",
     "direction": "Escalating",
