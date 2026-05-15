@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-05-15",
+    "title": "Trump warns Iran of 'annihilation,' posts decimation 'to be continued'",
+    "direction": "Escalating",
+    "description": "President Trump told Fox News's Sean Hannity on May 15 that he is 'not going to be much more patient' with Iran and that its leaders 'can make a deal, or they get annihilated,' adding 'any sane person would make a deal, but they might be crazy.' Trump separately posted on Truth Social counting 'the military decimation of Iran' among his accomplishments and adding 'to be continued!' Oil prices rose on the statements. The threats came hours after Trump announced his agreement with Xi Jinping that Iran must never have nuclear weapons, signaling the administration is pursuing maximum diplomatic and military pressure simultaneously.",
+    "source": "https://www.jpost.com/international/article-896297",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-15",
+    "title": "IDF Chief Zamir's secret wartime visit to UAE disclosed",
+    "direction": "Neutral",
+    "description": "Israeli media disclosed on May 15 that IDF Chief of Staff Lt.-Gen. Eyal Zamir secretly visited Abu Dhabi during Operation Roaring Lion, accompanied by a US delegation, to 'strengthen cooperation across various scenarios in a war with Iran, including both defensive and offensive operations.' Security sources described the coordination as 'exceptional strategic cooperation' enabled by the Abraham Accords. The disclosure followed earlier revelations that Mossad Director David Barnea, Shin Bet Director David Zini, and PM Netanyahu himself all visited the UAE during the war, confirming Israel and the UAE operated as de facto military allies throughout the conflict.",
+    "source": "https://www.jpost.com/israel-news/defense-news/article-896313",
+    "actor": "Israel|UAE"
+  },
+  {
+    "date": "2026-05-15",
+    "title": "Report: UAE failed to persuade Saudi Arabia and Qatar to jointly attack Iran",
+    "direction": "Neutral",
+    "description": "The Times of Israel reported on May 15 that UAE President Mohammed bin Zayed called Saudi Crown Prince Mohammed bin Salman and other Gulf leaders early in the war to argue for a collective military campaign against Iran, but all counterparts refused. The Trump administration was aware of the effort and wanted Saudi Arabia and Qatar to join. Saudi Arabia struck Iran in March but quickly pivoted to supporting Pakistani-led diplomacy. Qatar considered retaliating after Iran hit its Ras Laffan LNG plant but opted against it. The failed coordination attempt helps explain the UAE's subsequent solo actions, including its Lavan Island strike and May 1 withdrawal from OPEC.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/uae-tried-failed-to-persuade-fellow-gulf-states-to-attack-iran-together-early-in-war-report/",
+    "actor": "UAE|Saudi Arabia"
+  },
+  {
+    "date": "2026-05-14",
+    "title": "Iran and UAE clash at BRICS foreign ministers meeting in New Delhi",
+    "direction": "Escalating",
+    "description": "Iran's Foreign Minister Abbas Araghchi accused the UAE of 'direct involvement in the aggression against my country' during a two-day BRICS foreign ministers meeting in New Delhi on May 14, marking a rare direct confrontation between the two nations at a multilateral forum. Araghchi called on BRICS members to 'explicitly condemn violations of international law by the United States and Israel,' characterizing Iran as 'a victim of illegal expansionism and warmongering.' Iran's Deputy FM Kazem Gharibabadi said 'one member country' — widely understood to be the UAE — pushed for language condemning Iran, complicating consensus. India's FM Jaishankar condemned an attack on an Indian-flagged vessel off Oman as 'unacceptable.' No joint statement was issued.",
+    "source": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression",
+    "actor": "Iran|UAE"
+  },
+  {
+    "date": "2026-05-14",
+    "title": "GCC interior ministers hold emergency meeting after Kuwait IRGC infiltration",
+    "direction": "Escalating",
+    "description": "GCC interior ministers convened an emergency session at the GCC secretariat in Riyadh on May 14, chaired by Bahraini Interior Minister Rashid bin Abdullah Al Khalifa, following the attempted IRGC infiltration of Kuwait's Bubiyan Island on May 13. GCC Secretary-General Jasem Mohamed Albudaiwi declared 'the security of the GCC states is indivisible' and ministers stressed closer cooperation among security authorities. Saudi Arabia, UAE, Qatar, and Bahrain all condemned the infiltration as a violation of Kuwaiti sovereignty. Iran denied the allegations, claiming the four arrested nationals made an 'accidental navigation error.' Two additional alleged operatives escaped during gunfire; one Kuwaiti serviceman was wounded.",
+    "source": "https://www.arabnews.com/node/2643517/saudi-arabia",
+    "actor": "Saudi Arabia|Kuwait|UAE"
+  },
+  {
+    "date": "2026-05-15",
     "title": "Trump and Xi agree Iran must never have nuclear weapons; Xi pledges no arms",
     "direction": "De-escalating",
     "description": "President Trump announced on May 15 that he and Chinese President Xi Jinping agreed during their Beijing summit that Iran 'can never have a nuclear weapon.' Trump said Xi pledged China would not provide military equipment or weapons to Iran — though US intelligence has assessed China may have already sent shoulder-mounted missiles to Tehran. Secretary of State Rubio told reporters the US and China agreed the Strait of Hormuz should not be 'militarized,' and Trump said Xi offered to help negotiate an end to the Iran war and reopen the strait. No formal written agreement was produced. Xi also agreed to purchase 200 Boeing jets and to work on stopping fentanyl precursor flows to the US.",
