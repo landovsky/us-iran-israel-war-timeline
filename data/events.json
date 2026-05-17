@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-05-17",
+    "title": "Drone strikes Barakah nuclear plant perimeter in Abu Dhabi",
+    "direction": "Escalating",
+    "description": "A drone struck an electrical generator on the perimeter of the UAE's $20 billion Barakah Nuclear Energy Plant in Al Dhafra, Abu Dhabi, on May 17, sparking a fire that was quickly contained. The Abu Dhabi Media Office said no injuries were reported and there was 'no impact on radiological safety levels,' with the Federal Authority for Nuclear Regulation confirming all four reactor units continued operating normally. No group claimed responsibility, though suspicion fell on Iran. Barakah — built with South Korean assistance and operational since 2020 — is the only nuclear power plant on the Arabian Peninsula and supplies roughly 25% of UAE electricity. The strike marked the first time the plant has been targeted in the war, raising international alarm about the targeting of civilian nuclear infrastructure.",
+    "source": "https://www.thenationalnews.com/news/uae/2026/05/17/drone-strike-causes-fire-at-barakah-nuclear-plant-perimeter-in-abu-dhabi/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-17",
+    "title": "Israel Q1 GDP contracts 3.3% annualized as war hits consumer spending",
+    "direction": "Neutral",
+    "description": "Israel's Central Bureau of Statistics reported on May 17 that GDP contracted at an annualized rate of 3.3% in Q1 2026 — less severe than the 4% decline forecast by economists but the sharpest contraction since the Gaza war's impact in late 2023. Consumer spending fell 4.7%, exports declined 3.7%, and government spending dropped 4.8%, while per capita GDP shrank 4.5%. Investment in fixed assets rose 12.6%, indicating continued defense and infrastructure spending. The contraction followed weeks of Iranian ballistic missile fire that closed schools and disrupted businesses after the war began February 28. The Bank of Israel projects 3.8% growth for full-year 2026, contingent on the ceasefire holding.",
+    "source": "https://finance.yahoo.com/economy/articles/israel-q1-gdp-shrinks-3-104549837.html",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-05-16",
+    "title": "USS Gerald R. Ford returns to Norfolk after record 326-day deployment",
+    "direction": "Neutral",
+    "description": "The USS Gerald R. Ford, the world's largest aircraft carrier, returned to Naval Station Norfolk on May 16 after 326 days at sea — the longest U.S. carrier deployment since the Vietnam War. Approximately 5,000 sailors disembarked after an 11-month mission that included combat operations supporting the Iran war and the capture of Venezuelan President Nicolás Maduro. Defense Secretary Pete Hegseth attended the homecoming ceremony. During the deployment, the Ford's air wing flew thousands of sorties over the Persian Gulf and Arabian Sea. The carrier also endured a noncombat fire that left hundreds of crew without sleeping quarters, requiring emergency repairs on the Greek island of Crete.",
+    "source": "https://www.pbs.org/newshour/nation/uss-gerald-r-ford-returns-home-after-long-mission-supporting-iran-war-and-maduro-capture",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-16",
+    "title": "Iran announces Hormuz toll mechanism, bars US-escorted vessels",
+    "direction": "Escalating",
+    "description": "Ebrahim Azizi, head of Iran's parliamentary national security committee, announced on May 16 that Iran has prepared a 'professional mechanism to manage traffic' through the Strait of Hormuz, to be unveiled soon, with designated commercial routes and fees collected for 'specialized services.' Only commercial vessels and parties cooperating with Iran will be permitted; the route remains 'closed to the operators of the so-called freedom project' — the U.S. military escort operation. Iran has already collected revenue from tolls imposed on the waterway and recently permitted passage for dozens of vessels from China, Japan, and Pakistan under its protocols. Iranian state television separately reported that European countries have begun negotiations with the IRGC Navy for transit permission. As of May 16, 78 commercial ships had been redirected from the strait, with 4 disabled.",
+    "source": "https://www.arabnews.com/node/2643786/middle-east",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-16",
+    "title": "IDF Capt. Recanati killed in Lebanon; Israel strikes 100 Hezbollah targets",
+    "direction": "Escalating",
+    "description": "Captain Maoz Israel Recanati, 24, a platoon commander in the Golani Brigade's 12th Battalion from Itamar, was killed in combat in southern Lebanon on May 16, posthumously promoted from lieutenant. He was the 18th IDF soldier killed in Lebanon since the ground operation began. The IDF reported striking approximately 100 Hezbollah targets over the weekend, including observation posts, weapons storage facilities, and terror infrastructure. Hezbollah fired explosive drones, mortar shells, and rockets at Israeli forces, with projectiles landing in open areas causing no IDF injuries. The Israeli Air Force intercepted several rockets and struck two Hezbollah operatives near a launch site, triggering secondary explosions that indicated weapons in the building. Lebanon's health ministry put the total death toll at 2,969 killed and 9,112 wounded since March 2.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-05-16/live-updates-896346",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-05-16",
+    "title": "Trump warns Iran of 'very bad time,' sends nuclear proposal",
+    "direction": "Escalating",
+    "description": "President Trump on May 16 warned Iran would face a 'very bad time' if it did not reach a deal soon, while simultaneously sending Tehran a nuclear proposal demanding swift progress to avoid 'serious consequences.' Khamenei advisor Ali Shamkhani responded that Iran was ready to sign a nuclear deal in exchange for the quick removal of all financial sanctions, but criticized Trump's rhetoric: 'He speaks of an olive branch, but we see only barbed wire.' Iranian officials separately denied receiving a new U.S. proposal and insisted they would not abandon their right to enrich uranium. The exchange came as Iran held nuclear talks with the E3 (UK, France, Germany) and the EU's Kaja Kallas in Istanbul, with Araghchi warning that reinstating UN sanctions could lead to 'irreversible' consequences.",
+    "source": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-05-16",
+    "title": "Israel finishes 2nd at Eurovision in Vienna amid 5-nation boycott",
+    "direction": "Neutral",
+    "description": "Israeli singer Noam Bettan finished second at the Eurovision Song Contest in Vienna on May 16 with 343 points for his trilingual (French, Hebrew, English) pop song 'Michelle,' behind Bulgaria's 'Bangaranga' at 516 points. Five countries — Ireland, the Netherlands, Slovenia, Spain, and Iceland — boycotted the 70th-anniversary contest over Israel's participation amid the Iran war and ongoing regional hostilities. Hundreds of protesters gathered outside the Wiener Stadthalle demanding Israel's exclusion. President Herzog called Bettan to say he 'brought honor' to Israel with a 'perfect' performance. The result — a wartime contestant finishing runner-up in Europe's largest cultural event — underscored the deepening split between governments that continued engaging Israel and those that sought to isolate it.",
+    "source": "https://www.jpost.com/israel-news/culture/article-896376",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-05-15",
     "title": "Israel and Lebanon extend ceasefire by 45 days after Washington talks",
     "direction": "De-escalating",
