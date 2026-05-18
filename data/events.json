@@ -1,9 +1,33 @@
 [
   {
     "date": "2026-05-18",
+    "title": "Iran rejects US 5-point proposal as 'surrender,' demands reparations",
+    "direction": "Escalating",
+    "description": "Iran's Foreign Ministry spokesman Esmaeil Baqaei announced on May 18 that Tehran had formally responded to the latest US peace proposal, rejecting it as tantamount to 'surrender.' Iranian state television reported that the US five-point plan demanded Iran keep only one nuclear site operational, transfer its entire stockpile of 60%-enriched uranium to the US, and accept 12 years of zero enrichment — while refusing to release 'even 25 percent' of Iran's frozen assets or pay any war reparations. Iran insisted on full sovereignty over the Strait of Hormuz, the lifting of all sanctions, release of frozen assets, and reparations for what Baqaei called an 'illegal and baseless' war. The exchange was conducted through Pakistani mediators. Trump responded on Truth Social: 'For Iran, the Clock is Ticking, and they better get moving, FAST,' warning 'there won't be anything left of them.'",
+    "source": "https://www.euronews.com/2026/05/18/trump-says-there-wont-be-anything-left-of-iran-if-it-does-not-quickly-agree-to-a-deal-with",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-05-17",
+    "title": "Trump convenes NSC on renewed Iran military options for May 19",
+    "direction": "Escalating",
+    "description": "Axios reported on May 17 that President Trump will convene a Situation Room meeting on Tuesday, May 19, to discuss renewed military options against Iran after peace negotiations deadlocked. Vice President Vance, Secretary of State Rubio, Defense Secretary Hegseth, CIA Director Ratcliffe, Joint Chiefs Chairman Gen. Caine, and envoy Steve Witkoff are expected to attend. Trump had already met national security officials at his Virginia golf club on Saturday and spoke by phone with Israeli PM Netanyahu on Sunday. The meeting comes after Trump rejected Iran's latest proposal as 'totally unacceptable' and described the ceasefire as 'on life support.' Brent crude rose 1.3% to $110.70/barrel on the escalation signals.",
+    "source": "https://www.axios.com/2026/05/17/trump-iran-warning-harder-strikes",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-17",
+    "title": "IRGC threatens to 'deactivate' all US Gulf bases, claims total Hormuz blockade",
+    "direction": "Escalating",
+    "description": "IRGC spokesperson Ebrahim Zolfaghari declared on May 17 that 'all U.S. military bases in the southern Persian Gulf will be deactivated' in the near future and claimed the IRGC Navy had achieved a total blockade: 'In the past 24 hours, the IRGC Navy did not allow any vessel to pass through the Strait of Hormuz.' The threat came hours after a drone struck the perimeter of the UAE's Barakah nuclear plant and Saudi Arabia intercepted three drones from Iraqi airspace. US forces had by this point diverted 81 commercial vessels and disabled 4 as part of the American counter-blockade of Iranian ports. The dueling blockades — Iran's closure of Hormuz and the US interdiction of Iranian-bound traffic — continued to paralyze Gulf shipping with roughly 1,550 vessels and 22,500 mariners stranded.",
+    "source": "https://www.foxnews.com/live-news/trump-iran-war-china-hormuz-may-17",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-18",
     "title": "Israeli strikes kill 7 in Lebanon including 2 children",
     "direction": "Escalating",
-    "description": "Israeli airstrikes on southern Lebanon on May 18 killed at least 7 people, including an Islamic Jihad commander and 2 children. Three were killed in Tayr Felsay including a child, and 2 in Tayr Debba including another child, with 15 wounded across four towns. Two strikes also hit Sohmor in the eastern Bekaa Valley. The UN Emergency Relief Coordinator Tom Fletcher condemned 'over 100 strikes on Lebanon in 24 hours' across the weekend, reporting 87 people killed in the May 17-18 period — the deadliest weekend since the April 17 ceasefire. WHO recorded 158 attacks on healthcare facilities since March 2, with 3 hospitals and 41 primary healthcare centers forced to close. The $308 million humanitarian appeal for Lebanon remained only 40% funded.",
+    "description": "Israeli airstrikes across Lebanon on May 18 killed at least 7 people, including Islamic Jihad commander Wael Abdel Halim and his 17-year-old daughter in a strike on the outskirts of Baalbek in eastern Lebanon, and 2 children in the south. Three were killed in Tayr Felsay including a child, and 2 in Tayr Debba including another child, with 15 wounded across four towns. Two strikes also hit Sohmor in the eastern Bekaa Valley. The UN Emergency Relief Coordinator Tom Fletcher condemned 'over 100 strikes on Lebanon in 24 hours' across the weekend, reporting 87 people killed in the May 17-18 period — the deadliest weekend since the April 17 ceasefire. WHO recorded 158 attacks on healthcare facilities since March 2, with 3 hospitals and 41 primary healthcare centers forced to close. The $308 million humanitarian appeal for Lebanon remained only 40% funded.",
     "source": "https://www.newarab.com/news/lebanon-says-israeli-strikes-kill-7-hezbollah-condemns-talks",
     "actor": "Israel"
   },
