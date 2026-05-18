@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-05-18",
+    "title": "Israeli strikes kill 7 in Lebanon including 2 children",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes on southern Lebanon on May 18 killed at least 7 people, including an Islamic Jihad commander and 2 children. Three were killed in Tayr Felsay including a child, and 2 in Tayr Debba including another child, with 15 wounded across four towns. Two strikes also hit Sohmor in the eastern Bekaa Valley. The UN Emergency Relief Coordinator Tom Fletcher condemned 'over 100 strikes on Lebanon in 24 hours' across the weekend, reporting 87 people killed in the May 17-18 period — the deadliest weekend since the April 17 ceasefire. WHO recorded 158 attacks on healthcare facilities since March 2, with 3 hospitals and 41 primary healthcare centers forced to close. The $308 million humanitarian appeal for Lebanon remained only 40% funded.",
+    "source": "https://www.newarab.com/news/lebanon-says-israeli-strikes-kill-7-hezbollah-condemns-talks",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-05-17",
+    "title": "Hezbollah launches drone swarm at Ya'ara barracks in northern Israel",
+    "direction": "Escalating",
+    "description": "Hezbollah announced on May 17 that it struck the Ya'ara barracks in northern Israel 'with a swarm of attack drones,' marking the first time the group targeted a named Israeli military installation with a coordinated multi-drone attack. Hezbollah also claimed more than a dozen additional operations against Israeli forces in southern Lebanon the same day, including attacks on troops in the town of Khiam. The IDF said it intercepted several drones before they crossed the border. Hezbollah framed the attacks as retaliation for Israeli ceasefire violations and condemned the Lebanon-Israel Washington negotiations as 'free concessions' to the enemy.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-launches-drone-swarm-israeli-military-target",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-05-17",
+    "title": "Israel strikes 24+ villages across southern Lebanon day after ceasefire extension",
+    "direction": "Escalating",
+    "description": "Israel launched airstrikes on more than two dozen villages across southern Lebanon on May 17, one day after the 45-day ceasefire extension was announced. Strikes hit targets up to 50 kilometers from the border, with evacuation warnings issued to 9 villages including areas near Tyre. One IDF soldier was killed in combat in southern Lebanon, bringing total Israeli military deaths in Lebanon to 21 since the war began March 2. Lebanese authorities reported over 400 people killed since the ceasefire took effect on April 17, with the cumulative war toll exceeding 2,900. The Lebanese negotiating delegation called the ceasefire extension 'critical breathing space,' while displaced residents reported a new exodus toward Sidon and Beirut.",
+    "source": "https://www.24newshd.tv/17-May-2026/israel-strikes-south-lebanon-day-ceasefire-extension",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-05-17",
+    "title": "Saudi Arabia intercepts 3 drones launched from Iraqi airspace",
+    "direction": "Escalating",
+    "description": "Saudi Arabia's defense ministry announced on May 18 that it intercepted and destroyed three drones that entered Saudi airspace from Iraq on the morning of May 17. Spokesperson Major General Turki Al-Maliki stated the kingdom 'reserves the right to respond at the appropriate time and place' and pledged 'all necessary operational measures' to protect sovereignty. No group claimed responsibility, though Iran-aligned militias in Iraq have previously launched drones at Gulf states. The incident followed an April 12 protest by the Saudi Foreign Ministry to Iraq's ambassador over similar drone launches. It came on the same day a drone struck the UAE's Barakah nuclear plant, underscoring a pattern of aerial threats to Gulf states from Iraqi and western border airspace.",
+    "source": "https://www.siasat.com/saudi-arabia-intercepts-3-drones-entering-airspace-from-iraq-3472809/",
+    "actor": "Saudi Arabia"
+  },
+  {
     "date": "2026-05-17",
     "title": "Drone strikes Barakah nuclear plant perimeter in Abu Dhabi",
     "direction": "Escalating",
