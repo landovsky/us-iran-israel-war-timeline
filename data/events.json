@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-19",
+    "title": "Trump cancels planned Iran strike at Gulf allies' request",
+    "direction": "De-escalating",
+    "description": "President Trump announced on Truth Social on May 19 that he was canceling a military attack on Iran scheduled for Tuesday, writing 'I have been asked by the Emir of Qatar...to hold off on our planned Military attack of the Islamic Republic of Iran.' Trump said Qatar, Saudi Arabia, and the UAE believe 'a Deal will be made' and that 'serious negotiations are now taking place,' insisting on 'NO NUCLEAR WEAPONS FOR IRAN' as a condition. The cancellation came one day after Iran formally rejected the US 5-point proposal and hours before a Situation Room meeting on renewed military options that Trump had convened with Vance, Rubio, Hegseth, and Ratcliffe. Iran's President Pezeshkian responded that 'dialogue does not mean surrender.' Qatar's foreign ministry said negotiations 'need more time.'",
+    "source": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-18",
+    "title": "Israel seizes 39 boats from Gaza-bound flotilla off Cyprus",
+    "direction": "Escalating",
+    "description": "Israel's navy intercepted and seized approximately 39 boats from the 54-vessel Global Sumud Flotilla — the largest civilian flotilla in support of Palestinians — 250 nautical miles from Gaza in waters near Cyprus. The flotilla carried 426 people from 39 countries and had departed from the Turkish port of Marmaris. Unlike previous interceptions, Israeli forces boarded in daylight, detaining approximately 100 activists including Margaret Connolly, a doctor and sister of Irish President Catherine Connolly. Israeli media reported detainees were transferred to a 'floating prison' before transport to Ashdod for interrogation. Turkey's Foreign Ministry condemned the operation as 'an act of piracy,' and President Erdogan called on the international community to act against what he termed an attack on 'voyagers of hope.'",
+    "source": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla",
+    "actor": "Israel|Turkey"
+  },
+  {
+    "date": "2026-05-18",
+    "title": "NYT: Israel built 2 covert military bases in Iraq's desert for Iran war",
+    "direction": "Neutral",
+    "description": "The New York Times reported on May 18 that Israel built two covert military outposts in Iraq's Najaf desert near Karbala, approximately 100 km southwest of Baghdad, to support air operations against Iran. The installations housed special forces and served as a logistical hub for the Israeli air force, including search-and-rescue teams for downed pilots. Israel began preparing one site in late 2024. Baghdad privately lodged a formal complaint with Washington in late March after a Bedouin shepherd was killed in early March upon stumbling on one installation and reporting soldiers, helicopters, and tents around a landing strip. Iraq's deputy commander Qais al-Muhammadawi stated: 'There is no agreement or consent for any force to be present in this location.' American officials claimed Washington was not involved in the operation.",
+    "source": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt",
+    "actor": "Israel|Iraq"
+  },
+  {
+    "date": "2026-05-18",
+    "title": "Lebanon war death toll passes 3,000; 9,273 wounded since March 2",
+    "direction": "Escalating",
+    "description": "Lebanon's health ministry reported on May 18 that the cumulative death toll from the Israel-Hezbollah war surpassed 3,000, reaching 3,020 killed — including 292 women and 211 children — with 9,273 wounded since fighting began March 2. Over one million people have been displaced. On the Israeli side, 20 soldiers, 2 civilians, 1 defense contractor, and 6 UN peacekeepers have been killed. The milestone was reached despite a ceasefire in effect since April 17 and extended into June, with Israeli strikes continuing daily across southern Lebanon. Planned direct military-to-military talks between Israel and Lebanon are set for May 29 at the Pentagon.",
+    "source": "https://www.pbs.org/newshour/world/lebanon-death-toll-tops-3000-in-latest-fighting-between-israel-and-hezbollah",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-05-18",
+    "title": "Iran judiciary confirms 39 wartime executions including 10 for espionage",
+    "direction": "Escalating",
+    "description": "Iran's judiciary, via its official Mizan News Agency, reported on May 18 that 39 people have been executed since the war began on February 28 — 10 on charges of spying for 'Mossad and the CIA' and 29 as 'ringleaders of espionage, terrorism, and armed riots.' The judiciary also reported lengthy prison sentences for dozens more and widespread property confiscations. IranWire reported the actual number of political executions exceeds the official figures, noting that state media 'frequently record incorrect execution dates.' Human rights organizations said the pace of sentencing and executions has surged since the ceasefire, with the regime using wartime emergency to accelerate elimination of domestic opponents from the 2025-2026 protest movement.",
+    "source": "https://english.shabtabnews.com/2026/05/18/iran-judiciary-says-39-people-executed-since-start-of-forty-day-war/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-05-18",
     "title": "Iran rejects US 5-point proposal as 'surrender,' demands reparations",
     "direction": "Escalating",
