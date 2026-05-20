@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-20",
+    "title": "NATO chiefs meet on Iran war arsenal depletion; US pulls 5,000 troops from Europe",
+    "direction": "Neutral",
+    "description": "NATO military chiefs from all 32 member states met at NATO HQ in Brussels on May 20, led by Supreme Allied Commander Europe Gen. Alexus Grynkewich and Secretary General Mark Rutte, to address weapons stockpile depletion caused by the Iran war. The Pentagon has spent over $29 billion on the conflict, and allies warned that Patriot interceptors and other top-grade weapons systems are being consumed faster than they can be produced. A senior NATO military source said: 'We need a lot of resources and munitions and the ability to ramp up production quickly.' Grynkewich separately confirmed the US is withdrawing 5,000 troops from Europe — canceling a 4,000+ armored brigade combat team deployment to Poland and a long-range fires battalion — and said Europe should 'absolutely' expect further reductions. The withdrawals followed German Chancellor Merz's public criticism of the US handling of the Iran war.",
+    "source": "https://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal",
+    "actor": "US|NATO"
+  },
+  {
+    "date": "2026-05-20",
+    "title": "Putin and Xi hold Beijing summit, plan ~40 cooperation deals",
+    "direction": "Neutral",
+    "description": "Russian President Vladimir Putin met Chinese President Xi Jinping in Beijing on May 19-20 for Putin's 25th visit to China, days after Trump's own Beijing summit with Xi. The two leaders signed a joint declaration on 'the formation of a multipolar world and a new type of international relations' — a 47-page document — and planned approximately 40 cooperation agreements covering industry, transport, and nuclear energy. The Power of Siberia 2 gas pipeline (2,600 km, 40 billion cubic meters/year capacity) remained stalled over pricing despite a September 2025 memorandum. China has purchased over $367 billion in Russian fossil fuels since the Iran war began. Russia-China bilateral trade has roughly doubled in five years to approximately $245 billion, mostly conducted in rubles and yuan. Kremlin aide Yuri Ushakov said the leaders would discuss the wars in Iran and Ukraine.",
+    "source": "https://oilprice.com/Energy/Energy-General/Putin-Heads-to-China-Amid-Global-Energy-Crisis.html",
+    "actor": "Russia"
+  },
+  {
+    "date": "2026-05-20",
+    "title": "Iran's Araghchi warns of 'many more surprises' if war resumes",
+    "direction": "Escalating",
+    "description": "Iranian Foreign Minister Abbas Araghchi warned on May 20 that 'a return to war will feature many more surprises,' claiming Tehran gained significant military knowledge during the 40-day conflict. The statement came one day after Trump gave Iran 'two or three days' to reach a deal and VP Vance said both sides had made 'a lot of progress.' Araghchi's warning was interpreted as signaling that Iran had studied US and Israeli tactics during Operation Epic Fury and adapted its capabilities accordingly, including possible new weapons systems or strategies not yet revealed. The comment followed Iran's formal rejection of the US 5-point proposal two days earlier and came amid Trump's publicly stated deadline of 'Friday, Saturday, Sunday' for a new Iranian proposal.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-19",
+    "title": "Vance warns Iran: strikes are 'option B,' deal deadline in days",
+    "direction": "Escalating",
+    "description": "Vice President JD Vance, standing in for Press Secretary Karoline Leavitt (on maternity leave), told reporters at a White House briefing on May 19: 'We think that we've made a lot of progress. We're in a pretty good spot here, but there's an option B' — meaning the restart of military operations. Vance added: 'It takes two to tango. We're locked and loaded. We don't want to go down that pathway, but the president is willing and able to go down that pathway if we have to.' He said he had just spoken to Trump, who stressed Iran can never have a nuclear weapon. Separately, Trump told reporters Iran had been given 'two or three days' to produce a deal: 'Maybe Friday, Saturday, Sunday. Something maybe early next week — a limited period of time.' Asked whether Russia might take possession of Iran's enriched uranium, Vance said it was 'not currently the plan.'",
+    "source": "https://www.washingtontimes.com/news/2026/may/19/jd-vance-urges-iran-make-deal-instead-facing-option-b-locked-loaded/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-19",
+    "title": "Israeli strikes kill 19 in southern Lebanon including 3 children",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes across southern Lebanon on May 19 killed at least 19 people, including 4 women and 3 children, according to Lebanon's Health Ministry. Ten were killed in Deir Qanoun al-Nahr in Tyre province — including 3 children and 3 women — when a house was destroyed. Four were killed and 10 wounded in Nabatieh, and 5 were killed in nearby Kfar Sir including one woman. The IDF said it targeted more than 25 Hezbollah infrastructure sites between Monday and Tuesday. Separately, IDF Major Itamar Sapir, 27, deputy company commander in Battalion 7008 and a reservist from Eli, was killed in an exchange of fire when a Hezbollah operative opened fire from inside a church in the village of Qouza. Sapir, who left behind a wife and 18-month-old son, was the 21st IDF soldier killed in Lebanon since March 2 and the 8th since the April 17 ceasefire. The cumulative Lebanese death toll reached 3,042.",
+    "source": "https://www.washingtontimes.com/news/2026/may/19/officials-say-israeli-strikes-southern-lebanon-kill-19-including/",
+    "actor": "Israel|Lebanon"
+  },
+  {
     "date": "2026-05-19",
     "title": "Trump cancels planned Iran strike at Gulf allies' request",
     "direction": "De-escalating",
