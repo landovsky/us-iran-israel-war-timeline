@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-05-22",
+    "title": "Qatar joins mediation as Pakistan army chief Munir arrives in Tehran",
+    "direction": "De-escalating",
+    "description": "A Qatari delegation held talks with Iranian Foreign Minister Abbas Araghchi on May 22, but Iranian Foreign Ministry spokesman Esmaeil Baqaei stressed that Pakistan 'remains the main mediator' between Washington and Tehran. The same day, Pakistan's powerful army chief, Field Marshal Asim Munir, arrived in Tehran to meet Iranian officials as part of mediation efforts to extend the ceasefire and conclude a war-ending memorandum. Qatar's role was described as secondary to Islamabad's, which has been the public face of shuttle diplomacy since the conflict began.",
+    "source": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260522-rferl05.htm",
+    "actor": "Qatar|Pakistan"
+  },
+  {
+    "date": "2026-05-22",
+    "title": "US and Iran deadlock over enriched uranium handover and Hormuz tolls",
+    "direction": "Neutral",
+    "description": "US and Iranian negotiators signaled progress toward a deal but remained at odds over two core issues on May 22: the disposal of Iran's enriched uranium stockpile and Iran's demand to impose tolls on shipping through the Strait of Hormuz. Tehran warned that the US demand to hand over its enriched uranium would 'kill the deal.' The proposed framework would have Iran reach an agreement to dispose of its stockpile, reopen the Strait, and enter time-limited nuclear talks, but the mechanism for removing the uranium remained unresolved.",
+    "source": "https://www.cnbc.com/2026/05/22/iran-war-strait-of-hormuz-tolls-trump.html",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-05-21",
+    "title": "Rubio sees 'good signs' on deal but warns Hormuz control makes it 'unfeasible'",
+    "direction": "Neutral",
+    "description": "US Secretary of State Marco Rubio said on May 21 there were 'good signs' that an agreement to end the war was in sight, but warned any deal would be 'unfeasible' if Iran pursued measures to permanently control shipping through the Strait of Hormuz. Rubio reiterated President Trump's criteria: stopping Iran from obtaining a nuclear weapon, reopening the Strait without tolls, and turning over enriched uranium. He said there was 'a pretty solid thing on the table' regarding Iran reopening the Strait and entering 'a real significant time limited negotiation on nuclear matters.'",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war",
+    "actor": "US"
+  },
+  {
+    "date": "2026-05-21",
+    "title": "Amnesty warns 78 prisoners face execution; Iran hangs 2 more",
+    "direction": "Escalating",
+    "description": "Amnesty International reported on May 21 that at least 78 protesters and political prisoners sentenced to death are at risk of execution in Iran, including 41 people arrested in connection with the January 2026 protests. The same day, Iran's judiciary announced the execution of two men, Ramin Zaleh and Karim Maroufpour, on charges of 'membership in separatist groups.' Amnesty said political executions have surged to levels not seen since the 1980s, with at least 40 prisoners — including 19 protesters — hanged on politically-motivated charges so far in 2026 amid wartime internet blackouts that obscure the scale of the crackdown.",
+    "source": "https://www.amnesty.org/en/latest/news/2026/05/iran-mass-arbitrary-arrests-and-political-executions-mark-intensifying-repression/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-05-21",
+    "title": "Hezbollah drone strike critically wounds IDF combat photographer, 6 soldiers",
+    "direction": "Escalating",
+    "description": "A Hezbollah drone attack critically injured an Israeli combat photographer from the IDF's Operational Documentation Division along with six other soldiers — three moderately and three slightly wounded — during fighting in southern Lebanon on May 21. The strike continued a sustained Hezbollah drone campaign against Israeli forces operating inside Lebanon despite the 45-day ceasefire extension agreed in Washington on May 15.",
+    "source": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-05-20",
+    "title": "Hezbollah drone critically wounds IDF brigade commander near Haddatha",
+    "direction": "Escalating",
+    "description": "A Hezbollah drone attack near Haddatha in southern Lebanon on May 20 critically wounded the commander of the IDF's 401st Armored Brigade, a colonel, and slightly-to-moderately wounded a lieutenant colonel. Hezbollah said it engaged an Israeli force of tanks and infantry in the area. The Lebanese health ministry reported 31 people killed in Israeli attacks over the previous 24 hours, pushing the war's death toll to 3,073.",
+    "source": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+    "actor": "Lebanon|Israel"
+  },
+  {
     "date": "2026-05-20",
     "title": "NATO chiefs meet on Iran war arsenal depletion; US pulls 5,000 troops from Europe",
     "direction": "Neutral",
