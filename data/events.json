@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-06-12",
+    "title": "IAEA Board finds Iran non-compliant; verification halted since Feb 28",
+    "direction": "Neutral",
+    "description": "At its June Board of Governors meeting in Vienna, the IAEA reported that Iran has refused all verification activities since February 28, 2026, when the war began, and for nearly a year has denied inspectors information about or access to its four uranium enrichment facilities and associated stockpiles. A joint 'Quad' statement by the US, UK, France and Germany noted Iran remains the only non-nuclear-weapon state to have produced and accumulated uranium enriched to 60%. The findings deepened a non-compliance determination first reached by the Board the previous year and undercut Trump's claim that the war was nearly settled.",
+    "source": "https://www.gov.uk/government/speeches/npt-safeguards-agreement-with-iran-quad-statement-to-the-iaea-board-of-governors-june-2026",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "Trump touts 'great settlement' MOU to end war; Iran says no final deal",
+    "direction": "De-escalating",
+    "description": "President Trump announced on June 11 that the US and Iran had reached a 'very strong memorandum of understanding,' declaring 'We just made a great settlement of the war with Iran' and saying a signing could happen 'maybe in Europe' as early as the weekend, attended by VP JD Vance. Trump said the naval blockade of the Strait of Hormuz would be lifted as part of the deal and canceled further planned strikes. Tehran disputed his characterization, stating it 'has not reached a final decision regarding any agreement' and that 'US actions are affecting the diplomatic process.' Netanyahu, whose government is not party to the accord, sought assurances on removing Iran's enriched uranium and limiting its missiles.",
+    "source": "https://www.cnn.com/2026/06/11/world/live-news/iran-war-trump-israel-hnk",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "Iran declares Hormuz closed, claims warship hit; US downs 2 drones",
+    "direction": "Escalating",
+    "description": "Iran's military command declared the Strait of Hormuz closed following the US strikes and threatened to attack any vessel attempting to pass, also claiming it had struck a US warship — a claim US Central Command denied. US forces shot down two Iranian one-way attack drones targeting commercial ships in the strait. Physical transit through the waterway had already collapsed, with PortWatch recording just 2 transits on June 7 against a pre-crisis baseline of 94 per day, leaving hundreds of commercial ships and roughly 20,000 seafarers stranded in the Persian Gulf.",
+    "source": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-06-10",
+    "title": "US strikes Iranian air defenses; Trump threatens to seize oil sector, Kharg Island",
+    "direction": "Escalating",
+    "description": "US Central Command launched a second day of strikes on June 10 targeting Iran's 'military surveillance capabilities, communication systems and air defense sites,' with explosions reported in Tehran, the port city of Bandar Abbas and other southern areas along the Strait of Hormuz. Trump posted that the US would be 'HITTING IRAN VERY HARD TONIGHT' and threatened to 'assume total control' of Iran's oil and gas industries, including Kharg Island, in the 'not too distant future.' The same day, US inflation data showed the fastest price rises in three years, above 4%.",
+    "source": "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire",
+    "actor": "US"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "US Apache downed in Hormuz by Iranian drone; crew rescued by sea drone",
+    "direction": "Escalating",
+    "description": "A US Army AH-64 Apache helicopter patrolling over the Strait of Hormuz off Oman's coast was brought down after a collision with an Iranian Shahed one-way attack drone. Its two crew members were rescued by a surface sea drone — the first such rescue ever carried out by the US military — within about two hours. Trump said Iran shot down the aircraft and that the US 'must, of necessity, respond to this attack,' and Central Command announced it had begun retaliatory strikes against Iran.",
+    "source": "https://www.cbsnews.com/news/us-apache-helicopter-crash-strait-of-hormuz-first-sea-drone-rescue/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "Israel strikes Mahshahr petrochemical complex; Hezbollah mounts 16 attacks",
+    "direction": "Escalating",
+    "description": "Israel struck the Mahshahr petrochemical complex in southwestern Iran on June 9, with Iranian media reporting no casualties as damage assessment continued. In southern Lebanon, Hezbollah conducted 16 operations against Israeli forces the same day using drones, guided missiles, artillery and loitering munitions against troop gatherings and military vehicles near Beaufort Castle, Odaisseh and Yohmor al-Shaqif. Trump publicly warned Netanyahu to be 'careful' or risk finding himself 'on your own very soon.'",
+    "source": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "Iran executes uprising protester; 2026 execution toll passes 780",
+    "direction": "Escalating",
+    "description": "Iran's judiciary executed Fathollah Avari, 42, arrested during the January 2026 uprising in Malard southwest of Tehran, days after hanging two men labeled as protest leaders, Mehrdad Mohammadinia and Ashkan Maleki. The Iran Human Rights Society documented at least 784 executions in 2026, a figure it said reflected a rapidly accelerating trend since March and the highest level of political executions in 37 years, carried out under wartime internet blackouts that obscure the scale of the crackdown.",
+    "source": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-june-9-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-06-08",
+    "title": "Iran and Israel halt strikes after ~30 missiles; Trump warns Netanyahu",
+    "direction": "De-escalating",
+    "description": "Iran and Israel paused tit-for-tat attacks on June 8 after Iran launched roughly 30 ballistic missiles since the night of June 7 — the first exchanged strikes since the ceasefire that began April 8. Iran announced a conditional halt, warning it would resume 'much more severe' and 'crushing' attacks if Israel carried out further 'aggression and hostility, including in Lebanon.' Israel said it had carried out 'an extensive strike against strategic defence systems' in Iran, and Trump pressed Netanyahu to stop, warning continued strikes risked leaving Israel 'on your own very soon.'",
+    "source": "https://www.aljazeera.com/news/2026/6/8/israel-and-iran-exchange-attacks-as-ceasefire-falters",
+    "actor": "Iran|Israel"
+  },
+  {
+    "date": "2026-06-07",
+    "title": "Iran fires ballistic missiles at Ramat David airbase as 'warning'",
+    "direction": "Escalating",
+    "description": "Hours after the Beirut strike, Iran launched multiple rounds of ballistic missiles at Israel's Ramat David airbase at around 10pm local time on June 7. The Israeli army said it intercepted all the missiles and reported no damage, though sirens sounded across Israel. The IRGC called the operation 'a warning,' adding that 'if the aggressions are repeated, the responses will be broader.' Trump downplayed the attack, saying 'the Iranian strikes didn't hurt anybody. Hopefully, Israel is not going to retaliate.'",
+    "source": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-06-07",
+    "title": "Israel strikes Beirut's Dahiyeh, killing 2; Iran calls it 'red line'",
+    "direction": "Escalating",
+    "description": "Israel struck the Dahiyeh, Beirut's densely populated southern suburbs, on the afternoon of June 7, killing at least 2 people and wounding 11. Netanyahu and Defence Minister Katz said the strike hit a Hezbollah command centre. Iran said the attack on the Lebanese capital 'crossed all red lines,' having repeatedly warned it would intervene if Israel targeted Beirut, and made an end to Israeli operations in Lebanon a condition of any ceasefire with Washington.",
+    "source": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-06-04",
+    "title": "Israel and Lebanon agree conditional ceasefire; Hezbollah's Qassem rejects it",
+    "direction": "Neutral",
+    "description": "Israel and Lebanon agreed to a US-brokered conditional ceasefire on June 3-4 aimed at extending the truce across all of Lebanon, but Hezbollah leader Naim Qassem rejected it, calling the deal 'a roadmap to annihilate part of the Lebanese people.' Qassem demanded a full withdrawal of Israeli forces from southern Lebanon and pledged to continue attacks as long as Israeli troops occupied parts of the country. The collapse of the deal set the stage for the renewed Israel-Iran escalation days later. The war in Lebanon had by then killed more than 3,500 people and displaced over a million.",
+    "source": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire",
+    "actor": "Israel|Lebanon"
+  },
+  {
     "date": "2026-05-22",
     "title": "Qatar joins mediation as Pakistan army chief Munir arrives in Tehran",
     "direction": "De-escalating",
