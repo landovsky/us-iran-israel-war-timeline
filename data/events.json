@@ -1,6 +1,22 @@
 [
   {
     "date": "2026-06-12",
+    "title": "Pakistan PM says US and Iran agree 'final text' of war-ending deal; Trump cancels strikes",
+    "direction": "De-escalating",
+    "description": "Pakistani Prime Minister Shehbaz Sharif announced on June 12 that the US and Iran had reached 'a final, agreed upon text' of a deal to end the war, saying Islamabad was 'working closely with both sides to finalize the next steps.' President Trump confirmed he had called off planned strikes on Iran, citing the breakthrough. Reported terms include a 15-20 year freeze on Iranian uranium enrichment with stockpiles destroyed on-site and removed from the country, the reopening of the Strait of Hormuz to commercial shipping, the release of $24 billion in frozen Iranian assets, and a 60-day ceasefire across all fronts including Lebanon. Iran cautioned that no 'final conclusion' had yet been reached.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-12",
+    "title": "IDF prepares Nabatieh offensive; troops reach Arnoun as Hezbollah drone wounds soldier",
+    "direction": "Escalating",
+    "description": "The IDF signaled it was poised to launch a ground offensive against Hezbollah in Nabatieh, a major southern Lebanese stronghold, with its 36th Division pushing deeper in recent days to operate on the outskirts of Arnoun, a village a few kilometers away. A soldier was moderately wounded by a Hezbollah drone. Separately, a Hezbollah drone struck a military zone in northern Israel, causing no injuries. The advance came even as the emerging US-brokered deal envisioned a 60-day ceasefire 'across all fronts including Lebanon,' a truce Hezbollah leader Naim Qassem has rejected.",
+    "source": "https://www.timesofisrael.com/idf-poised-for-offensive-against-hezbollah-in-southern-lebanon-city-soldier-moderately-injured-by-drone/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-12",
     "title": "IAEA Board finds Iran non-compliant; verification halted since Feb 28",
     "direction": "Neutral",
     "description": "At its June Board of Governors meeting in Vienna, the IAEA reported that Iran has refused all verification activities since February 28, 2026, when the war began, and for nearly a year has denied inspectors information about or access to its four uranium enrichment facilities and associated stockpiles. A joint 'Quad' statement by the US, UK, France and Germany noted Iran remains the only non-nuclear-weapon state to have produced and accumulated uranium enriched to 60%. The findings deepened a non-compliance determination first reached by the Board the previous year and undercut Trump's claim that the war was nearly settled.",
