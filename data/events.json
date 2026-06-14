@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-13",
+    "title": "Trump says US-Iran deal signs Sunday; IRGC disputes timing",
+    "direction": "De-escalating",
+    "description": "President Trump posted on June 13 that the US-Iran peace deal was 'scheduled to get signed tomorrow, and immediately after it is signed, the Hormuz Strait is OPEN TO ALL.' Pakistani Prime Minister Shehbaz Sharif said Islamabad was preparing an electronic signing on Sunday, June 14, with a ceremony discussed for Geneva and VP JD Vance, Steve Witkoff and Jared Kushner expected for the US side. Iran's Revolutionary Guard Corps denied any Sunday signing and criticized Trump's 'unusual insistence' on the date, while Foreign Minister Abbas Araghchi said Strait of Hormuz 'service fees' remained under negotiation. Hardline protesters in Tehran questioned whether Supreme Leader Mojtaba Khamenei — who succeeded his father Ali Khamenei, killed on the war's first day — had endorsed the talks, noting his public silence.",
+    "source": "https://www.timesofisrael.com/trump-claims-us-iran-deal-to-be-signed-sunday-no-confirmation-from-tehran/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Israeli officials say US-Iran MOU 'endangers Israel's security'",
+    "direction": "Neutral",
+    "description": "Senior Israeli officials, quoted in Hebrew media as Netanyahu prepared to convene his security cabinet on the evening of June 13, warned that the emerging US-Iran memorandum of understanding 'endanger[s] Israel's security interests' and showed Washington had agreed to Tehran's 'main conditions' while surrendering US military leverage. They said the deal left nuclear, missile and other key issues unresolved and would deliver 'the opening of the Strait of Hormuz, the resuscitation of the regime, and a slap in the face for the Iranian public.' Israel played no direct role in the negotiations; Trump separately assured Netanyahu that any final agreement would address Iran's nuclear program, ballistic missiles and support for Hezbollah.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/senior-israeli-officials-us-agreed-to-irans-main-conditions-israels-concerns-left-unaddressed/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Israel strikes 70+ Hezbollah targets in 24 hours; commanders killed",
+    "direction": "Escalating",
+    "description": "Israel struck more than 70 Hezbollah targets across southern Lebanon in 24 hours around June 13, with air raids reported in Nabatieh city, Kfar Jouz, Blat in the Marjayoun district and the western Bekaa Valley. The military said it had killed over 10 Hezbollah field commanders in recent days as its 36th Division pressed an offensive around Nabatieh. The intensified campaign continued even as the US-brokered framework envisioned an immediate ceasefire 'across all fronts including Lebanon' — a truce Hezbollah leader Naim Qassem has rejected.",
+    "source": "https://www.foxnews.com/live-news/iran-war-news-us-trump-strait-hormuz-oil-price-peace-deal-june-13",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "78 Nobel laureates demand UN action as Iran executions accelerate",
+    "direction": "Escalating",
+    "description": "Seventy-eight Nobel laureates issued a joint appeal to UN Secretary-General António Guterres in mid-June demanding immediate intervention to halt Iran's accelerating wave of political executions. Amnesty International reported that at least 78 protesters and dissidents were under sentence of death and at risk of execution, including 41 people detained over the January 2026 uprising. The Iran Human Rights Society has documented at least 784 executions in 2026, which it called the highest level of political executions in 37 years, carried out under wartime internet blackouts that obscure the crackdown's scale. The US State Department condemned the surge.",
+    "source": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-june-13-2026/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-06-12",
     "title": "Pakistan PM says US and Iran agree 'final text' of war-ending deal; Trump cancels strikes",
     "direction": "De-escalating",
@@ -38,6 +70,14 @@
     "description": "Iran's military command declared the Strait of Hormuz closed following the US strikes and threatened to attack any vessel attempting to pass, also claiming it had struck a US warship — a claim US Central Command denied. US forces shot down two Iranian one-way attack drones targeting commercial ships in the strait. Physical transit through the waterway had already collapsed, with PortWatch recording just 2 transits on June 7 against a pre-crisis baseline of 94 per day, leaving hundreds of commercial ships and roughly 20,000 seafarers stranded in the Persian Gulf.",
     "source": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes",
     "actor": "Iran|US"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "US strike on tanker MT Settebello kills 3 Indian sailors in Hormuz",
+    "direction": "Escalating",
+    "description": "A US missile strike on the Palau-flagged oil tanker MT Settebello near the Strait of Hormuz on June 11 killed three Indian seafarers, part of what Washington called 'blockade enforcement operations' against vessels accused of violating its ban on Iranian oil exports. Of 24 Indian crew aboard, 21 were rescued; the dead were named as deck cadet Aditya Sharma, engine fitter Shivanand Chaurasia and chief engineer Patnala Suresh. India lodged formal protests and summoned US diplomats. UN Secretary-General António Guterres warned the deterioration could trigger 'a full resumption of the conflict, with unpredictable consequences for the region,' and the IMO said the strike was the 14th seafarer death among 46 verified attacks on shipping in the strait since the war began on February 28.",
+    "source": "https://news.un.org/en/story/2026/06/1167697",
+    "actor": "US"
   },
   {
     "date": "2026-06-10",
