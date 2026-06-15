@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-15",
+    "title": "Trump calls Netanyahu 'very difficult guy,' threatens to resume Iran strikes if no nuclear deal",
+    "direction": "Neutral",
+    "description": "In a June 15 New York Times interview, President Trump said Prime Minister Benjamin Netanyahu is 'a very difficult guy' who 'should be very thankful to us for doing this,' and warned that if Iran fails to reach a final nuclear accord he will either restart US military attacks on Tehran or make the United States 'the guardian of the Middle East' in exchange for 20% of the region's revenues. The remarks followed Trump's rebuke of Netanyahu over Israel's June 14 strike on Beirut's Dahiyeh, which Trump said nearly derailed the US-Iran memorandum of understanding aimed at ending the war, reopening the Strait of Hormuz and launching 60 days of nuclear talks. Netanyahu reiterated that Israel is not a party to the deal but praised Trump's 'commitment' to denying Iran nuclear weapons.",
+    "source": "https://www.jpost.com/international/article-899404",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Trump declares US-Iran deal 'complete'; blockade lifted, Hormuz to reopen, signing June 19",
+    "direction": "De-escalating",
+    "description": "President Trump announced on June 14 — his 80th birthday — that 'the Deal with the Islamic Republic of Iran is now complete. Ships of the World, start your engines. Let the oil flow!' and authorized the US Navy to lift its blockade and reopen the Strait of Hormuz toll-free. Pakistani Prime Minister Shehbaz Sharif, a lead mediator alongside Qatar, said both sides had 'declared the immediate and permanent termination of military operations on all fronts, including in Lebanon.' Under the memorandum of understanding — to be formally signed Friday, June 19, in Switzerland — Iran reaffirms a commitment to abstain from producing nuclear weapons and the parties begin 60 days of nuclear negotiations. Iran said implementation would not begin until the signing. VP JD Vance said the deal ensures 'Iran will never have a nuclear weapon.'",
+    "source": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Israel strikes Beirut's Dahiyeh and Nabatieh as deal nears; 6 killed, 29 towns ordered evacuated",
+    "direction": "Escalating",
+    "description": "Hours before Trump declared the US-Iran deal complete, Israel struck a five-story building in Beirut's Dahiyeh suburb, killing at least 3 and wounding 7, and hit towns in the Nabatieh district including Deir al-Zahrani and Kafr Reman, where at least 3 more were killed. The IDF ordered the immediate evacuation of 29 locations — 25 in Nabatieh district and four in Sidon district — directing residents north of the Zahrani River, and said it was responding to three Hezbollah projectiles fired at northern Israel. An Iranian military official warned the strikes 'will not go unanswered,' and UN Secretary-General António Guterres condemned them. Trump publicly told Netanyahu 'Let's not blow it!' and, per Fox News, privately demanded 'What the f— are you doing?', calling the Hezbollah attack 'very small and meaningless.'",
+    "source": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Brent oil falls below $87 as world leaders welcome US-Iran deal; Europe signals sanctions relief",
+    "direction": "De-escalating",
+    "description": "Brent crude fell more than 4% to below $86.50 a barrel on June 14 — its lowest since early March and roughly 20% off the 2026 peak — as markets priced in the reopening of the Strait of Hormuz. World leaders welcomed the US-Iran agreement, with UK Prime Minister Keir Starmer calling it a 'hugely important step forward in ending the war, ensuring regional stability and re-opening the Strait of Hormuz,' and several European nations and Japan signaling readiness to lift sanctions on Tehran in exchange for nuclear curbs. Analysts cautioned that even with a deal, clearing Hormuz mines, evacuating trapped tankers and restarting damaged production would take 'weeks to months,' with full normalization stretching into 2027.",
+    "source": "https://www.cnbc.com/amp/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html",
+    "actor": "UK|France"
+  },
+  {
     "date": "2026-06-13",
     "title": "Trump says US-Iran deal signs Sunday; IRGC disputes timing",
     "direction": "De-escalating",
