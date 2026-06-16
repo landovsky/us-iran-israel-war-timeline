@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-06-15",
+    "title": "Netanyahu vows Israeli troops will hold south Lebanon buffer zone, defying deal",
+    "direction": "Escalating",
+    "description": "At a June 15 press conference, Prime Minister Benjamin Netanyahu said Israeli forces would remain in the roughly 570 square kilometers (220 square miles) of southern Lebanon they occupy 'for as long as necessary,' and would keep striking Hezbollah and 'Iran's terror arms.' The position directly contradicts the US-Iran framework's call for an 'immediate and permanent termination of military operations on all fronts, including in Lebanon.' Netanyahu, whose government is not party to the deal, cast the war as an Israeli victory: 'Iran will never have nuclear weapons, not today and not tomorrow... We beheaded the leaders of the terror regime.' Israeli troops now hold ground beyond the Litani River, past the declared end point of Israel's self-proclaimed security zone.",
+    "source": "https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "US says Trump, Vance and Iran's Ghalibaf 'digitally' signed war-ending deal",
+    "direction": "De-escalating",
+    "description": "The White House and Vice President JD Vance disclosed on June 15 that President Trump, Vance and Iran's parliament speaker and chief negotiator Mohammad Bagher Ghalibaf had 'digitally' signed the war-ending agreement the previous day, Sunday June 14, committing to lift the US naval blockade of Iranian ports, reopen the Strait of Hormuz and begin 60 days of nuclear negotiations. Vance said the deal was 'signed digitally yesterday' and guaranteed 'Iran will never have a nuclear weapon.' A formal signing ceremony remained scheduled for Friday, June 19, in Geneva, Switzerland, mediated by Pakistan and Qatar, with Trump indicating he would not attend and that Vance would represent the US. Trump separately claimed the Strait of Hormuz was already 'partially opened.'",
+    "source": "https://www.timesofisrael.com/us-says-trump-vance-and-irans-ghalibaf-digitally-signed-iran-deal-on-sunday/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "Hormuz 'reopened' on paper but ships stay put; oil sinks to $83, US stocks hit records",
+    "direction": "Neutral",
+    "description": "Although Trump declared the Strait of Hormuz reopened, most vessels stayed put on June 15 as major war-risk insurers — including Skuld — kept Gulf coverage suspended and shipping body BIMCO said lines needed proof that mine-free routes existed before returning. Analysts estimated transits could take weeks to reach even 50% of pre-war levels. Markets nonetheless rallied on the deal: Brent crude fell 4.8% to $83.17 and WTI dropped 4% to $81.46 — their lowest since early March — while the Dow rose 469 points to a record 51,671, the S&P 500 gained 1.7% to 7,554 and the Nasdaq surged 3.1%. One analyst cautioned that even an immediate reopening 'will not prevent inflation from rising a bit further in the near term.'",
+    "source": "https://www.cnn.com/2026/06/15/business/oil-shipping-strait-hormuz-trump-iran",
+    "actor": "US"
+  },
+  {
+    "date": "2026-06-15",
     "title": "Trump calls Netanyahu 'very difficult guy,' threatens to resume Iran strikes if no nuclear deal",
     "direction": "Neutral",
     "description": "In a June 15 New York Times interview, President Trump said Prime Minister Benjamin Netanyahu is 'a very difficult guy' who 'should be very thankful to us for doing this,' and warned that if Iran fails to reach a final nuclear accord he will either restart US military attacks on Tehran or make the United States 'the guardian of the Middle East' in exchange for 20% of the region's revenues. The remarks followed Trump's rebuke of Netanyahu over Israel's June 14 strike on Beirut's Dahiyeh, which Trump said nearly derailed the US-Iran memorandum of understanding aimed at ending the war, reopening the Strait of Hormuz and launching 60 days of nuclear talks. Netanyahu reiterated that Israel is not a party to the deal but praised Trump's 'commitment' to denying Iran nuclear weapons.",
