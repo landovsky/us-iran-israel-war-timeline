@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-16",
+    "title": "Iran threatens 'harsh response' over Lebanon as US says Hezbollah not covered by deal",
+    "direction": "Escalating",
+    "description": "Iran's military command warned on June 16 of a 'harsh response' if Israel continued its offensive in southern Lebanon, insisting the US-Iran framework requires Israel to halt operations on 'all fronts, including Lebanon.' US Ambassador to Israel Mike Huckabee directly contradicted Tehran, reiterating that Hezbollah is not a party to and is not covered by the memorandum of understanding. The clash exposed the central ambiguity in the deal set for signing June 19 in Geneva: Iran and mediators say Lebanon is included, while Washington and Israel treat the Hezbollah front as outside its scope. Trump separately urged Netanyahu to be 'more responsible with respect to Lebanon.'",
+    "source": "https://www.timesofisrael.com/liveblog-june-16-2026/",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Israel keeps striking south Lebanon; Kfar Tebnit car strike kills driver",
+    "direction": "Escalating",
+    "description": "Despite the US-Iran deal, Israeli operations in southern Lebanon continued on June 16. Lebanon's National News Agency reported an Israeli strike on a car in Kfar Tebnit that killed the driver, while Israeli forces struck the village of Deir Qanoun al-Nahr. The IDF said Hezbollah fired several rockets at Israeli troops during the day and that soldiers fired warning shots and then a strike on a suspicious vehicle in an area where they were operating. The fighting eased from earlier in the week but did not stop, underscoring that the Hezbollah front remained active even as Washington and Tehran prepared to sign.",
+    "source": "https://www.timesofisrael.com/amid-us-iran-deal-idf-says-hezbollah-continues-attacking-troops-in-south-lebanon/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Vance, US officials deny Iran will get billions in frozen assets, contradicting Tehran",
+    "direction": "Neutral",
+    "description": "A public dispute broke out over the financial terms of the US-Iran deal. Iranian media (Mehr) and the Revolutionary Guard claimed the 14-point memorandum releases up to $24 billion in frozen Iranian assets during the 60-day negotiation, with $12 billion available before talks begin. Vice President JD Vance flatly denied it: 'When people say that billions of dollars of assets will be released, that's not true,' adding the $24 billion figure 'just doesn't appear anywhere in any of the texts.' A senior US official told Axios the Iranian account was 'spin,' calling it 'a pay-for-performance deal' under which 'no frozen funds will be released without the Iranians implementing their commitments.' The contradiction signaled the two sides still disagreed on core terms days before the scheduled June 19 signing.",
+    "source": "https://www.cbsnews.com/news/vance-iran-deal-billions-of-dollars-in-assets-cbs-mornings-interview/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Israeli opposition revolts over Iran deal, calls it 'worst agreement ever'",
+    "direction": "Neutral",
+    "description": "Israeli politicians across the spectrum turned on Netanyahu over the US-Iran deal, which much of Israel sees as a strategic defeat. Former PM Ehud Barak said 'Israel is paying the price of Netanyahu's hubris and blindness,' arguing Iran emerged stronger and Israel weaker. Opposition leader Yair Lapid called it 'one of the most shocking failures in Israel's foreign and security policy.' Far-right National Security Minister Itamar Ben-Gvir urged Netanyahu not to compromise on dismantling Hezbollah, while Yair Golan blasted the agreement for funneling billions to Iran while leaving its nuclear infrastructure and ballistic threat intact. Netanyahu, who staked his standing on his bond with Trump, said only that 'as long as I am the prime minister of Israel,' Iran will not get a nuclear weapon.",
+    "source": "https://www.pbs.org/newshour/world/israelis-argry-over-u-s-iran-peace-deal-lash-out-at-netanyahu",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Iran hangs 2 men tied to January unrest; 56 prisons launch hunger strike",
+    "direction": "Escalating",
+    "description": "Iran executed two men, Javad Zamani and Abolfazl Saedi, described by authorities as 'armed leaders' of the January 2026 nationwide unrest, fueling fears of a widening crackdown. The same day, prisoners in 56 facilities launched a hunger strike for the 125th week of the 'Tuesdays No to Executions' campaign, with organizers reporting more than 177 executions since the Iranian year began on March 21. Rights groups warned of imminent risk for additional death-row inmates transferred to Ghezel Hesar prison. The surge in judicial killings tracked with the regime's effort to suppress popular anger amid the war and economic collapse.",
+    "source": "https://www.ibtimes.co.uk/iran-executes-two-men-january-2026-protests-1803082",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-06-15",
     "title": "Netanyahu vows Israeli troops will hold south Lebanon buffer zone, defying deal",
     "direction": "Escalating",
