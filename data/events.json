@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-17",
+    "title": "Trump signs hard-copy US-Iran war-ending MOU at Versailles; Iran says deal 'in effect'",
+    "direction": "De-escalating",
+    "description": "President Trump personally signed a hard copy of the 14-point, roughly 800-word US-Iran memorandum of understanding during a G7 dinner at the Palace of Versailles in France on June 17, alongside Iranian President Masoud Pezeshkian. The document — first signed digitally on June 14-15 by VP JD Vance and Iran's chief negotiator Mohammad Bagher Ghalibaf, with Trump witnessing — commits to an immediate and permanent cessation of operations between the US-Israel alliance and Iran, reopening the Strait of Hormuz to commercial shipping, and lifting US sanctions on Iranian ports and oil sales. Iran's foreign ministry spokesman Esmaeil Baghaei said the MOU was finalized, signed electronically by both sides and had 'gone into effect,' adding: 'Now it is time to test the implementation of the agreement.' A formal ceremony in Switzerland remained scheduled for later in the week.",
+    "source": "https://thehill.com/homenews/administration/5929356-trump-signs-iran-agreement/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "US releases 14-point Iran deal text at G7: oil export waivers, $300B fund, no nuclear weapons",
+    "direction": "Neutral",
+    "description": "At a G7 press conference in Evian, France, on June 17, the Trump administration released the terms of the US-Iran agreement. The US will issue waivers allowing the export of Iranian oil, petroleum and derivatives — covering banking, insurance and transportation — and guarantees toll-free commercial transit through the Strait of Hormuz during the 60-day negotiating period. Tehran commits to 'not procure or develop nuclear weapons,' while the US and regional partners pledge to build a $300 billion Reconstruction and Development Fund for Iran, a private investment vehicle without US government grants that Reuters reported was already more than half committed and conditioned on Iran proving it had abandoned any nuclear-weapons pursuit. Trump publicly disputed the $300 billion figure even as his administration's released terms described the fund, exposing continued confusion over the deal's financial commitments.",
+    "source": "https://www.foxnews.com/politics/trump-administration-unveils-sweeping-terms-proposed-iran-agreement",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Israel keeps striking south Lebanon; Hezbollah drone wounds 4 IDF troops; Iran cites 84 violations",
+    "direction": "Escalating",
+    "description": "Israeli air strikes and drone attacks continued across southern Lebanon on June 17 despite the US-Iran deal's call to end fighting on all fronts. Lebanon's National News Agency reported three Israeli drone strikes in Tyre that caused injuries, a drone strike in the Bint Jbeil district, an air strike on the outskirts of Kfar Tebnit, raids on Nabatieh al-Fawqa, and shelling of the Ali al-Taher heights. Hezbollah fired at least 10 rockets at Israeli forces near Kfar Tebnit and detonated a drone that wounded four Israeli soldiers, with a fifth hurt minutes later. Iran charged that Israel had violated the Lebanon ceasefire 84 times in two days and warned Israel to expect 'a harsh response' if the attacks did not stop.",
+    "source": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Katz: IDF will not withdraw from Lebanon, Syria or Gaza, calls Hezbollah truce 'temporary'",
+    "direction": "Escalating",
+    "description": "Israeli Defense Minister Israel Katz declared on June 17 that the IDF would not pull back from the 'security zones' it holds in Lebanon, Syria and Gaza 'without any time limit,' directly rejecting the US-Iran framework's demand for an end to operations in Lebanon. 'We will not compromise on Israel's security interests and the protection of our citizens, and we will not withdraw from the security zones,' Katz said, calling the ceasefire with Hezbollah temporary and warning that 'if Iran attacks Israel because of events in Lebanon, we will strike it with full force.' Echoing Netanyahu, the statement underscored that Israel — not a party to the deal — intended to keep its forces and freedom of action even as Washington and Tehran finalized the agreement.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/katz-ceasefire-with-hezbollah-is-temporary-idf-not-withdrawing-from-positions-in-lebanon/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "First Iranian crude leaves Hormuz, but only 7 ships transit; 550+ stranded as insurers hold off",
+    "direction": "Neutral",
+    "description": "The first tankers carrying Iranian crude departed through the Strait of Hormuz on June 17 since the US naval blockade began two months earlier, but overall traffic remained negligible. Shipping monitor MarineTraffic counted only seven vessels through the strait since the deal was announced, against a pre-war norm of 120-140 ships a day, with more than 550 vessels still stranded on either side. Major insurers and lines stayed cautious: the Norwegian Shipowners' Mutual War Risks Insurance Association said a return to pre-war levels would 'take months,' war-risk premiums still ran 2.5-5% of vessel value, and analysts estimated mine-clearance verification alone would take about two months. US Secretary of State Marco Rubio claimed Iran had 'mined large segments of Hormuz.' Experts projected roughly four months before shipping normalizes.",
+    "source": "https://www.aljazeera.com/features/2026/6/17/strait-of-hormuz-reopens-how-will-safe-passage-for-ships-be-ensured",
+    "actor": "US|Iran"
+  },
+  {
     "date": "2026-06-16",
     "title": "Iran threatens 'harsh response' over Lebanon as US says Hezbollah not covered by deal",
     "direction": "Escalating",
