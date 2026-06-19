@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-18",
+    "title": "Khamenei okays MOU in writing; says he opposed it, talks 'not acceptance of enemy's position'",
+    "direction": "De-escalating",
+    "description": "Iran's Supreme Leader Mojtaba Khamenei gave his first response to the US-Iran memorandum of understanding in a written statement on his Telegram channel on June 18, authorizing the deal while making clear he had opposed signing it. Khamenei said he approved the MOU only on the recommendation of President Masoud Pezeshkian and the Supreme National Security Council, and insisted that 'future negotiations do not mean acceptance of the enemy's position.' He said the officials who backed the deal had committed that 'if the American side seeks excessive concessions, they will not submit to them' — effectively pre-authorizing Iran's withdrawal from the 60-day talks — and claimed President Trump had signed 'out of desperation.' The statement cleared the way for Friday's Geneva ceremony while signaling Tehran's hardline ceiling on concessions.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/khamenei-in-written-statement-okays-mou-says-talks-with-us-do-not-mean-accepting-its-views/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Trump's Iran deal draws rare Republican rebuke; Trump denies '$300 billion payment'",
+    "direction": "Neutral",
+    "description": "President Trump's US-Iran agreement drew unusual public criticism from senior Republicans on June 18 as the $300 billion Reconstruction and Development Fund became a domestic flashpoint. Sen. Bill Cassidy called it 'the worst foreign policy blunder in decades'; Sen. Ted Cruz said 'giving billions of dollars to theocratic lunatics who want to murder us is not a good idea'; Sen. Thom Tillis, noting the US lost two F-18s, 13 dead and roughly $100 billion in the war, said 'I need more than 14 points'; and Sen. Roger Wicker warned the sum would make 'Iran's payoff under President Obama's 2015 deal look like a pittance.' Trump pushed back on Truth Social — 'There is no 300 Billion Dollar payment to Iran by the U.S. That's Fake News!' — while VP JD Vance insisted 'Not a cent of American money goes to Iran,' saying Gulf states and private investors would fund it. No country had confirmed a financial commitment, and Sen. Lindsey Graham said any nuclear deal would go to Congress for a vote.",
+    "source": "https://www.cnn.com/2026/06/18/politics/republicans-trump-iran-agreement-congress",
+    "actor": "US"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Israeli drones kill 3 in south Lebanon; IDF soldier killed; Israel maps zone, refuses pullout",
+    "direction": "Escalating",
+    "description": "Israeli operations in southern Lebanon continued on June 18 despite the MOU's call to halt fighting on all fronts. Lebanese state media said an Israeli drone struck a car in the Kfar Tebnit area, killing two people, and a second drone killed one more in the neighboring village of Zebdine, bringing the day's toll to three. The IDF announced Master Sgt. Alexander Filin, 29, had been killed in combat in south Lebanon and that seven soldiers were wounded. Israel published an updated map of its 'security zone' and said it would not withdraw 'at this stage,' while a senior official close to Netanyahu told Reuters Israel was 'conducting stubborn negotiations' with Washington over keeping troops deployed in Lebanon.",
+    "source": "https://www.timesofisrael.com/liveblog-june-18-2026/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Three Saudi supertankers cross Hormuz with 6M barrels; US backs $20B maritime reinsurance",
+    "direction": "De-escalating",
+    "description": "Commercial oil traffic began returning to the Strait of Hormuz on June 18, hours after the US-Iran MOU took effect. Three Saudi-flagged supertankers sailed through the strait carrying a combined six million barrels of crude. War-risk premiums fell to roughly 1% of hull value per voyage — about $1.1 million for a modern VLCC, down from peaks of up to 10% during the blockade — and the US International Development Finance Corporation deployed $20 billion in maritime reinsurance with Chubb as lead partner to coax insurers back. Industry executives cautioned it would take weeks to clear the vessel backlog, with the strait expected to fully reopen within about 30 days of the June 19 formal ratification.",
+    "source": "https://gcaptain.com/hormuz-is-reopening-shippings-old-playbook-isnt/",
+    "actor": "Saudi Arabia|US"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Trump says it would be 'unfair' to deny Iran ballistic missiles, abandoning a war aim",
+    "direction": "Neutral",
+    "description": "Speaking to reporters in Paris on June 17 after the US-Iran MOU was reached, President Trump signaled the deal would leave Iran's ballistic missile program intact, reversing one of his original justifications for the war. 'I'm saying that if other countries have them, it's a little bit unfair for them not to have some,' Trump said, adding: 'If Saudi Arabia and Qatar, and they all have some, I would say in relative proportion, I think it's okay.' Having earlier vowed to obliterate Iran's missiles, Trump now framed them as a matter of regional parity — a shift that fueled the emerging Republican backlash and alarmed Israel, which views Iran's missile arsenal as an existential threat.",
+    "source": "https://www.timesofisrael.com/as-deal-takes-force-trump-says-its-okay-for-iran-to-have-some-ballistic-missiles/",
+    "actor": "US"
+  },
+  {
     "date": "2026-06-17",
     "title": "Trump signs hard-copy US-Iran war-ending MOU at Versailles; Iran says deal 'in effect'",
     "direction": "De-escalating",
