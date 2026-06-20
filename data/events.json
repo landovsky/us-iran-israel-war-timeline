@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-19",
+    "title": "Israel kills 47 in south Lebanon, second-deadliest day; 4 soldiers killed; Ben-Gvir: 'all of Lebanon must burn'",
+    "direction": "Escalating",
+    "description": "Israeli strikes killed at least 47 people and wounded 97 across southern Lebanon on June 19, the Lebanese Health Ministry said — the second-deadliest day since the Israel-Hezbollah front reignited in early March. The IDF said it hit more than 150 Hezbollah targets and that four soldiers, including a battalion commander, were killed in two separate Hezbollah drone, rocket and artillery attacks as troops pushed roughly 10 km into Lebanese territory around Nabatieh. National Security Minister Itamar Ben-Gvir declared 'all of Lebanon must burn,' while Netanyahu warned Israel would 'exact a very heavy price from Hezbollah.' Al Jazeera put total war deaths since March 2 at at least 3,912.",
+    "source": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "US-Iran implementation talks in Switzerland collapse; Vance cancels trip as Iran balks over Lebanon",
+    "direction": "Neutral",
+    "description": "The first round of US-Iran implementation talks, scheduled for June 19 in Bürgenstock, Switzerland, with Pakistani and Qatari mediators, was abruptly postponed hours before it was to begin. Vice President JD Vance scrapped his trip — the White House cited 'logistical challenges' — while Iran refused to deploy its negotiating team over Israel's continuing offensive in southern Lebanon, which Tehran insists the deal requires Israel to halt. Switzerland's foreign ministry confirmed the postponement, saying it 'remains ready to facilitate these talks.' Vance maintained the 60-day window to reach a final deal was underway and 'each side is honoring its commitments so far,' but the cancellation marked the first stumble of the day-old accord.",
+    "source": "https://www.euronews.com/2026/06/19/jd-vance-cancels-trip-to-switzerland-for-planned-us-iran-talks",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Israel and Hezbollah renew ceasefire, brokered by Qatar, US and Iran, after deadliest flare-up",
+    "direction": "De-escalating",
+    "description": "Israel and Hezbollah agreed late on June 19 to renew their ceasefire after a day of fighting that killed at least 47 people in Lebanon and four Israeli soldiers and threatened to derail the US-Iran deal, according to two regional officials and a US official. Qatar, the United States and Iran brokered the renewal. Hezbollah did not immediately confirm and Israel did not comment, but Israel's ambassador to Washington, Yechiel Leiter, said Israel was 'firmly committed to an immediate ceasefire' provided 'Hezbollah honors the agreement and ceases its hostilities.' The truce eased pressure on the faltering US-Iran framework hours after the Switzerland implementation talks collapsed.",
+    "source": "https://www.pbs.org/newshour/world/israel-and-hezbollah-renew-ceasefire-after-u-s-and-iran-call-off-talks-over-fighting-in-lebanon",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Trump calls Netanyahu a 'warrior PM,' touts 'great relationship' to calm Iran-deal rift",
+    "direction": "Neutral",
+    "description": "President Trump moved to repair ties with Netanyahu on June 19, calling him a 'warrior prime minister' and saying 'we've had a great relationship with Israel' during the unveiling of a new Air Force One jet gifted by Qatar. The praise reversed days of public criticism in which Trump had pressed Netanyahu to rein in the IDF's Lebanon offensive, which Washington feared would wreck the US-Iran agreement. The conciliatory tone came as Republican senators continued to attack the deal's financial terms and as the day's Lebanon fighting briefly derailed the accord's first implementation talks.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/trump-calls-netanyahu-a-warrior-pm-touts-his-great-relationship-with-israel-amid-tensions-over-iran-deal/",
+    "actor": "US|Israel"
+  },
+  {
     "date": "2026-06-18",
     "title": "Khamenei okays MOU in writing; says he opposed it, talks 'not acceptance of enemy's position'",
     "direction": "De-escalating",
