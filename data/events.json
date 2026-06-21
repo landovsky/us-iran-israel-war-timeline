@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-21",
+    "title": "US-Iran implementation talks open in Bürgenstock, Switzerland; emergency Lebanon session added",
+    "direction": "De-escalating",
+    "description": "US and Iranian delegations opened the first round of implementation talks on June 21 in Bürgenstock, Switzerland, two days after the initial session collapsed over Israel's Lebanon offensive. Vice President JD Vance joined special envoy Steve Witkoff and presidential adviser Jared Kushner, while Iran's team was led by parliament speaker Mohammad Bagher Ghalibaf and Foreign Minister Abbas Araghchi, with Pakistani and Qatari mediators. Negotiators added an emergency session on the Israel-Hezbollah conflict to the first day's agenda. Vance said his priorities were to 'set up the structure' of the talks, 'make progress' on the nuclear issue and secure a ceasefire in Lebanon, framing the 60-day window to reach a final deal as on track.",
+    "source": "https://www.rferl.org/a/iran-burgenstock-ceasefire-vance-witkoff-kushner-araqchi/33785268.html",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Israeli strikes kill at least 32 across south Lebanon despite renewed ceasefire; 5th IDF soldier killed",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes killed at least 32 people across southern Lebanon on June 20, less than a day after Israel and Hezbollah renewed their ceasefire, threatening the US-Iran talks set to resume the next day. Lebanon's Health Ministry reported 16 killed and 12 wounded in the Nabatieh district, four family members including two children in Barish, seven in Qanarit, four in Sohmor, and a Lebanese soldier in Kfar Reman, amid more than 100 Israeli strikes since midnight. The IDF said Hezbollah had 'launched more than 50 projectiles toward IDF soldiers operating in southern Lebanon' overnight and that it struck Hezbollah targets in response; a fifth Israeli soldier was killed since the US-Iran deal. The Health Ministry put the cumulative Lebanon toll since March 2 at 4,057 killed and 12,121 wounded.",
+    "source": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Iran declares Strait of Hormuz closed again over Lebanon strikes; CENTCOM says traffic flowing",
+    "direction": "Escalating",
+    "description": "Iran's joint military command announced on June 20 that it had again closed the Strait of Hormuz, citing a 'clear breach' of the US-Iran memorandum triggered by Israel's continued strikes in southern Lebanon, with the IRGC Navy warning ships not to approach the waterway. US Central Command rejected the claim, insisting commercial traffic was still moving through the strait, which had seen at least 20 tankers transit on June 19 — the highest since June 2. The dueling narratives, days after the deal nominally reopened the chokepoint that carries nearly 20 percent of global oil, set the stage for the implementation talks resuming in Switzerland.",
+    "source": "https://www.nbcnews.com/world/iran/israel-continues-lebanon-strikes-fresh-ceasefire-rcna350952",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Trump: no Hormuz tolls for 60 days, but US may impose them as Gulf 'Guardian Angel'",
+    "direction": "Neutral",
+    "description": "President Trump wrote on Truth Social on June 20 that 'There will be NO TOLLS in the Hormuz Strait for 60 days during the Cease Fire Period, and there will be NO TOLLS after the 60 day period has expired, unless they are imposed by and for the United States of America, should the deal not be completed.' He framed any future US tolls as reimbursement for 'services rendered as the Guardian Angel to the countries of the Middle East.' The post rebuffed Iran's insistence that it would administer the strait and added a new financial flashpoint to the talks, hours after Tehran declared the waterway closed and CENTCOM disputed the claim.",
+    "source": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might",
+    "actor": "US"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Tens of thousands rally in Paris for 'Democratic Republic,' condemn Iran's execution wave",
+    "direction": "Neutral",
+    "description": "The Iranian diaspora held one of its largest-ever gatherings in Paris on June 20, organized by the People's Mojahedin Organization of Iran (MEK/NCRI) under the slogan 'A Democratic Republic for Iran,' drawing participants from Europe, North America and the Middle East. Speakers rejected both monarchical and theocratic rule and condemned a surge in political executions following the January 2026 uprising. Organizers said dozens of political prisoners had been executed in recent weeks; Amnesty International reported at least 78 protesters and political prisoners sentenced to death remained at risk, including 41 detained over the January protests.",
+    "source": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-june-19-2026/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-06-19",
     "title": "Israel kills 47 in south Lebanon, second-deadliest day; 4 soldiers killed; Ben-Gvir: 'all of Lebanon must burn'",
     "direction": "Escalating",
