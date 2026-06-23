@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-23",
+    "title": "Israel and Lebanon open direct talks in Washington over ceasefire enforcement and Hezbollah disarmament",
+    "direction": "De-escalating",
+    "description": "Israeli and Lebanese delegations opened a new round of direct talks in Washington running June 23-25, the US State Department said, after a call between Secretary of State Marco Rubio and Lebanese President Joseph Aoun. The agenda centers on enforcing the renewed ceasefire, a 'move versus move' reciprocity mechanism, and the future of the Israeli security zone in southern Lebanon. Rubio reiterated 'the need to disarm' Hezbollah and called bilateral negotiations 'the only feasible path to reconstruction, economic recovery, and ending recurrent cycles of violence.' It is the latest in a series of direct contacts that began in April — the first such meetings since 1993 — and runs parallel to the US-Iran implementation track.",
+    "source": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Smotrich vows IDF will hold south Lebanon 'for years,' won't withdraw even if US demands it",
+    "direction": "Escalating",
+    "description": "Finance Minister Bezalel Smotrich told Army Radio on June 23 that Israel will not pull its forces out of the southern Lebanon security zone 'as long as Hezbollah exists in Lebanon' and 'so long as this government remains in power' — 'it simply will not happen.' Asked about potential US pressure to remove troops to satisfy Iranian demands in the Washington-Tehran negotiations, he said Israel would stay 'for years' and would not withdraw 'even in the face of an explicit US demand,' adding 'We have made it clear to the Americans.' The remarks, naming the Beaufort Ridge, openly defied the deconfliction framework the US and Iran agreed in Switzerland and underscored the gap between Israel's stance and the deal's Lebanon provisions.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/smotrich-idf-will-stay-in-lebanon-for-years-until-after-hezbollah-disarms-wont-withdraw-even-if-us-demands-it/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "US-Iran talks conclude with roadmap; Iran agrees to readmit IAEA inspectors 'this week'",
+    "direction": "De-escalating",
+    "description": "The first round of US-Iran implementation talks in Switzerland concluded on June 22 after roughly 18 hours of negotiations, with Vice President JD Vance saying Iran agreed to invite International Atomic Energy Agency inspectors back into the country 'at the minimum of this week,' calling it 'a major milestone for the American people and the first step in permanently denuclearising' Iran. Vance said four objectives were accomplished — readmitting nuclear inspectors, a mechanism to keep the Strait of Hormuz open, a deconfliction mechanism for the Lebanon ceasefire, and a process for future negotiations — adding 'We haven't built the house, but we've laid a successful foundation.' Mediators Qatar and Pakistan reported 'encouraging progress,' with envoys Jared Kushner and Steve Witkoff to continue technical talks through the week as Rubio prepared to tour the UAE, Kuwait and Bahrain.",
+    "source": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "US Treasury authorizes Iranian oil production and sales under 60-day license",
+    "direction": "De-escalating",
+    "description": "The US Treasury Department issued a 60-day license on June 22 suspending restrictions on the production, delivery and sale of Iranian oil, implementing the sanctions-relief provision of the June 17 memorandum of understanding. Treasury Secretary Scott Bessent cited 'productive talks' between Tehran and Washington in Switzerland. The waiver clears the legal path for Iranian crude to return to global markets toll-free for the duration of the ceasefire window, after which Tehran is to discuss administration of the Strait of Hormuz with Oman and the Gulf states.",
+    "source": "https://www.cnbc.com/2026/06/22/treasury-iran-oil-sales.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Hormuz transits fall to 12 as ships disable transponders; Iran's foreign ministry contradicts IRGC closure",
+    "direction": "Neutral",
+    "description": "Shipping through the Strait of Hormuz stalled on June 22, with maritime intelligence firm Windward counting just 12 transits, down from 35 on June 21 and 25 on June 20, after Iran's IRGC declared the waterway closed over Israel's Lebanon strikes. Five of eight vessels entering the strait had switched off their AIS transponders and hugged the Omani shoreline to avoid detection. CENTCOM insisted safe passage was 'intact,' reporting 55 merchant ships transited June 21, while Iran's foreign ministry told Tasnim that shipping was 'operating normally' and said a 'mechanism was set up' for safe passage after the Switzerland talks — directly contradicting its own military's closure announcement. President Trump declared the strait 'totally open' and said 'we have an oil gusher'; Brent crude slipped to just below $80 a barrel.",
+    "source": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut",
+    "actor": "Iran|US"
+  },
+  {
     "date": "2026-06-21",
     "title": "US-Iran talks make 'encouraging progress'; Lebanon de-confliction cell and Hormuz comms line set up",
     "direction": "De-escalating",
