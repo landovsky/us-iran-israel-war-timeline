@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-06-24",
+    "title": "Trump claims '100% inspections'; Iran denies any IAEA plan; Grossi says visits 'will happen'",
+    "direction": "Neutral",
+    "description": "A public contradiction over nuclear inspections deepened on June 24, the central sticking point of the war-ending framework. President Trump said Iran had 'fully and completely' agreed, posting 'They told us inside and we have it down, 100% inspections,' while adding 'There's no rush' on timing. Iran's foreign ministry spokesman Esmaeil Baghaei flatly denied it: 'We have not had a meeting with the director general of the IAEA, nor do we have any plans for the agency to inspect Iran's nuclear facilities damaged by the U.S. and Zionist military aggression.' IAEA Director-General Rafael Grossi gave his firmest signal yet that inspectors would return, saying the memorandum 'explicitly states that nuclear activities will be supervised by the IAEA' and 'This is going to happen,' though he too left the timing undefined.",
+    "source": "https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "US Senate passes war powers resolution 50-48 to halt Iran war, rebuking Trump",
+    "direction": "Neutral",
+    "description": "The US Senate voted 50-48 on June 23 to pass a war powers resolution directing President Trump to remove US forces from hostilities against Iran unless explicitly authorized by Congress. Four Republicans — Bill Cassidy, Lisa Murkowski, Susan Collins and Rand Paul — crossed party lines, while Democrat John Fetterman voted against; Mitch McConnell and Dave McCormick did not vote. The House had passed the same measure 215-208 on June 3, marking the first time both chambers of Congress invoked the 1973 War Powers Act against a sitting president. The resolution is largely symbolic and expected to face a presidential veto. Minority Leader Chuck Schumer said Trump 'promised to put maximum pressure on Iran, but he ended up delivering maximum confusion, maximum chaos.'",
+    "source": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump",
+    "actor": "US"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Iran says US agreed to release $12bn in frozen funds; Tehran disputes US-purchase claim",
+    "direction": "De-escalating",
+    "description": "Iran's lead negotiator and parliament speaker Mohammad Bagher Ghalibaf said on June 23 that the Switzerland talks produced an agreement to release $12 billion in frozen Iranian assets, in two tranches of $6 billion, with initial arrangements made earlier in Qatar and final signing at Bürgenstock. He said sanctions on crude oil, petrochemicals and derivatives had been lifted until a final deal, extending to banking, insurance and transportation. Washington had not confirmed the figure. Trump claimed any released assets would be used to buy US agricultural products, but Iran's central bank governor Abdolnaser Hemmati pushed back, saying there is 'no requirement in the memoranda to buy from the United States.'",
+    "source": "https://www.thenationalnews.com/news/mena/2026/06/23/iran-says-agreement-reached-with-us-to-release-12-billion-in-frozen-funds/",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Rubio arrives in UAE to reassure wary Gulf, warns Iran cannot charge Hormuz tolls",
+    "direction": "Neutral",
+    "description": "Secretary of State Marco Rubio arrived in Abu Dhabi on June 23 to begin a three-nation tour of the UAE, Kuwait and Bahrain (June 23-25) aimed at easing Gulf monarchies' unease over the US-Iran framework and its implications for the regional balance. Rubio drew a hard line on the Strait of Hormuz: 'It's an international waterway. No country is allowed to charge tolls or fees on an international waterway,' as Iranian officials held talks with Oman on managing the passage. On his approach he said, 'We're really here to hear from them more than we are to talk.' Qatar's prime minister warned that escalation 'anywhere in the region, whether in Lebanon or elsewhere, will affect the negotiations.'",
+    "source": "https://www.thenationalnews.com/news/mena/2026/06/23/rubio-uae-gulf-tour-iran-us-deal-strait-of-hormuz/",
+    "actor": "US|UAE"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Oman and IMO open temporary Hormuz corridor, begin evacuating 11,000+ stranded seafarers",
+    "direction": "De-escalating",
+    "description": "Oman announced on June 23 that it had coordinated with the International Maritime Organization to open a temporary maritime corridor through the Strait of Hormuz, with vessels required to coordinate transit days using coordinates issued by the IMO and Omani authorities. The IMO secretary-general said implementation of a phased evacuation plan had begun for more than 11,000 seafarers still stranded in the region, after securing safety guarantees. Oman cautioned that the confined lanes carried an elevated collision risk requiring close monitoring. Iran and Oman separately announced joint management plans for the waterway, noting in a joint statement that the services would carry 'costs associated with them' — a hint at future fees that cut against US and Omani insistence on toll-free passage.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/oman-announces-temporary-maritime-corridor-for-hormuz-traffic/",
+    "actor": "Iran|Other"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Pezeshkian in Pakistan: ballistic missiles 'will never' enter deal; 'without them we'd be like Gaza'",
+    "direction": "Neutral",
+    "description": "Visiting Pakistan, a key mediator in the Tehran-Washington talks, Iranian President Masoud Pezeshkian said on June 23 that Iran's ballistic missiles are not part of the memorandum of understanding and 'will never be included,' calling the program non-negotiable and arguing that without its missiles Iran 'would have ended up just like Gaza.' Pakistani Prime Minister Shehbaz Sharif corroborated the reading of the text: 'This MoU does not mention ballistic missiles. It was never on the table, it was never on the agenda, and the Iranian side never even wanted to discuss it.' The remarks reinforced the ceiling Tehran set on the 60-day talks, days after Trump conceded it would be 'unfair' to deny Iran missiles.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/in-pakistan-iranian-president-says-ballistic-missiles-will-never-be-included-in-deal/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Lebanon ceasefire 'largely holding'; Israeli fire kills 2 civilians in Nabatieh",
+    "direction": "De-escalating",
+    "description": "The renewed Israel-Hezbollah ceasefire was 'largely holding' on June 23, the UN said, a sharp de-escalation from the preceding days that had killed dozens across southern Lebanon. Israeli troops nonetheless opened fire in Nabatieh al-Fawqa, killing two people, and Israel continued limited operations inside its declared security zone. The relative calm coincided with the opening in Washington of the fifth round of direct Israel-Lebanon talks and removed, for the moment, the Lebanon flashpoint that had twice nearly collapsed the US-Iran implementation track.",
+    "source": "https://www.cnn.com/2026/06/23/world/live-news/iran-war-trump-lebanon-israel",
+    "actor": "Israel|Lebanon"
+  },
+  {
     "date": "2026-06-23",
     "title": "Israel and Lebanon open direct talks in Washington over ceasefire enforcement and Hezbollah disarmament",
     "direction": "De-escalating",
