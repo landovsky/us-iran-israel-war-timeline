@@ -1,6 +1,38 @@
 [
   {
     "date": "2026-06-24",
+    "title": "Oil falls below pre-war level; Brent settles $73.74, WTI under $70 for first time since March",
+    "direction": "De-escalating",
+    "description": "Global oil prices fell to their lowest level since before the war as traders bet the US-Iran framework would reopen the Strait of Hormuz. Brent crude futures dropped 4.3% to settle at $73.74 a barrel — below the level it traded at before the February 28 US-Israeli strikes on Iran. West Texas Intermediate closed at $70.34 after touching a session low of $69.63, the first time the US benchmark fell below $70 since March 2. Prices had spiked toward $120 during the war when the Hormuz closure choked roughly a fifth of global oil flows; the retreat reflected growing optimism that the waterway would fully reopen under the June 17 memorandum.",
+    "source": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Gulf allies fear Iran deal a 'disastrous turning point'; Rubio holds 'frank' talks in Kuwait, Abu Dhabi",
+    "direction": "Neutral",
+    "description": "Secretary of State Marco Rubio toured three Gulf states to sell the US-Iran framework to skeptical allies who fear it rewards Tehran. Officials told CNN the agreement — which includes a reported $300 billion reconstruction fund for Iran that Trump expects the Gulf to help finance — risked being a 'disastrous turning point,' with Saudi Arabia saying it had 'no details' and Qatar interested but not formally signed on. Rubio, photographed in Kuwait and Abu Dhabi, called his conversations 'very frank, honest, important' and pledged the US would not 'undermine' its Gulf partners, adding that technical talks with Iran would proceed next week. The UAE, Bahrain and Kuwait bore the brunt of Iranian missile and drone retaliation during the war.",
+    "source": "https://www.cnn.com/2026/06/24/middleeast/trumps-gulf-allies-iran-agreement-disastrous-intl",
+    "actor": "US|Saudi Arabia"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "US reopens embassy in Kuwait after wartime closure; Rubio raises flag",
+    "direction": "De-escalating",
+    "description": "The US Embassy in Kuwait City resumed operations effective midnight June 24, months after the State Department suspended it in March when Iranian drones fired at the mission following US-Israeli strikes on Iran. Secretary of State Marco Rubio attended a flag-raising ceremony during his visit. Emergency services for American citizens resume immediately, with other consular services phased in, a State Department spokesperson said. The US had shut both its Kuwait and Saudi Arabia missions in March amid the Iranian retaliation campaign.",
+    "source": "https://www.al-monitor.com/originals/2026/06/us-reopens-embassy-kuwait-months-after-iranian-attack",
+    "actor": "US"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Qatar says LNG output will return to normal 'within a few weeks' as Hormuz reopens",
+    "direction": "De-escalating",
+    "description": "Qatar's Prime Minister Sheikh Mohammed bin Abdulrahman al-Thani said the Gulf state would restore normal liquefied natural gas production 'within a few weeks, except the damaged facility,' as the Strait of Hormuz reopens under the US-Iran deal. QatarEnergy halted output after a February 28 drone strike on its Ras Laffan plant, and Iranian missiles in mid-March damaged Trains 4 and 6, removing about 17% of capacity. Qatar plans to restore roughly 50% of capacity within a month and 80% within two; the damaged trains may not fully return before 2028. Qatar supplies about a fifth of global LNG, and the shutdown has kept European and Asian spot prices elevated since early March.",
+    "source": "https://english.aawsat.com/business/5287886-qatar-says-resume-normal-lng-production-within-few-weeks",
+    "actor": "Qatar"
+  },
+  {
+    "date": "2026-06-24",
     "title": "Trump claims '100% inspections'; Iran denies any IAEA plan; Grossi says visits 'will happen'",
     "direction": "Neutral",
     "description": "A public contradiction over nuclear inspections deepened on June 24, the central sticking point of the war-ending framework. President Trump said Iran had 'fully and completely' agreed, posting 'They told us inside and we have it down, 100% inspections,' while adding 'There's no rush' on timing. Iran's foreign ministry spokesman Esmaeil Baghaei flatly denied it: 'We have not had a meeting with the director general of the IAEA, nor do we have any plans for the agency to inspect Iran's nuclear facilities damaged by the U.S. and Zionist military aggression.' IAEA Director-General Rafael Grossi gave his firmest signal yet that inspectors would return, saying the memorandum 'explicitly states that nuclear activities will be supervised by the IAEA' and 'This is going to happen,' though he too left the timing undefined.",
