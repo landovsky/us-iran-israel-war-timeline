@@ -1,6 +1,22 @@
 [
   {
     "date": "2026-06-26",
+    "title": "US bombs Iran: 6 aircraft hit 4 missile, drone and radar sites near Hormuz and Qeshm Island",
+    "direction": "Escalating",
+    "description": "Six land-based US aircraft struck four Iranian targets along the Strait of Hormuz coast and on Qeshm Island, hitting missile and drone storage facilities and radar sites, US Central Command said, calling it a 'powerful response' to Iran's 'dangerous behavior' and stating the 'unwarranted aggression against commercial shipping by Iranian forces clearly violated the ceasefire.' It was the first US strike on Iran since the two sides extended their truce in the June 17 memorandum. The action retaliated for the June 25 IRGC drone attack on the Singapore-flagged cargo ship Ever Lovely; President Trump said Iran 'shot at least four One Way Attack Drones at Ships,' one of which 'solidly hit the upper deck,' calling it 'a foolish violation of our Ceasefire Agreement.' No casualties were reported and Iran did not immediately retaliate, instead reportedly opening a communications line with Washington while rejecting new shipping lanes and turning back three foreign tankers.",
+    "source": "https://www.cbsnews.com/news/us-strikes-iran-drone-attack-cargo-ship-challenge-ceasefire-trump/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Israel, Lebanon sign US-brokered framework for partial IDF withdrawal from two pilot zones",
+    "direction": "De-escalating",
+    "description": "Israel, Lebanon and the US signed a framework agreement at the State Department in Washington after four days of talks, under which the IDF will begin partially withdrawing from southern Lebanon by handing two 'pilot zones' — one north of the Litani river and one farther south, both already cleared of Hezbollah infrastructure by Israel — to the Lebanese Armed Forces. Secretary of State Marco Rubio called it 'the beginning of the beginning,' announcing a new trilateral Military Coordination Group for Lebanon and an 'immediate' $100 million US humanitarian donation. Netanyahu cast it as a win that lets Israel hold most of the territory it occupies 'as long as Hezbollah has not disarmed,' while Hezbollah rejected the deal — leader Naim Qassem demanding 'Israel must leave unconditionally' and MP Hassan Fadlallah denouncing 'unilateral, gratuitous concessions.'",
+    "source": "https://www.timesofisrael.com/israel-and-lebanon-ink-framework-deal-for-minor-idf-withdrawal-after-4-days-of-dc-talks/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-26",
     "title": "Netanyahu vows IDF will stay in south Lebanon 'as long as necessary'; strikes kill civilians returning home",
     "direction": "Escalating",
     "description": "Israel pressed on with strikes in southern Lebanon as Prime Minister Benjamin Netanyahu declared the military was 'not going to withdraw' from occupied areas and would remain 'as long as necessary,' brushing aside the US-Iran framework that envisages an Israeli pullback. Hezbollah accused Israel of deliberately targeting displaced residents trying to return to their homes, saying Israeli fire killed two people and wounded a third; an Israeli strike a day earlier killed three in the Tyre district, where a 76-year-old returnee found his house in Maaroub destroyed. The statements hardened a standoff that has repeatedly flared despite the June 19 Qatar-brokered ceasefire, with Economy Minister Bezalel Smotrich having already vowed the IDF would hold the south 'for years.'",
@@ -11,7 +27,7 @@
     "date": "2026-06-25",
     "title": "Cargo ship struck off Oman in Gulf of Oman; IMO pauses Hormuz evacuation; US blames Iran",
     "direction": "Escalating",
-    "description": "A container ship was hit by a projectile in the Gulf of Oman as it transited near the Strait of Hormuz off the Omani coast, sustaining damage but no injuries or pollution, the British navy's UKMTO reported. A US official told MS Now that Iran was behind the strike near Dahit, Oman, though attribution was not publicly confirmed and the IRGC reiterated that the only authorized passage was 'the one declared by the Islamic Republic of Iran.' IMO Secretary-General Arsenio Dominguez paused the agency's week-old Hormuz evacuation program — under which roughly 57 ships carrying about 1,100 seafarers had transited since June 23 — saying the safety of seafarers 'remains paramount' until guarantees could be reconfirmed. Brent crude reversed its slide to a four-month low, climbing about 2% to around $75.26, as the attack revived fears the waterway's reopening could unravel.",
+    "description": "A container ship — later identified as the Singapore-flagged Ever Lovely — was hit by a projectile in the Gulf of Oman as it transited near the Strait of Hormuz off the Omani coast, sustaining damage but no injuries or pollution, the British navy's UKMTO reported. A US official told MS Now that Iran was behind the strike near Dahit, Oman; Washington publicly attributed it the next day to an IRGC one-way attack drone, while the IRGC reiterated that the only authorized passage was 'the one declared by the Islamic Republic of Iran.' IMO Secretary-General Arsenio Dominguez paused the agency's week-old Hormuz evacuation program — under which roughly 57 ships carrying about 1,100 seafarers had transited since June 23 — saying the safety of seafarers 'remains paramount' until guarantees could be reconfirmed. Brent crude reversed its slide to a four-month low, climbing about 2% to around $75.26, as the attack revived fears the waterway's reopening could unravel.",
     "source": "https://www.cnbc.com/2026/06/25/oil-price-supply-concerns-ease-with-hormuz-tanker-traffic-resuming-.html",
     "actor": "Iran"
   },
