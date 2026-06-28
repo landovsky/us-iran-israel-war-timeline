@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-28",
+    "title": "IRGC strikes US sites in Kuwait, Bahrain; claims 8 facilities hit; Iran halts diplomacy",
+    "direction": "Escalating",
+    "description": "Early Sunday, Iran's Islamic Revolutionary Guard Corps fired missiles and drones at US military sites in Kuwait and Bahrain in retaliation for two nights of US strikes on Iran. The IRGC claimed it 'destroyed eight important US military facilities' at the Ali al-Salem base in Kuwait and at the Fifth Fleet naval base in Port Salman, Bahrain — claims that could not be verified. Kuwait's army said its air defenses were intercepting incoming attacks, while Bahrain's interior ministry activated sirens and told residents to seek shelter; a US official said nearly all projectiles were intercepted and there were no reports of US casualties or damage. The IRGC declared the US strikes a ceasefire violation that 'will result in the complete halt of all diplomatic processes.'",
+    "source": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "US launches second night of strikes on Iran near Sirik; Trump threatens to 'complete the job'",
+    "direction": "Escalating",
+    "description": "US military aircraft struck Iranian military surveillance infrastructure, communication systems, air defense sites, drone storage facilities and minelayer capabilities, with explosions reported around the village of Tahrui near the southern port of Sirik — the focal point of Friday's US attacks as well. It was the second straight night of American strikes, launched in response to the drone attack on the tanker Kiku. President Trump warned: 'There may come a point when we are no longer able to be reasonable, and will be forced to militarily complete the job that we very successfully started.' Iran's Foreign Ministry called the strikes a 'blatant violation' of the UN Charter and a 'clear breach of Paragraph 1' of the June 17 memorandum, with MP Ebrahim Azizi protesting that Washington 'once again attacked Iran in the middle of negotiations'; Vice President JD Vance said 'violence will be met with violence.'",
+    "source": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone",
+    "actor": "US"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "Iran drone hits Panama-flagged tanker Kiku in Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "At about 4:30 a.m. Eastern time, the Panama-flagged oil tanker Kiku — carrying more than two million barrels of crude — was struck by a one-way attack drone as it transited the Strait of Hormuz, US Central Command said, attributing the strike to Iran. The attack came two days after an Iranian drone hit the Singapore-flagged Ever Lovely, and as the IRGC continued to insist that the only authorized passage through the strait was 'the one declared by the Islamic Republic of Iran.' Iranian state media said three foreign tankers that tried to cross Hormuz without Iranian authorization had turned back after warnings. The strike triggered two consecutive nights of US retaliatory strikes on Iran.",
+    "source": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "IDF strikes south Lebanon kill at least 27, first attacks since framework deal",
+    "direction": "Escalating",
+    "description": "Israel carried out a wave of strikes across southern and eastern Lebanon overnight and into Saturday — the first since Washington announced the trilateral Israel-Lebanon framework a day earlier — saying it targeted Hezbollah after the group attacked Israeli troops in violation of the day-old ceasefire. Lebanese media and first responders reported at least 27 people killed and 26 wounded. An IDF spokesperson said one strike in the Nabatieh area hit 'suspected terrorists who posed a threat to IDF soldiers,' and several more strikes followed in the same area; an evening strike killed at least one more person and wounded two, Lebanon's health ministry said. The bloodshed underscored how fragile the newly signed framework remained as Netanyahu insisted the IDF would not withdraw.",
+    "source": "https://www.timesofisrael.com/despite-truce-idf-hits-lebanon-after-repeated-hezbollah-attacks-at-least-27-said-killed/",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-06-26",
     "title": "US bombs Iran: 6 aircraft hit 4 missile, drone and radar sites near Hormuz and Qeshm Island",
     "direction": "Escalating",
