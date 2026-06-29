@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-06-28",
+    "title": "US and Iran agree to stand down after weekend strikes; talks to resume Tuesday",
+    "direction": "De-escalating",
+    "description": "After two nights of US strikes on Iran and Iran's retaliatory missile and drone barrage on Kuwait and Bahrain, both sides agreed to stop attacking each other, a US official said, with vessels again permitted free movement through the Strait of Hormuz. Pakistan, the war's lead mediator, said the US and Iran would resume talks on Tuesday. The de-escalation came hours after President Trump had threatened that 'the Islamic Republic of Iran will no longer exist' if strikes continued and after Iran's IRGC warned that ceasefire violations would 'lead to a complete halt of ongoing processes.' Foreign Minister Abbas Araghchi insisted the strait would remain 'under the total oversight of Iran throughout the 30 coming days,' warning that any 'new or separate arrangements' would 'delay the reopening of the Strait of Hormuz and increase the level of tension.'",
+    "source": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-28",
+    "title": "IDF officer killed by Hezbollah gunman in Deir Siryan; first Israeli death since Lebanon deal",
+    "direction": "Escalating",
+    "description": "Capt. David Hazutt, 21, a platoon commander in the Golani Brigade's 12th Battalion from Ashkelon, was killed around 2 a.m. when Israeli troops entering a structure in the southern Lebanese village of Deir Siryan encountered a Hezbollah operative who opened fire, also lightly wounding another soldier before fleeing. He was the first Israeli fatality since Israel, Lebanon and the US signed the trilateral framework on Friday. After extensive searches, the IDF said it located the gunman hiding in a nearby building later that day and killed him. The killing underscored how quickly the days-old deal was fraying.",
+    "source": "https://www.timesofisrael.com/idf-officer-killed-in-clash-with-hezbollah-gunman-in-south-lebanon/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-06-28",
+    "title": "Qatar says citizen killed by shrapnel amid Gulf military operations",
+    "direction": "Escalating",
+    "description": "Qatar's interior ministry said a Qatari national was killed by shrapnel from 'military operations in the area' after a small vessel carrying him and an Arab resident failed to return Saturday evening and was located by a maritime search-and-rescue team early Sunday. The second man was wounded and reported in stable condition. The ministry did not specify the location or explicitly link the shrapnel to the Iranian missiles and drones launched the same day at US bases in Kuwait and Bahrain, but it was the first reported civilian death of the weekend's escalation across the Gulf.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/after-iran-drone-attack-qatar-says-citizen-killed-from-shrapnel-due-to-military-operations/",
+    "actor": "Qatar"
+  },
+  {
+    "date": "2026-06-28",
+    "title": "Bahrain says Iranian munition damages residential building near airport; Kuwait intercepts 2 missiles",
+    "direction": "Escalating",
+    "description": "Bahrain's government said an Iranian strike damaged a residential building near Bahrain International Airport — not near the US Navy's Fifth Fleet headquarters — with no one killed, calling it 'a dangerous escalation' that revealed 'a deliberate approach and a systematic pattern of repeated aggression.' Kuwait said its air defenses intercepted Iranian drones and two ballistic missiles with no reports of injuries or damage, condemning 'repeated heinous Iranian aggressions' against its sovereignty. The strikes were Iran's retaliation for two nights of US attacks; both Gulf states bore the brunt of Iranian fire despite having no role in the US operations.",
+    "source": "https://www.pbs.org/newshour/world/iran-attacks-bahrain-and-kuwait-following-u-s-strikes-and-threatens-to-halt-talks",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-06-28",
+    "title": "IDF destroys 200-meter Hezbollah tunnel in Majdal Zoun",
+    "direction": "Escalating",
+    "description": "The Israeli military said it destroyed a 200-meter (660-foot) Hezbollah tunnel beneath the southern Lebanese village of Majdal Zoun, publishing footage of the demolition and saying the tunnel contained weapons and rocket-launcher shafts. The operation, days after the trilateral framework that envisages a phased Israeli handover of southern Lebanon to the Lebanese army, signaled the IDF would keep dismantling Hezbollah infrastructure even as it nominally began withdrawing from pilot zones.",
+    "source": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-06-28",
     "title": "IRGC strikes US sites in Kuwait, Bahrain; claims 8 facilities hit; Iran halts diplomacy",
     "direction": "Escalating",
     "description": "Early Sunday, Iran's Islamic Revolutionary Guard Corps fired missiles and drones at US military sites in Kuwait and Bahrain in retaliation for two nights of US strikes on Iran. The IRGC claimed it 'destroyed eight important US military facilities' at the Ali al-Salem base in Kuwait and at the Fifth Fleet naval base in Port Salman, Bahrain — claims that could not be verified. Kuwait's army said its air defenses were intercepting incoming attacks, while Bahrain's interior ministry activated sirens and told residents to seek shelter; a US official said nearly all projectiles were intercepted and there were no reports of US casualties or damage. The IRGC declared the US strikes a ceasefire violation that 'will result in the complete halt of all diplomatic processes.'",
