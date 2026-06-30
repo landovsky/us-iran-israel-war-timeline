@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-30",
+    "title": "Iran's annual inflation hits 88.6%, highest since WWII; rial firms after US deal",
+    "direction": "Neutral",
+    "description": "The Statistical Center of Iran reported a year-on-year inflation rate of 88.6% for the month of Khordad (ending June 21) — described as the highest recorded since the Second World War — with rural inflation reaching 108.1% and some food prices up as much as 278% over the year. The crisis, deepened by the US naval blockade of Iranian ports, eased only on the currency front: after Tehran and Washington signed their preliminary understanding in late June, the exchange rate firmed by roughly 30,000 tomans against the dollar, ending months of blockade-driven volatility. The figures underscored that even a halt to the fighting leaves Iran's economy in freefall.",
+    "source": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Trump says Iran requested Doha talks Tuesday; Tehran denies any meeting is scheduled",
+    "direction": "Neutral",
+    "description": "President Trump posted on Truth Social that 'IRAN HAS REQUESTED A MEETING. IT WILL TAKE PLACE TOMORROW IN DOHA!' and White House press secretary Karoline Leavitt said envoy Steve Witkoff and Jared Kushner were flying to Qatar for the talks. Iran's deputy foreign minister and senior negotiator Kazem Gharibabadi publicly contradicted the announcement, saying 'the holding of technical meetings of the working groups has not been scheduled for this week' and that media reports of talks in Doha were 'not confirmed.' A senior Iranian source nonetheless told Reuters that representatives would meet Tuesday to discuss managing the Strait of Hormuz and de-escalation, exposing the muddled state of diplomacy a day after both sides paused their attacks.",
+    "source": "https://www.pbs.org/newshour/world/trump-says-iran-has-requested-a-meeting-with-u-s-but-iranian-officials-say-nothing-has-been-scheduled",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "France and Oman agree to demine Hormuz; Iran warns Paris against 'provocations'",
+    "direction": "Neutral",
+    "description": "After hosting Oman's Sultan Haitham bin Tariq at the Elysee Palace, French President Emmanuel Macron said France and Oman had 'decided to collaborate jointly... on demining the strait to secure maritime routes and ensure free and unconditional passage through the Strait of Hormuz.' Iran rejected any foreign role: deputy foreign minister Kazem Gharibabadi said that under the Islamabad memorandum 'demining is carried out solely by Iran and by no other country,' called the situation 'sensitive and complex,' and warned, 'we strongly advise France not to complicate it further with its provocations.' The clash reflected rival interpretations of the June 17 US-Iran understanding, with Tehran asserting sole control of the waterway it had mined.",
+    "source": "https://www.france24.com/en/middle-east/20260629-middle-east-live-lebanon-rejects-us%E2%80%93israel-framework-hezbollah-asserts-right-to-self-defence",
+    "actor": "France|Iran"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Israeli cyber chief says Iranian cyberattacks tripled to ~4,800 in June",
+    "direction": "Escalating",
+    "description": "Yossi Karadi, director-general of Israel's National Cyber Directorate, told the German daily Die Welt that hostile cyber incidents attributed to Iran jumped from about 1,600 in June 2025 to roughly 4,800 so far in June 2026 — roughly a tripling. The attacks targeted Israel's critical infrastructure, major organizations, small and medium-sized firms and the public, including law practices and accounting firms, and were accompanied by IRGC digital propaganda such as Lego-style AI animation videos. 'We can handle them, but we have to take them seriously,' Karadi said. 'Unlike in the kinetic realm, there's no ceasefire in cyberspace.'",
+    "source": "https://www.timesofisrael.com/iranian-cyberattacks-on-israel-surged-in-2026-cyber-chief-says/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Israeli reservist severely wounded in south Lebanon explosion; Hezbollah vows retaliation",
+    "direction": "Escalating",
+    "description": "The IDF said an Israeli reservist was severely wounded by an explosion in southern Lebanon and hospitalized for treatment, the latest casualty as the days-old Israel-Lebanon framework continued to fray. The blast came a day after a Golani Brigade officer was killed by a Hezbollah gunman in Deir Siryan, and as Hezbollah declared it 'reserves the right to retaliate' for Israel's weekend strikes, which it said repeatedly violated the ceasefire. Israeli Foreign Minister Gideon Sa'ar said Israel sought 'peace and normalization with Lebanon' by 'ending the Iranian occupation of Lebanon by Hezbollah.'",
+    "source": "https://www.timesofisrael.com/several-said-injured-in-israeli-strikes-on-southern-lebanon/",
+    "actor": "Israel|Lebanon"
+  },
+  {
     "date": "2026-06-28",
     "title": "US and Iran agree to stand down after weekend strikes; talks to resume Tuesday",
     "direction": "De-escalating",
