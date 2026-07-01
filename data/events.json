@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-01",
+    "title": "Hormuz traffic collapses to ~5 ships on Day 122 as blockade grinds on",
+    "direction": "Neutral",
+    "description": "On the 122nd day of the Strait of Hormuz blockade, traffic through the world's most important oil chokepoint had all but halted, with only about 5 vessels transiting versus roughly 93 per day under normal conditions, moving in convoys under naval escort. Brent crude traded around $73 a barrel as the waterway — which carries some 20% of global oil and LNG — remained effectively closed despite the June 17 US-Iran memorandum meant to reopen it. Tehran continued to insist passage occur only under Iranian authorization, even as US and Iranian delegations gathered in Doha to negotiate the strait's future management.",
+    "source": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "US, Iran hold indirect Doha talks; Oman floats Hormuz management plan, no face-to-face meeting",
+    "direction": "Neutral",
+    "description": "US envoy Steve Witkoff and Jared Kushner met Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani and other mediators in Doha, while separate US and Iranian technical delegations negotiated indirectly through Qatari and Pakistani channels with no face-to-face meeting. Qatar spokesman Majed Al Ansari said 'there are no direct meetings scheduled' and 'no high-level meeting between the two sides,' and that the American team's visit was 'unrelated to the Iranian delegation's trip.' Oman circulated a post-conflict framework proposing long-term management of the Strait of Hormuz — covering navigational safety, environmental protection and maritime security, with possible service fees — as the sides sought to translate the June 17 memorandum into workable terms.",
+    "source": "https://gulfnews.com/world/mena/us-iran-talks-trump-says-iran-talks-begin-as-tehran-denies-meeting-1.500591452",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Iran conditions talks on US forcing Israel to end Lebanon strikes; 'prepared for war'",
+    "direction": "Neutral",
+    "description": "Iran's Foreign Ministry spokesman Esmail Baqaei said Tehran would not resume negotiations to end the war until Washington implemented the clauses of the June 17 memorandum, naming as the 'main criterion' that the US 'force' Israel to halt its attacks on Lebanon. Parliament Speaker Mohammad Bagher Ghalibaf set out further preconditions — no final agreement until the deal's provisions on ceasing hostilities, lifting the naval blockade and releasing frozen assets were met. Iran's negotiator warned, 'We are pursuing dialogue, but if the dialogue is not implemented, we are also prepared for war,' underscoring how far apart the two sides remained even as delegations convened in Doha.",
+    "source": "https://gulfnews.com/world/mena/us-iran-talks-trump-says-iran-talks-begin-as-tehran-denies-meeting-1.500591452",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Katz orders IDF to prepare independent strike on Iran; warns war possible 'tomorrow'",
+    "direction": "Escalating",
+    "description": "Israeli Defense Minister Israel Katz ordered the military to draw up plans for a 'blue-and-white operation in Iran' — an attack carried out independently, without US coordination — and warned Israel could go to war with Tehran 'tomorrow' if Iran fired missiles at Israeli territory. 'If Iran fires missiles at Israel, Israel will strike Iran with force,' Katz said, adding, 'There is no equation we will accept in which Iran fires at Israel.' He said the IDF was on high alert with targets identified, and that while he did not want to disrupt President Trump's diplomacy, 'when it comes to defending ourselves, there are no compromises, not in Lebanon and not in Iran.'",
+    "source": "https://www.iranintl.com/en/202606296350",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-06-30",
     "title": "Iran's annual inflation hits 88.6%, highest since WWII; rial firms after US deal",
     "direction": "Neutral",
