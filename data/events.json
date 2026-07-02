@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-02",
+    "title": "Iran suspends IAEA cooperation; Israel's Sa'ar calls move 'scandalous'",
+    "direction": "Escalating",
+    "description": "Iranian President Masoud Pezeshkian ordered Iran to suspend cooperation with the International Atomic Energy Agency, formalizing legislation that mandates removing IAEA surveillance cameras, halting inspector access, and ending data and reporting exchanges until unspecified 'conditions are met' — including guaranteed security for Iran's nuclear facilities and scientists. The move, coming after US and Israeli strikes hit Iran's nuclear sites earlier in the war, threatened to sever the last verification links to Tehran's program. Israeli Foreign Minister Gideon Sa'ar called it 'scandalous,' saying Iran was making 'a complete renunciation of all its international nuclear obligations and commitments'; the US, France and Germany also condemned the decision.",
+    "source": "https://edition.cnn.com/2026/07/02/world/live-news/iran-war-us-talks",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "US-Iran indirect Doha talks end with 'positive progress,' violations hotline, partial asset unfreeze",
+    "direction": "De-escalating",
+    "description": "Two days of indirect US-Iran technical talks in Doha — delegations in separate rooms relaying messages through Qatari and Pakistani mediators — concluded with what Qatar's Foreign Ministry called 'positive progress,' establishing a communications mechanism to address violations of the June 17 memorandum and agreeing that a portion of Iran's $6 billion in frozen assets would be freed for domestic procurement. The sessions focused on reopening the Strait of Hormuz and unlocking assets, not Iran's nuclear program, which both sides deferred; Vice President JD Vance said the talks were 'going well' and that nuclear discussions 'would start soon.' Parliament Speaker and chief negotiator Mohammad Bagher Qalibaf publicly insisted Iran was 'currently not negotiating with the United States at all,' and the next round was set for after Ayatollah Khamenei's funeral on July 9.",
+    "source": "https://www.businesstoday.in/world/story/positive-progress-on-hormuz-but-no-breakthrough-us-iran-indirect-talks-in-doha-conclude-540387-2026-07-02",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Iran exports 50M barrels in two weeks as Hormuz traffic climbs to ~35 ships in 24 hours",
+    "direction": "De-escalating",
+    "description": "Iran exported roughly 50 million barrels of crude in the two weeks since the US lifted its naval blockade of Iranian ports — about 1.66 million barrels a day in June — signaling a partial recovery for its export-dependent economy. At least 35 commercial vessels transited the Strait of Hormuz in the previous 24 hours, a sharp rebound from the near-total halt of recent weeks but still well below the roughly 110 ships a day that crossed before the war, with routing split unevenly between Iranian and Omani lanes. Iran signaled it would begin charging 'service fees' for passage once the toll-free window expires in mid-August.",
+    "source": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "US Navy MH-60S ditches in Arabian Sea; one crew member missing",
+    "direction": "Neutral",
+    "description": "A US Navy MH-60S Seahawk helicopter assigned to the carrier USS George H.W. Bush made an emergency water landing in the Arabian Sea around 3:30 a.m. EDT on July 1, the Navy said, with three of the four crew recovered in stable condition and a search under way for the fourth. The Navy said there was 'no indication the emergency was caused by hostile action.' It was the second US military helicopter mishap in the region in weeks, after an Army AH-64 Apache crew was rescued from the Gulf of Oman on June 9 — an incident President Trump had blamed on Iranian forces.",
+    "source": "https://www.twz.com/air/mh-60s-seahawk-goes-down-in-arabian-sea-search-on-for-missing-crewmember",
+    "actor": "US"
+  },
+  {
     "date": "2026-07-01",
     "title": "Hormuz traffic collapses to ~5 ships on Day 122 as blockade grinds on",
     "direction": "Neutral",
