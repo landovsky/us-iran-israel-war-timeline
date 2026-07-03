@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-03",
+    "title": "Iran opens Khamenei state funeral; casket displayed after 4 months in cold storage, 15-20M expected",
+    "direction": "Neutral",
+    "description": "Iran began farewell ceremonies for Supreme Leader Ayatollah Ali Khamenei in Tehran, releasing the first images of his casket more than four months after he was killed on February 28 by a US bunker-penetrating strike on his Tehran compound — his body held in refrigerated storage under an exception in Islamic law. The multi-day funeral runs July 4-9 across Tehran, Qom, Mashhad and the Iraqi shrine cities of Najaf and Karbala, with authorities projecting 15-20 million mourners at the July 6 Tehran procession, five public holidays declared, 50 million loaves of bread prepared and 14,000 journalists credentialed. Reports of coercion were widespread: Tehran municipality canceled all leave, the Basij warned shopkeepers that open businesses would be 'sealed,' and unions, automakers and charities were ordered to supply attendees and free meals. An Iranian army general warned the US and Israel against launching any attack during the processions, and Parliament Speaker Mohammad Bagher Ghalibaf urged Iranians to 'rise up' and 'demand revenge.'",
+    "source": "https://www.foxnews.com/world/khamenei-body-cold-storage-feared-basij-mobilizes-historic-iran-funeral",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Medvedev, China's He Wei lead foreign delegations to Khamenei funeral; no major power sends top leader",
+    "direction": "Neutral",
+    "description": "Officials from more than 30 countries and religious leaders from over 90 nations gathered for Khamenei's funeral, but no major world power sent its head of state. Russia's Dmitry Medvedev, deputy chairman of the Security Council, led Moscow's delegation as Vladimir Putin's special envoy; China sent He Wei, vice chairman of the National People's Congress Standing Committee — its first senior official to visit Iran since the war began. Pakistan's Prime Minister Shehbaz Sharif attended with a high-level delegation, while India declined to send Prime Minister Narendra Modi, dispatching a deputy foreign minister instead, and Tajikistan's President Emomali Rahmon and Georgia's president also attended. Analysts read the muted turnout as Tehran's post-war isolation showing through the pageantry.",
+    "source": "https://www.themoscowtimes.com/2026/07/02/medvedev-to-lead-russian-delegation-at-iranian-supreme-leaders-funeral-a93149",
+    "actor": "Iran|Russia"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "IDF kills Hezbollah operative emerging from tunnel at Ali Taher ridge; ~30 fighters holed up below",
+    "direction": "Escalating",
+    "description": "The IDF said Egoz Commando Unit troops spotted a Hezbollah operative emerging from a tunnel shaft on the Ali Taher ridge inside Israel's south Lebanon security zone, and an airstrike 'eliminated the terrorist to remove the threat,' calling him 'an immediate threat to our forces.' The military said it was continuing to operate at the ridge, beneath which Hezbollah maintains a massive underground complex where roughly 30 operatives were holed up. The strike added to a steady run of clashes fraying the week-old US-brokered Israel-Lebanon framework, following an Israeli officer's killing and a reservist's severe wounding days earlier.",
+    "source": "https://www.timesofisrael.com/idf-says-strike-killed-hezbollah-operative-who-emerged-from-tunnel-in-south-lebanon/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Brent falls to $70.78, lowest since war began, as Hormuz tanker traffic returns to pre-war range",
+    "direction": "De-escalating",
+    "description": "Brent crude fell $0.79 to $70.78 a barrel and US WTI dropped to $67.74, the lowest levels since the US-Israel war on Iran began on February 28, as oil flows through the Strait of Hormuz kept recovering. Morgan Stanley said 35 oil and gas tankers exited the strait on Thursday — the first time volume had returned to within the pre-war range — and cut its oil price forecast for the second time in two weeks, warning of a looming glut. Over 20 million barrels of Iranian crude were staged for export, up 18% on the week, while China diversified purchases toward Russia, Kazakhstan and Brazil; economist Mohammad Reza Farzanegan cautioned that the market was pricing a Hormuz recovery and Iranian export opening that 'remain fragile.'",
+    "source": "https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "US expands naval buildup as Boxer group, 11th MEU arrive; ~24 warships, 50,000 troops in region",
+    "direction": "Escalating",
+    "description": "US Central Command said the Boxer Amphibious Ready Group — the amphibious assault ship USS Boxer and transport dock USS Portland, with the embarked 11th Marine Expeditionary Unit of more than 2,000 Marines — arrived in the Middle East on June 30, joining the Comstock already on station and a second Marine unit, the 31st MEU aboard the Tripoli group in the Arabian Sea. CENTCOM said the arrival put at least 24 Navy warships in the region, including the carriers USS Abraham Lincoln and USS George H.W. Bush and 15 destroyers, with roughly 50,000 US service members operating there. The reinforcement landed as US-Iran talks paused ahead of Khamenei's funeral, underscoring Washington's leverage even amid diplomacy.",
+    "source": "https://www.stripes.com/theaters/middle_east/2026-07-01/boxer-middle-east-navy-iran-trump-22136153.html",
+    "actor": "US"
+  },
+  {
     "date": "2026-07-02",
     "title": "Iran suspends IAEA cooperation; Israel's Sa'ar calls move 'scandalous'",
     "direction": "Escalating",
