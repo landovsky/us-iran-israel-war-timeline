@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-04",
+    "title": "Khamenei's Tehran funeral opens with vast crowd chanting 'Death to America' on US 250th anniversary",
+    "direction": "Neutral",
+    "description": "Iran began the multi-day state funeral for Supreme Leader Ayatollah Ali Khamenei on July 4, unveiling his casket in a glass case at the Grand Mosalla in Tehran as a vast crowd wept and chanted 'Death to America, Death to Israel!' Authorities chose the date — the 250th anniversary of US independence — without acknowledging the symbolism, projecting 15-20 million mourners in what would be the largest state funeral in Iran's history. July 5 is set aside for funeral prayers and July 6 for the main procession, a 10-kilometer route from Imam Hossein Square to Azadi Square beginning at 6 a.m. New Supreme Leader Mojtaba Khamenei, who succeeded his father, had not made a public appearance since taking office.",
+    "source": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "UK's Starmer, France's Macron agree to work with Oman on Hormuz demining; France withdraws carrier",
+    "direction": "De-escalating",
+    "description": "British Prime Minister Keir Starmer and French President Emmanuel Macron agreed to work with Oman to 'ensure that Oman's sovereign territorial waters are safe for navigation' through the Strait of Hormuz, widening the mine-clearance effort beyond the France-Oman arrangement reached June 29. France deployed minehunters to the strait and announced the withdrawal of its aircraft carrier from the region as flows through the waterway continued to recover. The Anglo-French initiative aimed at restoring safe maritime transit came as US-Iran talks paused for Khamenei's funeral.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-07-04/live-updates-901374",
+    "actor": "UK|France"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Iran opens oil-sale talks with Japanese firms under temporary US sanctions waiver",
+    "direction": "De-escalating",
+    "description": "Iran began negotiations with Japanese companies over resuming crude oil sales under a temporary US sanctions waiver, a senior Iranian official said, as Tehran worked to restart exports choked off during the war. The official cautioned that any deal would require Washington to extend the waiver, given the multi-week shipping time between Iran and Japan. The talks followed the partial reopening of the Strait of Hormuz and the establishment of a US-Iran communications mechanism at the Doha talks.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-07-04/live-updates-901374",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Israel strikes ~10 Hezbollah sites after reservist seriously wounded in Bint Jbeil clash",
+    "direction": "Escalating",
+    "description": "The Israeli Air Force struck around 10 Hezbollah sites in the south Lebanon towns of Bint Jbeil, Beit Yahoun, Kounine and Baraashit, and also hit a weapons-transport truck, in retaliation for a July 2 attack on troops. The IDF said that around 6 p.m. Thursday, soldiers of the 679th 'Yiftah' Armored Brigade operating in Bint Jbeil encountered a Hezbollah gunman who opened fire, seriously wounding one reservist and lightly wounding two others; troops shelled the building he fired from before the wider airstrikes. Iran's parliament speaker and lead negotiator Mohammad Bagher Ghalibaf warned that Tehran would 'resume its proportionate measures' if the US and Israel failed to honor their commitments, as the strikes strained the week-old Israel-Lebanon framework and the paused US-Iran talks.",
+    "source": "https://www.timesofisrael.com/idf-shells-hezbollah-sites-after-soldier-hurt-in-clash-with-gunman-in-south-lebanon/",
+    "actor": "Israel|Lebanon"
+  },
+  {
     "date": "2026-07-03",
     "title": "Iran opens Khamenei state funeral; casket displayed after 4 months in cold storage, 15-20M expected",
     "direction": "Neutral",
