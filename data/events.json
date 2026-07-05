@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-05",
+    "title": "Iran holds day-two funeral prayers over Khamenei casket; Tehran airspace shut for July 6 procession",
+    "direction": "Neutral",
+    "description": "On the second day of Supreme Leader Ayatollah Ali Khamenei's state funeral, prayers were offered around 8 a.m. over his casket at the Grand Mosalla complex in Tehran, where his body has lain in state since July 4, along with prayers for four family members killed in the same February 28 US-Israeli strike. Thousands massed before dawn in 100°F (38°C) heat as authorities sprayed mist to cool the crowd, and a poet drew cheers from the assembled mourners by asking of President Trump, 'Why is the most bastard man in the world still alive?' Iran ordered Tehran's airspace fully closed for the main July 6 procession, a 10-kilometer route from Imam Hossein Square to Azadi Square. New Supreme Leader Mojtaba Khamenei, believed wounded in the February strike that killed his father, had still not appeared publicly since taking office.",
+    "source": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Trump says US 'gave Iran a week off' for funeral in July 4 Mount Rushmore speech",
+    "direction": "Neutral",
+    "description": "Speaking at a July 4 Independence Day celebration at Mount Rushmore, President Donald Trump said of Iran: 'We knocked the hell out of Iran. They're dying to settle. They want to settle so badly. We gave them a week off for a funeral because we're nice.' The remark referred to the pause in US-Iran hostilities and Doha talks during Khamenei's funeral week and came on the 250th anniversary of US independence, as Iran mourned the supreme leader killed by a US strike on February 28. Trump touted the American military campaign while negotiations over Hormuz management and frozen assets stayed frozen until after the funeral processions.",
+    "source": "https://www.cnn.com/2026/07/04/world/live-news/iran-khamenei-funeral-war-trump",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Medvedev calls Iran's power to shut Hormuz equal to a nuclear weapon after Tehran funeral visit",
+    "direction": "Escalating",
+    "description": "Returning from Khamenei's funeral in Tehran, Russian Security Council deputy chairman Dmitry Medvedev said in a video posted to social media that Iran's ability to disrupt traffic through the Strait of Hormuz is 'equivalent to possession of a nuclear weapon.' Medvedev, sent by President Vladimir Putin as his special envoy, met Iranian President Masoud Pezeshkian during the visit and floated creating a treaty or forum uniting states under 'illegitimate' Western sanctions, naming Russia, Iran and China. The comments underscored deepening Moscow-Tehran alignment as US-Iran talks over Hormuz management and frozen assets remained paused for the funeral.",
+    "source": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russias-medvedev-says-strait-of-hormuz-is-irans-nuclear",
+    "actor": "Russia|Iran"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Iran rights monitor documents 141 executions in June amid wartime crackdown",
+    "direction": "Neutral",
+    "description": "The Norway-linked monitor Iran Human Rights Movement (Iran HRM) reported on July 4 that Iranian authorities carried out 141 executions in June 2026, part of a surge in state killings during the wartime crackdown. The group said its 'No to Executions Tuesdays' campaign had entered its 127th consecutive week on June 30, with prisoners in 57 prisons joining coordinated hunger strikes. Since the February 28 outbreak of war, rights groups say Iran has arbitrarily executed dozens on politically motivated charges — including people accused of spying for the US or Israel — as authorities tightened repression under cover of the conflict.",
+    "source": "https://iran-hrm.com/2026/07/04/june-32313/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-07-04",
     "title": "Khamenei's Tehran funeral opens with vast crowd chanting 'Death to America' on US 250th anniversary",
     "direction": "Neutral",
