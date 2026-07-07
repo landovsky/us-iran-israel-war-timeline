@@ -1,6 +1,22 @@
 [
   {
     "date": "2026-07-06",
+    "title": "Trump vows US will win Iran war 'one way or the other' as talks stay paused",
+    "direction": "Neutral",
+    "description": "Speaking on July 6 as Iran held the mass funeral for Ayatollah Ali Khamenei, President Donald Trump said of the war, 'We're gonna win one way or the other. We'll win the nice way or not the nice way,' insisting Iran 'cannot have a nuclear weapon.' He said his administration was 'doing very well' in Pakistani- and Qatari-mediated talks focused on ending the war, reopening the Strait of Hormuz and blocking an Iranian bomb, and told Axios negotiations would stay paused until at least July 9 with 'neither side' shooting. Sticking points included Iran's push to impose tolls on Hormuz transits and its demand that Israel halt strikes on Hezbollah in Lebanon; Tehran disputed US claims it had agreed to UN inspections and to buy American farm goods with unfrozen assets.",
+    "source": "https://www.washingtontimes.com/news/2026/jul/6/trump-says-us-victory-iran-guaranteed-tehran-mourns-supreme-leader/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Israeli drone strike kills 4 civilians near Nabatieh, including school principal",
+    "direction": "Escalating",
+    "description": "On July 6, an Israeli drone struck a car near Nabatieh al-Fawqa in southern Lebanon, killing four people the Lebanese Health Ministry identified as school principal Esperanza Ghandour, her mother, a female domestic worker and a male foreign laborer. Ghandour had been checking on repairs at her war-damaged home and was returning when the vehicle was hit. The IDF said it struck a vehicle carrying four people who were approaching what it calls a 'security zone' and posed a threat to its forces. The killings marked another deadly Israeli strike in the south despite the April 16 ceasefire, which has since been extended twice.",
+    "source": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-07-06",
     "title": "Khamenei's main funeral procession crosses Tehran; mourners chant to 'kill Trump'",
     "direction": "Neutral",
     "description": "On July 6, Iran held the peak day of Ayatollah Ali Khamenei's state funeral, as a 12-hour procession carried his flag-draped coffin — and those of family members killed in the February 28 US-Israeli strike, including a 14-month-old granddaughter — along a 10-kilometer route from Imam Hossein Square to Azadi Square before the caskets were driven to Mehrabad International Airport. Hundreds of thousands of black-clad mourners reached out to touch the truck; one told reporters, 'They killed our imam, we should kill their leader, Trump,' while Gen. Amir Hatami vowed, 'We will avenge the blood of our martyred Imam and all of our martyrs.' Authorities projected 15-20 million participants across the multi-day rites; after Tehran the body was to travel to Qom on July 7, Najaf and Karbala on July 8, and burial in Mashhad on July 9.",
