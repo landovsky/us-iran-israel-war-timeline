@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-08",
+    "title": "Iran strikes US bases in Kuwait and Bahrain; IRGC claims 85 sites hit",
+    "direction": "Escalating",
+    "description": "Early on July 8, Iran's Revolutionary Guard launched drones and missiles at US military facilities across the Gulf, saying it had struck '85 US military installations' in Bahrain and Kuwait in retaliation for the previous day's US strikes on Iran. Named targets included the Sheikh Isa Air Base and the US Fifth Fleet headquarters at Salman Port in Bahrain, and the Ali Al-Salem Air Base in Kuwait; Bahrain's Interior Ministry sounded air-raid sirens and told residents to shelter, and Iran claimed it downed a US drone 'that intended to interfere with the operation.' Iran's parliament speaker and lead negotiator Mohammad Bagher Ghalibaf declared, 'The era of bullying and extortion is over. It leads nowhere,' as Tehran threatened to abandon the Doha talks. No casualties were immediately confirmed.",
+    "source": "https://www.pbs.org/newshour/world/iran-attacks-bahrain-and-kuwait-following-u-s-strikes-and-threatens-to-halt-talks",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "US hits 80+ targets across southern Iran in 'offensive strikes'",
+    "direction": "Escalating",
+    "description": "US Central Command said it struck 'more than 80 targets' inside Iran on July 7 in retaliation for the Strait of Hormuz ship attacks, hitting air defenses, command-and-control nodes, coastal radar and anti-ship missile sites, and more than 60 IRGC small boats. Iranian accounts placed strikes on Sirik, Qeshm Island and Bandar Abbas across Hormozgan province, with Tehran saying civilian sites including fishing piers and a telecommunications tower were hit and several people hospitalized. CENTCOM labelled the operation 'offensive strikes,' a shift from June's 'self-defense' framing; the IRGC claimed it shot down a US MQ-9 Reaper drone. President Trump ordered the strikes from the NATO summit in Turkey, calling the campaign 'not even a war... it's a military operation, it's a denuclearization, that's really what it is, of Iran.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "US revokes Iran oil waiver; Brent jumps 5.6% to $76",
+    "direction": "Escalating",
+    "description": "The US Treasury revoked the June 21 sanctions waiver that had let companies transact in Iranian crude and petrochemicals under the ceasefire memorandum, giving firms until July 17 to wind down. A US official said the deal was always contingent on Iran's behavior and that the Hormuz ship attacks violated the understanding. Brent crude settled 3% higher at $74.16 a barrel and WTI rose 2.8% to $70.44; after the waiver was pulled, Brent jumped 5.6% to $76.04 and WTI 5.4% to $72.25 in after-hours trading.",
+    "source": "https://thehill.com/policy/energy-environment/5957647-iran-oil-sanctions-waiver-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "IRGC missiles hit three tankers in Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guard fired at least two missiles at commercial vessels transiting the Strait of Hormuz overnight, striking three tankers. The Qatari-flagged LNG carrier Al Rekayyat was hit on its port side, sparking an engine-room fire though its crew was reported safe; a Saudi-flagged crude oil tanker sustained significant damage; and a third tanker was struck by an 'unknown projectile' about 8 nautical miles off Limah, Oman, per the UKMTO. Iran did not directly claim responsibility, with state TV suggesting a tanker was hit after ignoring warnings. The attacks — on a waterway carrying roughly a fifth of the world's oil — triggered the US retaliatory strikes and the reimposition of oil sanctions.",
+    "source": "https://www.cnn.com/2026/07/07/middleeast/hormuz-tanker-iran-attack-intl-hnk",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-07-06",
     "title": "Trump vows US will win Iran war 'one way or the other' as talks stay paused",
     "direction": "Neutral",
