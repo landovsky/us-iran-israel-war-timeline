@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-09",
+    "title": "Iran reports 14 killed, 78 wounded from two days of US airstrikes",
+    "direction": "Neutral",
+    "description": "Iran's Health Ministry released the first official casualty figures from the US airstrikes on July 7-8, reporting at least 14 people killed and 78 wounded. Ministry spokesperson Hossein Kermanpour released the figures as the funeral of Supreme Leader Ali Khamenei concluded. Additional casualties on July 9 included at least three people killed in strikes on Khuzestan province and a firefighter killed at an airport in Iranshahr.",
+    "source": "https://www.ksat.com/news/world/2026/07/09/us-launches-new-airstrikes-on-iran-and-tehran-fires-back-at-gulf-arab-states/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "Trump declares Iran ceasefire 'over' at NATO summit in Ankara",
+    "direction": "Neutral",
+    "description": "At the NATO summit in Ankara, President Trump declared that the ceasefire memorandum with Iran is 'over' following the exchange of attacks. Trump said Iran violated the deal by attacking ships in the Strait of Hormuz. However, he said negotiators Steve Witkoff and Jared Kushner would continue talks with Iran. Trump also criticized European NATO allies for not supporting the Iran campaign, saying 'I'm not happy with NATO, because of the fact that they didn't want to help us with the number one state sponsor of terror, that's Iran.'",
+    "source": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
+    "actor": "US"
+  },
+  {
     "date": "2026-07-08",
     "title": "Iran strikes US bases in Kuwait and Bahrain; IRGC claims 85 sites hit",
     "direction": "Escalating",
