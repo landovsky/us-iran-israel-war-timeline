@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-07-10",
+    "title": "Strait of Hormuz shipping grinds to near-halt as fighting resumes",
+    "direction": "Escalating",
+    "description": "Only 5 vessels crossed the Strait of Hormuz from Wednesday into Thursday morning, down from 45 transits on Monday and roughly 130 a day before the war began in February. No large vessel above 10,000 dwt has crossed via the US-coordinated 'Southern Highway' route while broadcasting its location since July 7. Brent crude stood at $76.58 a barrel as of 05:00 GMT Friday, still up about $4 on the week despite easing slightly from Wednesday's spike, as analysts warned of $10-15 further upside if refined-product inventories keep falling.",
+    "source": "https://www.aljazeera.com/economy/2026/7/10/strait-of-hormuz-shipping-grinds-to-halt-as-us-iran-resume-fighting",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "US says 'technical talks' with Iran continue despite Trump's 'over' remark",
+    "direction": "De-escalating",
+    "description": "A US official said Washington remains committed to a negotiated solution and that technical talks with Iran are continuing, even after Trump declared the ceasefire 'over' at the NATO summit and after two days of strikes. The official called Iran's Hormuz tanker attacks 'failed performance at an unacceptable level' under the performance-based Islamabad memorandum, but said talks with Tehran would go on regardless.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-official-says-technical-talks-iran-ongoing-despite-attacks",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "US strikes ~90 targets across southern Iran; Iran reports 3 IRGC killed",
+    "direction": "Escalating",
+    "description": "US Central Command carried out a second wave of strikes on July 9, hitting roughly 90 targets across southern Iran including air defenses, coastal surveillance sites, missile and drone storage, naval assets and two railway bridges used to move military supplies, in an operation lasting about seven hours. Iran's Mizan news agency reported three IRGC members killed. A US official denied Iranian claims the strikes hit near the Bushehr nuclear plant, saying 'the nuclear power plant was not a target.'",
+    "source": "https://www.foxnews.com/live-news/trump-us-iran-war-strikes-strait-hormuz-july-9",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Iran drones hit Kuwait, Bahrain, Qatar; Kuwait reports one injured",
+    "direction": "Escalating",
+    "description": "Iran's army said it launched a large number of kamikaze drones at a Patriot missile interceptor system in Kuwait, an early-warning radar system in Qatar, and fuel tanks in Bahrain, in retaliation for the US strikes hours earlier. Kuwait's Defense Ministry said it intercepted three ballistic missiles, one cruise missile and 10 drones, but the interceptions caused damage at several locations and left one person injured in stable condition. Bahrain's air defenses intercepted and destroyed the drones aimed at it; Qatari authorities did not comment on the reported attack on their territory.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/iran-says-it-targeted-sites-in-kuwait-qatar-bahrain-in-response-to-us-strikes/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Iran fires 10 ballistic missiles at Jordan's Azraq base hosting Western troops",
+    "direction": "Escalating",
+    "description": "The IRGC fired 10 ballistic missiles at Jordan's Muwaffaq Salti air base near Azraq, which hosts US, German, Belgian and French forces, calling it the 'second phase' of its response to the US strikes. Jordan said it intercepted eight missiles with no casualties or damage; Iran claimed four structures, including hangars and command centers, were destroyed. The IRGC warned that 'if US attacks were repeated, other US bases in the region would also be targeted.'",
+    "source": "https://www.usnews.com/news/world/articles/2026-07-09/iran-fired-ten-ballistic-missiles-on-jordans-azraq-military-base",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Israel's Katz says IDF ready to strike Iran again 'even for a third time'",
+    "direction": "Escalating",
+    "description": "Speaking at an Israeli Air Force pilots' course graduation ceremony, Defense Minister Israel Katz said the IDF is 'on high alert and prepared to resume the campaign and carry out an Israeli strike against Iran, even for a third time,' adding, 'If we need to return, we will return with even greater force.' The remarks came as the US-Iran ceasefire collapsed and Iran traded strikes with US bases across the Gulf.",
+    "source": "https://www.israelnationalnews.com/flashes/689393",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Trump briefs Netanyahu on Gulf strikes; Netanyahu warns against F-35 sale to Turkey",
+    "direction": "Neutral",
+    "description": "Trump and Netanyahu held a phone call in which Trump updated the Israeli prime minister on 'American moves in the Gulf' following the renewed US strikes on Iran. Netanyahu also used the call to warn Trump against approving a proposed F-35 fighter jet sale to Turkey, and raised concerns about President Erdogan's rhetoric against Israel.",
+    "source": "http://www.jpost.com/middle-east/iran-news/2026-07-09/live-updates-901946",
+    "actor": "US|Israel"
+  },
+  {
     "date": "2026-07-09",
     "title": "Iran reports 14 killed, 78 wounded from two days of US airstrikes",
     "direction": "Neutral",
