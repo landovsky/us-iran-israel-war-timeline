@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-07-10",
+    "title": "US gives Iran Saturday deadline to declare Hormuz open, halt attacks",
+    "direction": "Escalating",
+    "description": "US officials demanded Iran publicly declare the Strait of Hormuz fully open and pledge to stop firing on commercial ships by Saturday, warning of 'harsh consequences' otherwise; one official said 'it is not gonna be a great day for them' if Tehran refuses. Iran's chief negotiator Ghalibaf wrote on X that 'America still hasn't learned that bullying and breaking promises are no longer cost-free... if you strike, you'll get hit.' Foreign Minister Abbas Araghchi was set to meet Omani counterpart Badr al-Busaidi in Muscat Saturday to discuss Hormuz arrangements.",
+    "source": "https://www.axios.com/2026/07/10/iran-strait-hormuz-attacks-mou-deal",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "UN shipping agency tells states to reject Iran's claimed control of Hormuz",
+    "direction": "Escalating",
+    "description": "The International Maritime Organization's governing council agreed member states should not recognize Iran's claim of sovereignty over the Strait of Hormuz or the jurisdiction of Iran's newly created Persian Gulf Strait Authority, which has demanded vessels obtain a 'valid passage permit' before transiting. Iran, which does not hold a Council seat, told IMO delegates it rejected the 'selective, politically motivated and legally unfounded allegations.'",
+    "source": "https://www.al-monitor.com/originals/2026/07/countries-must-reject-iran-efforts-control-hormuz-un-agency-document-says",
+    "actor": "Other|Iran"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "CNN: satellite images show Iran rebuilding Parchin nuclear site despite MOU",
+    "direction": "Escalating",
+    "description": "Satellite imagery obtained by CNN and analyzed by the Institute for Science and International Security shows Iran repairing the underground Taleghan 2 facility inside the Parchin military complex, with images from June 22 and July 7 showing excavation around three bomb-penetration holes, new concrete reinforcement and rebar installation for a permanent cap. Separate June 21 imagery showed vehicles entering tunnels at 'Pickaxe Mountain,' a suspected underground nuclear site near Isfahan. The activity shows Iran was rebuilding while the June 17 US-Iran memorandum of understanding was still formally in force.",
+    "source": "https://www.cnn.com/2026/07/10/world/video/investigates-polglase-iran-nuclear-sat-imagery",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "Trump says he left orders to bomb Iran 'at levels never seen' if assassinated",
+    "direction": "Escalating",
+    "description": "Trump told the New York Post he has left standing instructions to strike Iran if Tehran succeeds in assassinating him: 'I've left instructions — if anything happens, to just literally bomb them at levels that they've never seen before.' The comments came a day after the Wall Street Journal reported Israel shared intelligence with Washington on a new Iranian plot against Trump; he said he had been 'No. 1 [on Iran's kill list] for a long time' since ordering the 2020 killing of Qassem Soleimani.",
+    "source": "https://thehill.com/homenews/administration/5963258-trump-iran-assassination-military-action/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "IDF Golani troops destroy Hezbollah weapons depots, tunnels in south Lebanon",
+    "direction": "Escalating",
+    "description": "Golani Brigade soldiers operating under the 36th Division in the southern Lebanon security zone located and destroyed Hezbollah weapons depots containing launchers, machine guns, explosives and missiles, the IDF said. In the Majdal Zoun area, troops also found and destroyed two underground tunnel routes totaling roughly 200 meters, which the military said were built to stage attacks on Israeli forces and civilians.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/idf-troops-find-destroy-hezbollah-weapons-storage-sites-in-southern-lebanon-security-zone/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-07-10",
     "title": "Strait of Hormuz shipping grinds to near-halt as fighting resumes",
     "direction": "Escalating",
     "description": "Only 5 vessels crossed the Strait of Hormuz from Wednesday into Thursday morning, down from 45 transits on Monday and roughly 130 a day before the war began in February. No large vessel above 10,000 dwt has crossed via the US-coordinated 'Southern Highway' route while broadcasting its location since July 7. Brent crude stood at $76.58 a barrel as of 05:00 GMT Friday, still up about $4 on the week despite easing slightly from Wednesday's spike, as analysts warned of $10-15 further upside if refined-product inventories keep falling.",
