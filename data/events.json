@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-12",
+    "title": "Iran hits Qatar, UAE, Bahrain, Kuwait, Oman in coordinated Gulf barrage",
+    "direction": "Escalating",
+    "description": "Iran launched coordinated missile and drone attacks across the Gulf around 05:36 local time Sunday, hours after the US struck roughly 140 targets in Iran. The IRGC claimed strikes on Al-Udeid airbase in Qatar, Prince Hassan airbase in Jordan, and US-linked port facilities at Duqm, Oman. Qatar's Armed Forces intercepted multiple ballistic missiles over Doha in two waves; Qatar's Interior Ministry reported 3 people injured, including a child, from falling debris. Kuwait, Bahrain and the UAE activated air defenses and engaged incoming fire, with Kuwait's military stating explosion sounds heard were 'the result of air defense systems intercepting hostile attacks.'",
+    "source": "https://www.euronews.com/2026/07/12/iran-launches-attacks-on-qatar-uae-bahrain-kuwait-following-us-strikes",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "Iran declares Strait of Hormuz closed 'until further notice'",
+    "direction": "Escalating",
+    "description": "Iran declared the Strait of Hormuz closed to all traffic 'until further notice' and until the end of US operations in the region, warning any US attempt to challenge the closure would trigger a 'severe' military response. Iran's UN Ambassador Amir Saeid Iravani said any reopening of the shipping lane or demining operations 'rests exclusively with Iran.' The declaration followed the IRGC's attack on a container ship for using an unauthorized route and the US's third round of retaliatory strikes this week.",
+    "source": "https://thehill.com/policy/defense/5964263-iran-closes-strait-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "US hits ~140 targets in third round of Iran strikes this week",
+    "direction": "Escalating",
+    "description": "US Central Command launched a third round of strikes against Iran at 7:15pm ET Saturday, hitting roughly 140 military targets with precision munitions from land- and sea-based fighter aircraft, drones and naval vessels — including missile and drone sites, naval capabilities, ammunition storage, communications networks and coastal surveillance locations. The strikes brought the week's total to over 300 targets hit across three rounds. Defense Secretary Pete Hegseth said: 'Iran made a poor choice. Now they pay.'",
+    "source": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "IRGC attacks Cyprus-flagged container ship GFS Galaxy in Hormuz",
+    "direction": "Escalating",
+    "description": "The IRGC Navy fired on and disabled M/V GFS Galaxy, a Cyprus-flagged container ship, in the Strait of Hormuz, saying the vessel had deactivated its tracking system and strayed onto an 'unauthorized route' rather than Iran's approved shipping lane. The ship caught fire and suffered significant engine-room damage; the crew abandoned the vessel and one crew member was reported missing. CENTCOM called it a 'blatant' attack and launched retaliatory strikes hours later.",
+    "source": "https://x.com/CENTCOM/status/2076089130857951463",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-07-10",
     "title": "US gives Iran Saturday deadline to declare Hormuz open, halt attacks",
     "direction": "Escalating",
