@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-07-13",
+    "title": "IRGC claims destroying US command post, drone hangars in Jordan",
+    "direction": "Escalating",
+    "description": "Iran's IRGC said it destroyed the command-and-control center and MQ-9 Reaper drone hangars at the US-linked Prince Hassan Air Base in Jordan with ballistic missiles, calling it retaliation for continued American strikes on southern Iran. Iran's Army separately said it launched waves of kamikaze drones at a Patriot air-defense battery, an ammunition depot and a radar site in Kuwait, and at a communications system and radar site in Bahrain. Sirens sounded across Bahrain, Kuwait, Qatar and Oman as Gulf states scrambled air defenses; none of Iran's claimed destruction was independently confirmed.",
+    "source": "https://www.ynetnews.com/article/ilfeev4ij",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "US strikes Iran for second straight night; Khuzestan water station hit",
+    "direction": "Escalating",
+    "description": "US Central Command launched a second consecutive night of strikes against Iran beginning at 5pm ET Sunday, saying the goal was to continue degrading Iran's 'ability to attack civilian mariners and commercial ships freely transiting the Strait of Hormuz.' Iran's Fars and IRNA news agencies reported a strike hit an agricultural water pumping station in Mahshahr, Khuzestan province, killing a security guard and wounding four others; state media also reported a power outage in Ahvaz, the provincial capital.",
+    "source": "https://www.israelnationalnews.com/flashes/689576",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "CENTCOM declares Hormuz open, rejects Iran's closure claim",
+    "direction": "Escalating",
+    "description": "US Central Command declared the Strait of Hormuz 'open to all vessels seeking to lawfully transit the international waterway,' posting on X that 'Iran does not control the strait. Traffic is flowing,' and that US forces remain 'positioned and prepared' to preserve freedom of navigation. The statement directly contradicted Iran's declaration that the strait was closed 'until further notice'; Windward Maritime Intelligence recorded just 21 commercial vessel transits on July 11, down from roughly 140 a day before the war.",
+    "source": "https://x.com/CENTCOM/status/2076278945993888116",
+    "actor": "US"
+  },
+  {
     "date": "2026-07-12",
     "title": "Iran hits Qatar, UAE, Bahrain, Kuwait, Oman in coordinated Gulf barrage",
     "direction": "Escalating",
