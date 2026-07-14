@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-14",
+    "title": "US to reinstate naval blockade of all Iranian ports",
+    "direction": "Escalating",
+    "description": "US Central Command announced it will resume its naval blockade of all vessels entering or exiting Iranian ports and coastal areas at 4pm ET (20:00 GMT) Tuesday, at Trump's direction, saying any vessel suspected of running the blockade is 'subject to interception, diversion, and capture' and that non-compliant ships 'may be legally compelled with force.' The move revives the April 13–June 18 operation, during which US forces redirected more than 140 compliant vessels, disabled nine non-compliant ships and let over 50 humanitarian vessels pass. Trump said Iran had failed the 'test' of the June 17 memorandum: 'Deals are made to be broken.'",
+    "source": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4542098/us-forces-to-resume-naval-blockade-against-iran/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "Iran cruise missiles strike 2 UAE tankers in Hormuz; Indian sailor killed",
+    "direction": "Escalating",
+    "description": "Two Iranian cruise missiles struck the Emirati tankers Mombasa and Al Bahiyah in the southern lane of the Strait of Hormuz, inside Omani territorial waters, killing an Indian crew member aboard the Mombasa and wounding eight others — six Indian nationals and two Ukrainians, four of them seriously. Both vessels caught fire before crews contained the blazes. The UAE Defence Ministry condemned the 'blatant attack' and said it retained 'its full right to respond to this escalation'; Iran's IRGC said it had 'struck and disabled' two 'rogue supertankers.'",
+    "source": "https://boereport.com/2026/07/13/uae-says-iranian-missiles-struck-oil-tankers-in-strait-of-hormuz-one-sailor-killed/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "US strikes southern Iran for third straight night",
+    "direction": "Escalating",
+    "description": "US Central Command launched a third consecutive night of strikes on Iran beginning around 4:45pm ET, hitting coastal-defense systems, missile and drone sites and naval targets across Bandar Abbas, Bushehr, Chabahar, Jask and Konarak and the islands of Abu Musa, Larak and Qeshm in a roughly five-hour operation. Residents reported multiple heavy explosions in Konarak and Chabahar; Hormozgan's governor's office said the Bandar Abbas and Qeshm strikes caused no civilian casualties or damage to residential areas. CENTCOM framed the strikes as continuing to degrade Iran's ability to attack commercial shipping in the Strait of Hormuz.",
+    "source": "https://wanaen.com/us-strikes-southern-iran-explosions-reported-in-bandar-abbas-larak-konarak-and-chabahar/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "Houthis fire missiles, drones at Saudi Abha airport; declare truce over",
+    "direction": "Escalating",
+    "description": "Yemen's Houthis launched missiles and drones at Saudi Arabia's Abha International Airport after accusing the kingdom of bombing Sanaa International Airport earlier Monday, shattering a four-year truce. The Sanaa runway was struck to stop an Iranian aircraft carrying a Houthi delegation from returning from Khamenei's funeral; Yemen's internationally recognized government claimed responsibility while the Houthis blamed Riyadh. Houthi spokesman Yahya Saree said 'the targeting of Sanaa Airport ends the de-escalation phase,' warned commercial carriers to avoid Saudi airspace and vowed the strike 'will not pass without retribution.' No casualties were reported; the UN Security Council held an emergency session.",
+    "source": "https://www.washingtonpost.com/world/2026/07/13/yemen-houthis-airport-saudi-strikes/3eb0c79c-7eae-11f1-8a16-393bd03340b0_story.html",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "Oil jumps 9.4% as Trump notifies Congress war has resumed",
+    "direction": "Escalating",
+    "description": "WTI crude settled up 9.4% at $78.14 a barrel — its highest close since June 15 and biggest single-day jump since early April — as US and Iranian forces traded strikes around the Strait of Hormuz. Trump sent Congress formal notification that hostilities against Iran had resumed on July 7, saying he acted 'consistent with my responsibility to protect Americans and United States' national security and foreign policy interests,' and warned the US would strike Iran hard 'Monday and Tuesday' because Tehran had failed the 'test' of the June 17 memorandum.",
+    "source": "https://www.cnn.com/2026/07/13/world/live-news/iran-war-trump",
+    "actor": "US"
+  },
+  {
     "date": "2026-07-13",
     "title": "IRGC claims destroying US command post, drone hangars in Jordan",
     "direction": "Escalating",
