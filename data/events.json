@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-07-15",
+    "title": "US strikes Iran for fifth straight night; hits Bushehr, Bandar Abbas",
+    "direction": "Escalating",
+    "description": "US Central Command struck Iranian coastal defenses, missile and drone sites and naval assets for a fifth consecutive night, a seven-hour wave concentrated near the Strait of Hormuz. The previous night's five-hour mission had hit military targets at Bushehr, Chah Bahar, Jask, Konarak, Abu Musa and Bandar Abbas with precision munitions. CENTCOM said more than 20 US Navy warships and hundreds of aircraft are now operating across the region; Trump claimed the US had taken out 'almost all' of Iran's military capability.",
+    "source": "https://www.foxnews.com/live-news/iran-war-trump-israel-hormuz-july-14-2026",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "Iran drones hit Kuwait, Bahrain again; UAE condemns attacks",
+    "direction": "Escalating",
+    "description": "Kuwait's Army General Headquarters said its air defenses engaged incoming drones approaching from Iran, warning residents that explosion sounds were interceptions of hostile attacks. Bahrain's Defence Force sounded air-raid sirens as its air defenses intercepted Iranian missiles and drones targeting civilians. The UAE condemned the 'renewed hostile attacks by Iran targeting Bahrain and Jordan' as a 'flagrant violation of sovereignty.' Since the ceasefire collapse Tehran has shifted from striking the UAE to concentrating on the smaller Gulf states of Bahrain and Kuwait.",
+    "source": "https://foreignpolicy.com/2026/07/14/iran-gulf-attacks-kuwait-bahrain-saudi-arabia-uae-trump/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "Trump threatens to destroy Iran's power plants and bridges 'next week'",
+    "direction": "Escalating",
+    "description": "In an interview with Fox News, Trump threatened to widen strikes unless Iran returns to negotiations: 'Next week it gets really bad for them because next week comes the power plants. Next week comes the bridges. We're gonna knock out all their power plants. We're going to knock out all their bridges unless they get to the table and negotiate.' He said the US would 'hit them very hard tonight' and warned Iran 'you're not going to have anybody left.' On Iran's nuclear sites he added, 'It only takes a matter of minutes for us to do it and do major damage.'",
+    "source": "https://www.foxnews.com/media/trump-threatens-expand-strikes-iran-says-power-plants-next-go-hit-them-hard",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "Trump drops planned 20% Hormuz transit fee after Gulf objections",
+    "direction": "Neutral",
+    "description": "Trump abandoned a previously announced plan to impose a 20% fee on cargo transiting the Strait of Hormuz, citing objections from Persian Gulf allies, hours before the US reinstated its blockade of Iranian ports. He said the fee would be replaced by Gulf state investment and trade deals with the United States. The reversal came as Washington maintained that no negotiations could proceed while Iran continued to disrupt shipping through the strait.",
+    "source": "https://www.theweek.in/news/middle-east/2026/07/15/trump-iran-conflict-escalation-iran-power-plants-bridges.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "Norwegian chemical tanker Stolt Magnesium hit by projectile off Oman",
+    "direction": "Escalating",
+    "description": "The Norwegian-operated chemical tanker Stolt Magnesium was struck by an external projectile on its starboard side at about 12:40am local time, 40 nautical miles northeast of Qalhat, Oman, setting fire to its engine room. All 23 crew were evacuated safely, the ship's manager said. The UK Maritime Trade Operations agency confirmed the strike. The attack was the third on commercial shipping near the Strait of Hormuz in two days, after the Emirati tankers Mombasa and Al Bahiyah were hit by Iranian cruise missiles.",
+    "source": "https://www.usnews.com/news/world/articles/2026-07-14/chemical-tanker-stolt-magnesium-hit-by-explosion-off-omani-coast-manager-says",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "Iran hangs 9 in three days as wartime execution surge accelerates",
+    "direction": "Neutral",
+    "description": "Iran executed at least nine prisoners between July 12 and 14, including Kurdish inmates Mohyeddin Abdollahi and Hossein Palani, hanged Tuesday on charges of 'Baghi' (armed rebellion) and ISIS membership tied to a cell in the Bamo border heights. Iran Human Rights reported at least 101 executions in June 2026 alone, a pace unmatched in decades, as the judiciary presses an accelerated crackdown amid the war. Rights groups say at least 78 protesters and dissidents remain on death row, including 41 arrested over the January 2026 protests.",
+    "source": "https://iranwire.com/en/news/154934-iran-executes-two-kurdish-prisoners-charged-with-isis-membership/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-07-14",
     "title": "US to reinstate naval blockade of all Iranian ports",
     "direction": "Escalating",
