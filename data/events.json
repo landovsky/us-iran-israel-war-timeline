@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-07-16",
+    "title": "US expands strikes to Tehran and Semnan missile-production province",
+    "direction": "Escalating",
+    "description": "US Central Command widened its air campaign on July 16, striking targets around Tehran and in Semnan province, home to Iran's ballistic-missile production and space program, after five nights of strikes had concentrated on coastal defenses near the Strait of Hormuz. Iranian air defenses activated over the capital and across northern and western Iran. The expansion followed Trump's threat to knock out Iran's power plants and bridges and marked the first strikes near the capital since the campaign resumed.",
+    "source": "https://www.timesofisrael.com/liveblog-juy-16-2026/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Iran frees US citizen Dena Karari as 'gesture of goodwill'",
+    "direction": "De-escalating",
+    "description": "Trump announced that Iran had released Dena Karari, an American citizen wrongfully detained since December 2024, calling it a 'gesture of Goodwill by Iran.' Human rights attorney Jared Genser confirmed 'Dena is now safe and traveling back to the United States.' The release came amid otherwise escalating strikes, with Trump claiming, without corroboration, that Iran had called seeking to meet and 'want to settle so badly.' Iran's foreign ministry the same week said it had no plans to negotiate while US attacks continued.",
+    "source": "https://www.timesofisrael.com/trump-said-leaning-toward-expanding-military-offensive-against-iran-which-he-warns-better-behave/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "US disables Curaçao-flagged tanker Belma bound for Kharg Island",
+    "direction": "Escalating",
+    "description": "US Central Command struck and disabled the Curaçao-flagged commercial tanker Belma as it transited international waters toward Iran's Kharg Island oil terminal, the first vessel the US has disabled since Trump reinstated the naval blockade of Iranian ports. CENTCOM said the unladen tanker 'ignored multiple warnings as it attempted to violate the US blockade.' The action came as the US concluded a second round of strikes in a single day against Iranian air defenses, missile and drone sites and command centers near Bandar Abbas.",
+    "source": "https://www.cbsnews.com/live-updates/iran-us-war-trump-strait-of-hormuz-persian-gulf-strikes/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "Trump weighs ground troops to seize Iranian islands, nuclear-site strikes",
+    "direction": "Escalating",
+    "description": "Trump signaled he was leaning toward widening the offensive beyond the Strait of Hormuz, with reported options including intensified airstrikes on previously untouched strategic targets, deploying ground troops to seize Iranian islands near the strait, and bombing the Pickaxe Mountain nuclear enrichment site. 'I don't like giving deadlines, but they pretty much know the story. They better behave,' Trump said, warning Iran to return to talks.",
+    "source": "https://www.timesofisrael.com/trump-said-leaning-toward-expanding-military-offensive-against-iran-which-he-warns-better-behave/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "Iran fires ballistic missiles at US bases in Jordan; Jordan intercepts 8",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guard fired ballistic missiles at US air bases in Jordan while the Iranian army launched kamikaze drones at US fuel-storage and communications sites, retaliation the IRGC said answered a US strike near a children's cancer hospital in Iran. Jordan's armed forces said they intercepted 8 incoming missiles; footage circulating online appeared to show a direct impact on a base in northeastern Jordan. Iran also targeted the Ali al-Salem base in Kuwait and the Sheikh Isa base in Bahrain, and drones violated Iraqi airspace near Erbil.",
+    "source": "https://abcnews.com/US/wireStory/jordans-military-shot-8-missiles-launched-iran-targeting-134805775",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "Iran executes January protester Amini Dehaghani amid wartime surge",
+    "direction": "Escalating",
+    "description": "Iran hanged Mohammad Amini Dehaghani in Isfahan province after the Supreme Court upheld his death sentence for setting fire to a government building during the January 2026 protests, on charges of 'moharebeh' (waging war against God) and 'corruption on earth.' The UN said Iran executed at least 40 people in the first half of 2026, 18 in national-security cases. Amnesty International said authorities were 'using wartime conditions as a pretext to intensify their crackdown through mass arrests, accelerated trials, [and] politically motivated executions.'",
+    "source": "https://www.euronews.com/2026/07/15/iran-executes-man-over-january-protests-as-crackdown-on-dissent-widens",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-07-15",
     "title": "US strikes Iran for fifth straight night; hits Bushehr, Bandar Abbas",
     "direction": "Escalating",
