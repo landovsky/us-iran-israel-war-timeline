@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-07-17",
+    "title": "US strikes Iran for seventh straight night; bridges, power grid, Chabahar tower hit",
+    "direction": "Escalating",
+    "description": "US Central Command struck Iran for a seventh consecutive night, a wave that ran from 3pm to 9:30pm ET hitting surveillance sites, military logistics infrastructure, underground weapons storage and maritime capabilities with fighter jets, drones and warships. Overnight strikes destroyed six highway and railway bridges in Hormozgan province to cut Bandar Abbas off from central Iran and collapsed a maritime control tower at Chabahar port; CENTCOM said destroying the tower 'directly degrades IRGC's ability to coordinate attacks on innocent civilian crew members.' Iran acknowledged 'attacks on power infrastructure' for the first time, with its Energy Ministry urging residents of southern provinces to cut electricity use amid extreme heat.",
+    "source": "https://www.euronews.com/2026/07/18/us-forces-strike-iran-for-seventh-consecutive-night",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Iran strikes Kuwait desalination plant, Qatar's Al Udeid in five-nation Gulf barrage",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guard fired missiles and drones at US-allied Gulf states in retaliation for the seventh night of American strikes, sparking a fire at a Kuwaiti power and water desalination plant and damaging electricity generation units; Kuwait, which relies on desalination for about 90% of its water, urged citizens to ration power. The IRGC said it hit Qatar's Al Udeid Air Base, where a child was injured by falling shrapnel, along with Bahrain's Sakhir airbase and US radar sites in Oman. Jordan shot down three Iranian missiles and Kurdish forces downed eight drones over Erbil; CENTCOM denied an IRGC claim of a strike on the al-Tanf base in Syria.",
+    "source": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "US to send dozens more refueling tankers to Israel ahead of possible escalation",
+    "direction": "Escalating",
+    "description": "The Trump administration notified Israel it is sending dozens more aerial refueling tankers ahead of a potential expansion of operations against Iran, with 5-8 aircraft expected to arrive daily on top of the roughly 33 already at Ben Gurion Airport and a similar number at Ramon Air Base. The buildup would return tanker numbers to levels seen at the start of the war and give the US greater flexibility to sustain strikes deep inside Iran. Trump is weighing options including hitting Iranian infrastructure, further strikes on nuclear facilities, and an attack on the underground Pickaxe Mountain site.",
+    "source": "https://www.axios.com/2026/07/17/trump-iran-israel-refueling-planes",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Iran adviser Rezaei warns of 'full-scale offensive' if US strikes continue",
+    "direction": "Escalating",
+    "description": "Mohsen Rezaei, an adviser to Iran's supreme leader, warned against continued US escalation or any attempt to seize Iranian territory, saying: 'If US strikes continue for several more days, we will move into a phase of full-scale offensive operations.' An IRGC commander separately vowed that 'effective and targeted strikes from across Iran against the enemy will continue' until Washington halts its campaign. Iran also told Axis of Resistance allies, including Hezbollah, to prepare for a possibly broader and more severe conflict.",
+    "source": "https://www.timesofisrael.com/liveblog-july-17-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "EU signs Djibouti pact to reinforce Red Sea mission amid Bab el-Mandeb threat",
+    "direction": "Neutral",
+    "description": "EU foreign policy chief Kaja Kallas visited Djibouti and signed a Status of Forces Agreement for Operation Aspides to strengthen Europe's naval presence in the Red Sea, saying it 'ensures maintaining access to and support for our ships and air assets for as long as they are needed.' The move came amid reports Tehran had asked the Houthis to prepare to close the Bab el-Mandeb strait if the US strikes Iranian power infrastructure. Aspides, launched in February 2024, has escorted more than 670 merchant vessels and rescued 128 seafarers.",
+    "source": "https://www.euronews.com/2026/07/17/eu-bolsters-red-sea-mission-amid-reports-houthis-may-shut-bab-el-mandeb",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Brent crude jumps 4.6% to $88.10 after Kuwait plant strike",
+    "direction": "Escalating",
+    "description": "Brent crude futures rose about 4.6% to close at $88.10 a barrel on July 17 after Kuwait said Iran attacked a power and water desalination plant, pushing prices up more than 10% for the week. The rally reversed an earlier return toward pre-war levels as the seventh consecutive night of US strikes and the shuttered Strait of Hormuz clouded the outlook for roughly a quarter of the world's seaborne oil trade. Traders also weighed Iran's threat to have the Houthis close the Bab el-Mandeb strait, which would disrupt the region's second main export route.",
+    "source": "https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html",
+    "actor": "Other"
+  },
+  {
     "date": "2026-07-16",
     "title": "US strikes hit Ahvaz children's cancer hospital area; 30+ civilians killed",
     "direction": "Escalating",
