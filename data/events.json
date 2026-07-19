@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-07-18",
+    "title": "Two US troops killed, one missing in IRGC missile strike on Jordan's Azraq base",
+    "direction": "Escalating",
+    "description": "CENTCOM said two US service members were killed and one is missing in action after Iran's Revolutionary Guard struck the American air base at Azraq in eastern Jordan with ballistic missiles and drones, the first US military deaths of the war since March. Four more troops were medevaced to Jordanian hospitals and later discharged. The IRGC's Aerospace Force said its 20th 'Nasr-2' wave hit aircraft shelters and a parking ramp, claiming at least five US aircraft destroyed, a figure US officials did not confirm; Jordan said it intercepted 10 incoming missiles. Trump called the soldiers' deaths 'a sad thing' and ordered fresh strikes to 'hold Iranian forces accountable.'",
+    "source": "https://www.newsnationnow.com/world/iran-irgc-claims-attacks-us-military-airbase/",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "US strikes Bonji desalination plant; water cut to 10,000 Iranians in 20 villages",
+    "direction": "Escalating",
+    "description": "US strikes in a new overnight wave hit power facilities and desalination pumps at the Bonji plant in Jask, Hormozgan province, cutting drinking water to 20 villages and roughly 10,000 people, a local official told Reuters. CENTCOM said the campaign struck surveillance sites, military logistics infrastructure, underground weapons storage and maritime capabilities. At least 12 people were killed in Iran over the prior day, taking the death toll to 50 since the latest phase of strikes began on June 27, with more than 500 injured.",
+    "source": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "Iran sets second Kuwaiti desalination plant ablaze in two days",
+    "direction": "Escalating",
+    "description": "Iranian missile and drone fire set a second Kuwaiti power and water desalination plant ablaze in as many days, Kuwait's military said, after intercepting further ballistic missile and drone attacks originating from Iran. Kuwait relies on desalination for about 90% of its drinking water. Qatar condemned Iran's attacks on Kuwait, Bahrain and Jordan 'in the strongest terms,' saying the targeting of electricity and water desalination plants 'crosses all red lines,' while the UAE called the strikes a clear violation of the three states' sovereignty.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-07-18/ty-article-live/for-seventh-night-in-a-row-u-s-launches-strikes-on-iranian-infrastructure/0000019f-72d8-de8e-afff-f3fad06d0000",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "Khamenei calls Trump's signature 'worthless'; Iran suspends interim deal",
+    "direction": "Escalating",
+    "description": "Supreme Leader Mojtaba Khamenei derided President Trump's signature on the June memorandum of understanding as 'utterly worthless and devoid of credibility' and warned the 'axis of resistance' had 'unforgettable lessons to offer' the United States. Iranian Deputy Foreign Minister Kazem Gharibabadi said Iran had suspended implementation of its commitments under the interim agreement after Washington 'violated its own obligations,' and Tehran said it would no longer seek to implement the deal reached last month.",
+    "source": "https://www.timesofisrael.com/liveblog-july-18-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "IRGC downs US MQ-9 Reaper over Asaluyeh, halts four ships in Hormuz",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guard said its naval air defenses shot down a US MQ-9 Reaper drone over the southern coastal region of Asaluyeh and stopped four commercial vessels attempting to transit the Strait of Hormuz under US military protection using a combined missile-and-drone operation. Traffic through the waterway remained near a standstill, with only about 10 ships transiting versus roughly 88 per day normally and 444 vessels reported anchored or stopped in the region.",
+    "source": "https://straits.live/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "US surges F-35s, F-16s to hunt Iranian air defenses; issues Worldwide Caution",
+    "direction": "Escalating",
+    "description": "The US deployed additional F-35 stealth fighters and F-16 jets to the region to strike Iranian radars and surface-to-air missile sites, alongside dozens of aerial refueling aircraft, as Trump weighed expanded strikes on Iran's power plants and nuclear sites. The State Department issued a Worldwide Caution alert warning of heightened Middle East tensions and the potential for Iranian targeting of Americans globally.",
+    "source": "https://www.foxnews.com/live-news/iran-war-trump-israel-hormuz-oil-july-18-2026",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "Israel kills Hezbollah drone operators near Kfar Tebnit in south Lebanon",
+    "direction": "Escalating",
+    "description": "The Israeli military said its air force struck and killed several Hezbollah operatives piloting a surveillance drone near Kfar Tebnit in southern Lebanon, after identifying fighters operating drones while taking cover near Israeli troops, calling it a violation of ceasefire understandings. A Lebanese soldier was killed by an explosive device the IDF said Hezbollah had planted.",
+    "source": "https://www.timesofisrael.com/liveblog-july-18-2026/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "Iran executes woman Parvin Chardoli; 2026 female execution toll hits 17",
+    "direction": "Neutral",
+    "description": "Iran hanged Parvin Chardoli at Ghezel Hesar Prison, raising the number of women executed in 2026 to 17; an informed source said the court knew she had not committed the murder for which she was condemned but sentenced her to death after she refused to name the perpetrator. Authorities also executed Aref Khoshkar over the killing of a security force member during the 2022 protests, part of a wartime execution surge rights groups say has reached levels unseen since the 1980s.",
+    "source": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-july-18-2026/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-07-17",
     "title": "US strikes Iran for seventh straight night; bridges, power grid, Chabahar tower hit",
     "direction": "Escalating",
