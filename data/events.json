@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-07-20",
+    "title": "US completes ninth straight night of strikes; hits Bushehr, Tabriz area",
+    "direction": "Escalating",
+    "description": "CENTCOM said the US military completed its ninth consecutive night of strikes against Iran, hitting command centres, air defence sites, maritime assets, missile facilities and communications networks. Strikes struck the Bushehr nuclear power plant complex and targets in northwestern Iran near Tabriz, killing at least one person and wounding several, Iranian outlets reported. The campaign has now run without pause since US attacks resumed following Iran's July 18 killing of American troops in Jordan.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "IRGC hits Bahrain, Kuwait, Jordan, Syria; claims destroying Kuwait radar and MQ-9 hangar",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guard fired drones and missiles at US targets in Bahrain, Kuwait, Jordan and Syria, triggering air-raid sirens and explosions in Manama and engaging Kuwaiti air defences. The IRGC claimed it destroyed a US radar system in Kuwait and struck an MQ-9 Reaper hangar at Ali Al Salem Air Base, setting drones ablaze, and said it 'halted' two ships in the Strait of Hormuz. Israeli air defences also downed a drone over the Syrian border near Mount Hermon.",
+    "source": "https://www.timesofisrael.com/liveblog-july-20-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "Rubio says Iran using Hormuz as 'leverage against the world'",
+    "direction": "Neutral",
+    "description": "Secretary of State Marco Rubio said Iran was trying to use the Strait of Hormuz as 'leverage against the world' to restrict international commerce, framing Tehran's control of the chokepoint as the core obstacle to any renewed ceasefire. Commercial transit through the strait, which normally carries about 20% of global oil supply, remained a fraction of pre-crisis volume as shippers avoided the contested waterway.",
+    "source": "https://www.timesofisrael.com/liveblog-july-20-2026/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "US strikes Darkhovin nuclear plant construction site; IAEA investigates",
+    "direction": "Escalating",
+    "description": "On the eighth consecutive night of strikes, US forces hit the partly built Darkhovin nuclear power plant near the Iraqi border, along with targets in Hormozgan and Khuzestan provinces and on Qeshm Island. The IAEA said it was looking into Iranian reports that an overnight strike hit the unfinished plant. Iran's deputy foreign minister called the attack a 'dangerous assault' on civilian infrastructure; Iranian authorities said a desalination plant on Qeshm Island was also damaged a day after the Bonji plant's destruction left 10,000 people without drinking water.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "Third US service member killed in Iraq detonating downed Iranian drone; toll hits 17",
+    "direction": "Escalating",
+    "description": "CENTCOM said a US service member was killed and another mildly injured during a 'controlled detonation' of unexploded ordnance from a downed Iranian one-way attack drone in northern Iraq. The death brought the number of US troops killed since the war began on February 28 to 17, coming days after two soldiers were killed and one went missing in Iran's July 18 strike on a base in Jordan. Troops also recovered unidentified remains at the Jordan strike site pending examination.",
+    "source": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "Iran fires ballistic missiles at Jordan's Aqaba; fragments fall near Eilat",
+    "direction": "Escalating",
+    "description": "Iran launched ballistic missiles toward the Jordanian port city of Aqaba, adjacent to Israel's Red Sea resort of Eilat. US air defences intercepted three of the missiles while one struck an open area, and interceptor fragments fell near Eilat, causing no damage or injuries. Jordan summoned Iran's ambassador after downing incoming missiles for a second straight day.",
+    "source": "https://www.timesofisrael.com/liveblog-july-19-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "GCC chief calls Iranian strikes on Bahrain, Kuwait, Jordan 'war crimes'",
+    "direction": "Neutral",
+    "description": "The Gulf Cooperation Council's secretary-general condemned Iran's attacks on Bahrain, Kuwait and Jordan, declaring that the deliberate targeting of civilian infrastructure 'constitutes war crimes requiring international accountability and prosecution' and a grave violation of the UN Charter. Saudi Arabia's foreign ministry separately denounced 'the continued brutal Iranian aggression,' and the GCC expressed solidarity with the three states and wished a speedy recovery to those injured in Kuwait.",
+    "source": "https://www.arabnews.com/node/2651409/middle-east",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "Lebanese President Aoun meets Rubio in Washington; first such visit since 2009",
+    "direction": "De-escalating",
+    "description": "Lebanese President Joseph Aoun met US Secretary of State Marco Rubio in Washington, the first visit by a Lebanese head of state since 2009. Rubio praised Beirut's efforts to disarm Hezbollah, Iran's main regional proxy, as part of the framework tied to Israel's withdrawal from Lebanon. Aoun was scheduled to meet President Trump the following Tuesday.",
+    "source": "https://www.timesofisrael.com/liveblog-july-19-2026/",
+    "actor": "Lebanon|US"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "Iran executes two January uprising protesters in Isfahan",
+    "direction": "Escalating",
+    "description": "Iran hanged Erfan Esfandiari, 18, and Gol-Mohammad Mohammadi, a 24-year-old Afghan national, in Isfahan for their role in the January 2026 anti-government uprising. The two were convicted of 'moharebeh' (waging war against God) and 'corruption on Earth' over the killing of four security officers during the unrest. Rights groups said 10 more protesters, aged 18 to 24, remain sentenced to death, warning of imminent further executions amid the wartime crackdown.",
+    "source": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-july-19-2026/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-07-18",
     "title": "Two US troops killed, one missing in IRGC missile strike on Jordan's Azraq base",
     "direction": "Escalating",
