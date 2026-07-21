@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-07-21",
+    "title": "US completes tenth straight night of strikes; Trump vows Iran will 'pay many times over'",
+    "direction": "Escalating",
+    "description": "CENTCOM completed a tenth consecutive night of strikes on Iran, with Iranian state media reporting explosions across multiple provinces. President Trump said Tehran will 'pay ... many times over' for killing US service members and said he had instructed the Pentagon to strike Iran, as Washington weighed expanding the war. The US kept surging fighter jets and refueling tankers to the region while reissuing a Worldwide Caution alert for Americans abroad.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-07-21/ty-article-live/u-s-completes-latest-round-of-strikes-on-iran-tehran-targets-bases-in-bahrain/0000019f-8269-de59-a5bf-feef9a320000",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "Iran hits Kuwait's Camp Arifjan and Bahrain; sets two tankers ablaze in Hormuz",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guard fired surface-to-surface missiles at US forces at Camp Arifjan in Kuwait, claiming to target HIMARS launchers, while Kuwait's army confirmed intercepting incoming missiles and drones. The IRGC said it struck a radar and Patriot air-defence system in Bahrain's Muharraq and Riffa, and reported that two oil tankers caught fire after explosions on the southern route of the Strait of Hormuz. A Greek-operated oil tanker was struck and detained in the strait, which the Guards said would stay closed while US operations continue.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-07-21/live-updates-903126",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "WSJ: Israel says Iran moved thousands of centrifuges to Pickaxe Mountain",
+    "direction": "Escalating",
+    "description": "Israeli intelligence has assessed that Iran moved thousands of nuclear centrifuges into the Pickaxe Mountain tunnel complex (Kuh-e Kolang Gaz La), about 1.5km south of Natanz, burying them deep underground to shield them from air strikes, the Wall Street Journal reported citing US and Israeli officials. Israel told Washington the move was made last fall, after the June 2025 12-day war. Trump has threatened the site directly, saying 'We're going to take out Pickaxe Mountain. Tell the Iranians to be ready.'",
+    "source": "https://www.timesofisrael.com/liveblog-july-21-2026/",
+    "actor": "Israel|Iran"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "Mediators offer US and Iran 10-day ceasefire; both withhold acceptance",
+    "direction": "De-escalating",
+    "description": "Qatar, Egypt, Pakistan and other regional mediators presented the US and Iran with a proposal for a 10-day ceasefire, according to regional sources with direct knowledge of the effort. Neither Trump nor Iran accepted, with both sides seeking to improve leverage through further strikes first; the effort had gained momentum before Iran's July 18 missile strike in Jordan killed US troops and prompted Washington to pull back. A senior US official said talks were continuing but that Trump 'has yet to finish retaliating.'",
+    "source": "https://www.axios.com/2026/07/21/iran-war-ceasefire-proposal-trump-troops",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "Houthis declare naval blockade of Saudi Arabia, closing Bab el-Mandeb to Saudi ships",
+    "direction": "Escalating",
+    "description": "Houthi military spokesman Yahya Saree announced a maritime blockade of Saudi Arabia, calling it an 'eye for an eye,' and deputy media chief Nasruddin Amer said the Bab el-Mandeb strait would be closed to Saudi vessels. The Iran-backed group said it was retaliating for Saudi airstrikes on Sanaa International Airport that targeted a plane carrying Houthi leaders returning from Iran. Rystad Energy estimated about 2.5 million barrels a day of Saudi crude shipped via the East-West Pipeline to the Red Sea now faces disruption, opening a potential second chokepoint alongside the closed Strait of Hormuz.",
+    "source": "https://www.washingtontimes.com/news/2026/jul/20/houthis-say-block-saudi-shipping-red-sea-gateway/",
+    "actor": "Iran|Saudi Arabia"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "Lebanese army takes over three southern 'pilot zones' in first withdrawal test",
+    "direction": "De-escalating",
+    "description": "The Lebanese army began assuming security control of the southern villages of Froun, Srifa and Zawtar al-Gharbiya, the first on-the-ground test of the June 26 Trilateral Framework signed by Lebanon, Israel and the US to secure an Israeli withdrawal and Hezbollah's disarmament. The US State Department said operations had started 'under the auspices of the Military Coordination Group for Lebanon.' The deal sets no withdrawal timetable, and Israel has vowed to hold a 10km-deep security zone as long as Hezbollah remains armed; Hezbollah rejects the framework.",
+    "source": "https://www.cp24.com/news/world/2026/07/20/lebanon-army-begins-taking-over-southern-pilot-zones-us/",
+    "actor": "Lebanon|Israel"
+  },
+  {
     "date": "2026-07-20",
     "title": "US completes ninth straight night of strikes; hits Bushehr, Tabriz area",
     "direction": "Escalating",
