@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-07-22",
+    "title": "US completes 11th straight night of strikes; explosions rock Bushehr",
+    "direction": "Escalating",
+    "description": "CENTCOM said US forces completed an eleventh consecutive night of strikes at 8:15pm ET, hitting Iranian military operations centres, maritime capabilities, aircraft hangars, drone storage facilities and military logistics infrastructure, with explosions again reported around Bushehr. The command said the campaign is meant to keep degrading Iran's ability to threaten commercial shipping in the Strait of Hormuz, noting Iran has attacked more than 30 commercial vessels transiting the waterway over the past three months. Iran's armed forces said they had again fired missiles and drones at US bases and assets in Bahrain, Kuwait and Jordan.",
+    "source": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Trump vows to hit Pickaxe Mountain 'very heavily'; Iran warns of wider war",
+    "direction": "Escalating",
+    "description": "President Trump escalated his threats against the fortified Pickaxe Mountain nuclear site south of Natanz, saying 'We'll be hitting that area very probably pretty soon. And there's not a thing they can do about it.' Israel assesses that Iran has buried thousands of centrifuges and part of its enriched-uranium stockpile roughly 100 metres under the mountain, which regime officials call the 'most fortified nuclear facility in the world.' Iranian state media warned early Wednesday that any US attack on its nuclear facilities would be treated as an expansion of the war across the region.",
+    "source": "https://www.timesofisrael.com/trump-claims-us-will-strike-irans-pickaxe-mountain-probably-pretty-soon/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Hegseth tells Senate war has cost $37.5bn; says Russia and China aiding Iran",
+    "direction": "Escalating",
+    "description": "Testifying to the Senate Appropriations Committee, Defense Secretary Pete Hegseth said the war has cost $37.5 billion and requested an $87.6 billion supplemental, roughly $67 billion of it for the military. Hegseth said both Russia and China were 'enabling some of the things Iran is doing,' with US officials separately alleging Moscow has passed Iran real-time data on American warships and aircraft, though Joint Chiefs Chairman Gen. Dan Caine declined to detail the assistance. Hegseth described the US naval blockade as 'effectively impenetrable' but acknowledged Iran retains fast boats, coastal missiles and the ability to mine waters and attack commercial vessels.",
+    "source": "https://ianslive.in/russia-china-helping-iran-hegseth--20260722062403",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Iran executes Mehdi Khaneki for 'operational actions' aiding US and Israel",
+    "direction": "Escalating",
+    "description": "Iran's judiciary announced the execution of Mehdi Khaneki, convicted of carrying out 'operational actions' that benefited Israel, the United States and hostile groups, and of producing and possessing weapons, according to the Mizan news agency. Officials linked the charges to the January 2026 anti-government uprising. The hanging extends a wartime execution wave that rights groups say has killed at least 36 people on politically motivated charges since the war began on February 28.",
+    "source": "https://www.france24.com/en/middle-east/20260722-middle-east-live-us-launches-11th-night-of-iran-strikes-as-diplomacy-falters",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "Two Saudi crude tankers reverse course in Red Sea amid Houthi blockade",
+    "direction": "Escalating",
+    "description": "Two oil tankers carrying Saudi crude to Asia turned back in the Red Sea after threats from Yemen's Houthis, who declared a naval blockade of Saudi Arabia a day earlier and vowed to close the Bab el-Mandeb strait to Saudi vessels. The reversal opened a second energy chokepoint alongside the shuttered Strait of Hormuz and threatened the roughly 2.5 million barrels a day of Saudi crude that reach the Red Sea via the East-West Pipeline. Shippers had already all but abandoned Hormuz, leaving two of the world's most critical oil arteries partially blocked at once.",
+    "source": "https://www.japantimes.co.jp/news/2026/07/22/world/tankers-saudi-houthis-red-sea-iran/",
+    "actor": "Iran|Saudi Arabia"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "Trump approves US-Saudi nuclear deal that may let Riyadh enrich uranium",
+    "direction": "Neutral",
+    "description": "President Trump approved a nuclear-cooperation agreement with Saudi Arabia that could allow the kingdom to enrich uranium on its own soil, two AP sources said, with a public announcement expected as early as Wednesday. The 30-year deal would involve US firms and could permit a Saudi enrichment facility following a joint study, and is to be submitted to Congress for review. Nonproliferation experts and lawmakers including Senator Ed Markey warned the terms lack weapons safeguards and could trigger a new round of Middle East proliferation, even as the US bombs Iran to halt its own enrichment.",
+    "source": "https://thehill.com/homenews/ap/ap-international/ap-trump-approves-nuclear-agreement-that-may-allow-saudi-arabia-to-enrich-uranium-two-ap-sources-say-2/",
+    "actor": "US|Saudi Arabia"
+  },
+  {
     "date": "2026-07-21",
     "title": "US completes tenth straight night of strikes; Trump vows Iran will 'pay many times over'",
     "direction": "Escalating",
