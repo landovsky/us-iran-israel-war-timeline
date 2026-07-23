@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-07-23",
+    "title": "US completes 12th straight night of strikes; 2 killed at Shalamcheh crossing",
+    "direction": "Escalating",
+    "description": "CENTCOM began a twelfth consecutive night of strikes at 1:30am Gulf Standard Time, killing at least two people and wounding 11 in an attack on the Shalamcheh border crossing with Iraq. Iranian state media reported further strikes near Andimeshk, Ahvaz and Ramshir, with explosions heard in Sirik and Bushehr on Thursday morning. CENTCOM said the strikes would 'continue to further degrade Iran's ability to threaten civilian mariners and commercial vessels transiting regional waters.'",
+    "source": "https://gulfnews.com/world/mena/us-forces-launch-12th-night-of-strikes-on-iranian-military-targets-1.500617031",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Houthis strike two Saudi oil tankers in Red Sea; Encelia set ablaze",
+    "direction": "Escalating",
+    "description": "Yemen's Houthis said they carried out missile and drone strikes on two Saudi oil tankers in the Red Sea, deepening the naval blockade of Saudi Arabia they declared on July 20. The Saudi-owned tanker Encelia was hit by a projectile that started a fire at its bow; all crew were reported safe. The attack widened a second maritime front alongside the Strait of Hormuz and pushed traffic through the Bab el-Mandeb chokepoint toward a standstill.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/",
+    "actor": "Iran|Saudi Arabia"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Brent crude tops $95.99 after tanker struck off Saudi Arabia",
+    "direction": "Escalating",
+    "description": "Brent crude for September delivery rose about 2% to $95.99 a barrel and US WTI climbed 1.7% to $88.27 after a tanker was hit by an unknown projectile off Saudi Arabia and Trump threatened to bomb Iranian infrastructure over any attack on Hormuz shipping. Prices have risen roughly $20 a barrel since fighting resumed on July 7, as the near-shutdown of Hormuz and the new Red Sea blockade choke two of the world's key oil chokepoints. The IEA has called the disruption the largest supply shock in the history of the global oil market.",
+    "source": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Trump threatens to bomb a Tehran bridge or power plant per ship attacked",
+    "direction": "Escalating",
+    "description": "Trump posted that 'Any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, whether it be by Missile, Rocket, Drone, or any other device or weapon, the United States will bomb and destroy ONE BRIDGE OR POWER PLANT, including those located next to, or in, the Capital City of Tehran.' A senior Iranian official responded that Tehran would strike 'infrastructure and bridges across the region,' as both sides openly threatened civilian infrastructure.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Iran denies nuclear activity at Pickaxe Mountain, calls US focus a pretext",
+    "direction": "Neutral",
+    "description": "Iranian foreign ministry spokesman Esmaeil Baqaei said no nuclear activity was taking place at Pickaxe Mountain (Kolang Kouh), calling Washington's 'obsessive focus' on the site 'nothing more than a fabricated pretext for aggression, destruction, and sabotage.' Iran's joint military command, the Khatam al-Anbiya Central Headquarters, warned that any US strike on Iran's nuclear or sensitive sites would widen the regional war and bring a 'powerful assault' on US interests and allied nations.",
+    "source": "https://www.iranintl.com/en/202607226364",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Trump attends dignified transfer of 4 US troops killed in Iran war",
+    "direction": "Neutral",
+    "description": "President Trump attended the dignified transfer of four American service members killed in recent days in the war with Iran. US officials put the American military death toll at 18 with 482 wounded in action since fighting resumed, while Iran reported 53 killed and 592 injured over the past month. The transfer came as Trump signaled preparations to significantly escalate the US campaign.",
+    "source": "https://edition.cnn.com/2026/07/22/world/live-news/the-war-with-iran",
+    "actor": "US"
+  },
+  {
     "date": "2026-07-22",
     "title": "US completes 11th straight night of strikes; explosions rock Bushehr",
     "direction": "Escalating",
