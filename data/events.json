@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-07-24",
+    "title": "US completes 13th straight night of strikes; blasts across southern Iran",
+    "direction": "Escalating",
+    "description": "CENTCOM wrapped up a thirteenth consecutive night of strikes early Friday, saying it hit 'Iranian military command centers, drone storage facilities, communication networks, coastal surveillance sites, and maritime capabilities' to protect Hormuz shipping. Iranian media reported explosions in Khorramabad, Ahvaz, Bandar Abbas, Jask, Konarak and the Gulf islands of Qeshm, Larak and Hengam, and claimed air defenses downed a US Tomahawk over Kahnuj. A Hormozgan provincial official reported at least two people wounded, while Iranian outlets said four were killed in Khuzestan. CENTCOM insisted the Strait of Hormuz 'remains open for transit despite recent attacks.'",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-903526",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Iran drone-strikes Bahrain's Isa Air Base and Jordan's Al-Azraq; Bahrain sounds sirens",
+    "direction": "Escalating",
+    "description": "Iran's army said it launched drone strikes on US facilities in Bahrain and Jordan in retaliation for the 13th night of American attacks, targeting fuel tanks, equipment warehouses, silos and barracks at Isa Air Base in Bahrain and aircraft and maintenance hangars at Jordan's Al-Azraq base. Bahrain activated air-raid sirens early Friday, warning residents to shelter from detected fire hours after CENTCOM ended its strikes. Jordan had not confirmed any strikes at the time of Iran's claim.",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Iran rejects Iraqi-brokered US ceasefire; Trump weighs 'massive attack'",
+    "direction": "Escalating",
+    "description": "Iran rejected a US ceasefire proposal delivered to Tehran by Iraq's prime minister, with officials saying they had no interest in a temporary deal that left control of the Strait of Hormuz unresolved. Trump said Iran 'need more of the same' and that Tehran had not 'received enough pain yet,' telling Axios he was weighing a 'massive attack' on Iran. Foreign Minister Abbas Araghchi called the US campaign 'mindless aggression' and said Tehran would not facilitate any deal under bombardment.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "IRGC says tanker caught fire on mined route south of Hormuz",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guard Corps said an oil tanker caught fire after an explosion when it attempted to pass what the IRGC called a mined route south of the Strait of Hormuz, signaling that Tehran is now using sea mines to enforce its chokehold on the waterway. Maritime trackers reported Hormuz throughput had collapsed to roughly 2% of pre-war tanker volume, leaving the strait functionally closed to commercial shipping.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Brent crude tops $100 for first time in two months as war widens",
+    "direction": "Escalating",
+    "description": "Brent crude jumped about 7% to settle at $100.69 a barrel and US WTI rose 6.17% to $92.19, both hitting their highest levels in two months as the near-shutdown of Hormuz and the Houthi Red Sea blockade choked two major oil arteries at once. US gasoline averaged $4.09 a gallon and diesel $5.34 as prices climbed for a fifth straight day. It was the first time Brent had traded above $100 since late May.",
+    "source": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "House rebukes Trump on Iran war for second time; Senate blocks companion measure 49-47",
+    "direction": "Neutral",
+    "description": "The US House passed a war-powers resolution directing President Trump to halt the Iran campaign absent congressional authorization — its second such rebuke since the ceasefire collapsed — but the Senate voted 49-47 to block the companion measure. Republican Susan Collins crossed the aisle to support it, while Rand Paul and Lisa Murkowski, who had backed earlier restraint votes, missed the tally. Neither non-binding measure would reach the White House, leaving Trump's authority to prosecute the war unchecked.",
+    "source": "https://thehill.com/homenews/senate/5986145-senate-iran-war-resolution/",
+    "actor": "US"
+  },
+  {
     "date": "2026-07-23",
     "title": "US completes 12th straight night of strikes; 2 killed at Shalamcheh crossing",
     "direction": "Escalating",
