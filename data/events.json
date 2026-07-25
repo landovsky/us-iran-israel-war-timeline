@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-07-25",
+    "title": "US pauses strikes for first time in two weeks; Trump says 'not time yet' for deal",
+    "direction": "De-escalating",
+    "description": "US Central Command announced no new attack on Iran early Friday, the first time in nearly two weeks it did not launch a wave of strikes, halting a run of 13 consecutive nights of bombing. Trump said the US and Iran remained in talks and that Tehran was 'getting more serious,' but added he doesn't 'think it's time yet' for a deal: 'I think they'd love to make a deal, but I don't think they're ready to... I'm willing to listen.' He met earlier with advisers and Cabinet officials to weigh a potential escalation if negotiations fail.",
+    "source": "https://www.cnn.com/2026/07/25/world/live-news/iran-war-trump",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "WSJ: Bahrain and Kuwait launch airstrikes on Iran; UAE gives air cover",
+    "direction": "Escalating",
+    "description": "Bahrain and Kuwait sent warplanes to strike drone and missile-storage depots inside Iran in retaliation for repeated Iranian attacks on their territory, the Wall Street Journal reported, with the UAE providing intelligence and 'defensive air cover' for the operations. The direct entry of two more Gulf states into the fighting marked a significant broadening of the war; the UAE and Saudi Arabia had struck Iran in the war's early days, with Abu Dhabi mounting dozens of attacks. The reported strikes came hours after Iran drone-attacked US facilities in Bahrain and Jordan.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-and-bahrain-launch-air-strikes-iran-report",
+    "actor": "Bahrain|Kuwait"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Trump says China and Russia staying out of war, citing Xi and Putin pledges",
+    "direction": "Neutral",
+    "description": "President Trump said he did not believe China or Russia were arming Iran, contradicting Defense Secretary Pete Hegseth's July 22 Senate testimony that both were 'enabling' Tehran. Trump said Xi Jinping told him in Beijing he 'would not, under any circumstances, give or sell Weapons to the Islamic Republic of Iran,' and that Putin had made a similar pledge, adding 'I take him at his word.' 'Two major Countries that people speak of often in terms of Iran are, in my opinion, not participating. If they did, it would be very bad for them,' Trump said.",
+    "source": "https://www.washingtontimes.com/news/2026/jul/24/trump-maintains-china-russia-staying-iran-war-citing-relationship-xi/",
+    "actor": "US"
+  },
+  {
     "date": "2026-07-24",
     "title": "US completes 13th straight night of strikes; blasts across southern Iran",
     "direction": "Escalating",
