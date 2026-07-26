@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-07-26",
+    "title": "US strike pause extends to second night as US-Iran talks gain momentum",
+    "direction": "De-escalating",
+    "description": "US forces did not strike Iran overnight for a second consecutive night, extending the first sustained pause since the campaign resumed after 13 straight nights of bombing. The Associated Press reported both sides want to return to the interim ceasefire, with negotiators discussing a compromise letting Iran oversee vessel transit through the Strait of Hormuz under fewer restrictions. Iran's Foreign Ministry said weekend technical talks with an Omani delegation in Tehran on safe Hormuz passage had made progress. Trump denied election pressure was driving him: 'I'm not in a hurry. We have to do it right,' while keeping military options open.",
+    "source": "https://www.ksat.com/news/world/2026/07/26/airstrikes-have-paused-and-talks-are-pressing-forward-but-can-the-us-and-iran-take-the-off-ramp/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Ukraine strikes Iranian cargo vessel in Caspian Sea, killing a sailor",
+    "direction": "Escalating",
+    "description": "Ukraine's SBU security service said it struck an Iranian vessel transporting military cargo between Iran and Russia in the Caspian Sea early Saturday, and Iran's Foreign Ministry said the explosion killed one crew member and wounded another. President Zelensky said Ukraine had achieved 'very strong results with long-range strikes in the Caspian Sea — including vessels used in military cargo shipments involving Iran, as well as a warship.' Tehran condemned the attack as 'an act of aggression' and a breach of the UN Charter, summoned Ukraine's charge d'affaires, and warned it would 'not hesitate to defend its national interests.'",
+    "source": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Saudi Arabia strikes Houthi-held Hodeidah port and telecom in Red Sea reprisal",
+    "direction": "Escalating",
+    "description": "Saudi Arabia said its coalition forces struck Houthi targets in Yemen in retaliation for the Iran-backed group's drone-and-missile attacks on two Saudi oil tankers in the Red Sea days earlier. Strikes hit the Red Sea city of Hodeidah, targeting its port and the state-run telecommunications corporation, injuring two people according to the Houthi-run health ministry. The direct Saudi assault on Yemen marked a widening of the war's second front over Red Sea and Bab el-Mandeb shipping.",
+    "source": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Houthis fire missiles and drones at Saudi Arabia after Hodeidah strikes",
+    "direction": "Escalating",
+    "description": "Yemen's Iran-backed Houthis said Saturday they had fired missiles and drones at Saudi Arabia in response to Saudi airstrikes on the Red Sea city of Hodeidah. The exchange followed the Houthis' declared maritime blockade of Saudi ports and their attacks on the tankers Encelia and Layla, and marked the first open Saudi-Houthi missile exchange since the group opened its Red Sea front in the Iran war.",
+    "source": "https://www.nbcnews.com/world/middle-east/yemens-houthis-fire-missiles-drones-saudi-arabia-response-strikes-rcna589200",
+    "actor": "Other"
+  },
+  {
     "date": "2026-07-25",
     "title": "US pauses strikes for first time in two weeks; Trump says 'not time yet' for deal",
     "direction": "De-escalating",
