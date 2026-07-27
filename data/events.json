@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-07-26",
+    "title": "Houthis strike Saudi Aramco's Jizan refinery and Yanbu oil hub; Greek Patriot intercepts 2 missiles",
+    "direction": "Escalating",
+    "description": "Yemen's Iran-backed Houthis fired missiles and drones at two of Saudi Arabia's most important Red Sea oil installations, Aramco's Jizan refinery and the Yanbu export terminal, in a sharp escalation of the war's second front. Houthi military spokesman Yahya Saree claimed the strikes; a large smoke column rose over Jizan, while a Greek-operated Patriot battery stationed in Saudi Arabia intercepted two ballistic missiles aimed at Yanbu, the kingdom's principal western export hub. The assault on land-based Saudi oil infrastructure, following the Houthis' declared blockade and earlier tanker attacks, raised fears that a combined shutdown of Bab el-Mandeb and Hormuz would inflict major global economic damage.",
+    "source": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities",
+    "actor": "Iran|Saudi Arabia"
+  },
+  {
+    "date": "2026-07-26",
+    "title": "Pentagon revises US war toll to 18 killed, 624 wounded amid transparency questions",
+    "direction": "Neutral",
+    "description": "The Pentagon updated its Defense Casualty Analysis System on Saturday, adding more than 140 wounded and restoring four soldiers killed by Iranian strikes the prior week, bringing the US toll for Operation Epic Fury to 18 killed and 624 wounded since Feb. 28 — a steep rise from the previous peak of 482 wounded observed by CNN a week earlier. The database also added a new 'Overseas Operations' category counting casualties 'starting July 7,' the date Trump told Congress a new conflict with Iran began. The Pentagon did not explain what the category covers, and critics said the shifting accounting obscured the war's real cost.",
+    "source": "https://www.cnn.com/2026/07/26/politics/iran-war-casualties",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-26",
+    "title": "US gas prices hit $4.11 a gallon, up 38% since the war began",
+    "direction": "Escalating",
+    "description": "The US national average gasoline price reached about $4.11 a gallon over the weekend, up roughly 11 cents from a week earlier and some 38% higher than before the war began in late February, as the effective closure of the Strait of Hormuz and Houthi attacks on Red Sea shipping squeezed global crude supplies. Brent had topped $100 a barrel earlier in the week for the first time since May, feeding inflation fears and stagflation warnings across import-dependent economies.",
+    "source": "https://gulfnews.com/world/mena/us-iran-conflict-apparent-airstrike-pause-as-oman-talks-advance-on-strait-of-hormuz-1.500620344",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-26",
     "title": "US strike pause extends to second night as US-Iran talks gain momentum",
     "direction": "De-escalating",
     "description": "US forces did not strike Iran overnight for a second consecutive night, extending the first sustained pause since the campaign resumed after 13 straight nights of bombing. The Associated Press reported both sides want to return to the interim ceasefire, with negotiators discussing a compromise letting Iran oversee vessel transit through the Strait of Hormuz under fewer restrictions. Iran's Foreign Ministry said weekend technical talks with an Omani delegation in Tehran on safe Hormuz passage had made progress. Trump denied election pressure was driving him: 'I'm not in a hurry. We have to do it right,' while keeping military options open.",
