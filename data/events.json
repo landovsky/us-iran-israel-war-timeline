@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-28",
+    "title": "Iran publicly executes 2 January protesters in Isfahan",
+    "direction": "Escalating",
+    "description": "Iran hanged Amirhossein Safari and Abolfazl Sepahi at dawn in Isfahan's Alikhani Square, according to judiciary news agency Mizan, which accused the pair of killing four security personnel and committing arson during the January 2026 protests. Heavy security ringed the square overnight and witnesses reported clashes between guards and gathered crowds; the two were the third and fourth hanged in the same case after two others on July 19, with eight co-defendants still under death sentence. UN experts said the mass hearing that condemned 12 people at once 'violates established fair trial standards,' as Tehran fast-tracks capital cases amid the war.",
+    "source": "https://www.iranintl.com/en/202607289410",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Netanyahu meets Trump as Oman-brokered Hormuz deal nears decision",
+    "direction": "De-escalating",
+    "description": "Prime Minister Benjamin Netanyahu, who landed in Washington on July 27, met President Trump to weigh a tentative arrangement to reopen the Strait of Hormuz brokered by Oman. Under the proposal, Iran would run vessel transit through the strait with fewer restrictions in exchange for voluntary transit fees paid to Tehran, a mechanism Gulf sources told Reuters has regional backing. Mediators said they were close to reviving the June memorandum of understanding but awaited a final decision from Trump after the Netanyahu meeting; officials cautioned the strait deal was not intended to end the wider US-Iran war.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-07-28/live-updates-903852",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "Iran FM says no negotiations with US, rejects US 'timing of war and peace'",
+    "direction": "Neutral",
+    "description": "Iranian Foreign Ministry spokesman Esmaeil Baqaei told a weekly briefing that Tehran is 'not engaged in any negotiations with the United States,' despite the pause in fighting, and that Iran 'will never allow the United States to determine the timing of war and peace.' Baqaei said Iran's only active track is talks with Oman over the Strait of Hormuz. His statement tempered Trump's claim of 'very friendly negotiations,' underscoring that the halt in strikes since early Saturday rested on indirect mediation rather than any direct US-Iran channel.",
+    "source": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "Trump says he paused strikes at Iran's request, warns they will resume",
+    "direction": "Neutral",
+    "description": "Trump said the US halted its 13-day bombing campaign over the weekend at the request of Iran's regime to give diplomacy 'space,' but warned that attacks would resume if the two sides failed to reach a new ceasefire deal. US ambassador to the UN Mike Waltz said the pause was meant to let talks develop. The comments came as mediators from Pakistan, Egypt and Qatar circulated proposals on Hormuz control, with a Trump administration official calling the Iran track 'a serious stage.'",
+    "source": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "Oil plunges 8.7% on US-Iran pause, biggest drop since April",
+    "direction": "De-escalating",
+    "description": "Brent crude fell 8.7% to close around $88 a barrel, its biggest one-day drop since April 17, while WTI for September delivery sank 7.5% to settle at $82.61, after the US suspended air strikes and Iran said it had halted retaliation and was talking to Oman about the Strait of Hormuz. Traders read the pause as raising the odds shipping could resume through the strait. Supply relief was compounded by crude loadings restarting at the Caspian Pipeline Consortium terminal on Russia's Black Sea coast, which Ukrainian drones had recently disrupted.",
+    "source": "https://www.rigzone.com/news/wire/brent_tumbles_nearly_9_on_diplomacy-27-jul-2026-184226-article/",
+    "actor": "Other"
+  },
+  {
     "date": "2026-07-26",
     "title": "Houthis strike Saudi Aramco's Jizan refinery and Yanbu oil hub; Greek Patriot intercepts 2 missiles",
     "direction": "Escalating",
