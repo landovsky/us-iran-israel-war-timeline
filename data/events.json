@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-29",
+    "title": "Oil reverses, jumps toward $88 after Iran's surprise attack ends 3-day rout",
+    "direction": "Escalating",
+    "description": "Brent crude climbed more than 4% to near $88 a barrel after Iran's ballistic-missile attack on US forces in Jordan reignited fears of wider disruption, snapping a three-session slide of roughly 16% that had been the steepest since 2020. The reversal began late July 28 when US oil futures turned higher after CENTCOM announced the interception, with WTI up 4.4% to $82.73. The whipsaw erased much of the optimism from earlier in the week, when signs of a US-Iran pause had driven Brent down 8.7% in a single day.",
+    "source": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Iran fires ballistic missiles at US forces in Jordan; CENTCOM intercepts all",
+    "direction": "Escalating",
+    "description": "The IRGC launched multiple ballistic missiles at US military targets in Jordan at about 5:45 p.m. ET, in what CENTCOM called an 'attempted surprise attack.' US forces intercepted every missile with no casualties, and Jordan's army said it shot down five missiles at dawn. It was Iran's first ballistic-missile attack on a US base since Trump paused strikes five days earlier to give diplomacy space, ending a brief lull. CENTCOM warned that 'the IRGC and its terrorist proxies must cease these attacks to avoid further U.S. military response.'",
+    "source": "https://www.cnn.com/2026/07/28/world/live-news/iran-trump-news",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "US and Saudi jets strike Iran-backed militias in eastern Iraq; 10 PMF killed",
+    "direction": "Escalating",
+    "description": "US and Saudi fighter aircraft struck terrorist logistics and weapons sites across eastern Iraq in a joint operation CENTCOM called a 'strong response' to more than 30 IRGC-directed drone attacks on US forces and Saudi energy infrastructure over 72 hours. Iraq's Popular Mobilisation Forces said at least 10 of its members were killed and four wounded. It was the first US military action during the five-day pause in direct strikes on Iran, and marked Saudi Arabia's deepest combat involvement after long resisting being pulled fully into the war; Riyadh's defense ministry said it 'conducted precise and targeted strikes.'",
+    "source": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4558191/us-saudi-forces-strike-iran-backed-terrorist-sites-in-iraq/",
+    "actor": "US|Saudi Arabia"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Reuters: Iran to receive up to 400 Chinese shoulder-fired air-defense missiles",
+    "direction": "Escalating",
+    "description": "Iran is expected within weeks to receive the first shipment of up to 400 Chinese-made man-portable air-defense systems, including QW-12 and FN-16 infrared-guided missiles, in a $60-70 million deal Reuters sources called one of Tehran's largest efforts to bolster short-range air defenses since the war began. The contract was signed with Zhongqing Baoshang International Investment, a Hong Kong intermediary. The mobile launchers are designed to down low-flying aircraft, helicopters and drones around military and energy sites. China's Foreign Ministry called the reports 'completely groundless.'",
+    "source": "https://www.usnews.com/news/world/articles/2026-07-28/exclusive-iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Yemeni FM: Houthis aim to replicate Iran's Hormuz control in the Red Sea",
+    "direction": "Escalating",
+    "description": "Yemen's Foreign Minister-designate Afrah Al-Zouba warned that the Houthis want to copy Iran's Strait of Hormuz strategy by choking shipping through the Bab el-Mandeb and have declared a blockade on Saudi vessels, emboldened by an insufficient international response. 'The Houthis want to copy the Iranian model and this will shut down two main straits, the gateways into the Gulf and Red Sea,' she said. The warning followed days of Houthi missile and drone strikes on Saudi oil facilities and Saudi reprisal airstrikes on Hodeidah, opening a second maritime front in the US-Iran war.",
+    "source": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm",
+    "actor": "Other"
+  },
+  {
     "date": "2026-07-28",
     "title": "Iran publicly executes 2 January protesters in Isfahan",
     "direction": "Escalating",
