@@ -1,10 +1,50 @@
 [
   {
     "date": "2026-07-29",
-    "title": "Oil reverses, jumps toward $88 after Iran's surprise attack ends 3-day rout",
+    "title": "US strikes dozens of IRGC targets in 'heavy wave' after Iran's Jordan attack",
     "direction": "Escalating",
-    "description": "Brent crude climbed more than 4% to near $88 a barrel after Iran's ballistic-missile attack on US forces in Jordan reignited fears of wider disruption, snapping a three-session slide of roughly 16% that had been the steepest since 2020. The reversal began late July 28 when US oil futures turned higher after CENTCOM announced the interception, with WTI up 4.4% to $82.73. The whipsaw erased much of the optimism from earlier in the week, when signs of a US-Iran pause had driven Brent down 8.7% in a single day.",
-    "source": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29",
+    "description": "CENTCOM said it completed a 'heavy wave of strikes' against Iran at about 10 p.m. ET, hitting dozens of IRGC targets including military command centers, missile and drone facilities, coastal surveillance and defense sites, and maritime capabilities, in retaliation for Iran's intercepted ballistic-missile attack on US forces in Jordan a day earlier. Explosions were reported across southern Iran, including Bandar Abbas and the islands of Kish and Qeshm, where Iranian state broadcaster IRIB said a US missile struck a residential home and search-and-rescue teams were working. Trump had signaled the strikes hours earlier, telling reporters 'it's our turn to hit them' and telling Fox News that Iran 'is going to get a beating.'",
+    "source": "https://kvia.com/news/top-stories/2026/07/29/us-begins-retaliatory-strikes-against-iran/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "Iranian drone strikes US-owned LNG tanker at Egypt's Damietta port",
+    "direction": "Escalating",
+    "description": "A drone struck the US-owned floating storage and regasification unit Energos Winter at Egypt's Damietta port on the Mediterranean coast, igniting a fire that spread to a second vessel, the Gaslog Salem; no injuries were reported. British maritime security firm Ambrey assessed a drone strike as the likely cause, and two Iranian sources told The New York Times the attack was designed to show that global shipping and energy supplies could be more deeply disrupted if Tehran chose to escalate. It was the first strike on Egyptian territory in the war, opening a new front on the Mediterranean far from the Gulf and Red Sea theaters. Egypt's petroleum ministry confirmed a fire but made no mention of a drone.",
+    "source": "https://www.timesofisrael.com/drone-strikes-us-owned-gas-tanker-in-egyptian-port-in-possible-expansion-of-mideast-war/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "Netanyahu tells Trump he wants to wean Israel off US military aid",
+    "direction": "Neutral",
+    "description": "In a 90-minute White House meeting focused on Iran, Prime Minister Netanyahu told Trump he wants to phase out Israel's US military aid within a decade, saying 'I want to move from aid to partnership,' according to a senior Israeli official. Netanyahu proposed ending the $3.3 billion in annual Foreign Military Financing grants while keeping $500 million for missile defense, floated a $16 billion joint US-Israel weapons R&D fund, and said he had ordered Israeli officials to develop an independent fighter jet. On Iran he laid out three scenarios — a diplomatic deal, sanctions without war, or a major offensive — without endorsing one, as US retaliatory strikes on Iran got underway.",
+    "source": "https://www.timesofisrael.com/liveblog-july-29-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "Public executions of Isfahan protesters spark anti-regime demonstrations",
+    "direction": "Escalating",
+    "description": "The dawn hanging of two protesters in Isfahan's Alikhani Square triggered anti-regime demonstrations, with crowds that gathered near the execution site chanting slogans against police rather than dispersing. An online petition against the death sentences of 12 young men convicted over the January 2026 uprising drew about 500,000 signatures on Instagram within a day. UN human rights experts and Amnesty International demanded Tehran halt what Amnesty called an 'escalating campaign of arbitrary executions,' as the regime fast-tracks capital cases against protesters amid the war.",
+    "source": "https://www.france24.com/en/middle-east/20260729-iran-public-executions-isfahan-anti-regime-protests",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "Israel accuses Hezbollah of ceasefire breach in south Lebanon",
+    "direction": "Escalating",
+    "description": "The Israeli military accused Hezbollah of a 'blatant violation of the ceasefire agreement' over an attack on an Israeli engineering vehicle in southern Lebanon, while Lebanese state media reported Israeli forces setting fire to homes in Qantara. The exchange strained the June 1 truce, under which Israel pledged not to strike Beirut's southern suburbs and Hezbollah vowed to halt attacks, though both sides have continued operations. The cumulative Lebanese toll since fighting resumed on March 2 stood at at least 4,219 killed with more than 1.2 million displaced.",
+    "source": "https://www.timesofisrael.com/liveblog-july-29-2026/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "Oil surges back above $90 after Trump vows to hit Iran 'hard'",
+    "direction": "Escalating",
+    "description": "Brent crude jumped 7.9% to settle at $90.74 a barrel and US WTI rose 6.6% to $84.46 on July 29 after President Trump told Fox News that Iran 'is going to get a beating,' vowing to retaliate for Tehran's ballistic-missile attack on US forces in Jordan. The rally, which erased a three-session slide of roughly 16%, gained force through the day as Trump escalated his threats, cementing a reversal of the earlier optimism when signs of a US-Iran pause had driven Brent down 8.7% in a single session. The move followed CENTCOM's overnight interception of the Iranian missiles.",
+    "source": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
     "actor": "Other"
   },
   {
