@@ -1,9 +1,57 @@
 [
   {
+    "date": "2026-07-31",
+    "title": "Iran claims drone strike on US facilities at Kuwait's Al Jaber Air Base",
+    "direction": "Escalating",
+    "description": "Iran's army said it launched explosive drones at 'strategic' US facilities at Kuwait's Ahmed Al Jaber Air Base, claiming it hit fighter-aircraft hangars, satellite communication systems and equipment warehouses at what it called a 'key hub' for US aerial, surveillance and logistics operations. Tehran said the strike answered 'recent attacks by the terrorist US army' and 'the brutal attack on a residential building on Qeshm Island,' where the previous day's US 'heavy wave' killed a couple and their two-year-old child. There was no immediate comment from Kuwait or the US, and the Iranian claim was not independently verified.",
+    "source": "https://tribune.com.pk/story/2621290/irans-army-claims-drone-attack-on-us-facilities-at-kuwait-air-base",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "IDF destroys Hezbollah tunnel network under Beaufort Ridge with 700 tons of explosives",
+    "direction": "Escalating",
+    "description": "Israeli troops demolished a multi-level Hezbollah tunnel network beneath the Beaufort Ridge in southern Lebanon, detonating about 700 tons of explosives in a limited ground operation inside the security zone. The IDF said the two-decade-old, Iran-funded complex served as a Hezbollah command center for directing attacks on Israeli forces and civilians, and that Hezbollah had planned to use it to infiltrate communities in the Galilee. Netanyahu and Defense Minister Israel Katz cast the demolition as a response to Hezbollah's 'blatant' ceasefire violation a day earlier, when an explosive drone struck an Israeli engineering vehicle.",
+    "source": "https://www.timesofisrael.com/idf-demolishes-hezbollah-tunnels-below-southern-lebanons-beaufort-ridge/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Saudi Arabia launches 14-nation maritime defense alliance for Red Sea",
+    "direction": "Neutral",
+    "description": "Saudi Arabia announced a new multinational maritime defense alliance to protect shipping in the Bab al-Mandeb Strait, the Red Sea and the Gulf of Aden, after hosting a Riyadh meeting attended by military representatives from 43 of 51 invited countries plus the EU. Fourteen states signed on — Saudi Arabia, Kuwait, Bahrain, Qatar, Jordan, Egypt, Turkey, Pakistan, Yemen, Bangladesh, Sudan, Djibouti, Somalia and Comoros — with Riyadh serving as founding leader and permanent headquarters; the UAE and Oman notably did not join. Officials called the pact 'purely defensive' and not aimed at any state, framing it as a response to the Houthi maritime blockade declared on Saudi Arabia on July 20.",
+    "source": "https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Trump announces agreement for 'complete disarmament' of Hamas in Gaza",
+    "direction": "De-escalating",
+    "description": "President Trump announced that his Board of Peace, with mediators Egypt, Qatar and Turkey, had reached an agreement for the 'COMPLETE DISARMAMENT of Hamas and all other armed groups in Gaza,' to be carried out in phases alongside a staged Israeli withdrawal. A detailed disarmament roadmap is to be prepared within 14 days, subject to an international verification body, after which an International Stabilization Force would work with a new Palestinian police force. Hamas had not formally responded and Israeli officials voiced skepticism that Hamas would surrender its weapons, marking a rare de-escalation signal on the Gaza front as the wider Iran war intensified.",
+    "source": "https://www.cnn.com/2026/07/30/politics/hamas-disarmament-agreement-trump-board-of-peace",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Saudi forces reposition for ground offensive against Houthis in al-Bayda",
+    "direction": "Escalating",
+    "description": "Saudi forces began repositioning from eastern Yemen to prepare a ground offensive into the Houthi-held al-Bayda governorate, expanding the kingdom's campaign against the Iran-backed group beyond air strikes. The move followed days of Houthi missile and drone attacks on Saudi oil facilities and the group's declared maritime blockade, and came as Riyadh rallied international partners around its new Red Sea defense alliance. The escalation opened the prospect of a direct Saudi land war in Yemen tied to the broader US-Iran conflict.",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-donald-trump-strikes-july-30-2026",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Oil retreats about 2% as Saudi naval coalition and steadier Hormuz traffic calm markets",
+    "direction": "De-escalating",
+    "description": "Brent crude fell nearly 2% to settle at $89.03 a barrel and US WTI slid about 1% to $83.59 on July 30, partly reversing the prior session's 8% spike, after Saudi Arabia proposed a multinational naval coalition to protect Red Sea shipping and tankers continued transiting the Gulf. Fourteen commodity vessels crossed the Strait of Hormuz in both directions on Wednesday, up from single-digit daily crossings the prior week, easing supply fears even as traffic stayed below a tenth of pre-war levels. Despite the pullback, oil was still headed for its biggest monthly gain since March, up roughly 21%.",
+    "source": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
+    "actor": "Other"
+  },
+  {
     "date": "2026-07-29",
     "title": "US strikes dozens of IRGC targets in 'heavy wave' after Iran's Jordan attack",
     "direction": "Escalating",
-    "description": "CENTCOM said it completed a 'heavy wave of strikes' against Iran at about 10 p.m. ET, hitting dozens of IRGC targets including military command centers, missile and drone facilities, coastal surveillance and defense sites, and maritime capabilities, in retaliation for Iran's intercepted ballistic-missile attack on US forces in Jordan a day earlier. Explosions were reported across southern Iran, including Bandar Abbas and the islands of Kish and Qeshm, where Iranian state broadcaster IRIB said a US missile struck a residential home and search-and-rescue teams were working. Trump had signaled the strikes hours earlier, telling reporters 'it's our turn to hit them' and telling Fox News that Iran 'is going to get a beating.'",
+    "description": "CENTCOM said it completed a 'heavy wave of strikes' against Iran at about 10 p.m. ET, hitting dozens of IRGC targets including military command centers, missile and drone facilities, coastal surveillance and defense sites, and maritime capabilities, in retaliation for Iran's intercepted ballistic-missile attack on US forces in Jordan a day earlier. Explosions were reported across southern Iran, including Bandar Abbas and the islands of Kish and Qeshm, where Iranian state broadcaster IRIB said a US missile struck a residential home and search-and-rescue teams were working. Iran's IRNA later said the Qeshm strike killed three people — a couple and their two-year-old child — while three IRGC members were killed in strikes on northern Zanjan province. Trump had signaled the strikes hours earlier, telling reporters 'it's our turn to hit them' and telling Fox News that Iran 'is going to get a beating.'",
     "source": "https://kvia.com/news/top-stories/2026/07/29/us-begins-retaliatory-strikes-against-iran/",
     "actor": "US"
   },
