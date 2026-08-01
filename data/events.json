@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-01",
+    "title": "US plans fresh strikes on Iran 'this weekend'; Trump vows to hit 'very hard'",
+    "direction": "Escalating",
+    "description": "Two US officials told CNN the US is planning fresh strikes on Iran as soon as this weekend as Trump seeks to force a resolution, though the scope and targets were unclear and both cautioned the strikes could be called off. At a Cabinet meeting Trump previewed a renewal of heavy bombardment while venting frustration at stalled diplomacy, saying 'We will be hitting them very hard.' CENTCOM has readied options including a two-week bombardment of Iran's missile sites, strikes on energy infrastructure, and plans targeting nuclear sites including the Pickaxe Mountain complex south of Tehran. White House press secretary Karoline Leavitt said the president would not 'stand by and allow this terrorist behavior to occur' and that 'Iran will continue to pay until they come to the table' in a meaningful way.",
+    "source": "https://www.cnn.com/2026/08/01/world/live-news/iran-war-trump",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Iran extends drone barrage to US's Sheikh Isa Air Base in Bahrain",
+    "direction": "Escalating",
+    "description": "Iran's army said it struck US military facilities at Sheikh Isa Air Base in southern Bahrain with drones, targeting power generators, navigation systems and support buildings, in coordinated retaliation for the previous night's US 'heavy wave' on Iran. The Bahrain strike accompanied simultaneous IRGC drone attacks on US bases in Kuwait and at Al-Azraq in Jordan; Kuwait's armed forces said an Iranian missile had killed one worker at a Chinese-owned building in the north of the country. Neither the US nor Bahrain confirmed damage, and the Iranian claims were not independently verified.",
+    "source": "https://www.newkerala.com/news/a/iranian-army-says-struck-us-assets-bahrains-sheikh-520.htm",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Tanker struck by 'unknown projectile' off Oman at mouth of Hormuz",
+    "direction": "Escalating",
+    "description": "A tanker was hit by an unknown projectile about 11 nautical miles northeast of Lima on Oman's Musandam Peninsula, at the southern entrance to the Strait of Hormuz, damaging its engine room and leaving it 'not under command,' the UK Maritime Trade Operations agency said; no casualties or pollution were reported. A second incident followed the same day roughly 21 nautical miles northeast of Khasab, where an explosion was reported near a tanker without damage. UKMTO did not attribute the strikes, which came amid escalating US-Iran hostilities around the world's most important oil chokepoint.",
+    "source": "https://www.arabnews.com/node/2652982/middle-east",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Hamas agrees to Gaza disarmament deal; Israel balks at sequencing",
+    "direction": "De-escalating",
+    "description": "Hamas said it reached an agreement with Trump's Board of Peace to hand its weapons to a new Palestinian National Committee and end the war, with a disarmament roadmap to be finalized within 14 days under an international verification body alongside a phased Israeli withdrawal. Trump called it 'a critical step towards Gaza finally being governed by a new Palestinian government that will work closely with the Board of Peace.' Israel pushed back on the sequencing, with one official saying there would be no withdrawal until Hamas undergoes 'genuine disarmament' and another minister branding the deal 'unacceptable'; the FDD noted the IDF had logged 32 Gaza ceasefire violations between July 10 and 31.",
+    "source": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know",
+    "actor": "US"
+  },
+  {
     "date": "2026-07-31",
     "title": "Iran claims drone strike on US facilities at Kuwait's Al Jaber Air Base",
     "direction": "Escalating",
