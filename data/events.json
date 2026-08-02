@@ -1,9 +1,73 @@
 [
   {
+    "date": "2026-08-02",
+    "title": "Trump cancels planned Iran attack, says 'perimeters of a deal' agreed",
+    "direction": "De-escalating",
+    "description": "Trump posted on Truth Social at 10:21pm EDT Saturday (02:21 GMT Sunday) that he had agreed 'to cancel the attack, subject to being able to rapidly make a DEAL,' calling off the energy-infrastructure bombing campaign the Pentagon had readied for the weekend. He said the framework covers the 'Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat,' and that 'Israel has agreed to join the U.S. in the commitment to try to complete the agreement with Iran.' Trump said Iran and other Middle Eastern governments had asked him to hold off; no Iranian confirmation of any agreed terms followed.",
+    "source": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "Saudi crown prince phones Trump to argue against striking Iran's infrastructure",
+    "direction": "De-escalating",
+    "description": "Crown Prince Mohammed bin Salman called Trump at about 9:25pm EDT Saturday (01:25 GMT Sunday), roughly an hour before the cancellation post, to press him not to bomb Iranian infrastructure and to seek clarity on what Washington intended, CBS News reported. The call capped a week of Saudi lobbying in which MBS sent his brother, Defence Minister Khalid bin Salman, to Washington for talks with Trump and Vice President JD Vance. Qatar, the UAE, Turkey and Pakistan also pushed both capitals to de-escalate.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base/",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "Israeli strikes kill 8 in Gaza a day after Hamas disarmament roadmap",
+    "direction": "Escalating",
+    "description": "Israeli forces killed at least eight Palestinians on Sunday in strikes on homes in Deir el-Balah, Khan Younis and Gaza City's Old City, Gaza's civil defence said; a helicopter strike on an apartment south of Deir el-Balah killed a man and a woman. It was the second straight day of attacks after Saturday's strikes, which killed seven and destroyed a medical supply warehouse, leaving a crater 20 by 10 metres. Israel has given no commitment to halt operations under the Board of Peace's 15-point roadmap; Hamas says it will surrender weapons only after Israel stops fighting and withdraws, while National Security Minister Itamar Ben-Gvir called the deal 'unacceptable.'",
+    "source": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "Kuwait downs Iranian drones over Bubiyan Island; debris damages government site",
+    "direction": "Escalating",
+    "description": "Kuwait's armed forces detected and destroyed an incursion of Iranian drones at dawn Saturday, defence ministry spokesman Colonel Saud Al-Atwan said, after they targeted a government facility in the north of the country and civilian company equipment on Bubiyan Island. 'Debris from the intercepted drones caused property damage, but there were no casualties,' Al-Atwan said. Kuwait's foreign ministry called the attacks a 'blatant violation' of its sovereignty and of UN Security Council Resolution 2817, the third consecutive night Iranian drones have reached Kuwaiti airspace.",
+    "source": "https://tass.com/world/2167955",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "Iran warns Gulf hosts of US bases they 'will burn in the fire of war'",
+    "direction": "Escalating",
+    "description": "Major General Ali Abdollahi, head of Iran's wartime military command, said 'the United States is moving at an accelerating pace to fan the flames of a full-scale regional war' and warned that 'any country that makes itself a defensive shield for criminal, aggressor America will burn in the fire of war.' Foreign Minister Abbas Araghchi told regional counterparts by phone that any 'hostile action by the US or Israel — or participation or cooperation by regional countries in such actions — would be met with a decisive and proportionate response.' Supreme National Security Council secretary Mohammad Bagher Zolghadr added that 'the global economy, and US energy market and voters will pay the price' for continued strikes and the naval blockade.",
+    "source": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "Israel raises alert to highest level, expects Iranian missiles even if it stays out",
+    "direction": "Escalating",
+    "description": "Israel went to its highest state of alert ahead of the expected US offensive, with officials telling Channel 12 that Iran would fire ballistic missiles at Israel even if the IDF did not join the opening wave. 'We are very close to a decision point,' an Israeli official said. The IDF issued no public statement and Home Front Command left civilian restrictions unchanged; a separate Israeli official told CBS News that 'Israel is unaware of a decision to restart full military operations, nor has been requested of Israel to join any military actions against Iran,' contradicting US sources who said Israel was being kept informed and coordinating.",
+    "source": "https://www.timesofisrael.com/liveblog-august-01-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "State Department tells Americans across Middle East to prepare to depart",
+    "direction": "Escalating",
+    "description": "US embassies from Jerusalem to Riyadh, Abu Dhabi and Dubai issued simultaneous security alerts telling Americans in the region to consider departing now or be ready to leave if fighting escalates, and to expect flight cancellations and periodic airspace closures. The advisory told Americans outside the region to seriously reconsider travel to or through it, citing an 'unpredictable' Iranian regime that has expanded attacks to countries not previously targeted, including Egypt. Several regional airlines postponed the resumption of normal schedules or cancelled routes outright.",
+    "source": "https://edition.cnn.com/2026/08/01/world/live-news/iran-war-trump",
+    "actor": "US"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Guterres says region 'cannot afford more war', demands Hormuz reopening",
+    "direction": "De-escalating",
+    "description": "UN Secretary-General Antonio Guterres, wrapping up visits to Syria, Jordan and Cyprus, said 'the region — and the world — cannot afford more war' and called for fighting to stop on all fronts. He said a regional conflict had become a driver of global instability, disrupting trade through the Strait of Hormuz, raising food and energy prices and increasing the risk of hunger worldwide. Guterres demanded that navigational rights be fully restored in both the Strait of Hormuz and Bab al-Mandab, where Houthi forces have blockaded Saudi-linked shipping.",
+    "source": "https://news.un.org/en/story/2026/07/1168062",
+    "actor": "Other"
+  },
+  {
     "date": "2026-08-01",
     "title": "US plans fresh strikes on Iran 'this weekend'; Trump vows to hit 'very hard'",
     "direction": "Escalating",
-    "description": "Two US officials told CNN the US is planning fresh strikes on Iran as soon as this weekend as Trump seeks to force a resolution, though the scope and targets were unclear and both cautioned the strikes could be called off. At a Cabinet meeting Trump previewed a renewal of heavy bombardment while venting frustration at stalled diplomacy, saying 'We will be hitting them very hard.' CENTCOM has readied options including a two-week bombardment of Iran's missile sites, strikes on energy infrastructure, and plans targeting nuclear sites including the Pickaxe Mountain complex south of Tehran. White House press secretary Karoline Leavitt said the president would not 'stand by and allow this terrorist behavior to occur' and that 'Iran will continue to pay until they come to the table' in a meaningful way.",
+    "description": "Two US officials told CNN the US is planning fresh strikes on Iran as soon as this weekend as Trump seeks to force a resolution, though the scope and targets were unclear and both cautioned the strikes could be called off. At a Cabinet meeting Trump previewed a renewal of heavy bombardment while venting frustration at stalled diplomacy, saying 'We will be hitting them very hard.' CENTCOM has readied options including a two-week bombardment of Iran's missile sites, strikes on energy infrastructure, and plans targeting nuclear sites including the Pickaxe Mountain complex south of Tehran. White House press secretary Karoline Leavitt said the president would not 'stand by and allow this terrorist behavior to occur' and that 'Iran will continue to pay until they come to the table' in a meaningful way. CBS News reported that planners weighed cutting electricity across Tehran and wanted the campaign concluded before financial markets opened Monday.",
     "source": "https://www.cnn.com/2026/08/01/world/live-news/iran-war-trump",
     "actor": "US"
   },
