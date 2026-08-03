@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-08-03",
+    "title": "Iran hangs 2 men convicted of passing military coordinates to Mossad",
+    "direction": "Escalating",
+    "description": "Iran executed Omid Behzad and Pouria Safvat at dawn Monday after judiciary outlet Mizan and state media Fars said they were convicted of transmitting coordinates of military, police and security sites to Mossad-linked channels during the war. Fars reported Behzad used mapping apps to locate sites and forward coordinates while Safvat sent geolocation data via an overseas satellite network; the judiciary said the 'death sentences were carried out at dawn after legal proceedings, Supreme Court approval and the rejection of clemency requests.' Israel did not comment, and confessions published by Iranian state media in such cases cannot be independently verified.",
+    "source": "https://www.ynetnews.com/article/rjsrlophzg",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "Iran: Hormuz talks with Oman in 'final stages,' but strait won't return to pre-war status",
+    "direction": "Neutral",
+    "description": "Iranian Foreign Minister Abbas Araghchi said Sunday that negotiations with Oman over managing transit through the Strait of Hormuz are in their 'final stages,' even as foreign ministry spokesman Esmail Baghaei insisted the waterway 'will in no way return to the status it was before February 28th.' The dual messaging signaled Tehran is willing to restore some navigational access through the Oman channel while resisting Washington's demand for full, unconditional reopening as a precondition for ending US strike threats.",
+    "source": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "Trump says US-Iran talks to begin Monday, sets no deadline for Hormuz deal",
+    "direction": "De-escalating",
+    "description": "Trump said aboard Air Force One that talks with Iran on a deal to reopen the Strait of Hormuz would begin Monday afternoon, a day after he called off a planned bombing campaign on Iran's energy infrastructure. 'We're talking to them in the form of a negotiation. It begins tomorrow afternoon, and we'll see if it's good,' he said, declining to set any deadline for an agreement, and added, 'I'm not looking to kill people because people die, a lot of people die.' Gulf allies Saudi Arabia, Qatar and the UAE had lobbied him to hold off on the new strikes.",
+    "source": "https://www.spokesman.com/stories/2026/aug/02/trump-holds-off-iran-strikes-on-pledge-a-hormuz-de/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "Gaza death toll from Israeli strikes rises to 18; minister threatens 'full control'",
+    "direction": "Escalating",
+    "description": "The Palestinian death toll from Israeli strikes across Gaza on Sunday rose to at least 18, medics said, with deaths reported in Deir al-Balah, Mawasi near Khan Younis — where a couple and their nine-year-old son were killed in a house strike — Gaza City's Zeitoun neighborhood and near Saraya Square, and Jabalia. Israeli Energy Minister Eli Cohen told Army Radio there was 'no deal to halt attacks on Gaza,' saying Hamas 'must be dismantled' and that Israel, which he said already controls 70% of the territory, would need to 'take full control of it' if Hamas does not disarm.",
+    "source": "https://www.al-monitor.com/originals/2026/08/israeli-strikes-kill-18-gaza-minister-says-no-deal-halt-attacks",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-08-02",
     "title": "Trump cancels planned Iran attack, says 'perimeters of a deal' agreed",
     "direction": "De-escalating",
