@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-08-03",
+    "title": "Trump warns Iran of 'last chance' to sign deal; Tehran denies talks underway",
+    "direction": "Escalating",
+    "description": "Trump said from the Oval Office Iran is facing its \"last chance\" to reach a deal to reopen the Strait of Hormuz and end the war, claiming talks were underway \"at the request of Iran, backed by Saudi Arabia... UAE and... Qatar.\" Iran's government continued to deny any direct negotiations with Washington were taking place. Aboard Air Force One, Trump added: \"nothing gets through to Iran, unless we want it to, and nothing will get through, unless a deal, or total surrender, is accomplished.\"",
+    "source": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "CENTCOM: Iran blockade has redirected 44 vessels, disabled 2, boarded 2",
+    "direction": "Escalating",
+    "description": "U.S. Central Command said that as of Aug. 3 it had redirected 44 commercial vessels attempting to enter or leave Iranian ports since resuming the naval blockade, disabling two vessels and boarding two others. The tally is up from 30 vessels redirected on Aug. 1, reflecting intensified enforcement of the blockade reinstated in mid-July.",
+    "source": "https://x.com/CENTCOM/status/2084317815847178361",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "Pentagon signs $3B+ deals with Northrop, Lockheed to surge interceptor output",
+    "direction": "Escalating",
+    "description": "The Pentagon reached framework agreements with Northrop Grumman worth over $3 billion — $2B for rocket motors and safety devices, $1B for THAAD components — aiming to quadruple THAAD interceptor production and triple PAC-3 Patriot missile output. Northrop is doubling solid rocket motor capacity at its Utah facilities and expanding its Elkton, Maryland plant by 25%, citing stockpile strain from the war.",
+    "source": "https://www.upi.com/Top_News/US/2026/08/03/Pentagon-inks-new-missile-deals-with-Lockheed-Martin-Northrop-Grumman/9681785773683/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "IDF kills Islamic Jihad commander who held hostage Rom Braslavski",
+    "direction": "Escalating",
+    "description": "The IDF said it killed Mahmoud Fatair, a commander in Palestinian Islamic Jihad's Nukhba force, in a strike in Deir al-Balah, central Gaza. Fatair infiltrated Israel on Oct. 7, 2023 and helped hold Israeli hostage Rom Braslavski in captivity, and was later filmed in Islamic Jihad uniform during the November 2023 hostage-release handovers. The IDF said Fatair had recently been planning attacks on Israeli civilians and troops.",
+    "source": "https://www.jpost.com/israel-news/article-904464",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "Iran cancels planned strikes on Ukraine after Kyiv apology for Caspian ship attack",
+    "direction": "De-escalating",
+    "description": "Khamenei adviser Mohsen Rezaee said Iran had been \"set to strike three sites in Ukraine\" in retaliation for Ukraine's July 25 drone strike on an Iranian cargo vessel in the Caspian Sea that killed one sailor, but canceled the attack after Ukrainian Foreign Minister Andrey Sibiga told Iran's Araghchi the strike was unintentional. Rezaee warned \"even if it was a mistake... there will still be consequences.\"",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-plan-attack-ukraine-canceled-after-kyiv-apology",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-03",
     "title": "Iran hangs 2 men convicted of passing military coordinates to Mossad",
     "direction": "Escalating",
     "description": "Iran executed Omid Behzad and Pouria Safvat at dawn Monday after judiciary outlet Mizan and state media Fars said they were convicted of transmitting coordinates of military, police and security sites to Mossad-linked channels during the war. Fars reported Behzad used mapping apps to locate sites and forward coordinates while Safvat sent geolocation data via an overseas satellite network; the judiciary said the 'death sentences were carried out at dawn after legal proceedings, Supreme Court approval and the rejection of clemency requests.' Israel did not comment, and confessions published by Iranian state media in such cases cannot be independently verified.",
