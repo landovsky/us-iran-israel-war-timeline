@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-08-05",
+    "title": "Trump: Hormuz opens 'very soon' or Iran gets hit 'very hard'",
+    "direction": "Neutral",
+    "description": "Trump told reporters in California that Strait of Hormuz negotiations were going well, saying negotiators 'had a very good day' and a deal could come 'tomorrow or the next day,' but warned 'the strait's going to be open very soon, or they're going to get hit very hard.' The US, Iran and Oman were reportedly nearing a 60-day interim arrangement for safe passage, Axios reported, while Treasury Secretary Scott Bessent said there was 'a chance we may have a deal' by Aug. 5 or 6. Iran's foreign ministry continued to deny any direct talks with Washington were underway.",
+    "source": "https://www.rte.ie/news/middle-east/2026/0805/1586514-iran-us-trump/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "Pentagon: US has burned through 80% of THAAD interceptor stockpile",
+    "direction": "Neutral",
+    "description": "CNN reported the US military has depleted nearly 80% of its roughly 452-unit pre-war THAAD interceptor stockpile and about half of its ~2,200 Patriot interceptors since the Iran war began, with commanders warning munitions are 'dangerously low.' The Army has fired 'virtually all' of its long-range PrSM and ATACMS precision missiles and burned through nearly half the global Tomahawk supply, while the Pentagon replenishes only about 15 Tomahawks and 20 Patriots a month; officials said THAAD stocks could take three or more years to rebuild. Pentagon spokesman Sean Parnell said the military 'has everything it needs to execute at the time and place of the President's choosing.'",
+    "source": "https://www.cnn.com/2026/08/04/politics/us-iran-key-missile-interceptors-low",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "Bulk carrier Minoan Pioneer hit by projectile in Hormuz; crew member missing",
+    "direction": "Escalating",
+    "description": "The Greek-owned, Liberia-flagged bulker Minoan Pioneer was struck by an unknown projectile in its engine room while transiting northbound through Omani waters in the Strait of Hormuz, about 37km northeast of Al Khasab near the Musandam Peninsula. A fire broke out in the crew accommodation area; the rest of the crew evacuated safely but the vessel's third engineer was reported missing. No group claimed responsibility for the strike.",
+    "source": "https://gcaptain.com/cargo-ship-hit-by-projectile-in-strait-of-hormuz-one-crew-member-missing/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "Indian ship MSV Faize Noore Oliya sinks off Yemen after suspected Houthi strike",
+    "direction": "Escalating",
+    "description": "The Indian-flagged cargo vessel MSV Faize Noore Oliya sank about 13 nautical miles south of Houthi-controlled Hodeidah after being struck; Yemen's Saudi-backed transport ministry blamed Iran-aligned Houthi forces for using an explosive-laden boat against the vessel, though the Houthis did not claim the attack. The Yemeni Coast Guard rescued all 14 crew members — 13 Indians and one Yemeni — and brought them to the port of Mokha.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/projectile-sinks-indian-ship-near-yemeni-waters-but-all-seafarers-safe/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "Netanyahu rejects Board of Peace's Hamas disarmament draft",
+    "direction": "Escalating",
+    "description": "Netanyahu said in a video statement that Israel 'did not agree' to the Board of Peace's Hamas disarmament plan that Hamas accepted the prior week, calling it 'not our draft,' and vowed Israel will not withdraw 'from our current lines' in Gaza until Hamas is 'completely disarmed.' The statement contradicted earlier US-brokered characterizations of Israeli buy-in and left the disarmament roadmap's 14-day drafting deadline in doubt.",
+    "source": "https://www.timesofisrael.com/liveblog-august-4-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "IDF requires chief-of-staff approval for Gaza strikes after civilian deaths",
+    "direction": "De-escalating",
+    "description": "Israel's military tightened its rules of engagement in Gaza, requiring IDF Chief of Staff Lt. Gen. Eyal Zamir's personal approval for all targeted-elimination strikes — a power previously delegated to division commanders — reducing the pace of strikes in the territory. The change followed criticism from the Board of Peace's lead envoy, who said 'two days of strikes across Gaza have killed civilians and destroyed medical supplies that people depend on.'",
+    "source": "https://www.timesofisrael.com/liveblog-august-4-2026/",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-08-03",
     "title": "Trump warns Iran of 'last chance' to sign deal; Tehran denies talks underway",
     "direction": "Escalating",
