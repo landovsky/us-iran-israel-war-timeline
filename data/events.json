@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-08-05",
+    "title": "Booby-trap IED kills 2 IDF reservists in south Lebanon",
+    "direction": "Escalating",
+    "description": "An IED planted inside a booby-trapped building in Majdal Zoun killed Israeli army reservists Harel Birenstock and Tamir Vaknin and critically wounded another soldier. The IDF called it a 'blatant violation of the ceasefire by the Hezbollah terrorist organisation,' launched 'precise strikes' across south Lebanon in response, and issued a displacement order for residents of al-Mansouri.",
+    "source": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Israeli strike on Tibnin cemetery kills 1, wounds 12",
+    "direction": "Escalating",
+    "description": "An Israeli air strike hit the roof of a cemetery prayer hall in the southern Lebanese town of Tibnin, killing one person and wounding 12, Lebanon's Health Ministry said. The strike came amid a wave of Israeli retaliation across south Lebanon after an IED killed two IDF reservists in nearby Majdal Zoun earlier the same day.",
+    "source": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Houthis claim ballistic missile strikes on 2 Saudi oil tankers",
+    "direction": "Escalating",
+    "description": "Yemen's Houthis said they struck the Saudi oil tanker Daisy with a ballistic missile in the Gulf of Aden, forcing it to change course, and separately targeted the tanker Wafa with several missiles off Yanbu in the northern Red Sea. The group said the strikes enforce its 'siege for siege' blockade policy against Saudi Arabia. UKMTO reported a tanker heard an explosion nearby in the Gulf of Aden; all crew were reported safe.",
+    "source": "https://english.news.cn/20260806/3329d7f46e634df4b8f76b428f0c7781/c.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "UN: Iran has executed at least 56 since March, 27 tied to protests",
+    "direction": "Escalating",
+    "description": "UN High Commissioner for Human Rights Volker Turk said Iran has executed at least 56 people on national-security charges since March 19, including 27 linked to January's nationwide protests, with more than 100 others at risk of execution. Turk said confessions were allegedly obtained through torture and some trials lasted just three hours behind closed doors, adding 'capital punishment continues to be used to instil fear among the population and suppress dissent.'",
+    "source": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "Seventh round of Israel-Lebanon talks opens in Rome",
+    "direction": "De-escalating",
+    "description": "Israeli and Lebanese delegations began a seventh round of US-mediated talks at the US embassy in Rome, forming working groups on maritime and land borders, pilot-zone expansion, Hezbollah disarmament, halting Iranian financial flows to Lebanon, and reconstruction. US Ambassador Michel Issa warned 'moving too quickly risks jeopardizing the very civilians this process is meant to protect,' while Hezbollah leader Naim Qassem denounced the talks as bringing Lebanon 'nothing but shame, humiliation, and successive compromises.'",
+    "source": "https://www.timesofisrael.com/israel-lebanon-talks-kick-off-in-rome-despite-fierce-hezbollah-opposition/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-08-05",
     "title": "Trump: Hormuz opens 'very soon' or Iran gets hit 'very hard'",
     "direction": "Neutral",
     "description": "Trump told reporters in California that Strait of Hormuz negotiations were going well, saying negotiators 'had a very good day' and a deal could come 'tomorrow or the next day,' but warned 'the strait's going to be open very soon, or they're going to get hit very hard.' The US, Iran and Oman were reportedly nearing a 60-day interim arrangement for safe passage, Axios reported, while Treasury Secretary Scott Bessent said there was 'a chance we may have a deal' by Aug. 5 or 6. Iran's foreign ministry continued to deny any direct talks with Washington were underway.",
