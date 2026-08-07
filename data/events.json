@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-07",
+    "title": "Vance: Iran has 'fractured system,' talks will be 'messy'",
+    "direction": "Neutral",
+    "description": "US Vice President JD Vance said negotiations with Tehran are difficult because \"the Iranians are extraordinarily difficult people\" and \"they have a fractured system,\" with factions wanting the war over pitted against \"crazy radicals who want the war to continue.\" Vance said resolving the situation is \"going to be messy and it's going to take some time,\" adding the US would use \"military, economic, diplomatic tools\" to end the war.",
+    "source": "https://www.middleeastmonitor.com/20260806-us-to-use-military-economic-diplomatic-tools-to-end-iran-war-vance/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Saudi Arabia, Turkey, Pakistan set to sign trilateral defense pact",
+    "direction": "Escalating",
+    "description": "Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan and Pakistani PM Shehbaz Sharif were due to sign a joint defense agreement in Jeddah, institutionalizing intelligence sharing, defense-industrial integration and joint technological development. The pact unites Turkey's defense industry, Saudi Arabia's economic weight and nuclear-armed Pakistan's military, explicitly framed against the threat from Iran and the Houthis amid the ongoing war and Hormuz/Red Sea disruptions.",
+    "source": "https://www.euronews.com/2026/08/07/saudi-arabia-turkiye-and-pakistan-to-sign-joint-defence-pact-amid-regional-escalation",
+    "actor": "Saudi Arabia|Turkey|Pakistan"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "Iran, Oman near deal on split Hormuz shipping lanes, no tolls",
+    "direction": "De-escalating",
+    "description": "Iran's state news agency IRNA said Tehran and Muscat are close to an arrangement under which inbound ships would use the channel closest to Iran, coordinated by Tehran, while outbound vessels would use the Omani side, managed by Muscat, with no tolls or service fees. Iranian lawmaker Behnam Saeedi cautioned \"these talks are in no way about reopening the strait,\" while Trump said \"a lot of progress has been made\" and an announcement could come soon.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-deal/",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "Trump denies munitions shortage, vows to hunt down 'leakers'",
+    "direction": "Neutral",
+    "description": "Responding to reports the US military has depleted key interceptor stockpiles, President Trump said the \"leakers\" of these \"treasonous statements\" are \"being hunted down\" and would face \"long term jail sentences,\" claiming the US has \"massive amounts\" of munitions and \"virtually unlimited\" supply of some types. Reports cited THAAD interceptors falling from roughly 452 to 234 and Patriot interceptors from about 2,330 to 759 by July 27, with nearly 11,300 munitions consumed in the war's first 16 days.",
+    "source": "https://www.newsweek.com/donald-trump-vows-hunt-down-leakers-saying-us-running-out-of-missiles-munitions-iran-war-12290564",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "Saudi Arabia braces for coordinated Iraqi militia-Houthi attacks",
+    "direction": "Escalating",
+    "description": "A senior Saudi official told CNN the kingdom is preparing for \"multiple coordinated attacks\" by Iraqi militia factions and Iran-backed Houthis on energy facilities, ports and airports, under the guidance of Iran's IRGC. The official said intelligence showed meetings between Iraqi militia members, Houthis and IRGC personnel plus movements of drones and missiles, warning the planned strikes from \"both north and south\" could aim to derail de-escalation talks with Iran.",
+    "source": "https://abc17news.com/news/national-world/cnn-world/2026/08/06/saudi-arabia-braces-for-attacks-on-ports-and-airports-by-iraqi-militias-working-with-iran-backed-houthis/",
+    "actor": "Saudi Arabia|Iran|Iraq"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "Houthi missile, drone attacks kill 58 Yemeni government troops",
+    "direction": "Escalating",
+    "description": "Iran-backed Houthis struck Yemeni government positions in Marib and Hadramawt with ballistic missiles and drones, killing at least 58 government troops in the deadliest single day since 2022; one strike hit a camp in Al-Ruwaik during morning formation, killing or wounding at least 45. The escalation spilled into Saudi Arabia's Najran region, wounding 11 civilians including seven Saudis, an Egyptian, a Pakistani and a Yemeni. Houthi spokesman Yahya Saree said the group was \"prepared to confront any escalation.\"",
+    "source": "https://gulfnews.com/world/gulf/saudi/houthi-missile-attacks-kill-58-saudi-backed-yemeni-govt-forces-source-1.500632960",
+    "actor": "Iran|Saudi Arabia"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Israel, US complete successful test of upgraded Arrow interceptor",
+    "direction": "Neutral",
+    "description": "Israel's Missile Defense Organization and the US Missile Defense Agency, with the IDF and Israel Aerospace Industries, conducted a successful test of an upgraded Arrow missile defense system incorporating lessons from the Iran war, strengthening defenses against Iranian and Yemeni ballistic threats. Israel's Defense Ministry called it \"another significant milestone in Israel's operational ability to defend itself from current and future threats.\"",
+    "source": "https://www.timesofisrael.com/liveblog_entry/defense-ministry-says-test-of-long-range-arrow-missile-system-was-successful/",
+    "actor": "Israel|US"
+  },
+  {
     "date": "2026-08-05",
     "title": "Booby-trap IED kills 2 IDF reservists in south Lebanon",
     "direction": "Escalating",
