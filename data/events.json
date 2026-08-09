@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-08-09",
+    "title": "Houthi drone sparks fire at Saudi Aramco refinery in Jizan",
+    "direction": "Escalating",
+    "description": "Yemen's Iran-backed Houthi rebels struck Saudi Arabia's Aramco oil refinery in Jizan, on the Red Sea near the Yemen border, with a drone overnight, sparking a fire that firefighting teams extinguished by dawn. No injuries were reported. The Houthi armed wing said the strike was in response to Saudi drone overflights of Yemen.",
+    "source": "https://www.timesofisrael.com/liveblog-august-09-2026/",
+    "actor": "Iran|Saudi Arabia"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "Iran demands US end blockade, pay reparations before Hormuz reopens",
+    "direction": "Escalating",
+    "description": "Mohammad Bagher Zolghadr, secretary of Iran's Supreme National Security Council, said the Strait of Hormuz will stay closed until Washington \"corrects its behaviour,\" laying out six conditions: an end to US threats, a permanent halt to attacks on Iran and its allies in Lebanon, Palestine, Yemen and Iraq, lifting the naval blockade and withdrawing US forces from the region, war reparations, lifted sanctions, and unconditional release of frozen Iranian assets. The demands go beyond Iran's June 17 memorandum with the US by explicitly covering Palestine, Yemen and Iraq; analyst Barak Ravid called them conditions \"the US cannot accept.\"",
+    "source": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "Iran missile hits ADNOC tanker in Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "The UAE's state oil company ADNOC confirmed one of its vessels was struck by an Iranian missile while transiting the Strait of Hormuz in the early hours of Saturday; no injuries were reported and the situation was brought under control. The UAE Foreign Ministry blamed Iran; ADNOC said more than a dozen of its vessels have been attacked by missiles and drones transiting the strait since the war began in February. UKMTO separately reported a vessel struck by an unknown projectile 18 nautical miles east of Khasab, Oman, sparking a fire the crew extinguished.",
+    "source": "https://www.wam.ae/article/c1mq20a-adnoc-confirms-one-its-vessels-targeted-missile",
+    "actor": "Iran|UAE"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "Israeli troops build earthen barrier inside Lebanese army-held village",
+    "direction": "Escalating",
+    "description": "Israeli forces advanced into Zawtar al-Gharbiya, a south Lebanon village designated a \"pilot zone\" and handed to the Lebanese army under a June framework agreement, and erected an earthen barrier roughly 100 meters from the town square overnight, Lebanon's state news agency and the local mayor said. Lebanon's military called it a violation of the framework agreement; the IDF said it was \"not aware of such an event.\"",
+    "source": "https://www.timesofisrael.com/liveblog_entry/lebanon-claims-israeli-troops-entered-pilot-zone-town-handed-over-to-laf-last-month-built-earthen-barrier-idf-unaware-of-incident/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "CENTCOM chief Adm. Cooper meets IDF leadership in Israel",
+    "direction": "Neutral",
+    "description": "US Central Command chief Adm. Brad Cooper traveled from Bahrain to Israel and met with IDF Chief of Staff Lt. Gen. Eyal Zamir and senior Israeli military officials before departing for the United States. Neither CENTCOM nor the IDF immediately commented on the substance of the meeting.",
+    "source": "https://www.timesofisrael.com/liveblog-august-08-2026/",
+    "actor": "US|Israel"
+  },
+  {
     "date": "2026-08-07",
     "title": "Top US general seeks Iran war 'off-ramp' amid munitions doubts",
     "direction": "De-escalating",
@@ -49,10 +89,10 @@
   },
   {
     "date": "2026-08-07",
-    "title": "Saudi Arabia, Turkey, Pakistan set to sign trilateral defense pact",
+    "title": "Saudi Arabia, Turkey, Pakistan sign Mecca trilateral defense pact",
     "direction": "Escalating",
-    "description": "Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan and Pakistani PM Shehbaz Sharif were due to sign a joint defense agreement in Jeddah, institutionalizing intelligence sharing, defense-industrial integration and joint technological development. The pact unites Turkey's defense industry, Saudi Arabia's economic weight and nuclear-armed Pakistan's military, explicitly framed against the threat from Iran and the Houthis amid the ongoing war and Hormuz/Red Sea disruptions.",
-    "source": "https://www.euronews.com/2026/08/07/saudi-arabia-turkiye-and-pakistan-to-sign-joint-defence-pact-amid-regional-escalation",
+    "description": "Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan and Pakistani PM Shehbaz Sharif signed the Mecca Joint Defence Agreement, under which an armed attack on any one of the three states is treated as an attack on all three. The pact extends Saudi Arabia's September 2025 bilateral defense deal with Pakistan to include Turkey, combining Turkey's NATO-second-largest military, Saudi Arabia's oil wealth and nuclear-armed Pakistan, explicitly framed against the threat from Iran and the Houthis amid the ongoing war and Hormuz/Red Sea disruptions.",
+    "source": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it",
     "actor": "Saudi Arabia|Turkey|Pakistan"
   },
   {
