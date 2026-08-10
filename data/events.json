@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-08-10",
+    "title": "Lebanon-Israel talks stall; no new round planned before autumn",
+    "direction": "Escalating",
+    "description": "A Lebanese diplomatic source told Al Mayadeen that no new round of Israel-Lebanon negotiations is planned for the coming month, leaving talks frozen after the seventh Rome round. The delegations remain split over proposed pilot withdrawal zones in Bint Jbeil and Khiam, and over a US-Israeli demand that Hezbollah pull back from the Ali al-Taher heights near Nabatieh. Lebanon's Public Health Ministry put the toll from Israeli operations since March 2 at 4,335 killed and 12,277 wounded.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-08-10/ty-article-live/.premium/board-of-peace-envoy-israel-wont-withdraw-from-gaza-until-militants-disarmed/0000019f-e968-d86b-a59f-ed7e54ba0000",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "Houthi missiles and drones kill 7 at Yemen's Mokha port",
+    "direction": "Escalating",
+    "description": "Houthi forces fired ballistic missiles and drones at the government-held Red Sea port of Mokha, killing 4 soldiers and 3 civilians and wounding 30, according to Yemen's military and information ministry. The strikes wrecked port buildings, the pier, and stores of commercial goods and food; defenders shot down 11 drones and repelled an explosive-laden unmanned boat. Houthi military spokesman Yahya Saree said the attack targeted 'Saudi troop concentrations and weapons depots' in retaliation for Saudi drone flights over Yemen.",
+    "source": "https://fortune.com/2026/08/09/iran-houthi-rebels-yemen-red-sea-port-saudi-aramco-refinery/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "Iran names ex-IRGC chief Mohsen Rezaei to head Supreme National Security Council",
+    "direction": "Escalating",
+    "description": "Supreme Leader Mojtaba Khamenei appointed Mohsen Rezaei, 71, who commanded the Revolutionary Guards from 1981 to 1997, as head of the Supreme National Security Council and as his personal representative to the body. Rezaei replaces Mohammad Bagher Zolghadr, who becomes a political adviser to Khamenei. Rezaei said in July that control of the Strait of Hormuz was 'more important than dozens of atomic bombs,' putting the war's central lever in the hands of its most vocal advocate.",
+    "source": "https://punchng.com/iran-names-new-head-of-top-national-security-body/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "Trump: US is 'low-keying it' with Iran, betting on economic collapse",
+    "direction": "Neutral",
+    "description": "In a phone interview with Axios, Trump said Washington is deliberately easing off diplomacy and military pressure in favour of economic strangulation. 'We are low-keying it. We are only semi-negotiating with them,' he said, adding the US is 'just watching Iran with its huge inflation and the fact they have no money' to pay its troops. He likened the standoff to 'a chess game' and said 'It will work out. It always works out.' US officials signalled Washington may drop nuclear-programme demands if Iran reopens the Strait of Hormuz.",
+    "source": "https://www.axios.com/2026/08/09/trump-iran-interview",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "Araghchi rules out talks; IRGC calls Hormuz 'a theatre of war'",
+    "direction": "Escalating",
+    "description": "Foreign Minister Abbas Araghchi said there is 'no possibility of resuming negotiations' while the US continues to breach the June memorandum of understanding, even as he described the technical deal with Oman on Hormuz routing as 'very close.' IRGC spokesman Brig. Gen. Hossein Mohebi said 'the strait is now actually a theatre of war for us and not just a waterway,' adding that Iran's strategy is to hold it 'until the enemy accepts all our conditions.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-yemen-saudi-arabia-houthis-donald-trump-deadly-attacks/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "Pentagon gives defense firms 21 days to submit accelerated munitions plans",
+    "direction": "Escalating",
+    "description": "Deputy Defense Secretary Steve Feinberg wrote to defense industry leaders on Aug. 5 giving them no more than 21 days to submit plans to 'drive significantly faster, more aggressive delivery schedules and/or increased production for critical capabilities,' according to the memo obtained by The Washington Post. 'Years-long development cycles are not acceptable,' Feinberg wrote. 'We must dramatically accelerate our program schedules and expand our production capacity now.' Pentagon spokesman Sean Parnell said the department is focused on delivering weapons 'at the pace the threat demands.'",
+    "source": "https://www.cnbc.com/2026/08/09/pentagon-defense-contractors-weapons-production.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "IDF paratroopers destroy Hezbollah tunnel shaft, arms cache in south Lebanon",
+    "direction": "Escalating",
+    "description": "Reservists of the IDF's 55th Paratroopers Brigade located and demolished a Hezbollah underground storage shaft in southern Lebanon, the military said. Troops recovered assault rifles, anti-tank launchers, missiles and rockets from the site before destroying it.",
+    "source": "https://www.timesofisrael.com/liveblog-august-09-2026/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "Netanyahu reverses approved IDF pullout from three Rafah areas within a day",
+    "direction": "Escalating",
+    "description": "Netanyahu personally approved a pilot IDF withdrawal from three small areas near Rafah, then reversed the decision within 24 hours, telling his cabinet Israel rejects the Board of Peace's 15-point document and will not withdraw unless Hamas fully disarms. 'The shift in the prime minister's position occurred in the past day. We learned of it today only through the media,' an Israeli security official said. Board of Peace envoy Nickolay Mladenov said implementation would be step-by-step because 'nothing happens on trust and everything needs to be verified.'",
+    "source": "https://www.timesofisrael.com/liveblog-august-09-2026/",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-08-09",
     "title": "Houthi drone sparks fire at Saudi Aramco refinery in Jizan",
     "direction": "Escalating",
