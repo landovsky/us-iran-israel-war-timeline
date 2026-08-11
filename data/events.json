@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-08-11",
+    "title": "Only 6 ships transit Hormuz in a day as traffic hits new wartime low",
+    "direction": "Escalating",
+    "description": "Six vessels crossed the Strait of Hormuz on Aug. 10, against a 10-day average of 11 and a pre-war norm of 130 to 140 ships a day, according to tracking cited by The Times of Israel. The waterway has been effectively shut since Iran declared it closed, and the collapse in transits deepened as Washington and Tehran hardened their reopening demands.",
+    "source": "https://www.timesofisrael.com/liveblog-august-11-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Israel-Lebanon talks to resume in early September after strained Rome round",
+    "direction": "Neutral",
+    "description": "An official told The Times of Israel the next round of US-mediated Israel-Lebanon negotiations will be held in early September, confirming a month-long gap after the seventh round in Rome 'did not go very smoothly.' Beirut is pressing for further Israeli withdrawals from southern Lebanon while Jerusalem insists verification of Hezbollah's disarmament comes first. Washington is still trying to get both sides to agree on which countries staff the verification mechanism, with Israel vetoing states that have opposed it internationally. A parallel track covers the return of Lebanese and Israeli remains in exchange for Lebanese detainees.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/next-round-of-israel-lebanon-talks-to-take-place-in-early-september-official-says/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Khamenei appoints six top commanders, orders IRGC to prepare offensive operations",
+    "direction": "Escalating",
+    "description": "Supreme Leader Mojtaba Khamenei issued decrees naming six senior officers across the armed forces, IRGC and Basij. Maj. Gen. Ali Abdollahi becomes chief of staff, replacing Lt. Gen. Abdul Rahim Mousavi, killed in the opening US-Israeli strikes on Feb. 28; Brig. Gen. Ahmad Vahidi was promoted to major general and made IRGC commander-in-chief in place of Lt. Gen. Mohammad Pakpour, also killed Feb. 28; Adm. Ali Ozmaei takes the IRGC Navy from Alireza Tangsiri, killed in March; former IRGC intelligence chief Hossein Taeb heads the Basij, with Brig. Gen. Kiumars Heidari as deputy chief of staff and Maj. Gen. Mostafa Izadi as IRGC deputy commander. Khamenei instructed Vahidi to strengthen deterrence and prepare for 'powerful offensive operations against the enemy.'",
+    "source": "https://www.thenationalnews.com/news/mena/2026/08/10/irans-supreme-leader-appoints-six-senior-military-commanders/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Trump demands Iran pay reparations for deaths in Lebanon, Syria, Yemen, Gaza",
+    "direction": "Escalating",
+    "description": "Hours after Tehran made US compensation a condition for reopening the Strait of Hormuz, Trump reversed the demand back on Iran. 'I am likewise demanding compensation from Iran, for all of the people that they have killed,' he said, citing the 17 US sailors killed on the USS Cole in 2000 and 52,000 people killed over the past five months. On Truth Social he wrote: 'Iran should be responsible for the damages and death caused to the people of Lebanon, Syria, Yemen, and Gaza!' Trump said he had instructed his negotiators to pursue the claim, and US officials described the talks as at a dead end.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-negotiation-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Trump: US controls Hormuz '100%', calls naval blockade 'infallible'",
+    "direction": "Escalating",
+    "description": "Speaking in the Oval Office, Trump said the US Navy blockade of Iranian ports is 'infallible' and dismissed Iran's leverage over the strait. 'We control the strait 100%. Now, can they make trouble? Yeah, they can make trouble, but they're broke,' he said, acknowledging that Iran occasionally deploys naval mines. Iranian officials rejected the framing: Foreign Ministry spokesman Esmail Baghaei said 'a maritime blockade is not a diplomatic action that we can lift through diplomacy,' and parliament deputy speaker Ali Nikzad said reopening 'has no military solution' and that Washington 'must submit to the new regional order.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-negotiation-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Trump extends Jones Act waiver 90 days but adds case-by-case Pentagon review",
+    "direction": "Neutral",
+    "description": "Trump extended for 90 days the waiver letting foreign-flagged ships move oil, refined fuels and fertilizers between US ports, with the extension taking effect Aug. 17 and running past the November midterms. Unlike previous extensions, the new order narrows the relief: the Pentagon must consult the US Maritime Administration and approve each individual voyage, a concession to shipbuilders and their congressional allies. Trump first waived the century-old law on March 17 to blunt fuel price spikes after the war began.",
+    "source": "https://www.cnbc.com/2026/08/10/trump-iran-oil-jones-act-shipping.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Pezeshkian holds 7-hour meeting with Khamenei on economy and war fallout",
+    "direction": "Neutral",
+    "description": "President Masoud Pezeshkian said he met Supreme Leader Mojtaba Khamenei for nearly seven hours, discussing livelihoods, employment, market conditions, sanctions and the repercussions of the war. Pezeshkian quoted Khamenei as stressing national unity: 'All of the enemy's plans are aimed at creating division. What we have to do is prevent divisions.' Khamenei has not been seen in public since he took over in March following his father's killing. The meeting came the same day Khamenei published decrees installing six new military commanders.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-negotiation-strait-of-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Washington Post: Trump used decoy Air Force One to leave Ankara over Iran threat",
+    "direction": "Neutral",
+    "description": "The Washington Post reported that Trump secretly left Turkey aboard a smaller Air Force C-32A on July 8, the day after the US resumed strikes on Iran, because of an Iranian threat to assassinate him. Trump boarded the older Boeing 747 Air Force One in view of cameras at Ankara, then was moved minutes later to the C-32A inside an airport catering container; the 747 flew on as a decoy carrying press and some White House staff. Trump landed at RAF Mildenhall in Britain around 10:20 p.m. White House communications director Steven Cheung said: 'There are many enemies of America who have their sights on him.'",
+    "source": "https://www.washingtonpost.com/national-security/2026/08/10/trump-flew-secrecy-amid-iran-threat-air-force-one-became-decoy/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Brent climbs to $84.11 as Iranian conditions dim Hormuz reopening hopes",
+    "direction": "Escalating",
+    "description": "October Brent futures settled up 0.7% at $84.11 a barrel, about 16% above pre-war levels, after Foreign Minister Abbas Araghchi said the strait would not reopen without sanctions relief and war reparations. Only 8 to 15 vessels crossed Hormuz daily in early August against roughly 130 before the conflict. 'The lack of concrete movement, together with lingering questions about the practical details of any agreement, is keeping a risk premium in the price,' KCM Trade's chief analyst said.",
+    "source": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Oman says slick from stricken shadow-fleet tanker covers 400 sq km",
+    "direction": "Neutral",
+    "description": "Oman's Environment Authority said oil from the Caroline Bezengi, aground since early June near al-Qibliyyah Island in the Hallaniyat archipelago, now covers nearly 400 square kilometres; Greenpeace put it at about 600 square kilometres based on satellite imagery, a fourfold increase in two days. The 2001-built tanker, part of Russia's sanctioned shadow fleet, loaded roughly one million barrels of crude at Novorossiysk in April and reported trouble off Yemen on June 8 after what maritime security sources assessed as an onboard blast. Omani authorities are flying aerial surveys and deploying divers while drawing up a plan to transfer the cargo; the marine reserve holds coral reefs, seagrass meadows and turtle nesting grounds.",
+    "source": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Iran demands Ukraine compensate for Caspian Sea attack that killed a sailor",
+    "direction": "Neutral",
+    "description": "Foreign Ministry spokesman Esmail Baghaei rejected Kyiv's account that last month's strike on an Iranian vessel in the Caspian Sea was accidental and demanded payment for the sailor killed. 'They must certainly compensate us. If they do not compensate us, we will seek compensation ourselves,' Baghaei said, without specifying what action Tehran might take.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-negotiation-strait-of-hormuz/",
+    "actor": "Iran|Other"
+  },
+  {
     "date": "2026-08-10",
     "title": "Lebanon-Israel talks stall; no new round planned before autumn",
     "direction": "Escalating",
