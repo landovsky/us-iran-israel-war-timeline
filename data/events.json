@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-08-12",
+    "title": "Brent tops $89.50 as Iran's conditions kill hopes of near-term Hormuz deal",
+    "direction": "Escalating",
+    "description": "Brent crude rose to $89.53 a barrel on Wednesday, up 0.70 percent on the day and roughly 12 percent across five sessions, after Iranian security chief Mohsen Rezaei ruled out reopening the Strait of Hormuz until Washington meets Tehran's terms. Traders had bid prices down earlier in the week on Pakistani and Omani signals that a transit arrangement was close. The move erases the assumption, priced in since early August, that an interim Hormuz accord would land within days.",
+    "source": "https://tradingeconomics.com/commodity/brent-crude-oil",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "US Navy helicopter fires two Hellfires into cargo ship Vela Nova in Gulf of Oman",
+    "direction": "Escalating",
+    "description": "A US Navy MH-60 helicopter fired two Hellfire missiles into the engine room of the Panama-flagged M/V Vela Nova in the Gulf of Oman on Tuesday, disabling its steering gear after the crew ignored repeated warnings while sailing toward an Iranian port. All 17 crew were evacuated safely and the fire was extinguished. CENTCOM said it was the third vessel disabled since the blockade of Iranian ports was reimposed on July 14, after the Curacao-flagged M/T Belma on July 15 and the Mozambique-flagged M/T Lavine on July 24. CENTCOM has now redirected 55 commercial vessels, disabled three and boarded two.",
+    "source": "https://www.stripes.com/theaters/middle_east/2026-08-11/centcom-disables-cargo-vessel-iran-22521182.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Houthi strike on cargo ship Tihamah kills 6 in Bab el-Mandeb, first shipping deaths of the war",
+    "direction": "Escalating",
+    "description": "An unknown projectile struck the Tanzania-flagged, Egyptian-owned cargo ship Tihamah 3.3 nautical miles northeast of Perim Island in the Bab el-Mandeb Strait, killing four crew members - three Pakistanis and one Indonesian - and injuring four others. A drone then hit the Yemeni coast guard rescue team, killing two more personnel and wounding one. Yemeni government officials blamed the Iran-aligned Houthis, who did not claim the attack. These are the first fatalities from a Houthi strike on shipping since the war began on February 28.",
+    "source": "https://www.timesofisrael.com/three-killed-in-houthi-attack-on-cargo-ship-in-bab-el-mandeb-strait/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Rezaei: Hormuz stays shut until US meets conditions; Oman lane deal is separate",
+    "direction": "Escalating",
+    "description": "Mohsen Rezaei, appointed two days earlier to head Iran's Supreme National Security Council, said: 'As long as America does not change its behavior and does not accept Iran's conditions, the Strait of Hormuz will not be opened.' He listed ending the US military campaign, lifting the naval blockade of Iranian ports, releasing Iran's frozen assets and a region-wide ceasefire including Lebanon and Gaza, and said the conditions had been passed to Washington through mediators. Rezaei explicitly decoupled the near-final Iran-Oman transit-lane agreement from any reopening of the waterway.",
+    "source": "https://www.nbcnews.com/world/iran/iran-sets-steep-demands-reopening-hormuz-hopes-oman-deal-break-impasse-rcna591553",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Pakistan's Asif says US and Iran 'close to some sort of an arrangement'; Naqvi visits Tehran",
+    "direction": "De-escalating",
+    "description": "Pakistani Defense Minister Khawaja Asif told Bloomberg News that 'things are shaping up again in favor of a peace arrangement or a deal' and that the two sides were 'close to some sort of an arrangement.' The same day Pakistan's Interior Minister Mohsin Raza Naqvi met President Masoud Pezeshkian and Foreign Minister Abbas Araghchi in Tehran, discussing political, economic, trade and security ties. Qatar separately said Iran-Oman talks on Hormuz shipping lanes had reached an advanced stage.",
+    "source": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Trump: options are to 'bop along' or hit Iran 'really, really hard'",
+    "direction": "Neutral",
+    "description": "In a phone interview with Real America's Voice released late Monday, Trump laid out two paths on Iran: 'Do what I'm doing now: just bop along and look how bad they're doing,' or 'hit them really, really hard.' He called Iranian negotiators 'very devious' and said of Iran's frozen assets: 'Economically, they are a mess. They can't borrow money. We control their money... I'm their banker.' Trump gave no timeline for choosing between the options.",
+    "source": "https://www.rte.ie/news/2026/0811/1587478-trump-iran/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "WSJ: Israeli intel on Iranian missile plot drove Trump's catering-truck escape from Turkey",
+    "direction": "Escalating",
+    "description": "The Wall Street Journal reported that Israeli intelligence warned Washington that Iran planned to shoot down Trump's aircraft with shoulder-fired missiles as he departed Turkey on July 8. The Secret Service walked Trump onto Air Force One publicly, then moved him inside an airport catering truck to a smaller C-32A military jet parked nearby. Secretary of State Marco Rubio, senior aides and about 12 White House journalists stayed aboard Air Force One, flying out unaware they were serving as decoys.",
+    "source": "https://www.timesofisrael.com/israeli-intel-on-iranian-plot-said-to-have-spurred-decision-to-sneak-trump-off-air-force-one/",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Israeli drone double-tap wounds 2 in strike on Nabatieh ambulance teams",
+    "direction": "Escalating",
+    "description": "An Israeli drone struck in the southern Lebanese city of Nabatieh, wounding two people, then hit again as a medical team from the Hezbollah-linked Islamic Health Authority evacuated the casualty. A third strike damaged an Islamic Risala Scouts ambulance that arrived to recover the wounded. Lebanon's Ministry of Public Health condemned the repeated targeting of ambulance crews as a violation of international humanitarian law.",
+    "source": "https://english.news.cn/20260811/ec2f85bb6c74426da0f6a6f70e8eccfe/c.html",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Blumenthal and Schiff probe alleged ICE coordination with Iran to deport detainees",
+    "direction": "Neutral",
+    "description": "Democratic Senators Richard Blumenthal and Adam Schiff demanded all communications between two private US immigration detention centers and Iranian diplomats, following reports that the State Department ran monthly meetings with Iranian officials through the Pakistani embassy to arrange deportations of detained Iranians. Reporting alleges US officials shared asylum-application details, including claims of persecution for converting to Christianity, for sexuality, and for joining the 2022 Women, Life, Freedom protests. DHS called the allegations 'FALSE.'",
+    "source": "https://www.timesofisrael.com/liveblog_entry/democratic-us-senators-probe-alleged-coordination-between-ice-and-iran-to-deport-detainees/",
+    "actor": "US"
+  },
+  {
     "date": "2026-08-11",
     "title": "Only 6 ships transit Hormuz in a day as traffic hits new wartime low",
     "direction": "Escalating",
