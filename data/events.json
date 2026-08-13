@@ -1,6 +1,86 @@
 [
   {
     "date": "2026-08-12",
+    "title": "IEA doubles Q3 supply-deficit forecast to 1.8m bpd as oil stocks drain",
+    "direction": "Escalating",
+    "description": "The International Energy Agency's August monthly report projects a global oil market deficit of 1.8 million barrels per day in the third quarter of 2026, more than double its July estimate. Inventories fell by 2.2 million barrels a day last month, pushing global stocks below 7.9 billion barrels for the first time since April 2025, while US crude stockpiles dropped under 300 million barrels, the lowest in more than four decades. The IEA also cut its 2026 demand forecast to a decline of 1.6 million barrels a day, about 47% steeper than projected in July, and said reopening the Strait of Hormuz has become more pressing as buffers erode.",
+    "source": "https://gcaptain.com/iea-warns-oil-market-risks-mount-as-hormuz-disruptions-drain-inventories/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Trump: Iran has 'No Money', '300% INFLATION'; claims total Hormuz control",
+    "direction": "Escalating",
+    "description": "Trump wrote on Truth Social that Iran has \"No Money - Their country is 'shot'\" and suffers \"300% INFLATION, and getting worse,\" adding that \"we have total control over the Hormuz Strait right now.\" Iran's own statistics agency put July year-on-year inflation at 87.9%, with food and beverage prices up 128.1%. US Ambassador to Israel Mike Huckabee told Newsmax the administration was applying a \"real squeeze\" that left Iran in its \"weakest position since its founding in 1979.\" Kpler tracked eight vessels transiting the strait on August 11 against a pre-war norm of roughly 73 a day.",
+    "source": "https://www.washingtontimes.com/news/2026/aug/12/us-officials-tout-success-economic-pressure-iran-even-strait-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Iran's strait authority: US posts 'do not change the reality', Hormuz stays blocked",
+    "direction": "Escalating",
+    "description": "Iran's Persian Gulf Strait Authority issued a direct rebuttal to Trump, saying \"claims and repeated posts by US officials that the Strait of Hormuz is no longer blocked do not change the reality: the Strait of Hormuz remains blocked and will not be reopened until Iran's conditions are accepted.\" National security chief Mohammad Bagher Zolghadr's demand list stands: lift the US naval blockade, withdraw forces, permanently end the war and pay compensation. Traffic through the waterway fell to near three-month lows.",
+    "source": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "IRGC adviser Naqdi: Iran may drag out war until Trump leaves office",
+    "direction": "Escalating",
+    "description": "Mohammad Reza Naqdi, senior adviser to the IRGC commander and the corps' coordinating deputy from 2019 to 2025, told PBS NewsHour that \"one way is to prolong this war until we get to the next term of the presidency and cause attrition, so that if anyone else wants to attack Iran, they will know there is a cost.\" Defending strikes on civilian shipping, he said: \"When you're in a state of war, any thoroughfare deemed to be a threat, we can control it.\" Naqdi claimed Iran is producing more missiles each day than it fires, and attributed Supreme Leader Mojtaba Khamenei's absence from public view to \"security.\"",
+    "source": "https://www.iranintl.com/en/202608124129",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Pakistan mounts final mediation push before August 16 negotiating deadline",
+    "direction": "De-escalating",
+    "description": "Pakistan pressed a last round of shuttle diplomacy four days before the 60-day negotiating window opened by the June 17 US-Iran memorandum of understanding expires on August 16. Deputy PM and Foreign Minister Ishaq Dar held separate calls with counterparts in Iran, Bahrain, Kuwait and Saudi Arabia while Interior Minister Mohsin Naqvi met Iranian officials in Tehran. Foreign Ministry spokesman Tahir Andrabi said Islamabad was making \"all-out efforts to bring the two parties to the negotiating table.\" Senior Iranian officials said no extension of the window had been discussed with Washington; any extension requires mutual consent.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/08/12/pakistan-makes-final-truce-push-as-us-iran-deadline-looms/",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Three Pakistani sailors among Tihamah dead; Islamabad activates Red Sea coalition",
+    "direction": "Escalating",
+    "description": "Pakistan confirmed three of its nationals were killed and one wounded aboard the Egyptian-flagged cargo ship Tihamah, struck by Houthi ballistic missiles in the Bab el-Mandeb. Yemen's coast guard said four crew died along with two rescuers hit in a follow-up strike during the evacuation. Foreign Office spokesperson Tahir Andrabi said Pakistan, a signatory to the 14-nation maritime defense communique Saudi Arabia unveiled in July, \"will implement it with full earnest,\" and Dar ordered officials to establish the pact's operational specifics with Riyadh.",
+    "source": "https://www.dawn.com/news/2022344",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Lloyd's List: Hormuz transits fall to 78 a week; war claims reach $2bn",
+    "direction": "Escalating",
+    "description": "Lloyd's List Intelligence recorded 78 Hormuz transits during August 3-9, down from 95 the previous week, with non-Iranian-linked transits falling to 45 from 63. Underwriters put insurance claims from roughly 70 casualties since late February at $1.5bn to $2bn, and estimate a six-month continuation could produce total-loss claims worth up to $20bn at Lloyd's alone. US Central Command has now redirected 55 merchant ships, disabled three and boarded two, up from 44 redirected and two disabled reported on August 3. Regional imports are down 21% and exports down 31%.",
+    "source": "https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-12-august-2026",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "EU and 26 states condemn Iran's protester executions in 'strongest terms'",
+    "direction": "Neutral",
+    "description": "French Foreign Minister Jean-Noel Barrot announced a joint statement by the European Union's High Representative and 26 countries — including France, Germany, the UK, Italy, Canada, Australia and New Zealand — condemning Iran's executions of protesters \"in the strongest terms.\" The signatories called on Tehran to end use of the death penalty and release those arbitrarily detained, saying using executions to silence dissent and instill fear is \"entirely unjustifiable.\" The UN reported on August 5 that Iran had executed at least 56 people on national security charges since March 19, 27 of them in cases tied to the January protests.",
+    "source": "https://www.al-monitor.com/originals/2026/08/eu-26-countries-condemn-irans-executions-protesters",
+    "actor": "France"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Lebanese PM Salam calls Israeli demolitions in the south a violation of international law",
+    "direction": "Escalating",
+    "description": "Lebanese Prime Minister Nawaf Salam said Israeli \"attacks, incursions, demolitions and the systematic destruction of homes\" in southern Lebanon \"represent a serious violation of international law.\" Israeli Defense Minister Israel Katz confirmed the IDF was destroying homes and infrastructure in the border zone. Israeli forces struck southern Lebanon again during the day. The exchange came as Israel and Lebanon narrowed a shortlist of Hezbollah-disarmament verifier states to Britain, Italy, Switzerland and Indonesia, with the next round of US-mediated talks set for early September.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/lebanese-pm-condemns-systematic-israeli-destruction-in-south-of-country/",
+    "actor": "Lebanon|Israel"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Iran's oil minister: war cost 95m cubic metres a day of gas output",
+    "direction": "Neutral",
+    "description": "Oil Minister Mohsen Paknejad told the Iranian parliament's energy committee that strikes on gas processing facilities at Asaluyeh in Bushehr province cost Iran about 95 million cubic metres per day of natural gas production. Four damaged refineries are being rebuilt simultaneously, with debris removal complete and contractors on site; Paknejad said full capacity should return to the network by the end of September, ahead of schedule. He conceded some output would stay offline through the winter and urged rationing of gas consumption.",
+    "source": "https://www.thenationalnews.com/business/energy/2026/08/11/iran-lost-95-million-cubic-metres-of-natural-gas-output-due-to-war/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-12",
     "title": "Brent tops $89.50 as Iran's conditions kill hopes of near-term Hormuz deal",
     "direction": "Escalating",
     "description": "Brent crude rose to $89.53 a barrel on Wednesday, up 0.70 percent on the day and roughly 12 percent across five sessions, after Iranian security chief Mohsen Rezaei ruled out reopening the Strait of Hormuz until Washington meets Tehran's terms. Traders had bid prices down earlier in the week on Pakistani and Omani signals that a transit arrangement was close. The move erases the assumption, priced in since early August, that an interim Hormuz accord would land within days.",
