@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-08-13",
+    "title": "UAE says Iran attacked two ADNOC vessels in Hormuz, calls it piracy",
+    "direction": "Escalating",
+    "description": "The UAE Foreign Ministry said it \"strongly condemned and denounced the hostile Iranian attack that targeted two vessels affiliated with ADNOC\" as they transited the Strait of Hormuz on Thursday evening. No injuries were reported. Abu Dhabi blamed the IRGC directly and called the attack a \"blatant violation\" of UN Security Council Resolution 2817. ADNOC says 15 of its ships have now been attacked in the strait since the war began on February 28, the second such strike in under a week.",
+    "source": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Vance: cheap oil is 'goal number one' of the Iran war, nuclear file second",
+    "direction": "Neutral",
+    "description": "Vice President JD Vance told Fox News that the administration's first priority in the war is energy prices: \"That's goal number one — keep oil and gas cheap for Americans all over our country. And then obviously goal number two is ensure that Iran never gets a nuclear weapon.\" The ranking inverts Trump's public framing that the sole purpose of entering the war was to stop an Iranian bomb, even at short-term economic cost. Vance said Trump retains diplomatic, military and economic levers but acknowledged talks are blocked by both sides' positions on Hormuz.",
+    "source": "https://www.arabnews.com/node/2654610/world",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Bessent threatens 'economic isolation like the world has never seen'; measures next week",
+    "direction": "Escalating",
+    "description": "Treasury Secretary Scott Bessent told Newsmax the US will hit Iran with \"a combination of economic isolation, like the world has never seen before, and the continued blockade in the Strait of Hormuz that will keep anything from going in or out of the Iranian ports,\" adding: \"Watch this space for more announcements coming next week.\" The two-pronged financial-plus-physical squeeze marks a hard reversal from August 4, when Bessent told CNBC a deal to reopen the strait could be reached within days.",
+    "source": "https://www.usnews.com/news/top-news/articles/2026-08-13/bessent-says-us-to-apply-measures-never-seen-on-iran",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Hegseth says US Navy can blockade Iranian ports 'indefinitely'",
+    "direction": "Escalating",
+    "description": "Speaking in Panama, War Secretary Pete Hegseth said the US Navy can sustain its blockade of Iranian ports indefinitely by rotating ships in and out of the region. He also defended conditions aboard deployed warships: \"We make sure every ship, every crew, every captain has everything we can provide.\" The statement forecloses Tehran's expectation that logistics and crew fatigue would force Washington to ease the siege of Iranian ports reimposed on July 14.",
+    "source": "https://www.foxnews.com/live-news/iran-war-trump-strait-of-hormuz-08-13-26",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Navy sends USS George Washington to relieve Lincoln after 250 days at sea",
+    "direction": "Neutral",
+    "description": "The Navy is dispatching the USS George Washington, its only forward-deployed carrier, from Japan to the Arabian Sea to relieve the USS Abraham Lincoln, which has logged more than 250 days at sea including roughly 200 without a port call. The George Washington left Da Nang, Vietnam, and was tracked crossing the Strait of Malacca; the transit takes about a week. Sailors and family members have described food shortages, failing air conditioning and exhaustion aboard the Lincoln, which deployed in November 2025 and reached the Middle East in January.",
+    "source": "https://www.stripes.com/branches/navy/2026-08-13/uss-george-washington-middle-east-abraham-lincoln-22541038.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "CENTCOM calls Lincoln crew reports 'FALSE' as senators open oversight probe",
+    "direction": "Neutral",
+    "description": "US Central Command said reports that seven sailors died in a brawl aboard the USS Abraham Lincoln and that suicidal ideation had spiked were \"FALSE,\" citing an 84.4% reenlistment rate, more than 10,000 aircraft sorties and 1.5 million pounds of ordnance delivered over 260-plus days at sea. Senator Richard Blumenthal demanded answers by August 27 on supply shortages, contaminated water, plumbing failures, mental health care and mail delivery; Senator Ruben Gallego cited moldy showers, rationed meals and soap, broken toilets and 12-to-16-hour shifts with no days off.",
+    "source": "https://www.foxnews.com/live-news/iran-war-trump-strait-of-hormuz-08-13-26",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "CENTCOM launches Task Force Falcon Strike, first multinational attack-drone unit",
+    "direction": "Escalating",
+    "description": "CENTCOM commander Admiral Brad Cooper announced Task Force Falcon Strike, the command's first multi-domain, multinational attack-drone task force, integrating one-way attack drones and unmanned systems operating \"from above, on, and below the sea\" under US Special Operations Command Central. \"Integrating and deploying our new capabilities together will help us rapidly realize the new possibilities that are on the horizon,\" Cooper said. CENTCOM has not named participating countries, saying it is still \"consulting and officially inviting\" regional partners. The unit follows Task Force Scorpion Strike, stood up in December 2025, which flies the LUCAS drone reverse-engineered from Iranian designs. At least 18 US service members have died in the war, more than half killed by drones or missiles.",
+    "source": "https://defensescoop.com/2026/08/13/centcom-creates-multinational-attack-drone-task-force/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "IRGC's Zolfaghari: no tanker crosses Hormuz without Iranian permission",
+    "direction": "Escalating",
+    "description": "IRGC spokesman Ebrahim Zolfaghari said \"no commercial ship or tanker will be able to safely transit through this strait without the permission and supervision of the powerful Iranian armed forces,\" dismissing US claims that vessels are moving normally as \"nothing more than lies.\" The statement directly rebutted Trump's assertion of total US control and reaffirmed that Iran treats the waterway as a permissioned corridor rather than an international strait.",
+    "source": "https://www.euronews.com/2026/08/13/irans-military-rejects-trumps-claims-of-us-control-over-strait-of-hormuz-as-lies",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Araghchi: US intelligence failures produced 'an even bigger miscalculation' on Hormuz",
+    "direction": "Neutral",
+    "description": "Iranian Foreign Minister Abbas Araghchi wrote that \"the US has long miscalculated due to intelligence failures. Case in point: the war on Iran,\" and said Washington is now making an even bigger miscalculation over the Strait of Hormuz. Responding separately to the European statement on Iran's executions, he told France its \"backing of Israel's genocide in Gaza destroyed whatever moral high ground you imagined.\"",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Katz ties Israeli withdrawal from Lebanon to Hezbollah disarmament after US pushback",
+    "direction": "Escalating",
+    "description": "Israeli Defense Minister Israel Katz said Israel will \"not withdraw from the security zone in Lebanon as long as Hezbollah is not disarmed and the threat of Hezbollah in all of Lebanon is not removed,\" walking back a blunter declaration a day earlier that Israel would not leave security zones \"not in Lebanon, not in Syria and not in Gaza.\" A US State Department official had said a permanent Israeli military presence in south Lebanon is inconsistent with the commitments in the US-backed June framework with Beirut.",
+    "source": "https://www.sowetan.co.za/news/world/2026-08-13-after-us-criticism-israel-ties-lebanon-withdrawal-to-hezbollah-disarmament/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "IDF and Mossad 'shocked' by speed of Iran's missile-production rebuild",
+    "direction": "Escalating",
+    "description": "Israeli defense officials told the Jerusalem Post they are stunned by how fast Iran has restored ballistic missile output four months after the main campaign ended in April, in which Israel hit more than 2,600 targets across roughly 30,000 strikes — 26 times the volume of its 2025 offensive. Iran's arsenal grew from about 1,300 missiles in June 2025 to 2,500 by February 2026, and officials assess Tehran could return to June 2025 production levels by early-to-mid 2027 if it reaches 100-300 missiles a month. Senior officials said Iran has found \"creative ways to focus on rebuilding the missile and other defined threats\" despite damage elsewhere; it is the third time since October 2024 the IDF has misjudged Iranian recovery speed.",
+    "source": "https://www.jpost.com/israel-news/defense-news/article-905474",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "CIA had 'low confidence' in Israeli tip behind Trump's plane swap in Turkey",
+    "direction": "Neutral",
+    "description": "The Washington Post reported that CIA analysts judged the Israeli-relayed warning of an Iranian plot to shoot down Air Force One in Turkey on July 8 to be \"Israeli-derived, not US-generated, and viewed as low confidence.\" The Secret Service nonetheless treated the shoulder-fired missile threat as credible and imminent and moved Trump off the aircraft in a catering truck. Some US officials told the Post they suspect the tip fit a pattern of Israel using intelligence-sharing to shape American policy, including unease over Trump's warming relations with Erdogan.",
+    "source": "https://www.timesofisrael.com/cia-reportedly-doubted-israeli-intel-on-iranian-threat-that-led-trump-to-swap-planes/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Hapag-Lloyd books $600m in war costs; quarterly profit falls 73%",
+    "direction": "Neutral",
+    "description": "German container line Hapag-Lloyd said the Hormuz closure and the wider Middle East conflict added roughly $600 million in second-quarter costs across bunker fuel, insurance, storage, rerouting and inland transport. Group profit fell to $83 million from $306 million a year earlier, a 73% drop, and EBIT slipped to $176 million from $189 million, though EBITDA edged up to $829 million on 3.5 million TEU of volume and a 9% rise in average freight rates to $1,475 per TEU. It is the clearest accounting yet of what the war is costing a single major carrier.",
+    "source": "https://www.hapag-lloyd.com/en/company/press/releases/2026/08/earnings-recovery-in-q2-despite-substantial-cost-headwinds.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Iran rejects reported ceasefire extension: 'absolutely no progress' on interim deal",
+    "direction": "Escalating",
+    "description": "A senior Iranian source told Reuters there have been no talks on extending the ceasefire and \"absolutely no progress\" on the central question of the US returning to the June 17 interim agreement and setting a timeframe for its commitments. The remarks knocked down a report by Turkey's Anadolu agency, citing Pakistani government sources, that Tehran and Washington had agreed to extend the 60-day window. \"There is no talk of an extension because the United States violated the interim agreement 48 hours after it was reached and withdrew from it a few days later,\" the source said.",
+    "source": "https://www.usnews.com/news/world/articles/2026-08-12/iran-us-not-discussing-ceasefire-extension-senior-iranian-official-says",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Iraq's PM calls September 30 US withdrawal deadline 'fixed and final'",
+    "direction": "De-escalating",
+    "description": "Iraqi Prime Minister Ali al-Zaidi said after meeting CENTCOM commander General Brad Cooper that \"September 30 will be the fixed and final date for ending the military mission of the Global Coalition to Defeat ISIS,\" and that from October 1 Iraq will be \"free of any foreign military presence.\" A US official confirmed forces are on track to complete the pullout but declined to give troop numbers or say where they would redeploy. Remaining US forces are concentrated in the Kurdish north, where bases have come under repeated attack since the war began on February 28.",
+    "source": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final",
+    "actor": "Iraq"
+  },
+  {
     "date": "2026-08-12",
     "title": "IEA doubles Q3 supply-deficit forecast to 1.8m bpd as oil stocks drain",
     "direction": "Escalating",
