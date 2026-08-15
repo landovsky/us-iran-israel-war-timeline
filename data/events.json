@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-08-15",
+    "title": "Israeli airstrike on home in Ansar kills 7, deadliest since June framework",
+    "direction": "Escalating",
+    "description": "Israeli warplanes struck a house on the outskirts of Ansar, north of Tyre in Lebanon's Nabatieh governorate, before dawn Saturday, killing seven people and wounding three, Lebanon's National News Agency said. The IDF also shelled and bombed the Ali al-Taher ridge, beneath which Hezbollah maintains a major underground facility, and detonated homes in nearby Bint Jbeil. The NNA said the strikes reached a geographical depth not seen in two months, making it the deadliest attack since Lebanon and Israel announced their June 26 framework agreement trading Israeli withdrawal for Hezbollah disarmament.",
+    "source": "https://www.arabnews.com/node/2654740/middle-east",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Araghchi: Iran has made no decision to restart negotiations with the US",
+    "direction": "Neutral",
+    "description": "Iranian Foreign Minister Abbas Araghchi wrote on Telegram that \"we have not yet made a decision to restart negotiations with the United States,\" and said Qatari and Pakistani mediators exchanging messages with Tehran \"does not mean negotiations.\" He blamed Washington for the collapse of the June Islamabad memorandum and said talks cannot resume until the US ends its violations and remedies the breaches. On Hormuz, Araghchi said Iran is working with Oman on shipping lanes but that \"new routes must be defined\" because previous pathways are no longer viable, and transit remains conditional on political terms being met.",
+    "source": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "Trump says he will declare the Strait of Hormuz a US territory",
+    "direction": "Escalating",
+    "description": "Speaking at the Nassau County Police Academy in Garden City, New York, at an event for Republican gubernatorial candidate Bruce Blakeman, Trump said: \"After we finish defeating Iran, which is being very badly defeated, pretty soon I'll be declaring the Hormuz Strait a territory of the United States.\" He described the US naval blockade as \"a wall of steel\" and said no ships get through unless Washington wants them to. Iran has claimed control of the waterway since 1979; Trump had earlier floated the US acting as the strait's \"guardian\" while collecting a 20 percent fee on transiting goods.",
+    "source": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "Gharibabadi: Hormuz 'cannot be taken over by a tweet, nor by an aircraft carrier'",
+    "direction": "Neutral",
+    "description": "Iran's deputy foreign minister for legal and international affairs, Kazem Gharibabadi, rejected Trump's annexation claim within an hour on social media, writing that \"the Strait of Hormuz cannot be taken over by a tweet, nor by an aircraft carrier, nor by issuing a decree, nor by an election speech.\" He added that the strait \"has been Iranian, is Iranian, and will remain Iranian.\" Other Iranian officials dismissed the US president's remarks as \"fanciful delusions.\"",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "IRGC downs US MQ-9 Reaper over Hormozgan with new air-defence system",
+    "direction": "Escalating",
+    "description": "The IRGC's public relations department said its air-defence forces intercepted and destroyed an American MQ-9 Reaper drone over Hormozgan province in southern Iran, using what it called a new advanced system operating inside Iran's integrated air-defence network. Iranian state media said the US has lost 45 MQ-9s since February 28, with Iranian air defences responsible for roughly a quarter of them. CENTCOM did not immediately confirm the loss.",
+    "source": "https://www.middleeastmonitor.com/20260814-iran-says-it-downed-us-made-mq-9-drone-over-southern-hormozgan-province/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "Qassem calls Lebanon's talks with Israel a 'sinful, disgraceful and humiliating mistake'",
+    "direction": "Escalating",
+    "description": "Hezbollah Secretary-General Naim Qassem called on Lebanon's government to reverse what he termed \"the sinful, disgraceful and humiliating mistake\" of negotiating directly with Israel, and declared that \"any project aimed at removing the weapons of the resistance will not pass.\" He said the June trilateral framework - which pairs Hezbollah disarmament with a phased Israeli withdrawal - amounted to \"Israeli dictates\" giving Israel everything it wants, and accused Beirut of relinquishing sovereignty and putting the Lebanese army under untenable pressure: \"How can you accept this ongoing humiliation of the Lebanese army.\"",
+    "source": "https://www.upi.com/Top_News/World-News/2026/08/14/lebanon-hezbollah-criticizes-lebanese-leaders-israel/4971786733430/",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "Houthis claim drone strike on Aramco facility in Saudi Arabia's Najran",
+    "direction": "Escalating",
+    "description": "A Houthi military source told the group-run SABA news agency that a drone struck \"Aramco Najran\" in southern Saudi Arabia and had \"successfully achieved its goal.\" The Houthis said the attack answered Saudi military aircraft violating Yemeni airspace over the northeastern part of Saada governorate. Neither Saudi authorities nor Aramco confirmed the claim, and it remained unclear whether the facility was hit. The strike is the second Houthi attack on Saudi energy infrastructure this month after the August 9 drone fire at the Jizan refinery.",
+    "source": "https://boereport.com/2026/08/14/houthis-say-they-targeted-aramco-in-saudi-arabias-najran-with-drone/",
+    "actor": "Iran|Saudi Arabia"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "US-Iran ceasefire set to expire August 17 with talks at a standstill",
+    "direction": "Escalating",
+    "description": "Politico reported the monthlong US-Iran ceasefire brokered under the Islamabad memorandum of understanding is set to lapse Monday, August 17, absent a last-minute extension. Negotiations have stalled over security guarantees and freedom of navigation through the Strait of Hormuz, with Tehran demanding Washington first return to the June 17 interim deal and set a timetable for its commitments. Pakistani sources had told Anadolu on August 12 that both sides conveyed consent to mediators to extend the deadline, but Iran publicly denied any such agreement.",
+    "source": "https://politicalwire.com/2026/08/14/u-s-iran-ceasefire-set-to-expire-with-talks-at-a-standstill/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "Trump calls Lincoln's record 240-day deployment 'not nearly long enough'",
+    "direction": "Neutral",
+    "description": "Asked about mental-health and supply problems aboard the USS Abraham Lincoln after nearly nine months at sea, Trump dismissed family complaints and said the deployment - a record uninterrupted run of more than 240 days - is \"not nearly long enough.\" He added that \"that ship is moving right now, or very shortly, and it's being replaced with another very similar ship,\" referring to the USS George Washington, which left Da Nang, Vietnam, last week. Trump and his advisers had said the war with Iran would last weeks; it is now more than five months old.",
+    "source": "https://www.cp24.com/news/world/2026/08/14/trump-says-record-setting-us-navy-deployment-to-support-iran-operations-not-nearly-long-enough/",
+    "actor": "US"
+  },
+  {
     "date": "2026-08-13",
     "title": "UAE says Iran attacked two ADNOC vessels in Hormuz, calls it piracy",
     "direction": "Escalating",
