@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-08-16",
+    "title": "IDF names 2 Hezbollah commanders killed as Lebanon toll hits 11",
+    "direction": "Escalating",
+    "description": "The IDF said its overnight strikes in Ansar and Deir al-Zahrani killed Ali Samir Al-Haj Hassan, a commander in Hezbollah's elite Radwan Force, and Ali Muhammad Fakhr al-Din (Abu Hassan Alaa) of the Badr Force. Lebanese authorities put the toll at 11 dead, including three children and two women; Israel acknowledged civilian deaths and said Hezbollah had 'deliberately put civilians in that military compound.' Defence Minister Israel Katz said: 'No account on any front will remain unsettled. We will forcefully defend our soldiers.'",
+    "source": "https://www.timesofisrael.com/israeli-strikes-kill-11-in-south-lebanon-idf-says-raids-in-response-to-hezbollah-action/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "Iran executes Shahram Sadeghi in Karaj over January protest incident",
+    "direction": "Escalating",
+    "description": "Iran executed Shahram Sadeghi in Karaj, west of Tehran, for driving a car into police officers during the January unrest, an incident on January 8 that wounded seven officers. The judiciary said he was sentenced to death for 'having carried out an operational action in support of the Zionist regime.' Iran Human Rights Monitor has documented at least 38 political executions since March 19.",
+    "source": "https://www.timesofisrael.com/liveblog-august-16-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Hezbollah drone wounds 3 IDF soldiers at Ali Taher Ridge",
+    "direction": "Escalating",
+    "description": "A Hezbollah explosive drone struck around 2:30 a.m. near soldiers of the IDF's elite Yahalom combat engineering unit on the Ali Taher Ridge in southern Lebanon, seriously wounding an officer and two soldiers. Netanyahu's office called it a ceasefire violation and ordered strikes on a Hezbollah headquarters in response. One of the three wounded was later listed in moderate condition.",
+    "source": "https://www.jpost.com/israel-news/defense-news/article-905613",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Yemen's Mokha port suspends all operations after 25+ Houthi missiles",
+    "direction": "Escalating",
+    "description": "Mokha's port director announced the suspension of all commercial and maritime operations after more than 25 missiles hit the Red Sea port in recent days, killing seven people and causing an estimated $16 million in losses. Yemen's government said the Houthis fired six ballistic missiles at Mokha on Friday alone, killing at least four civilians. Mokha sits near the Bab al-Mandeb strait and is held by forces aligned with Yemen's internationally recognised government.",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/08/15/yemen-s-mokha-port-halts-operations-after-houthi-attacks-port-director-says",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Iran says Qatar has held 3 Su-24 pilots for 6 months; Doha denies",
+    "direction": "Escalating",
+    "description": "Brig. Gen. Mohammad Bagherzadeh, head of Iran's Armed Forces Missing Persons Search Committee, wrote to ICRC President Mirjana Spoljaric Egger demanding the release of pilots Javad Salehi, Abdolmajid Dashtian and Omran Behraveshian, downed in two Su-24s in March and held incommunicado since. Qatari spokesman Majed Al Ansari replied that Doha 'categorically denies the claims,' saying the jets breached Qatari airspace, ignored warnings and were engaged, and that only the remains of pilot Majid Kazemi were recovered and repatriated.",
+    "source": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots",
+    "actor": "Iran|Qatar"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "CENTCOM's Cooper visits USS Abraham Lincoln in 9th month at sea",
+    "direction": "Neutral",
+    "description": "Adm. Brad Cooper spent several hours aboard the USS Abraham Lincoln, the only ship he visited on a 10-day regional tour, days after sailors' families reported food shortages, water problems and broken showers and laundry. The carrier left port in late November 2025 and is in its ninth month deployed. Cooper told the crew: 'History will record this deployment as one of the most operationally intense and consequential of the modern era.'",
+    "source": "https://thehill.com/policy/defense/6031712-adm-cooper-visits-uss-abraham-lincoln/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Hormuz traffic at 17% of pre-war average; blockade has redirected 55 ships",
+    "direction": "Neutral",
+    "description": "Shipping through the Strait of Hormuz over the past seven days ran at 17% of the pre-conflict average. Since US forces reimposed the blockade on Iranian ports on July 13, they have redirected 55 commercial vessels, disabled two and boarded two to enforce compliance, up from 44 redirected as of August 3.",
+    "source": "https://www.cnn.com/2026/08/15/world/live-news/iran-war-trump",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Iran resumes scheduled domestic flights at Bandar Abbas airport",
+    "direction": "De-escalating",
+    "description": "Iranian state media said Bandar Abbas International Airport resumed scheduled flights on high-traffic domestic routes after repeated wartime interruptions, with tickets on sale for Tehran, Mashhad and Isfahan services in both directions. The airport handled 35 to 40 domestic and international flights a day before the war and had reopened on a limited basis on July 5 after a four-month closure.",
+    "source": "https://english.aawsat.com/world/5307539-iran-resumes-flights-bandar-abbas-airport-after-wartime-disruptions",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Chinese ship Dubai Tower opens Arctic liner route bypassing Hormuz",
+    "direction": "Neutral",
+    "description": "The 1,740-TEU container ship Dubai Tower sailed from Ningbo-Zhoushan on the first voyage of Sea Legend Shipping's China-Europe Arctic Express, a scheduled weekly liner service via Russia's Northern Sea Route. It is due at Felixstowe in early September, a roughly 20-day passage against 32 to 40 days via Suez, and avoids both the Red Sea and the Strait of Hormuz. Eight departures are booked for the 2026 Arctic season, the last on October 3.",
+    "source": "https://www.maritime-executive.com/article/china-s-sea-legend-poised-to-launch-first-regular-ice-silk-road-service",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "Iran hits third ADNOC vessel in Hormuz in a week; UAE vows dialogue",
+    "direction": "Escalating",
+    "description": "The UAE accused Iran of striking a third ADNOC vessel in under a week as it transited the Strait of Hormuz on Friday. ADNOC reported no injuries and said the situation was under control; UKMTO logged a bulk carrier hit by an unknown projectile in the waterway the same day. Anwar Gargash, diplomatic adviser to the UAE president, said Abu Dhabi will 'safeguard our rights to freedom of navigation … while continuing the path of dialog and prioritizing diplomatic options.'",
+    "source": "https://gcaptain.com/uae-says-iran-attacked-another-adnoc-vessel-in-hormuz/",
+    "actor": "Iran|UAE"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "Salvors board Caroline Bezengi as Oman slick reaches 1,300 sq km",
+    "direction": "Neutral",
+    "description": "Risk firm Ambrey said specialist personnel boarded the stricken shadow-fleet tanker Caroline Bezengi to begin stabilising its cargo, with salvage vessels to follow. Greenpeace satellite analysis put the slick at about 1,300 sq km on August 12, up from 400 sq km on August 5 and 45 sq km in late July. Ambrey's Ed Wollaston called it an 'extremely challenging situation' worsened by monsoon weather; the International Oil Pollution Compensation Funds declined to get involved, judging the incident an act of war.",
+    "source": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says",
+    "actor": "Other"
+  },
+  {
     "date": "2026-08-15",
     "title": "Israeli airstrike on home in Ansar kills 7, deadliest since June framework",
     "direction": "Escalating",
