@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-08-17",
+    "title": "US-Iran 60-day MoU lapses with no deal; Trump: 'nobody to negotiate with'",
+    "direction": "Escalating",
+    "description": "The 60-day window set by the June 17 Islamabad memorandum of understanding expired at midnight without a final agreement, leaving the war in its sixth month with no framework. The MoU obliged Washington to end its naval blockade within 30 days, lift sanctions and fund a $300bn reconstruction package, and Tehran to clear mines from the Strait of Hormuz and guarantee free passage for 60 days. Trump told reporters 'There's nobody to negotiate with,' while Iran's Deputy Foreign Minister Kazem Gharibabadi said the strait 'was Iran's, is Iran's, and will remain Iran's.' Iran maintains the 60-day clock never began because the US violated the accord and kept striking.",
+    "source": "https://www.thenationalnews.com/news/us/2026/08/16/deadline-for-us-iran-agreement-expires-with-stalemate-set-to-continue/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "WSJ: Iran decided to violate the June MoU the moment it was signed",
+    "direction": "Escalating",
+    "description": "The Wall Street Journal reported that hardliners in Iran's leadership met immediately after the June memorandum was signed and resolved to treat it as preparation for the next round of war rather than its end. The decisions included granting the IRGC broader authority over Iran's armed forces, installing Iran-Iraq War veterans in senior commands, and accelerating missile and drone production. IRGC spokesman Brig. Gen. Hossein Mohebbi had said in July: 'We took full advantage of the cease-fire period. We enhanced our capabilities, accelerated our missile production rate and improved missile accuracy.' The strategy centres on raising the cost of the war for the US and striking Gulf states.",
+    "source": "https://www.israelnationalnews.com/news/431807",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Iranian hardline papers advertise 3-billion-toman bounty for killing US troops",
+    "direction": "Escalating",
+    "description": "Hardline newspapers in Tehran ran front-page notices offering 3 billion tomans — roughly $30,000 — for anyone who kills or captures an American serviceman, with the text reading: 'Kill or capture any American invader and receive a 3 billion toman reward.' The bounty appeared as the US-Iran memorandum of understanding lapsed and the IRGC publicly shifted to an offensive posture.",
+    "source": "https://www.iranintl.com/en/liveblog/202608153827",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Iran's parliament approves framework of 'infiltration' bill criminalising foreign contact",
+    "direction": "Escalating",
+    "description": "Iran's parliament approved the general framework of an 'infiltration' bill that would criminalise contact with foreign journalists, academic cooperation with foreign institutions, and unauthorised contact with foreign embassies. The measure extends the wartime security crackdown that has already produced at least 56 executions on national-security charges since March 19, 27 of them tied to the January nationwide protests.",
+    "source": "https://www.iranintl.com/en/liveblog/202608153827",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Iran declares Hormozgan coastal oil-spill cleanup complete",
+    "direction": "Neutral",
+    "description": "Hamidreza Mohammadhosseini Takhti, a Hormozgan ports official, said crews had finished cleaning oil-contaminated stretches of Iran's southern coastline: 'the cleanup of the polluted areas has been completed, and the coastline remains under monitoring.' The announcement covers the Iranian side of the slick that left dark residue in shallow water on Qeshm Island on August 13; the separate slick off Oman from the stricken tanker Caroline Bezengi had reached 1,300 square kilometres by August 14.",
+    "source": "https://www.iranintl.com/en/liveblog/202608153827",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "IRGC's Javani says Iran shifts to offensive posture under 'maximum deterrence'",
+    "direction": "Escalating",
+    "description": "Brig. Gen. Yadollah Javani, political deputy of the IRGC, said Iran's military doctrine is moving from a defensive to an offensive footing under decrees issued by Supreme Leader Mojtaba Khamenei, with newly appointed commander-in-chief Maj. Gen. Ahmad Vahidi mandated to pursue 'maximum deterrence.' 'The enemy should know that it cannot catch us off guard. Instead, it is the enemy that must anticipate strategic surprises,' Javani said, adding that 'whatever is necessary to defend this land, ensure security, and neutralize enemy threats will be executed at the appropriate time.'",
+    "source": "https://www.presstv.co.uk/Detail/2026/08/16/774499/Enemy-should-expect-strategic-surprises-IRGC-commander-warns-of-shift-to-offensive-posture",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "IDF cuts water lines to besieged Ali Taher tunnel; Netanyahu vows more Lebanon strikes",
+    "direction": "Escalating",
+    "description": "Israeli forces severed water supply lines into the Hezbollah tunnel complex under the Ali Taher ridge in southern Lebanon and intercepted drones the group used to resupply roughly 40 operatives trapped more than a kilometre underground. Netanyahu said: 'In recent days Israel has acted forcefully in Lebanon, eliminating terrorists, including on the Ali Taher ridge,' framing the weekend strikes that killed 11 people as retaliation for the Hezbollah drone that wounded three Israeli soldiers on August 15, and warning Israel would strike again if threatened.",
+    "source": "https://www.ynetnews.com/article/syiznpdlzx",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "Trump praises Mecca defence pact as 'BIG, BOLD, AND IMPORTANT FIRST STEP'",
+    "direction": "Neutral",
+    "description": "Trump used Truth Social to endorse the Mecca Joint Defence Agreement signed on August 7 by Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan and Pakistani Prime Minister Shehbaz Sharif, calling it a 'BIG, BOLD, AND IMPORTANT FIRST STEP' that 'shows how the Middle East is coming together, and how Countries will finally be able to defend themselves in a more meaningful way.' Pakistani Foreign Minister Ishaq Dar called the pact 'purely defensive in nature'; Saudi deputy minister Rayed Krimly said it was not a military axis or a sectarian bloc.",
+    "source": "https://www.turkiyetoday.com/world/trump-praises-mecca-defense-pact-between-saudi-arabia-turkiye-and-pakistan-3226221",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "Qatar's PM works Saudi, Jordanian and Syrian counterparts to salvage the MoU",
+    "direction": "De-escalating",
+    "description": "Qatari Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani held separate phone calls with Saudi Foreign Minister Prince Faisal bin Farhan, Jordanian Deputy Prime Minister Ayman Safadi and Syrian foreign chief Asaad al-Shaibani, urging all parties to honour the US-Iran memorandum of understanding and guarantee freedom of navigation through the Strait of Hormuz. The calls came a day before the memorandum's 60-day deadline expired, part of a wider Doha push that also reached the UAE, Kuwaiti, Omani and Bahraini foreign ministers.",
+    "source": "https://english.news.cn/20260817/168f036abe7a44a7a1f7ab24e67cf2ba/c.html",
+    "actor": "Qatar"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "US envoy Clearfield presses Beirut on ceasefire as Washington ties security to disarmament",
+    "direction": "Neutral",
+    "description": "Gen. Joseph Clearfield held a round of meetings in Beirut with President Joseph Aoun, Prime Minister Nawaf Salam and Parliament Speaker Nabih Berri on implementing the Israel-Lebanon ceasefire, but no date was set for the next round of Israeli-Lebanese delegation talks and the questions of Israeli withdrawal zones and the composition of the verification committee remain unresolved. A US official told The Jerusalem Post that Hezbollah disarmament is 'integral' to any border security arrangement: 'This is precisely why Hezbollah must be disarmed and dismantled.'",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-08-17/ty-article-live/kushner-lands-in-israel-after-meeting-hamas-officials-in-bid-to-save-gaza-truce/000001a0-0c64-d88f-abbf-dcedc81e0000",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "Coalition shoots down 3 explosive drones over Erbil in 8-minute window",
+    "direction": "Escalating",
+    "description": "US-led Global Coalition air defences intercepted three explosive-laden drones over Erbil, capital of Iraq's Kurdistan Region, between 2:17 and 2:25 a.m. local time, according to the Erbil-based Directorate General of Counter Terrorism. Debris fell in a residential area near Erbil international airport and no casualties were reported. It was the second multi-drone attack on the city in a month, after six drones were intercepted in July.",
+    "source": "https://www.rudaw.net/english/categories/kurdistan/1078821",
+    "actor": "Iraq"
+  },
+  {
     "date": "2026-08-16",
     "title": "IDF names 2 Hezbollah commanders killed as Lebanon toll hits 11",
     "direction": "Escalating",
