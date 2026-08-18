@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-08-18",
+    "title": "Vessel hit by projectile in Hormuz; engine room wrecked, one crew casualty",
+    "direction": "Escalating",
+    "description": "UKMTO reported that a merchant vessel transiting outbound through the Strait of Hormuz was struck by an unknown projectile, damaging its engine room and causing one crew casualty. The Omani Coast Guard assisted the remaining crew. No environmental impact was reported and neither the ship's name nor the attacker was disclosed.",
+    "source": "https://www.arabnews.com/node/2655036/middle-east",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Hormuz transits fall to 2-6 ships a day with no VLCC or LNG traffic",
+    "direction": "Escalating",
+    "description": "Six commodity ships crossed the Strait of Hormuz on Monday, against a 10-day average of 11 and roughly 110 daily transits before the war. Weekend traffic was lower still at three crossings Saturday and two Sunday. No very large crude carriers and no LNG tankers passed through the strait during the period.",
+    "source": "https://www.arabnews.com/node/2655036/middle-east",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Trump approval falls to 33%, the lowest of his presidency, as war drags on",
+    "direction": "Neutral",
+    "description": "A four-day Reuters/Ipsos poll of 1,166 US adults ending Monday put Trump's approval at 33% and disapproval at 64%, matching his December 2017 low. Eighty percent of respondents said US involvement in the Iran war would continue for an extended period and only 16% expected it to end within weeks; just one in five called the conflict worthwhile. Voters now prefer Democrats over Republicans on the economy, 38% to 35%, the first such lead in about a decade.",
+    "source": "https://www.timesofisrael.com/trumps-approval-rating-sinks-to-presidency-low-of-33-as-iran-war-drags-on/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Erdogan urges Trump by phone to keep talking to Tehran, offers Turkish mediation",
+    "direction": "De-escalating",
+    "description": "The Turkish presidency said Tuesday that President Recep Tayyip Erdogan told Trump in a phone call that 'it is of great importance to make the utmost of diplomacy regarding the tensions between Iran and the United States' and that Ankara would keep supporting peace efforts. Turkey's foreign minister separately spoke with his Iranian counterpart about reopening the Strait of Hormuz. The two leaders also discussed Gaza and the Turkey-Saudi-Pakistan defence pact.",
+    "source": "https://www.al-monitor.com/originals/2026/08/erdogan-urges-trump-pursue-talks-iran-offers-support",
+    "actor": "Turkey"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Unexploded ordnance wounds 6 Thai farm workers near Metula, 2 seriously",
+    "direction": "Neutral",
+    "description": "Six Thai agricultural workers were wounded Tuesday morning when a previously undiscovered munition detonated on a farm near Metula in northern Israel. Two men aged around 40 were airlifted to Rambam Hospital in serious condition with multi-system injuries and a third with a chest wound; three others were taken to Ziv Hospital in Safed in light condition. Israel Police opened an investigation and the origin of the ordnance has not been determined.",
+    "source": "https://www.jpost.com/israel-news/article-905842",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Trump threatens to bomb Oman if it 'gets in the way' on Hormuz",
+    "direction": "Escalating",
+    "description": "Asked on Fox News about Omani-Iranian talks on reopening the Strait of Hormuz, Trump said 'If Oman gets in the way, we'll bomb the shit out of them.' Oman is a US free-trade partner and has hosted or brokered every round of US-Iran contact since February. The threat came hours after the 60-day memorandum of understanding expired without a successor deal.",
+    "source": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Trump demands Iran 'put up the white flag of surrender', confirms IRGC backchannel",
+    "direction": "Escalating",
+    "description": "Trump told Fox News he has 'no time schedule' to end the war — 'I'm not in a hurry' — and that Iran should 'put up the white flag of surrender.' He confirmed for the first time a direct backchannel between US officials and members of the Islamic Revolutionary Guard Corps, calling the Iranians 'good poker players, but they're dying.' He restated that stopping an Iranian nuclear weapon is 'the number one Goal', contradicting Vance's August 13 claim that cheap oil was the war's first objective.",
+    "source": "https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls-irans-white-flag-surrender.amp",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Iranian official tells Reuters Tehran goes 'fully offensive', sets weeks-long ultimatum",
+    "direction": "Escalating",
+    "description": "A senior Iranian official told Reuters that Iran is shifting from a defensive to a 'fully offensive' posture because talks to end the war have stalled, and that Iranian entities 'must be prepared to escalate tensions in the Strait of Hormuz and wider region.' Tehran will give Washington a 'short period of a few weeks' to implement every provision of the June MoU, with mediators passing the deadline to the US and regional states, and threatened a 'timely and precise' military attack to break the US naval blockade if it is ignored.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-905793",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Iran says it has agreed a Hormuz transit route map with Oman",
+    "direction": "De-escalating",
+    "description": "Iranian Foreign Ministry spokesman Esmail Baghaei said 'an understanding has been reached regarding the map of the transit route' with Oman, under which ships would enter the Gulf via Iranian-adjacent lanes and exit through Omani-adjacent lanes with no fees during an interim period. Washington has not endorsed the arrangement, and Iran continues to insist the strait itself will not reopen until its wider conditions are met.",
+    "source": "https://www.timesofisrael.com/as-60-day-mou-deadline-expires-iran-says-it-has-reached-a-deal-with-oman-on-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Pentagon awards Raytheon $22.9bn to lift Tomahawk output past 1,000 a year",
+    "direction": "Escalating",
+    "description": "The Navy awarded RTX subsidiary Raytheon a seven-year, $22.9 billion contract to raise annual Tomahawk cruise missile production to more than 1,000 rounds, firming up a framework agreement signed in February. The Department of War announced the award under its 'Arsenal of Freedom' initiative. The buy follows Pentagon disclosures that US strikes on Iran have consumed the bulk of long-range strike and interceptor stockpiles.",
+    "source": "https://www.militarytimes.com/news/pentagon-congress/2026/08/17/us-awards-raytheon-229-billion-deal-to-boost-tomahawk-output/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Two Iranian Hadid-110 drones target Kurdish PM Barzani's office in Erbil",
+    "direction": "Escalating",
+    "description": "Two explosive-laden Hadid-110 drones launched from Iranian territory at about 12:28am struck the private office of Kurdistan Regional Government Prime Minister Masrour Barzani and the residence of the head of the Parastin intelligence agency in Pirmam, Erbil province, the Kurdistan Counter-Terrorism Service said. No casualties were reported. Barzani called the attack 'a dangerous step and a direct threat to the security and stability' of the region. Kurdistan has been hit by 16 drones and three missiles in the first two weeks of August.",
+    "source": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack",
+    "actor": "Iran|Iraq"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Houthis fire ballistic missiles at Saudi landing ship and 4 patrol boats off Mokha",
+    "direction": "Escalating",
+    "description": "Houthi military spokesman Yahya Saree said the group hit a Saudi military landing ship and its four escorting patrol boats in the Red Sea off Mokha with several ballistic missiles, claiming the landing ship was 'completely burned' and that several escorts sank or caught fire. Yemen's Taiz military command said it tracked two hypersonic ballistic missiles heading toward Mokha and the Red Sea coast. Riyadh did not confirm the losses. The strike extends the maritime blockade the Houthis declared against Saudi Arabia on July 20.",
+    "source": "https://www.turkiyetoday.com/region/houthis-claim-strike-on-saudi-military-vessel-4-boats-in-red-sea-3226269",
+    "actor": "Iran|Saudi Arabia"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Kaine will file war powers resolution barring US military action against Oman",
+    "direction": "De-escalating",
+    "description": "Senator Tim Kaine (D-Va.) announced he will introduce a War Powers Resolution prohibiting military action against Oman as soon as the Senate returns from recess in mid-September. Kaine said threatening to bomb a country with which the US has a free trade agreement and a long diplomatic relationship serves the interests of adversaries like China and Russia. House Democrats signalled a parallel push.",
+    "source": "https://www.kaine.senate.gov/press-releases/kaine-will-challenge-trumps-deranged-threat-to-bomb-the-shit-out-of-oman",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Kushner says US-Iran contacts are 'more robust than ever' despite MoU lapse",
+    "direction": "Neutral",
+    "description": "Jared Kushner, on a Middle East trip, told Fox News that conversations between the US and Iranian governments 'have probably been more robust than ever' but that the two sides have not converged on terms. He said 'Trump doesn't want to rush into a deal, he'll make the right deal when it's ready,' and that Washington would keep leaning on the blockade and economic pressure rather than a new offensive, with a deal available if Iran surrenders its nuclear weapons capability.",
+    "source": "https://www.jpost.com/international/article-905819",
+    "actor": "US"
+  },
+  {
     "date": "2026-08-17",
     "title": "US-Iran 60-day MoU lapses with no deal; Trump: 'nobody to negotiate with'",
     "direction": "Escalating",
