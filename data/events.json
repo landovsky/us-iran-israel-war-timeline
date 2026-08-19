@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-08-19",
+    "title": "IDF jets strike Ali al-Tahir ridge and Kfar Rumman in south Lebanon",
+    "direction": "Escalating",
+    "description": "Lebanese media reported that Israeli Air Force jets carried out strikes early Wednesday on the Ali al-Tahir ridge and in Kfar Rumman in southern Lebanon, extending the siege of the area around the Ali Taher tunnel. No casualties or targets were specified in initial reports.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-08-19/ty-article-live/reports-idf-strikes-several-locations-in-southern-lebanon/000001a0-17aa-d77e-abb5-d7aec7800000",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "France to expel 2 Iranian diplomats over Tehran's detention of French envoys",
+    "direction": "Escalating",
+    "description": "French Foreign Minister Jean-Noel Barrot said France will expel two Iranian diplomats in the coming days in retaliation for Tehran's \"intolerable\" treatment of two French diplomats, including a cultural attache, who were detained and questioned for hours in Tehran in July over accusations of \"interference.\" Iran's foreign ministry told France on Monday the two French diplomats would not be allowed to return, prompting the expulsion order. Iran denies any mistreatment.",
+    "source": "https://www.bloomberg.com/news/articles/2026-08-18/france-to-expel-two-iranian-diplomats-foreign-minister-says",
+    "actor": "France|Iran"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Trump posts map declaring Strait of Hormuz 'New US Territory'",
+    "direction": "Escalating",
+    "description": "Trump posted an image on social media showing the Strait of Hormuz labeled \"New US Territory,\" following through on his August 14 threat to declare the waterway a US territory once Iran is \"defeated.\" The post came the same day the US-Iran 60-day MoU lapsed without a deal.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "UAE suspends all trade and financial transactions with Iran",
+    "direction": "Escalating",
+    "description": "The UAE Ministry of Foreign Affairs halted all trade, commercial exchanges, and financial transactions with Iran \"until further notice,\" citing regional escalation. Spokesperson Afra Al Hameli said the decision responds to developments harming regional and international peace and security, hours after Iranian missiles were detected heading toward UAE territory.",
+    "source": "https://www.thenationalnews.com/news/uae/2026/08/18/uae-suspends-trade-and-financial-transactions-with-iran/",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Iran fires 2 ballistic missiles at UAE; one lands in territorial waters",
+    "direction": "Escalating",
+    "description": "UAE air defense detected two ballistic missiles launched from Iran on Tuesday evening; one fell in UAE territorial waters and the second fell outside them. A phone alert went out at 6:52pm to Dubai and Sharjah residents, with an all-clear issued by 7:02pm; no casualties or damage were reported. Iranian foreign ministry spokesperson Esmaeil Baghaei called the accusation \"unfounded\" and warned regional states to be vigilant against \"false-flag operations.\"",
+    "source": "https://www.thenationalnews.com/news/uae/2026/08/18/uae-air-defence-systems-respond-to-missile-threat/",
+    "actor": "Iran|UAE"
+  },
+  {
     "date": "2026-08-18",
     "title": "Vessel hit by projectile in Hormuz; engine room wrecked, one crew casualty",
     "direction": "Escalating",
