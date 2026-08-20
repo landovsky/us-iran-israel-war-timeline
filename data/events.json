@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-20",
+    "title": "Araghchi dismisses 'Economic D-Day' as cover for $40tn US debt",
+    "direction": "Neutral",
+    "description": "Iranian Foreign Minister Abbas Araghchi rejected Trump's sanctions announcement on X, calling the \"so-called 'Economic D-Day'\" a diversion from America's own crisis of \"unprecedented debt and sky-high interest costs\" and attaching a New York Times report on US national debt crossing $40 trillion. \"Doubling down on failed policies will only bring further defeat - and enmity of Iranians,\" he wrote, adding that \"US economic terrorism threatens the global economy and worldwide sovereignty.\" Iranian state media called the announcement \"not a new development.\"",
+    "source": "https://uk.lapresse.it/world-en/2026/08/20/iran-araghchi-economic-d-day-is-a-us-ploy-to-hide-its-own-crisis/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "Iran executes Ghaem Hosseini over January Isfahan protests",
+    "direction": "Escalating",
+    "description": "Iran's judiciary executed Ghaem Hosseini, a foreign national also known as Arian, over his role in the January protests in Isfahan. He was convicted of drawing a weapon, \"creating fear and terror\" and disrupting public security. Hosseini was one of twelve men sentenced to death in the \"Alikhani Square\" case, opened after four security personnel died during clashes with protesters on January 8; his execution had been halted without explanation on July 28.",
+    "source": "https://www.iranintl.com/en/liveblog/202608153827",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "Iraqi Airways restarts flights to Iran's Rasht after wartime halt",
+    "direction": "De-escalating",
+    "description": "Iraqi Airways resumed service to Rasht airport in Iran's Gilan province with nine weekly flights, the first scheduled Iraqi civil aviation link to Iran since the wartime suspension. Iran's Civil Aviation Organization said 18 weekly flights from Baghdad and Najaf are planned for the following week.",
+    "source": "https://www.iranintl.com/en/liveblog/202608153827",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Trump declares 'ECONOMIC D-DAY' on Iran, threatens any state aiding Tehran",
+    "direction": "Escalating",
+    "description": "Trump announced on Truth Social the \"MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY,\" promising \"Economic Warfare and Isolation on an unprecedented scale.\" He warned that \"ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences,\" naming oil smuggling, swap lines, cash transfers, exchange houses, ship registries and front companies as targets. The announcement came hours after the UAE cut financial ties with Tehran and builds on the existing Operation Economic Fury sanctions and naval blockade.",
+    "source": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "FT: Iran weighs strikes on US bases in Europe; NATO vows to defend allies",
+    "direction": "Escalating",
+    "description": "The Financial Times reported that Iranian planners have assessed US military sites in southeastern Europe as targets should Washington launch a renewed offensive, naming Bezmer air base in Bulgaria - recently cleared for US refuelling aircraft - and a British airbase in Cyprus already struck by an Iranian drone. A NATO official said the alliance is \"prepared to address any threat and will always do what is necessary to defend all Allies.\" Bulgarian Interior Minister Ivan Demerdzhiev said protective measures at Bezmer were \"far more extensive and intensive than the level of threat indicated.\"",
+    "source": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans",
+    "actor": "Iran|NATO"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Trump claims 'complete control' of Hormuz, says talks may resume 'at some point'",
+    "direction": "Neutral",
+    "description": "Trump told reporters the US has \"possession, complete control of the strait\" apart from \"nuisance value,\" and said roughly 5 million barrels a day are moving through Hormuz against 15 million before the war. He said formal negotiations with Tehran could resume \"maybe at some point\" while insisting \"Iran cannot have a nuclear weapon and they won't,\" two days after the June memorandum of understanding lapsed with no successor deal.",
+    "source": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "CENTCOM says blockade has redirected 65 vessels since July 14 restart",
+    "direction": "Escalating",
+    "description": "US Central Command said its naval blockade of Iranian ports has redirected 65 commercial vessels since it resumed on July 14, including one in the previous 24 hours. The figure is up from the 62 redirected, three disabled and two boarded that CENTCOM reported on August 15.",
+    "source": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Brent climbs toward $92 in fourth straight session of gains",
+    "direction": "Escalating",
+    "description": "Brent crude rose toward $92 a barrel and WTI traded above $85 as US-Iran talks stayed deadlocked and the naval blockade held. Eight attacks on vessels transiting Hormuz have been logged this month, including ships linked to the UAE and Saudi Arabia, and three China-linked supertankers turned back mid-transit.",
+    "source": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Abu Dhabi cancels Shakira and Christina Aguilera concerts over escalation",
+    "direction": "Neutral",
+    "description": "Organisers cancelled a Shakira festival appearance and a Christina Aguilera concert in Abu Dhabi, citing regional escalation, and offered refunds with no rescheduled dates. The cancellations followed the Iranian missile alert over Dubai and Sharjah the previous evening and the UAE's suspension of trade with Iran.",
+    "source": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "US charges 17 Iranians over IRGC cyber theft from 144 universities",
+    "direction": "Escalating",
+    "description": "The Justice Department unsealed a 14-count superseding indictment in Manhattan federal court charging 17 members of Iran's Mabna Institute with conducting cyber intrusions for the IRGC, expanding a 2018 case against nine defendants by eight names. Prosecutors say the group breached at least 144 US universities, 178 foreign universities, 42 US companies and five federal agencies, stealing more than 31 terabytes of academic data and intellectual property. The campaign targeted over 100,000 professors' accounts worldwide and compromised about 8,000.",
+    "source": "https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary",
+    "actor": "US"
+  },
+  {
     "date": "2026-08-19",
     "title": "IDF jets strike Ali al-Tahir ridge and Kfar Rumman in south Lebanon",
     "direction": "Escalating",
