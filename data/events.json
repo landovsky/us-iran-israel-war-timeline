@@ -1,6 +1,70 @@
 [
   {
     "date": "2026-08-20",
+    "title": "Bessent vows 'toughest sanctions in history', says US will 'collapse this regime'",
+    "direction": "Escalating",
+    "description": "US Treasury Secretary Scott Bessent told CNBC's 'Squawk on the Street' that Washington will impose 'the toughest sanctions in history' on Iran, calling the package a 'one-two punch' alongside the naval blockade. 'It is going to work in Iran and we are going to collapse this regime,' Bessent said, adding that the approach 'worked in Venezuela once we put up the blockade.' He urged Beijing to cooperate — China buys more than 80% of Iran's seaborne oil, per 2025 Kpler data — and said he would hold a press conference Monday to detail the measures.",
+    "source": "https://www.al-monitor.com/originals/2026/08/bessent-says-us-will-impose-toughest-ever-sanctions-iran-urges-china-cooperate",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "US sanctions 10-man Hezbollah cash network, redesignates group as IRGC-Quds proxy",
+    "direction": "Escalating",
+    "description": "The US Treasury sanctioned 10 individuals it says run a courier network moving up to hundreds of millions of dollars for Hezbollah on commercial flights between Lebanon, Turkey, the UAE and Iran, outside the formal financial system. Turkish businessman Yunus Alper Yilmaz was named as a network manager. The Trump administration simultaneously redesignated Hezbollah to specify it acts on behalf of the IRGC's Quds Force; a State Department official said the move establishes Hezbollah 'is an Iranian proxy, not a stand-alone operation' and 'not a Lebanese resistance movement.'",
+    "source": "https://www.al-monitor.com/originals/2026/08/us-treasury-issues-hezbollah-sanctions-labels-group-iran-linked",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "Trump says Iran was 'two weeks away' from a bomb, would use one 'without question'",
+    "direction": "Escalating",
+    "description": "Speaking on New York's 77 WABC radio, President Donald Trump said Iran 'were exactly two weeks away from having a new nuclear weapon' before US and Israeli strikes, and said the Iranian government would use a nuclear weapon 'without question' if it obtained one. Trump also said 'Iran became the bully of the Middle East.' He offered no evidence for the two-week timeline, which goes beyond published US and IAEA assessments.",
+    "source": "https://www.foxnews.com/live-news/iran-war-trump-economic-warfare-strait-hormuz-08-20-26",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "IRGC's Mohebbi warns next war would use different, more destructive warheads",
+    "direction": "Escalating",
+    "description": "IRGC spokesman Brigadier General Hossein Mohebbi told Tasnim that if fighting resumes, 'the weapons we use will be completely different from the past in every respect,' and said the destructive power of the warheads on IRGC missiles is far greater than in previous rounds. 'This difference could be reflected in the generation of warheads, strike precision, missile range or any other area,' Mohebbi said, referencing what Tehran calls the 12-day and 40-day wars.",
+    "source": "https://www.presstv.co.uk/Detail/2026/08/20/774722/Iran-IRGC-missiles-weapons",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "Brent settles at $93.78, highest close since July 24, as tanker rates hit $500,000 a day",
+    "direction": "Escalating",
+    "description": "Brent crude settled up 2.4% at $93.78 a barrel and WTI September futures rose 2.3% to $87.83, the strongest close for both since July 24, after Bessent's sanctions threat. Tanker charter rates reached $500,000 a day and the BWET shipping ETF is up 98% over the past month. Analysts at Ritterbusch and Associates said the sanctions push was 'unlikely to sway Iran into relinquishing their primary source of leverage.'",
+    "source": "https://www.middleeasteye.net/news/us-vows-collapse-iran-new-sanctions-energy-prices-spike",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "China rejects US sanctions drive: 'sanctions and pressure do not help'",
+    "direction": "Neutral",
+    "description": "Chinese foreign ministry spokesperson Lin Jian pushed back on Trump's 'Economic D-Day' campaign, saying 'imposing sanctions and pressure do not help to solve the issue' and calling on the parties to work through diplomatic and political means. Beijing gave no indication it would curb purchases of Iranian crude, which account for more than 80% of Iran's seaborne oil exports and which Bessent had asked China the same day to cut off.",
+    "source": "https://www.thenews.com.pk/latest/1412933-trumps-economic-d-day-on-iran-draws-response-from-china",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "USS Abraham Lincoln leaves Middle East after record 272-day deployment",
+    "direction": "Neutral",
+    "description": "The USS Abraham Lincoln departed the Middle East for a 13,000-mile transit to San Diego, ending a 272-day deployment that set a modern Navy record for time at sea without a port call. The USS George Washington carrier strike group arrived in the CENTCOM theater on August 19 and is transiting the Arabian Sea, taking over Hormuz blockade duties. About 20 US warships remain in the region. The swap leaves no US carrier strike group deployed west of San Diego.",
+    "source": "https://www.stripes.com/branches/navy/2026-08-20/uss-george-washington-relieves-abraham-22608381.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Six gunmen hijack sanctioned Iranian shadow-fleet tanker Sibu 1 off Yemen",
+    "direction": "Escalating",
+    "description": "Six armed men boarded the 32,200-dwt product tanker Sibu 1 about 136 nautical miles east of Al Mukalla, Yemen, and diverted it toward Somalia after the vessel broadcast a distress call. MarineTraffic showed the tanker entering the Somalia High Risk Area at 17:18 UTC. The ship, formerly named Seamull, was sanctioned by the US Treasury in December 2025 as part of the crackdown on Iran's shadow fleet. The seizure came three days after eight attackers took the cargo ship Lutuf off Puntland, pointing to a revival of Somali piracy alongside the Red Sea war risk.",
+    "source": "https://gcaptain.com/sanctioned-shadow-fleet-tanker-hijacked-in-gulf-of-aden-and-diverted-toward-somalia/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-20",
     "title": "Araghchi dismisses 'Economic D-Day' as cover for $40tn US debt",
     "direction": "Neutral",
     "description": "Iranian Foreign Minister Abbas Araghchi rejected Trump's sanctions announcement on X, calling the \"so-called 'Economic D-Day'\" a diversion from America's own crisis of \"unprecedented debt and sky-high interest costs\" and attaching a New York Times report on US national debt crossing $40 trillion. \"Doubling down on failed policies will only bring further defeat - and enmity of Iranians,\" he wrote, adding that \"US economic terrorism threatens the global economy and worldwide sovereignty.\" Iranian state media called the announcement \"not a new development.\"",
