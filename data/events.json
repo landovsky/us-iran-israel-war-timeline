@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-08-22",
+    "title": "Iran budget office reveals 960-trillion-toman deficit, inflation above 90%",
+    "direction": "Escalating",
+    "description": "Plan and Budget Organization head Hamid Pourmohammadi told Iran's parliament the government faces a 960 trillion toman ($1.6bn-equivalent at black-market rates) budget deficit, including a 700 trillion toman general government shortfall and a 260 trillion toman subsidy fund gap, as inflation tops 90%. Deputy Saghaf Esfahani told lawmakers: 'We spent the money and the pot has reached the bottom.' The disclosure underscores the economic toll of the war ahead of Washington's threatened new sanctions package.",
+    "source": "https://www.ncr-iran.org/en/news/iran-news-in-brief-august-22-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Iran armed forces chief warns of 'crushing, punishing and devastating' response",
+    "direction": "Escalating",
+    "description": "Maj. Gen. Ali Abdollahi, Chief of Staff of Iran's Armed Forces, said Iran's forces are prepared 'across land, sea, air, air defence and cyberspace' to respond to 'the enemy's new threats with crushing, punishing and devastating responses.' The warning followed Treasury Secretary Scott Bessent's pledge of the 'toughest sanctions in history' and Trump's threat of economic consequences against any country giving Iran 'any type of lifeline.'",
+    "source": "https://en.irna.ir/news/86241395/Armed-Forces-chief-warns-of-devastating-response-to-any-enemy",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Pezeshkian says 'better to end the war today' from a position of strength",
+    "direction": "De-escalating",
+    "description": "Iranian President Masoud Pezeshkian told the Islamic Association of the Iranian Medical Society in Tehran: 'It is better that we end the war today when we are in a position of power and dignity, and the entire world acknowledges our victory.' He said the US had 'attacked our schools, hospitals, and infrastructure' in violation of international law, and called the June Islamabad memorandum 'honourable and valuable,' insisting it contains no clause implying Iranian capitulation.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-president-calls-war-end-today-position-strength",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "Kpler data: 63% of Hormuz-transiting ships went dark in first 19 days of August",
+    "direction": "Neutral",
+    "description": "Maritime intelligence firm Kpler found 236 ships transited the Strait of Hormuz between Aug 1-19, of which 148 (63%) went dark or used undeclared routes. Of ships with known routing, 83 openly used Iran's preferred coastal route versus just 3 that used the Omani route and 2 that used the old pre-war center-line route, indicating shippers are still largely avoiding the US-backed corridor despite CENTCOM's claims of restored control.",
+    "source": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "USS George Washington arrives in CENTCOM to relieve USS Abraham Lincoln",
+    "direction": "Neutral",
+    "description": "The George Washington Carrier Strike Group — the carrier, its air wing, cruiser USS Robert Smalls and destroyer USS Shoup — arrived in the CENTCOM area of responsibility on Aug 19, taking over from the USS Abraham Lincoln after its 272-day deployment. George Washington, the Navy's only forward-deployed carrier and normally based in Japan, transited from the South China Sea, leaving no US carrier strike group west of San Diego.",
+    "source": "https://www.stripes.com/branches/navy/2026-08-20/uss-george-washington-relieves-abraham-22608381.html",
+    "actor": "US"
+  },
+  {
     "date": "2026-08-20",
     "title": "Bessent vows 'toughest sanctions in history', says US will 'collapse this regime'",
     "direction": "Escalating",
