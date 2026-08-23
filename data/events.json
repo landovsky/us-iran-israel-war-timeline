@@ -1,6 +1,54 @@
 [
   {
     "date": "2026-08-22",
+    "title": "Sharif University expels 3 more students over protests, total reaches 10",
+    "direction": "Escalating",
+    "description": "Sharif University of Technology issued expulsion orders for three more students—Ariana Kuchaki, Ali Alirezaei and Arash Hatami—over their involvement in anti-government protests, bringing the total expelled to 10. The bans range from one to five years and apply across all Iranian universities, part of a broader crackdown on dissent tied to the January 2026 uprising.",
+    "source": "https://www.ncr-iran.org/en/news/iran-news-in-brief-august-22-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "Lebanon's FM Raggi tells Iran to halt interference after Ghalibaf's Hezbollah remarks",
+    "direction": "Escalating",
+    "description": "Lebanese Foreign Minister Youssef Raggi called on Iran to stop interfering in Lebanon's internal affairs after Iranian Parliament Speaker Mohammad Bagher Ghalibaf said he remained in contact with Hezbollah fighters on the front lines. Raggi said normalizing relations with Iran's diplomatic mission requires Tehran to comply with the Lebanese state's decisions, adding that the continued presence of Iran's ambassador 'contradicts a binding sovereign decision that allows for neither exceptions nor compromise.'",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-905584",
+    "actor": "Lebanon|Iran"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "Khamenei ally Hossein Taeb: Trump's rhetoric stems from 'desperation'",
+    "direction": "Escalating",
+    "description": "Hossein Taeb, a former intelligence chief recently appointed by Supreme Leader Mojtaba Khamenei to head the Basij militia, said Trump's threats are 'not based on initiative; rather, it stems from desperation' and vowed Iran 'will not submit' to US demands. Taeb said Iran would not reopen the Strait of Hormuz 'unless our conditions are fulfilled,' responding to Trump's threatened 'economic D-Day' on Tehran.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-899886",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "Iran grants Iraqi oil tankers passage through Strait of Hormuz",
+    "direction": "Neutral",
+    "description": "Iran approved passage for a number of Iraqi oil tankers through the Strait of Hormuz following repeated requests from Baghdad, Iraqi President Nizar Amidi said: 'There is facilitation for some tankers carrying Iraqi oil in the Strait of Hormuz.' The arrangement, secured during Iranian Parliament Speaker Mohammad Bagher Ghalibaf's recent visit to Iraq, addresses Iraq's total dependence on foreign vessels since it lacks its own tanker fleet.",
+    "source": "https://www.thenationalnews.com/news/mena/2026/08/22/iran-gives-permission-for-iraqi-oil-tankers-to-pass-through-strait-of-hormuz/",
+    "actor": "Iran|Iraq"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "US gas prices hit $4.11/gallon, up nearly $1 from a year ago",
+    "direction": "Escalating",
+    "description": "The US national average gas price reached $4.11 per gallon, up nearly a dollar from a year earlier, as Hormuz traffic remains near historic lows. AAA noted August 2026 could be the highest-priced August on record, with prices tied directly to the Strait of Hormuz disruption despite Trump administration officials' earlier promises that the spike would subside.",
+    "source": "https://edition.cnn.com/2026/08/21/world/live-news/iran-war-trump",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Oman, Iran foreign ministers discuss resuming Hormuz navigation talks",
+    "direction": "De-escalating",
+    "description": "Omani Foreign Minister Sayyid Badr Albusaidi and Iranian Foreign Minister Abbas Araghchi held a phone call to discuss conditions for resuming negotiations on Strait of Hormuz maritime traffic, Oman's state news agency reported. Iranian officials emphasized that any provisional maritime understanding does not signify a full reopening, continuing to link normalized access to resolving broader political and security grievances.",
+    "source": "https://www.khaleejtimes.com/world/mena/us-iran-israel-lebanon-war-august-21-2026-live-updates",
+    "actor": "Iran|Other"
+  },
+  {
+    "date": "2026-08-22",
     "title": "Iran budget office reveals 960-trillion-toman deficit, inflation above 90%",
     "direction": "Escalating",
     "description": "Plan and Budget Organization head Hamid Pourmohammadi told Iran's parliament the government faces a 960 trillion toman ($1.6bn-equivalent at black-market rates) budget deficit, including a 700 trillion toman general government shortfall and a 260 trillion toman subsidy fund gap, as inflation tops 90%. Deputy Saghaf Esfahani told lawmakers: 'We spent the money and the pot has reached the bottom.' The disclosure underscores the economic toll of the war ahead of Washington's threatened new sanctions package.",
