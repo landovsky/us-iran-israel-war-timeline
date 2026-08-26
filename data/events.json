@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-08-26",
+    "title": "Iran says it agreed 7-mile temporary Hormuz corridor running through its own waters",
+    "direction": "De-escalating",
+    "description": "Kazem Gharibabadi, Iran's deputy foreign minister for legal and international affairs, said Iran and Oman had agreed on a temporary transit corridor through the Strait of Hormuz seven miles (11.3km) wide, with the inbound entry route and part of the outbound route passing through Iranian territorial waters. Gharibabadi said the route would operate for two to four months or longer while technical talks continue, and represents a break from the traffic arrangement of the past 60 years. He insisted the deal does not reopen the strait, saying Iran requires the US to honour the June memorandum of understanding including sanctions relief and the release of frozen Iranian assets.",
+    "source": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route",
+    "actor": "Iran|Other"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Araghchi and Oman's Albusaidi outline phased Hormuz framework with joint mine-clearing",
+    "direction": "De-escalating",
+    "description": "Omani Foreign Minister Badr Albusaidi travelled to Tehran and met Iranian Foreign Minister Abbas Araghchi, where the two outlined a phased framework for the Strait of Hormuz. The first phase establishes a temporary joint navigational corridor and a joint project to clear mines from the strait; technical negotiations would then address a permanent corridor, its future administration, information exchange, traffic management and security services. Albusaidi wrote on X that he hoped the two countries would 'soon announce' the temporary corridor. Both ministers said other Gulf states would be consulted before any longer-term arrangement.",
+    "source": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz",
+    "actor": "Iran|Other"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Trump declares Hormuz demined, threatens to destroy any vessel laying new mines",
+    "direction": "Escalating",
+    "description": "Trump wrote on Truth Social that the US Navy had told him all mines in the international waters of the Strait of Hormuz 'have been removed and/or detonated', and that Iran had been notified any ship or boat placing new mines 'will be immediately and systematically destroyed'. He said the Space Force was watching 'every square inch' of the strait and that 'there is a Zero Tolerance policy on mine placement in full force and effect'. US Central Command's own navigation advisory continued to warn of 'continued risk of drifting or uncharted mines' with active danger areas still in place.",
+    "source": "https://www.usnews.com/news/world/articles/2026-08-25/trump-says-strait-of-hormuz-has-been-demined-warns-iran-not-to-plant-more",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Brent settles near $87 as Hormuz diplomacy strips out the war premium",
+    "direction": "De-escalating",
+    "description": "Brent crude ended the session near $87.12 and WTI at $82.36, leaving crude down more than 7 percent since Friday's close as traders priced in the Iran-Oman corridor talks. Brent fell harder than WTI, the pattern analysts read as the Hormuz risk premium unwinding rather than a demand shift. The move erased the gains that followed Treasury Secretary Scott Bessent's 'Operation Economic Outcast' sanctions rollout two days earlier, when Brent had traded above $92.",
+    "source": "https://easternherald.com/2026/08/25/crude-oil-price-today-august-25-2026/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "State Department prepares to return diplomats to eight Middle East embassies",
+    "direction": "De-escalating",
+    "description": "The New York Times reported that the State Department will begin returning foreign service officers to Middle East posts evacuated before and during the war, with the first movements possible within the week. The US Embassy in Lebanon receives the first returning diplomats. Missions in Israel, Jordan and Oman are to go back to full staffing; the UAE, Saudi Arabia, Qatar and Lebanon are capped at 85 percent, and Iraq, Kuwait and Bahrain at 75 percent. Evacuation orders had been in place for roughly six months, beginning in the final days of February 2026.",
+    "source": "https://www.arabnews.pk/node/2655823/middle-east",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Trump: Iran 'not paying large segments of their military' while killing protesters",
+    "direction": "Escalating",
+    "description": "Trump wrote on Truth Social that 'the failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before,' calling it 'a humanitarian crisis of epic proportions' that 'must be stopped, now.' The post came as human rights groups documented at least 56 executions on national security charges since 19 March 2026, 27 of them tied to the January protests, and the Abdorrahman Boroumand Centre recorded at least 901 executions in Iran over the first seven months of the year.",
+    "source": "https://www.euronews.com/2026/08/25/trump-slams-tehran-for-executing-protesters-at-levels-not-seen-before",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "China's Lin Jian rejects US sanctions on Chinese firms trading with Iran",
+    "direction": "Escalating",
+    "description": "Chinese Foreign Ministry spokesperson Lin Jian said China's cooperation with Iran 'is conducted within the framework of international law, thus should not be disrupted', responding to the US Treasury's designation of more than 60 entities, individuals and vessels that included Chinese-based firms. Beijing said the measures 'will only further intensify tensions' and pledged to safeguard its interests. China remains the destination for the bulk of Iran's surviving crude exports.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Petrol queues spread in Tehran as Iran burns 14m more litres a day than it refines",
+    "direction": "Escalating",
+    "description": "State-run daily Hamshahri reported long queues at Tehran filling stations as drivers topped up ahead of feared price rises, with stations imposing a 20-litre-per-car limit. Iran consumes about 135 million litres of petrol a day against refinery output of 121 million, a shortfall driven by US bombing of refining capacity in February and the naval blockade imposed on 14 July. President Masoud Pezeshkian challenged the subsidy directly: 'Who said the government should buy petrol at 1.3 million rials per litre and then sell it for 15,000 rials?' A pilot price increase in Kerman province was halted within hours of taking effect.",
+    "source": "https://www.irishtimes.com/world/middle-east/2026/08/25/iran-faces-petrol-shortages-as-us-blockade-puts-pressure-on-fuel-supplies/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "Iranian state TV airs video placing $10m bounty on Barron Trump",
+    "direction": "Escalating",
+    "description": "Channel 3 of Iranian state television broadcast an IRGC-affiliated video titled 'Where and how should we kill Barron Trump?', claiming a $10 million bounty on Trump's 20-year-old son and purporting to show his university, escort vehicles and the positioning of his Secret Service detail, asserting his movements had been 'fully monitored'. The Secret Service said on 25 August it was aware of the video and investigating. A comparable video targeting first lady Melania Trump aired the previous month.",
+    "source": "https://www.washingtonpost.com/politics/2026/08/25/secret-service-says-it-is-aware-iranian-state-media-video-threatening-barron-trump/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "Projectile disables oil tanker off Oman's east coast in Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "An oil tanker was struck by a projectile late on Monday a few miles off the east coast of Oman, knocking out its engine room and leaving the vessel disabled, according to the UK Maritime Trade Operations agency. All crew were reported safe and no pollution was recorded. No party claimed responsibility. The strike landed hours before Trump announced the strait had been demined, and while Oman's foreign minister was travelling to Tehran for corridor talks.",
+    "source": "https://www.usnews.com/news/world/articles/2026-08-25/ship-disabled-by-attack-in-strait-of-hormuz-and-other-news-from-around-the-middle-east",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "Houthis strike Saudi tanker Amzan 63 nautical miles off Yanbu",
+    "direction": "Escalating",
+    "description": "Yemen's Houthis said they hit the Amzan, a tanker operated by Saudi national shipping company Bahri, roughly 63 nautical miles (117km) west of Yanbu in the Red Sea. The group's military spokesperson called the strike 'accurate and direct, resulting in a fire breaking out aboard the vessel and causing a number of other ships that were present in the target area to flee'. Bahri said all crew were safe with no injuries reported, and UKMTO separately logged a tanker hit by an unknown projectile in the same area. The Houthis have declared a blockade on Saudi-linked shipping in support of Iran.",
+    "source": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "US cancels Ssangyong drill with South Korea, citing Iran war force constraints",
+    "direction": "Neutral",
+    "description": "Seoul said Washington had cancelled next month's Ssangyong ('Twin Dragons') amphibious landing exercise after the US Marine Corps notified its South Korean counterpart in June that Middle East operational demands would prevent deploying forces. The biennial drill normally puts more than 10,000 Marines from both countries ashore on South Korea's southeastern coast with amphibious vehicles and aircraft. The cancellation follows Trump's order last week cutting the annual Ulchi Freedom Shield exercise from 11 days to five.",
+    "source": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war",
+    "actor": "US"
+  },
+  {
     "date": "2026-08-25",
     "title": "Pakistan's Naqvi and Munir meet Pezeshkian, report 'significant progress' on reviving MoU",
     "direction": "De-escalating",
