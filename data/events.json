@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-08-28",
+    "title": "CENTCOM's Cooper says Hormuz lanes cleared of mines, 50,000 troops enforce blockade",
+    "direction": "Neutral",
+    "description": "Admiral Brad Cooper said in a video message that US divers, special operations forces and aircraft had cleared Iranian sea mines from the internationally recognised traffic separation scheme in the Strait of Hormuz, and that US forces had escorted nearly 1,500 commercial vessels carrying roughly 750 million barrels of crude through the waterway. Cooper said about 50,000 US troops are enforcing the blockade that has stopped Iranian oil exports since mid-July, that roughly 75 vessels attempting to breach it were turned back and three were disabled, and that no ship has entered or left an Iranian port without US authorisation except on humanitarian grounds. 'Today, international shipping lanes are open and momentum is building,' he said. Shipping data undercut the claim: 10 commodity vessels transited on 27 August against a ten-day average of 15 and a pre-war flow above 20 million barrels a day.",
+    "source": "https://www.thenationalnews.com/news/us/2026/08/28/hormuz-iran-shipping-lanes-military/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Trump tells mediators he will not return to the June memorandum with Iran",
+    "direction": "Escalating",
+    "description": "The Wall Street Journal reported that US officials informed the mediating governments that Trump has no interest in reviving the 14-point memorandum of understanding he signed with President Masoud Pezeshkian on 17 June, and will instead wait to see whether escalating economic pressure shifts Tehran's position. A senior diplomat from one of the mediating states said Trump felt Iran had 'burned' him repeatedly and now expects sanctions to extract better terms on the Strait of Hormuz and the nuclear programme. The MoU had called for an end to military operations, the reopening of Hormuz, sanctions relief and talks on a broader nuclear deal; the IRGC has made a US return to it the precondition for reopening the strait.",
+    "source": "https://www.haaretz.com/middle-east-news/2026-08-28/ty-article/report-trump-rejects-return-to-iran-agreement-in-favor-of-economic-pressure/000001a0-4538-d73d-a5f0-6d3f76dd0000",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Trump on sanctioning Chinese banks over Iran: 'Who said I'm not?'",
+    "direction": "Escalating",
+    "description": "Asked in Washington why his administration had spared Chinese banks while sanctioning Iranian oil networks, Trump replied, 'Who said I'm not?' and added, 'Well, I don't have to announce everything, do I?' The remarks came days after Treasury Secretary Scott Bessent's 'Operation Economic Outcast' designated more than 60 entities including firms in mainland China and Hong Kong while avoiding major Chinese financial institutions, and weeks before Xi Jinping's expected visit to Washington. Bessent has said 'any entity that facilitates money laundering on behalf of Iran will be removed from the US dollar system.'",
+    "source": "https://www.scmp.com/news/us/article/3365512/trump-hints-sanctions-chinese-banks-over-iran-ties-xis-expected-us-visit",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Washington authorises envoy Michel Issa to meet senior Hezbollah figures",
+    "direction": "De-escalating",
+    "description": "Lebanese broadcaster MTV reported that the Trump administration has given US Ambassador to Lebanon Michel Issa a green light to hold talks with senior Hezbollah officials in order to advance the group's disarmament under the June framework agreement between Israel and Lebanon. Trump had asked Beirut's ambassador in Washington for direct contact with Hezbollah in May, but the Lebanese presidency refused on the grounds that it would bypass President Joseph Aoun's government. Issa said on 26 August that 'there is no agreement to end the Israeli aggression because Hezbollah has not handed over its weapons.'",
+    "source": "https://www.timesofisrael.com/liveblog-august-28-2026/",
+    "actor": "US|Lebanon"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Rezaei ties Hormuz reopening to ending the wars in Lebanon, Gaza and Syria",
+    "direction": "Neutral",
+    "description": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, told Lebanon's Al Manar TV that Tehran is drawing up a list of conditions for reopening the Strait of Hormuz after mediators asked it to specify them. The conditions include an end to military operations in Lebanon, Gaza and Syria, an Israeli withdrawal from Lebanon and a halt to Israeli strikes on Syria. Rezaei said ships would use a designated central channel — partly in Omani and partly in Iranian waters under the corridor agreed with Muscat — only once the US met those terms, and that Washington must 'prove its seriousness' in implementing them before any trust could be rebuilt. He separately dismissed US reports of an Iranian plot against Trump's son.",
+    "source": "https://www.al-monitor.com/originals/2026/08/iran-sets-conditions-reopening-strait-hormuz-top-security-official-rezaei-says",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Hezbollah fires 2 attack drones at IDF troops on Ali Taher Ridge, first since 15 August",
+    "direction": "Escalating",
+    "description": "Hezbollah launched two one-way attack drones overnight at Israeli soldiers operating on the Ali Taher Ridge in southern Lebanon. Troops shot down one and lost contact with the second; no Israeli casualties were reported. It was Hezbollah's first fire in twelve days, during which Israeli forces had operated inside southern Lebanon on at least six occasions without the group retaliating for the 11 people killed in Israeli strikes on 15 August. The IDF struck Hezbollah weapons storage sites in the Nabatieh area in response, and Lebanon's health ministry said a strike on Arab Salim killed a woman married 48 hours earlier and wounded six people including a child and two elderly residents.",
+    "source": "https://www.aljazeera.com/news/2026/8/27/israeli-strike-kills-newlywed-woman-in-south-lebanon-wounds-others",
+    "actor": "Lebanon|Israel"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Greek Patriot battery fires 3 missiles at Houthi drone swarm over Yanbu",
+    "direction": "Escalating",
+    "description": "A Patriot battery operated by Greek military personnel in Saudi Arabia launched three missiles against a swarm of Houthi drones heading for the Yanbu region on the Red Sea coast, home to major oil refining facilities. A Greek security source told Reuters the battery 'engaged the drones in coordination with Saudi air defense systems.' It was the third combat use of the Greek-operated system since the war began; Greece has kept the battery in the kingdom since 2021 under an agreement to protect Saudi energy infrastructure.",
+    "source": "https://www.jpost.com/international/article-906740",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "US Patriot stocks in Europe 'beyond critical' after 1,500 interceptors go to the Gulf",
+    "direction": "Escalating",
+    "description": "US and NATO officials told the Associated Press that roughly 65 percent of the US Patriot inventory — about 1,500 of 2,330 interceptors — has been moved to the Middle East during the Iran war, leaving stocks in Europe at what one official called a 'beyond critical' level. A US defence official said American forces in Europe 'definitely' lack enough Patriots to stop a sustained Russian ballistic missile campaign and would have 'very limited' capability even against single strikes, warning that NATO could be forced 'to take punch after punch in the mouth.' About 600 interceptors will be built this year against a production goal of 2,000 a year by 2030, the date by which European officials say Russia could be able to attack the alliance.",
+    "source": "https://www.inquirer.com/news/nation-world/military-missile-interceptor-shortage-20260827.html",
+    "actor": "US|NATO"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Ex-Mossad chief Barnea: intensify strikes on Iran 'until it falls — and it will fall'",
+    "direction": "Escalating",
+    "description": "David Barnea, who led the Mossad until Roman Gofman replaced him in June, told a ceremony in his honour at Jerusalem Municipality that Israel has no alternative to regime collapse in Tehran. 'In my assessment, there will be no choice but to intensify the economic, diplomatic and operational actions against this regime until it falls — and it will fall,' he said, adding that Iranians 'long for its downfall.' Barnea also said Hezbollah and Hamas are weaker now than before the 7 October 2023 attack.",
+    "source": "https://www.timesofisrael.com/liveblog-august-27-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Pezeshkian tells Muslim states not to let their soil be used against Iran",
+    "direction": "Neutral",
+    "description": "Opening the 40th International Islamic Unity Conference in Tehran, President Masoud Pezeshkian said, 'No Islamic country should allow its territory to be used as a launchpad for aggression against another Islamic country. No Islamic country should seek its own security through the insecurity of its neighbours.' He insisted that 'defending Iran does not mean hostility toward Muslim nations or neighbouring countries' and argued that 'unity does not mean becoming the same,' a message aimed at Gulf states hosting US bases as Washington presses them to sever economic ties with Tehran.",
+    "source": "https://tribune.com.pk/story/2626028/iranian-president-urges-muslim-states-to-prevent-attacks-from-their-soil",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-26",
+    "title": "Justice Department moves to revive Civil War-era prize courts for seized Iranian tankers",
+    "direction": "Escalating",
+    "description": "The Justice Department is preparing to reactivate prize courts, a maritime process dormant since the Second World War, to let federal prosecutors claim oil and cargo taken from Iranian and neutral vessels as US property and sell it with proceeds going to the Treasury. Aaron Reitz, the Houston-based US attorney whose office is partnering with department headquarters, confirmed the department is 'now reviving' what he called an 'ancient body of maritime law.' Ship owners could contest a capture but with narrower arguments than in a forfeiture case. Officials said the aim is to tighten the blockade of Iran and offset the cost of the war; the plans are unfinalised and expected to draw legal challenges.",
+    "source": "https://news.bloomberglaw.com/us-law-week/us-aims-to-revive-civil-war-era-court-to-claim-iran-oil-as-prize",
+    "actor": "US"
+  },
+  {
     "date": "2026-08-27",
     "title": "Qatar's PM Sheikh Mohammed al-Thani flies to Tehran to relaunch mediation",
     "direction": "De-escalating",
