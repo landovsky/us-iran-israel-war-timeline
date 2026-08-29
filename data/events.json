@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-08-29",
+    "title": "Hezbollah's Qassem rejects framework agreement, calls for 'its downfall'",
+    "direction": "Escalating",
+    "description": "Hezbollah Secretary-General Naim Qassem used a televised address on Al-Manar to reject the US-brokered framework Lebanon and Israel signed in late June, saying 'We are against the framework agreement and call for its downfall' and 'We will keep our heads high and we will not surrender.' He called the deal 'illegitimate, unlawful, humiliating, destructive to Lebanese sovereignty,' and rejected both the pilot zones for Lebanese army deployment and the verification mechanism attached to them. Qassem said Hezbollah accepts only the November 2024 ceasefire under UN Security Council Resolution 1701. The speech came two days before fresh US-mediated talks expected in early September and a day after Washington authorised Ambassador Michel Issa to open direct contacts with the group.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/hezbollah-chief-again-rejects-lebanon-israel-deal-refuses-surrender/",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Brent at $90.55 as 383 laden vessels still wait off Hormuz",
+    "direction": "Neutral",
+    "description": "Brent crude traded at $90.55 a barrel on the morning of 28 August, up 87 cents on the previous day and about $22.34 above its level a year earlier. Straits Daily Brief counted 383 vessels holding position away from berth in the Gulf, down from 449 on 16 August, while Lloyd's List Intelligence logged 114 Hormuz transits between 17 and 23 August, a 30 percent weekly increase. Goldman Sachs estimated Persian Gulf exports had recovered to 15-16 million barrels a day against 22-24 million before the war.",
+    "source": "https://fortune.com/article/price-of-oil-08-28-2026/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "UANI: 67 tankers moved 80m barrels of Iranian oil since the June memorandum",
+    "direction": "Neutral",
+    "description": "United Against Nuclear Iran said it had tracked 67 tankers leaving the Gulf of Oman laden with Iranian oil and petrochemicals since the June memorandum of understanding — roughly 80 million barrels generating more than $6bn for the IRGC. The group said laden tankers are now clustering in anchorages along Iran's coastline because of the US blockade of Iranian ports, and that only about five handymax vessels carrying Iranian LPG have crossed the blockade line since it was reimposed in mid-July.",
+    "source": "https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-august-28-2026",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Pentagon seeks $67.1bn supplemental as pump prices top $4 at six-month mark",
+    "direction": "Neutral",
+    "description": "At the war's six-month mark the Pentagon put the cost to date at $37.5bn and asked Congress for a further $67.1bn for the current fiscal year, while the White House submitted a $1.5 trillion defence request for fiscal 2027, a 42 percent increase. CENTCOM says it has struck more than 13,000 Iranian targets. Global oil prices are up about 25 percent, the national average pump price is above $4 a gallon — roughly a dollar more than before the war — and the average American has spent about $700 more on fuel since it began. A Reuters/Ipsos poll put Trump's approval at 33 percent, with 31 percent supporting the military action against Iran, down from 37 percent in March.",
+    "source": "https://abcnews.com/Politics/us-marks-6-months-war-iran-means-americans/story?id=135980363",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Six-month toll: 7,900+ dead, 3,580 US-Israeli attacks, Hormuz at 7 ships a day",
+    "direction": "Neutral",
+    "description": "Six months after the 28 February strikes that killed Supreme Leader Ali Khamenei, Al Jazeera tallied more than 7,900 dead: 4,350 in Lebanon, 3,527 in Iran, 60 Israelis, 28 in Gulf states and 18 US service members, with 757 US personnel wounded, 12,510 injured in Lebanon and 19 seafarers killed in ship attacks. The US and Israel have carried out 3,580 attacks on Iran against 2,053 Iranian attacks across the Gulf, with 70 confirmed ship incidents in the Strait of Hormuz. Traffic through the strait averages 7 vessels a day against 100 before the war, and Israel occupies roughly 2,000 sq km of Lebanon, about one-fifth of the country.",
+    "source": "https://www.aljazeera.com/news/2026/8/28/us-israel-war-on-iran-six-months-down-the-line-in-numbers",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Istanbul foreign ministers' meeting on Hormuz postponed indefinitely",
+    "direction": "Neutral",
+    "description": "The foreign ministers of Britain, France and Germany were due to meet counterparts from Turkey, Saudi Arabia, Pakistan and Egypt in Istanbul on 30 August, but German government sources told DPA the meeting was postponed over a scheduling conflict involving one participant, with no new date set. Germany and Turkey had initiated the talks, which were to cover freedom of navigation in the Strait of Hormuz and regional security, and were designed to signal to Washington that negotiations with Tehran should continue.",
+    "source": "https://tass.com/world/2178927",
+    "actor": "Turkey"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Mojtaba Khamenei bans acts that 'harm social cohesion' in written directive",
+    "direction": "Neutral",
+    "description": "Supreme Leader Mojtaba Khamenei issued a written statement banning Iranians from 'committing anything that harms social cohesion' and instructing officials to avoid 'discouraging statements that weaken national and public motivation.' The directive followed the IRGC Intelligence Organization's warning that adversaries were working to 'incite people to extend dissatisfaction to the streets' after failing to topple the government by military means. Khamenei has not appeared in public since he was wounded in the Israeli strike on the war's first day.",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/08/28/iran-s-khamenei-bans-acts-that-harm-social-cohesion-",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Treasury designates Bank Melli's Dubai manager and Hong Kong's Kameng Trading",
+    "direction": "Escalating",
+    "description": "OFAC added Reza Mohammad Taeedi, the Dubai-based Iranian national who manages Bank Melli's Dubai branch, to the Specially Designated Nationals list and made him subject to secondary sanctions. Treasury also designated Kameng Trading Limited, a Hong Kong company registered in July 2024, saying the sanctioned Pedram Pirouzan Exchange House used it to launder money for Iran. The designations landed on the six-month anniversary of the war and alongside the FinCEN action against Banque Misr's UAE branches.",
+    "source": "https://www.middleeastmonitor.com/20260828-us-treasury-adds-iran-linked-individual-hong-kong-based-company-to-sanctions-list/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "FinCEN moves to cut Egypt's Banque Misr UAE branches off from the dollar",
+    "direction": "Escalating",
+    "description": "The Treasury's Financial Crimes Enforcement Network proposed a rule revoking the correspondent banking access of Banque Misr's UAE branches to US financial institutions, the first time Washington has severed an Arab-state bank from the dollar system over Iran ties. FinCEN said the branches processed about $1.8bn for 103 companies linked to Iranian shadow banking networks between January 2024 and June 2026. Egypt's central bank said the action was limited to the bank's UAE operations. The move extends 'Operation Economic Outcast,' the sanctions campaign Treasury Secretary Scott Bessent launched on 24 August.",
+    "source": "https://www.usnews.com/news/business/articles/2026-08-28/us-targets-egyptian-banks-uae-branches-under-new-push-for-irans-economic-isolation",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Pezeshkian says Oman accepted the agreed map for a Hormuz shipping route",
+    "direction": "Neutral",
+    "description": "President Masoud Pezeshkian told Iranian state television that Omani negotiators had returned to the table and accepted that a shipping route through the Strait of Hormuz could reopen 'based on the map that was agreed' with Tehran. He said that if the route opens on those terms, Washington must in turn lift the naval blockade and sanctions, release frozen Iranian funds, permit oil sales and investment, and press Israel to halt operations in Lebanon. Pezeshkian added that the Islamabad memorandum of understanding envisaged roughly $300bn in investment, and that Iranian officials were discussing projects with Qatar and the UAE.",
+    "source": "https://www.iranintl.com/en/liveblog/202608222141",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "IRGC Navy calls US claim that Hormuz is open 'an outright lie'",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said in a statement carried by Tasnim that Iranian control of the Strait of Hormuz is 'complete and decisive' and that the waterway remains closed 'with full force' to any vessel transiting without Iranian coordination. It called American assertions that the strait is open 'an outright lie' intended 'solely to control oil prices and cover up their own defeats' — a direct rebuttal of CENTCOM commander Admiral Brad Cooper, who had said the same day that the shipping lanes were cleared of mines and open. The IRGC said restrictions stay until the US halts military operations against Iran and meets its commitments.",
+    "source": "https://www.presstv.co.uk/Detail/2026/08/28/775249/Iran-Hormuz-IRGC-Navy",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-08-28",
     "title": "CENTCOM's Cooper says Hormuz lanes cleared of mines, 50,000 troops enforce blockade",
     "direction": "Neutral",
@@ -77,6 +165,14 @@
     "direction": "Neutral",
     "description": "Opening the 40th International Islamic Unity Conference in Tehran, President Masoud Pezeshkian said, 'No Islamic country should allow its territory to be used as a launchpad for aggression against another Islamic country. No Islamic country should seek its own security through the insecurity of its neighbours.' He insisted that 'defending Iran does not mean hostility toward Muslim nations or neighbouring countries' and argued that 'unity does not mean becoming the same,' a message aimed at Gulf states hosting US bases as Washington presses them to sever economic ties with Tehran.",
     "source": "https://tribune.com.pk/story/2626028/iranian-president-urges-muslim-states-to-prevent-attacks-from-their-soil",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-26",
+    "title": "NCRI: Iran executes 23 prisoners in four days, one roughly every four hours",
+    "direction": "Escalating",
+    "description": "The National Council of Resistance of Iran reported that the judiciary executed 23 prisoners across the country between 23 and 26 August, the first four days of the Iranian month of Shahrivar — an average of about one hanging every four hours. It also said 65 detainees held over the January 2026 uprising are confined in Ward 37, Unit 3 of Ghezel Hesar Prison in Karaj under what it described as inhumane conditions. Iran Human Rights Monitor separately verified five January protesters executed between 23 July and 23 August, two of them publicly in Isfahan.",
+    "source": "https://www.ncr-iran.org/en/news/iran-news-in-brief-august-29-2026/",
     "actor": "Iran"
   },
   {
