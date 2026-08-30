@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-30",
+    "title": "Gharibabadi: Hormuz stays shut and Tehran is 'in no hurry' to reopen it",
+    "direction": "Escalating",
+    "description": "Iranian Deputy Foreign Minister Kazem Gharibabadi said the Strait of Hormuz remains closed and that Tehran feels no urgency to reopen it, telling reporters that any vessel transiting the strait does so 'in coordination with Iran'. The IRGC repeated that it holds firm control of the waterway and accused US officials of false statements aimed at moving energy prices. The formulation mirrors Trump's own 'not in a hurry' line from 26 August, leaving both sides publicly refusing to move first on the Oman-brokered corridor.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "Greece to sign $3.6bn Israeli 'Achilles Shield' air defence deal",
+    "direction": "Neutral",
+    "description": "Greece and Israel prepared to sign a $3.6bn agreement in Tel Aviv for a layered national air defence network Athens calls 'Achilles Shield', the largest defence export deal in Israel's history. Rafael supplies David's Sling and mobile SPYDER batteries, some to be based on Greek islands, while Israel Aerospace Industries provides Barak MX and an AI-enabled command centre. Negotiated over three years and driven by Greek concerns over Turkey and Iran, the system is to be fully operational within 35 months, with about €700m flowing to Greek subcontractors.",
+    "source": "https://www.jpost.com/israel-news/defense-news/article-906968",
+    "actor": "Israel|Other"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "IMO: 6,000 seafarers and 400 ships still trapped in the Gulf; 19 dead",
+    "direction": "Neutral",
+    "description": "The International Maritime Organization said roughly 6,000 seafarers aboard about 400 ships remain unable to leave the Persian Gulf six months after the war began, and that 19 seafarers have been killed and at least 70 attacks on international shipping recorded since 28 February. Secretary-General Arsenio Dominguez said crews 'continue to live and work under conditions of heightened risk and uncertainty' and called for 'renewed political will and cooperation' to restore transit through Hormuz. An IMO Council resolution in July reaffirming transit passage rights has produced no reopening.",
+    "source": "https://www.marineinsight.com/6000-seafarers-and-400-ships-remain-trapped-amid-six-months-of-strait-of-hormuz-uncertainty/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Eli Cohen: Israel will strike Iran again even if Washington signs a deal",
+    "direction": "Escalating",
+    "description": "Israeli Energy Minister Eli Cohen said Israel will attack Iran again if Tehran rebuilds its nuclear or ballistic missile programmes regardless of any US agreement: 'If Iran makes the mistake and tries to renew its nuclear programme or ballistic missile programme, even if there is an agreement with the United States, we will be there to attack.' Cohen said Israeli intelligence assesses the joint US-Israeli strikes set the nuclear programme back two to four years, and argued Iran would already hold nuclear weapons had Israel not acted.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-would-strike-iran-even-us-deal-minister-says",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Khamenei and Pezeshkian concede war's economic toll: trade down 35%, inflation 66%",
+    "direction": "Neutral",
+    "description": "Supreme Leader Mojtaba Khamenei told the government to 'seriously address the chain of economic and livelihood challenges, such as inflation, unemployment' and market management, in the leadership's most explicit public acknowledgement of wartime hardship. President Masoud Pezeshkian said Iranian exports and imports have slumped nearly 35 percent under US sanctions and the naval blockade of Iranian ports, with annual inflation at 66 percent last month. Officials described diplomacy and defence as 'two complementary, coordinated and inseparable wings', and said Iran sold roughly 90 million barrels of oil during the June memorandum window.",
+    "source": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Putin, Xi and Pezeshkian to meet at Bishkek SCO summit from Monday",
+    "direction": "Neutral",
+    "description": "The Kremlin confirmed Vladimir Putin, Xi Jinping and Masoud Pezeshkian will attend the two-day Shanghai Cooperation Organisation summit opening Monday in Bishkek, Kyrgyzstan, alongside Narendra Modi, Shehbaz Sharif and around a dozen other heads of state marking the bloc's 25th anniversary. Kremlin spokesman Yuri Ushakov said Putin will hold separate bilateral talks with Pezeshkian and Xi. It is Pezeshkian's highest-profile multilateral appearance since the war began; Iran joined the SCO as a full member in 2023 and treats the bloc as a channel for circumventing US and European sanctions.",
+    "source": "https://www.dawn.com/news/2026041/putin-xi-pezeshkian-to-attend-kyrgyzstan-summit",
+    "actor": "Iran|Russia"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "CENTCOM says blockade has now redirected 82 vessels, disabled 3, boarded 2",
+    "direction": "Escalating",
+    "description": "CENTCOM said US forces have redirected 82 commercial vessels away from Iranian ports, disabled three and boarded two to enforce the naval blockade, up from 65 redirected vessels reported on 19 August. The UK Maritime Trade Operations centre continues to rate the risk to shipping in the Strait of Hormuz as SEVERE. Transit volumes stayed far below normal, with Iran-controlled passage and US enforcement operating simultaneously in the same waterway.",
+    "source": "https://www.thenationalnews.com/news/mena/2026/08/29/live-us-iran-qatar-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Brent falls to $89.30, down over 5% on the week as traders discount supply risk",
+    "direction": "De-escalating",
+    "description": "Brent crude settled at $89.30 a barrel on Friday, extending weekly losses beyond 5 percent, as traders treated the confrontation as a sanctions fight rather than an imminent threat to physical supply. Goldman Sachs estimated Persian Gulf oil exports have recovered to roughly 15-16 million barrels a day — still below the pre-war 22-24 million but far above the March trough of 5-6 million — as Arab producers route crude around Hormuz via pipelines and ship-to-ship transfers in the Gulf of Oman.",
+    "source": "https://www.cnbc.com/2026/08/25/oil-hits-one-week-low-as-investors-shrug-off-iran-sanctions.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Shin Bet confirms it urgently extracted Yair Netanyahu from Florida",
+    "direction": "Escalating",
+    "description": "The Shin Bet publicly confirmed it pulled Yair Netanyahu and his security detail out of Hallandale Beach, Florida, and flew them to Israel, citing 'a significant threat to harm Yair Netanyahu'. Israeli intelligence uncovered the Iranian plot in December 2025 and assessed that operatives were already on the ground near Miami and had conducted surveillance on his residence and movements; he left belongings behind when US authorities were notified and he was told to depart immediately. The confirmation follows Benjamin Netanyahu's 24 August statement that Iran had tried to kill one of his sons.",
+    "source": "https://www.jpost.com/israel-news/article-906963",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Four plead guilty to Golders Green ambulance arson claimed by Iran-linked HAYI",
+    "direction": "Neutral",
+    "description": "Hamza Iqbal, 20, Rehan Khan, 19, Judex Atshatshi, 18, and Saif Ali, 18, pleaded guilty at a London court to criminal damage over the 23 March arson that destroyed four ambulances belonging to the Jewish charity Hatzola in Golders Green, causing £1m of damage to vehicles parked near a synagogue. Three set the fires while the fourth drove the getaway car. The pro-Iranian group Harakat Ashab al-Yamin al-Islamiyya claimed the attack, and the UK government has moved to proscribe it as a national security threat; defence lawyers denied any terrorism links. Sentencing is expected in spring 2027.",
+    "source": "https://www.euronews.com/my-europe/2026/08/28/four-men-plead-guilty-to-london-arson-attack-that-destroyed-jewish-charity-ambulances",
+    "actor": "UK"
+  },
+  {
     "date": "2026-08-29",
     "title": "Hezbollah's Qassem rejects framework agreement, calls for 'its downfall'",
     "direction": "Escalating",
