@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-31",
+    "title": "Trump posts AI video of Kharg Island 'being blown to smithereens'",
+    "direction": "Escalating",
+    "description": "Trump posted an AI-generated video on Truth Social showing Iran's main oil export terminal at Kharg Island exploding, captioned 'Kharg Island being blown to smithereens!!!' He gave no further explanation, and hours later there was no evidence Kharg had been struck. National Iranian Oil Company chief Hamid Bovard said the same morning that 'none of the ongoing work on Kharg has stopped, and operational activities and development projects in the region are continuing.' Trump has threatened to seize or destroy Kharg repeatedly since March but has not done so.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/trump-shares-ai-video-of-irans-kharg-island-being-blown-to-smithereens/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Brent jumps 2.9% to $90.69 as Hormuz fighting resumes",
+    "direction": "Escalating",
+    "description": "Brent crude for November delivery rose 2.93% to $90.69 a barrel at the week's open, with WTI near $86, after the US struck Iranian launchers on Larak Island and Iran retaliated against bases in Jordan and the UAE. The move erased the previous week's 5% decline, which had come as traders discounted the risk of physical supply disruption. Brent is up 8.26% over the past month and 33.14% year on year.",
+    "source": "https://www.bloomberg.com/news/articles/2026-08-30/latest-oil-market-news-and-analysis-for-aug-31",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Pezeshkian: 'not looking for war' but will give 'decisive response to the aggressors'",
+    "direction": "Neutral",
+    "description": "Speaking before departing for the Shanghai Cooperation Organisation summit in Bishkek, Iranian President Masoud Pezeshkian said 'Tehran is not looking for war, but we will never sit still in the face of any aggression,' promising 'a decisive response to the aggressors.' He added that 'instability and unrest in the region are not in the interest of any country.' Pezeshkian arrived in Bishkek Monday morning for the two-day summit alongside Putin and Xi.",
+    "source": "https://tribune.com.pk/story/2626677/irans-pezeshkian-says-tehran-not-looking-for-war-after-us-attack-on-larak-island",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "IRGC says supertanker hit two mines and caught fire in southern Hormuz",
+    "direction": "Escalating",
+    "description": "Iranian state television, citing the IRGC, said at 04:33 UTC that a supertanker struck two naval mines in the southern Strait of Hormuz near Bandar Abbas, caught fire and was brought to a complete halt. The Guards said the vessel 'had been attempting to pass through the waterway illegally' and warned other ships breaching its rules 'would face the same fate.' The IRGC did not identify the tanker or its crew. The claim came days after CENTCOM declared the strait's international shipping lanes cleared of mines.",
+    "source": "https://www.arabnews.com/node/2656391/middle-east",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Iran hits UAE's Al Minhad air base with dozens of explosive drones",
+    "direction": "Escalating",
+    "description": "Iran's army said it attacked Al Minhad Air Base south of Dubai early Monday with dozens of explosive drones, targeting 'locations where US forces and helicopters were stationed at the base.' Tehran called Al Minhad an important logistics and air transport hub for foreign forces and pledged further retaliation against US troops, saying the strike answered 'the killing of Iran's Revolutionary Guards and Iranian civilians on Larak Island.' The UAE Defence Ministry said its air force engaged a drone approaching from Iran over territorial waters.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-907084",
+    "actor": "Iran|UAE"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "IRGC downs US MQ-9 Reaper over the Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "The IRGC said its air defences shot down a US MQ-9 Reaper drone over the Strait of Hormuz, and that the aircraft crashed into Gulf waters. The claim, carried by Iranian state media, was not confirmed by CENTCOM. It was one of four separate Iranian actions in the strait and the Gulf within about six hours of the US strike on Larak Island.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-intercepted-drone-over-strait-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "IRGC fires ballistic missiles at two US bases in Jordan; Jordan intercepts 8",
+    "direction": "Escalating",
+    "description": "The IRGC announced ballistic missile strikes on the King Hussein and Al-Azraq air bases in Jordan, both of which host US forces, in retaliation for the US strike on Larak Island. The Jordanian Armed Forces said air defences intercepted eight missiles that entered the kingdom's airspace at dawn and that 'the missiles were destroyed before they posed a threat to citizens or property.' Patriot batteries were used in the intercepts; Jordan reported no damage.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "Trump on Fox: 'If I weren't president, Israel would be gone'",
+    "direction": "Neutral",
+    "description": "In a Fox News interview, Trump said 'if I weren't president, Israel would be gone. There would be no Israel,' and described Iranians as 'tough people and smart people' but 'very evil.' He also argued Iran's missile and drone attacks on Gulf Arab states had cost Tehran regionally: 'they lost all of the support that they had.'",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-08-31/ty-article-live/irans-irgc-vows-to-respond-to-u-s-strike-state-broadcaster-irgc-reported/000001a0-5488-de9b-a3f3-d5e85a840000",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "Bessent promises another bank sanction: 'This is going to be financial violence'",
+    "direction": "Escalating",
+    "description": "Treasury Secretary Scott Bessent told the Associated Press the administration will sanction another bank this week over Iranian transactions, saying 'This is going to be financial violence if we have to' and 'We are showing people that we know who you are, you know who you are, and this has got to stop.' Bessent spoke ahead of G20 meetings in Asheville, North Carolina, where he plans individual meetings with counterparts to press for cooperation against Iran.",
+    "source": "https://www.cnbc.com/2026/08/30/bessent-bank-sanction-iran-transactions.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "US strikes two IRGC launchers on Larak Island, first attack in a month",
+    "direction": "Escalating",
+    "description": "US forces struck two IRGC rocket launchers on Larak Island near the northern edge of the Strait of Hormuz, the first known US military action against Iran since late July. CENTCOM spokesman Captain Tim Hawkins said IRGC forces 'were observed preparing to launch rockets with sea mines into Strait of Hormuz' and presented an 'imminent threat.' Tasnim reported at least two people killed and two wounded; the IRGC Navy named Ali Fayazi among the dead and vowed the attack would 'result in punishment of the aggressor.' The strike came a week after CENTCOM declared the strait's shipping lanes cleared of mines.",
+    "source": "https://www.cnn.com/2026/08/30/politics/us-iran-strikes-larak-island",
+    "actor": "US"
+  },
+  {
     "date": "2026-08-30",
     "title": "Gharibabadi: Hormuz stays shut and Tehran is 'in no hurry' to reopen it",
     "direction": "Escalating",
