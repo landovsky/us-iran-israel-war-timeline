@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-09-01",
+    "title": "Pezeshkian at SCO: Iran will 'immediately reciprocate' if US returns to June memorandum",
+    "direction": "De-escalating",
+    "description": "Addressing the Shanghai Cooperation Organisation heads-of-state summit in Bishkek, Iranian President Masoud Pezeshkian said: 'If the United States returns to its commitments under the aforementioned memorandum of understanding, the Islamic Republic of Iran will immediately take reciprocal action.' Tehran says Washington abandoned the Islamabad Memorandum, signed 17 June by Trump and Pezeshkian, within two weeks of signing. Iran has tied reopening the Strait of Hormuz to sanctions relief, an end to the naval blockade, release of frozen assets and an end to the war in Lebanon.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Iran's central bank chief: 'Iran has currency and it has enough'",
+    "direction": "Neutral",
+    "description": "Central Bank of Iran Governor Abdolnaser Hemmati rejected US Treasury Secretary Scott Bessent's claim that Tehran is losing the economic war, saying: 'I am telling the president of the United States: Iran has [foreign] currency and it has enough.' Hemmati said the bank was ready to inject up to $2bn into the foreign exchange market to steady recent volatility. The rial crossed 2 million to the dollar for the first time in August and annual inflation reached 66% in July.",
+    "source": "https://ca.news.yahoo.com/iran-says-enough-foreign-currency-065123433.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "IRGC-linked MP Kosari: Hormuz 'entirely in the hands of the Revolutionary Guards'",
+    "direction": "Escalating",
+    "description": "Esmail Kosari, a member of Iran's parliamentary national security committee, said 'management and command of the Strait of Hormuz are entirely in the hands of the Revolutionary Guards,' rejecting US claims to control the waterway. Five commodity vessels transited the strait over the preceding day, below the recent 14-vessel average: one empty gas tanker and three laden dry bulk carriers among them. Army commander Amir Hatami separately said the past six months had proved the strategic importance of Iranian air defence.",
+    "source": "https://www.iranintl.com/en/liveblog/202608292849",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Iran files UN complaint over US strike on Larak Island",
+    "direction": "Neutral",
+    "description": "Gholamhossein Darzi, Iran's chargé d'affaires at the United Nations, lodged a formal complaint over the 30 August US strike on Larak Island near the northern edge of the Strait of Hormuz. CENTCOM said the strike destroyed two IRGC rocket launchers preparing to fire sea mines into the strait; Iranian state media reported two killed and two wounded.",
+    "source": "https://www.iranintl.com/en/liveblog/202608292849",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Israel says Lebanese army disarmament of Hezbollah in pilot zones is lagging",
+    "direction": "Escalating",
+    "description": "Israeli officials said they are dissatisfied with the Lebanese Armed Forces' progress on disarming Hezbollah inside the southern Lebanon 'pilot zones' — parcels of territory the IDF hands over as the LAF clears them. Lebanese army officers were reported to oppose further Israeli withdrawals. The pilot-zone mechanism, agreed in Rome talks and first completed in July, is the operational core of the US-backed disarmament framework that Hezbollah leader Naim Qassem publicly rejected on 29 August.",
+    "source": "https://www.timesofisrael.com/liveblog-september-1-2026/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Metula reopens its elementary school with 36 pupils as 65% of residents return",
+    "direction": "De-escalating",
+    "description": "Hanadiv Elementary School in Metula, on Israel's northern border with Lebanon, reopened for the school year with 36 pupils in grades one to six and 18 kindergarteners, greeted by Mayor David Azoulay. About 65% of the town's residents have returned. Across Israel, 2.6 million students went back to roughly 28,000 institutions, with Education Minister Yoav Kisch stressing 'resilience'; a poll released the same day graded the education system 'poor' among 68% of respondents.",
+    "source": "https://www.timesofisrael.com/liveblog-september-1-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Trump: 'Iran is officially a Failed Nation. IT IS DEAD!'; says US escorts 30 ships a night",
+    "direction": "Escalating",
+    "description": "Trump posted that 'Iran is officially a Failed Nation. IT IS DEAD!' and told reporters the US is now running convoys through the Strait of Hormuz: 'We're taking over. Many, many ships got through last night... we've been averaging 30 ships a night.' On the Iranian strikes against US bases in Jordan and the UAE he said: 'We're going to hit them hard. There will be a response.' He also claimed Iran has killed over 100,000 protesters; Iranian authorities report 3,117 deaths.",
+    "source": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Vance defends Kharg AI video: Iran is 'behaving like a terrorist country'",
+    "direction": "Escalating",
+    "description": "Speaking to reporters at an Air Force base in Maryland, Vice President JD Vance defended Trump's AI-generated video of Kharg Island exploding as a deliberate message to Tehran: 'You guys are shooting at commercial shipping. You guys are behaving like a terrorist country. You've got to stop or there are going to be some consequences.' Vance said Iran was 'willing to do anything... in order to accomplish as little flow of oil and gas as possible.'",
+    "source": "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Bessent at G20: Iran's economy could collapse 'within weeks or months'",
+    "direction": "Escalating",
+    "description": "US Treasury Secretary Scott Bessent, speaking to reporters at the G20 finance ministers' meeting in Asheville, North Carolina, said Iran's economy could collapse 'within weeks or months' and linked Tehran's strikes on Jordan and the UAE to that pressure: 'I would think that they are lashing out kinetically because they are losing economically.' He said the aim was 'to create the conditions that they will want to come to the table,' adding: 'We just have to have the regime come to their senses.' US energy prices were up 14.7% year-on-year in July and gasoline 24.6%.",
+    "source": "https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Tanker hit by three projectiles 17 nautical miles east of Khasab",
+    "direction": "Escalating",
+    "description": "UKMTO issued warning 124-26 after a company security officer reported at 20:00 UTC that an outbound tanker was struck by three unknown projectiles 17 nautical miles east of Khasab, Oman, while transiting the southern lane of the Strait of Hormuz close to the Omani coast. No casualties and no pollution were reported. It was the fourth Iranian-linked maritime incident in the strait that day.",
+    "source": "https://www.muscatdaily.com/2026/09/01/tanker-struck-by-3-unknown-projectiles-near-khasab/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Army Secretary Dan Driscoll resigns after months of friction with Hegseth",
+    "direction": "Neutral",
+    "description": "Army Secretary Dan Driscoll submitted his resignation on short notice, effective 3 September, after a months-long turf war with Defense Secretary Pete Hegseth. The dispute included Hegseth removing four officers — two Black men and two women — from a promotions list after Driscoll refused to do so, and Hegseth forcing out Driscoll's senior adviser Col. David Butler. Driscoll, the youngest Army secretary in US history, departs as the Army sustains a 50,000-troop posture enforcing the Hormuz blockade. Hegseth is weighing Sean Parnell as his replacement.",
+    "source": "https://www.armytimes.com/breaking-news/2026/08/31/army-secretary-dan-driscoll-resigns-on-short-notice-amid-reported-friction-with-hegseth/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Modi meets Pezeshkian in Bishkek, presses for seafarer and shipping protection",
+    "direction": "De-escalating",
+    "description": "Indian Prime Minister Narendra Modi met Pezeshkian on the sidelines of the SCO summit in Bishkek and stressed 'safeguarding freedom of navigation and protection of civilians, civilian infrastructure, commercial vessels and seafarers' — a direct reference to the roughly 6,000 crew still trapped in the Gulf. Pezeshkian told him 'continuing the war is neither in our interest nor in the interest of the region' and said Iran was ready to expand political, economic and scientific cooperation despite sanctions. Modi invited him to India's upcoming BRICS summit.",
+    "source": "https://www.thehansindia.com/news/national/pm-modi-meets-iran-president-pezeshkian-discusses-trade-regional-peace-and-seafarers-safety-1116211",
+    "actor": "Iran|Other"
+  },
+  {
     "date": "2026-08-31",
     "title": "Trump posts AI video of Kharg Island 'being blown to smithereens'",
     "direction": "Escalating",
