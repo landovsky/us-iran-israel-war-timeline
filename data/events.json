@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-09-03",
+    "title": "Kuwait repels Iranian missile and drone attack on Ali Al Salem base",
+    "direction": "Escalating",
+    "description": "The Kuwait Armed Forces announced early Thursday on X that its air defences were 'confronting hostile missile and drone attacks' launched from Iran, warning residents that 'if explosion sounds are heard, they are the result of air defence systems intercepting the hostile attacks.' Iran's Tasnim agency said the strikes targeted the US-operated Ali Al Salem Air Base, and state broadcaster IRIB cited local sources claiming smoke rose from a US base. Neither Washington nor Kuwait confirmed any impact. It was the second Iranian attack on Kuwaiti territory in three days.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-907390",
+    "actor": "Iran|Kuwait"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Iran's health minister: 18 killed, 108 wounded in overnight US strikes",
+    "direction": "Escalating",
+    "description": "Health Minister Mohammad-Reza Zafarghandi said Wednesday that 18 people were killed and 108 wounded across several provinces in Tuesday night's US strike wave. Seven of the dead were in Khuzestan province; four died when shrapnel hit a house during a wedding celebration in a village on the Strait of Hormuz coast, including a four-year-old child. The Iranian Red Crescent separately counted four killed and 67 wounded at the wedding site.",
+    "source": "https://english.news.cn/20260903/8ed3fbe32ec34978987b537fd9863356/c.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Guterres 'deeply alarmed' by wedding strike, demands immediate halt",
+    "direction": "De-escalating",
+    "description": "UN Secretary-General Antonio Guterres, through spokesman Stephane Dujarric, said he was 'deeply alarmed by reports of civilian casualties, including a strike that reportedly hit a wedding ceremony in Iran,' and called for an immediate cessation of military action. Dujarric said Guterres 'condemns all attacks against civilians' and reminded all parties of their obligations on distinction, proportionality and precaution. CENTCOM spokesman Captain Tim Hawkins responded that 'the US military never targets civilians, unlike the IRGC.'",
+    "source": "https://www.al-monitor.com/originals/2026/09/iran-war-escalation-raises-concern-over-civilian-death-toll",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Manila confirms two Filipino seafarers killed aboard Saudi tanker Sidr",
+    "direction": "Escalating",
+    "description": "Philippine Migrant Workers Secretary Hans Leo Cacdac confirmed at an online briefing that two of the 16 Filipino crew aboard the Bahri-operated VLCC Sidr died when unidentified projectiles struck the tanker at about 11:40pm local time on 31 August as it approached the Strait of Hormuz. The surviving 14 crew are safe and their remains were taken to Oman for repatriation. Cacdac said 31 vessels carrying 421 Filipino seafarers have been caught in Hormuz-related attacks since 28 February. Saudi Arabia's foreign ministry blamed Iran; Tehran has not claimed the attack.",
+    "source": "https://www.philstar.com/headlines/2026/09/03/2553745/two-filipino-seafarers-killed-saudi-tanker-attacked-hormuz",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "IRGC strikes US facilities in Erbil; coalition downs 10 drones",
+    "direction": "Escalating",
+    "description": "The IRGC claimed a combined missile and drone attack on US facilities in Erbil province in Iraqi Kurdistan, saying it destroyed a maintenance centre, warehouses of technical equipment and fuel storage tanks, and knocked out the guidance system of an American surveillance balloon. US-led coalition forces said they shot down 10 explosive-laden drones over Erbil airspace with no casualties. Al Jazeera said it could not verify the IRGC's damage claims.",
+    "source": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes",
+    "actor": "Iran|Iraq"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Iran's rial hits record 2.2 million to the dollar, down 9% in 10 days",
+    "direction": "Escalating",
+    "description": "The rial fell to about 2.2 million per US dollar on Wednesday, a record low, after crossing 2 million for the first time on 23 August. The currency traded at 1.865 million in mid-August and 958,000 a year earlier, meaning it has lost more than half its value in twelve months. Iran's central bank said it stands ready to inject $2bn into the market.",
+    "source": "https://www.iranintl.com/en/202609026414",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Trump floats renaming Hormuz the 'Trump Strait', then backs off",
+    "direction": "Neutral",
+    "description": "Trump posted on Truth Social: 'Now that we have it under USA control, should we change the name Hormuz Strait to Trump Strait? Like America itself, it would be hotter than ever before!' Asked at the White House that afternoon whether he meant it, he said: 'No, no... it was just thrown out there.' He has previously renamed the Gulf of Mexico the Gulf of America and Lake Ontario 'Lake America', with Google and Apple updating their US-facing maps.",
+    "source": "https://time.com/article/2026/09/02/trump-suggests-renaming-strait-of-hormuz-after-himself-iran-war/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Rubio on returning to the June memorandum: 'that ship has sailed'",
+    "direction": "Escalating",
+    "description": "Secretary of State Marco Rubio dismissed the prospect of Washington rejoining the Islamabad memorandum of understanding, telling Fox News that 'that ship, in many ways, has sailed.' The remark closes the diplomatic track Pezeshkian had reopened at the SCO summit in Bishkek a day earlier, when he said Iran would 'immediately reciprocate' a US return to the June framework.",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Trump says renewed fighting will be short: 'I don't think too long'",
+    "direction": "Neutral",
+    "description": "Asked how much longer the bombing campaign would run, Trump told reporters 'I don't think too long' and added 'I don't know how much more they can take.' He described the conflict as 'a relatively little war for us' and said of the strikes on Iranian coastal defences: 'We took out all of the new equipment. It was a very heavy attack last night, and we're prepared to do another one any time we want.'",
+    "source": "https://www.irishtimes.com/world/middle-east/2026/09/03/us-iran-war-donald-trump-latest-news/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Katz warns Israel will hit back 'with great force' over Jewish holidays",
+    "direction": "Escalating",
+    "description": "Defence Minister Israel Katz said at a conference that Israel is braced for an Iranian attack during the high holiday season beginning mid-September: 'They like to attack on Jewish holidays because, after all, they hate Jews.' He said Israel would 'respond with great force, independently of anyone else' and that 'our planes are ready to take off,' noting that for now Iran is 'striking throughout the region except us.'",
+    "source": "https://www.timesofisrael.com/israel-says-its-ready-to-decisively-strike-iran-if-attacked-during-upcoming-holidays/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Hezbollah drones hit Ali Taher Ridge again; Israeli strike kills 1 in Nabatieh",
+    "direction": "Escalating",
+    "description": "Hezbollah launched two explosive-laden drones overnight at Israeli troops on the Ali Taher Ridge in southern Lebanon; troops shot one down and no soldiers were hurt. The IDF struck Hezbollah infrastructure in the Nabatieh area in response, saying it acted 'to remove an immediate threat.' Lebanese state media reported one person killed and another wounded in the strikes. The IDF believes Hezbollah operatives remain holed up in a major underground complex beneath the ridge.",
+    "source": "https://www.timesofisrael.com/idf-says-it-hit-hezbollah-after-group-launched-2-drones-at-troops-in-lebanon",
+    "actor": "Lebanon|Israel"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Only 6 ships transit Hormuz in a day, against 138 before the war",
+    "direction": "Escalating",
+    "description": "Just six vessels crossed the Strait of Hormuz on Tuesday, compared with about 138 a day before the war, as the renewed US-Iran exchange emptied the channel. Crude rose to near a six-week high around $90 a barrel. Iran has widened its Hormuz shipping blacklist to 56 vessels.",
+    "source": "https://time.com/article/2026/09/02/us-iran-deadly-strikes-attacks-civilians-sirik-strait-hormuz/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "UAE condemns Iranian attacks on Bahrain, Kuwait, Jordan and Kurdistan",
+    "direction": "Neutral",
+    "description": "The UAE foreign ministry condemned 'in the strongest terms' Iran's missile and drone attacks on Bahrain, Kuwait, Jordan and the Kurdistan Region of Iraq, calling them 'a flagrant violation of the sovereignty of the brotherly nations and a threat to their security and stability.' The statement came two days after Iran struck the UAE's own Al Minhad air base with explosive drones.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/09/02/iran-attacks-gulf-neighbours-as-fighting-with-us-expands/",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "USS Abraham Lincoln docks in Thailand after 265 days without a port call",
+    "direction": "Neutral",
+    "description": "The carrier USS Abraham Lincoln pulled into Laem Chabang, Thailand, for five days of rest and recuperation, its first full port visit since 11 December and 286 days into a deployment that began in 2025. Roughly 5,000 sailors and Marines are aboard. Democratic lawmakers say the ship has set a modern record for consecutive days at sea supporting operations against Iran.",
+    "source": "https://news.usni.org/2026/09/02/uss-abraham-lincoln-arrives-in-thailand-for-first-port-call-in-265-days",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Bessent: Iran's bankruptcy is in its 'acceleration phase'",
+    "direction": "Escalating",
+    "description": "Treasury Secretary Scott Bessent said the US is 'in an acceleration phase of Iran bankruptcy' and warned Tehran 'may lash out more kinetically' as a result. He said China pays Iran in yuan and that 'when yuan cannot be converted to dollars, Iran starves.' Bessent's Operation Economic Outcast, unveiled 24 August, targeted nearly 60 Iran-linked individuals, entities and vessels with secondary sanctions.",
+    "source": "https://www.cnbc.com/2026/09/02/brent-oil-us-iran-strikes.html",
+    "actor": "US"
+  },
+  {
     "date": "2026-09-02",
     "title": "IRGC claims Prince Hassan strike destroyed RQ-4 and MQ-9 drones, killed US crew",
     "direction": "Escalating",
