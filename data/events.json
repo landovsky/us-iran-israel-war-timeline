@@ -1,5 +1,149 @@
 [
   {
+    "date": "2026-09-04",
+    "title": "South Korea moves toward Hormuz deployment, seeks parliamentary consent this month",
+    "direction": "Escalating",
+    "description": "South Korea's presidential office said Seoul is 'reviewing practical options, including military measures' to support freedom of navigation in the Strait of Hormuz, while denying reports a decision had been made. Options under study are a maritime patrol aircraft, a logistics support vessel and a mine detection and clearance unit, requiring about 150 troops, with dispatch targeted before year-end. The government is preparing a consent motion for parliament this month after cabinet review, and has discussed the scale of its contribution with the United States, Britain and France. South Korea draws 61 percent of its crude oil imports and 54 percent of its naphtha through the strait.",
+    "source": "https://www.koreaherald.com/article/10862906",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Iran's oil minister says exports continue despite blockade: 'difficult but manageable'",
+    "direction": "Neutral",
+    "description": "Petroleum Minister Mohsen Paknejad said Iran's oil industry is circumventing the US naval blockade of its ports, calling the situation difficult but manageable. 'The sale of our oil outside our territorial waters, in distant waters — meaning the delivery of oil to our customers — has continued,' Paknejad said, while conceding volumes had 'declined to some extent.' He added that Tehran is 'pursuing various strategies and have taken measures to overcome the blockade.'",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-oil-industry-circumventing-us-blockade",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Vance rules out talks until Iran stops attacking commercial shipping",
+    "direction": "Escalating",
+    "description": "Vice President JD Vance said Washington will not resume negotiations with Tehran while Iranian forces keep firing on merchant vessels in the Strait of Hormuz. 'We are not talking to the Iranians... unless they stop shooting at commercial shipping,' Vance said, adding that all options remain on the table. The precondition hardens the US position two weeks after Trump ordered envoys to halt contacts, and comes after Pezeshkian offered on 1 September to return to the June memorandum.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Vance 'extremely skeptical' of Kuhestak wedding strike, denies it is a war",
+    "direction": "Neutral",
+    "description": "Vance cast doubt on Iranian accounts of the 1 September US strike on a wedding in Kuhestak, saying 'I'm extremely skeptical of this' and that 'Iranian state media has not been a very good scribe about what's happened.' He said the administration was investigating 'very fully' — 'We're investigating it because obviously we care. We want to know.' Asked whether the conflict would end before the November midterms, Vance replied 'I wouldn't call it a war,' adding that 'right now, there is no active shooting.'",
+    "source": "https://www.cbsnews.com/live-updates/us-iran-war-trump-dismisses-diplomacy-tehran-says-wedding-hit-in-strike/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Iran's first vice president Aref promises 'asymmetrical, multi-layered' response",
+    "direction": "Escalating",
+    "description": "First Vice President Mohammad Reza Aref said the latest American strikes had changed Iran's security equations and defence doctrine. 'From now on, our response will be asymmetrical, multi-layered, and depriving the aggressor of security,' Aref said. He wrote on X that 'the Americans should start thinking about stockpiling gasoline and fuel. Dark months await the American economy.'",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Netanyahu calls toppling Iran's regime Israel's 'central mission', says goal is 'within reach'",
+    "direction": "Escalating",
+    "description": "At a Rosh Hashanah toast with IDF General Staff officers, Prime Minister Benjamin Netanyahu said bringing down the Islamic Republic is Israel's 'central mission' and that the objective is 'within reach.' It is his most explicit public statement of regime change as war aim since the conflict began on 28 February, and goes further than the Trump administration, which has framed its campaign around shipping and the nuclear programme.",
+    "source": "https://www.timesofisrael.com/liveblog-september-03-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Katz: an Iranian attack would 'return Iran to the Stone Age and darkness'",
+    "direction": "Escalating",
+    "description": "Defence Minister Israel Katz told Defence Ministry staff in Tel Aviv that 'an Iranian attack on Israel will free us from all constraints. We will strike all infrastructure — including energy infrastructure — and return Iran to the Stone Age and darkness.' Katz said Israel sees indications that economic collapse and fear of an uprising 'could push them to desperate measures,' explicitly placing Iran's power plants and refineries on the target list for the first time since the June memorandum.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/katz-if-iran-attacks-israel-will-be-free-from-all-constraints-and-strike-energy-infrastructure",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Israel returns 5 Lebanese detainees in US-mediated exchange for Jewish remains",
+    "direction": "De-escalating",
+    "description": "Israel began handing five Lebanese civilian detainees back to Lebanon in return for help locating the remains of members of Lebanon's Jewish community. Malek Ghazi crossed on 3 September; the four others were delayed to the morning of 4 September. The State Department said its ambassador to Lebanon Michel Issa and envoy Mike Huckabee brokered the talks: 'Israel is releasing detainees and Lebanon is helping Israel recover the lost remains.'",
+    "source": "https://www.timesofisrael.com/liveblog-september-03-2026/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "IDF finishes clearing Hezbollah's Ali Taher tunnel complex ahead of demolition",
+    "direction": "Escalating",
+    "description": "The IDF said troops of the 36th Division cleared two tunnel routes beneath the Ali Taher Ridge in southern Lebanon over recent weeks, killing some Hezbollah operatives while others fled. Inside they found command centres, weapons rooms, generator rooms, living quarters, showers and a kitchen in what the military called 'strategic infrastructure that was built over two decades,' financed and planned by Iran. The complex served as the nerve centre of Hezbollah's Badr regional division north of the Litani; demolition work is ongoing.",
+    "source": "https://www.timesofisrael.com/idf-says-it-entered-cleared-hezbollahs-ali-taher-ridge-tunnels-ahead-of-demolition/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Isfahan Revolutionary Court sentences 10 protesters to death in single ruling",
+    "direction": "Escalating",
+    "description": "Branch 1 of the Isfahan Revolutionary Court, under judges Morteza Barati and Mohammadreza Tavakoli, sentenced 10 people to death on charges of moharebeh, destruction of public property, assembly and collusion, and propaganda against the state. Those sentenced include Taraneh Rahimi, Navid Elyasi, Abolfazl Dadgostar, Mehdi Mansouri and Armin Gholami; Branch 5 separately condemned Leila Abolhasani. The rulings follow at least 23 executions carried out between 23 and 26 August and a warning from judiciary head Gholamhossein Mohseni Eje'i on 31 August that new unrest would draw 'a very strong and decisive response.'",
+    "source": "https://iran-hrm.com/2026/09/03/iran-surge-in-executions-protest-death-sentences/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Brent slips to $95.25 but heads for biggest weekly gain since July",
+    "direction": "Neutral",
+    "description": "Brent crude settled at $95.25 a barrel on 3 September, down 0.4 percent on the day, while WTI eased to about $90. Both benchmarks remained on course for their largest weekly gain since July after the 1 September US strike wave and Iran's retaliation on Gulf bases revived fears of prolonged disruption to energy flows through Hormuz. Brent has risen roughly 20 percent over the past month and is up 42 percent year on year.",
+    "source": "https://www.vantagemarkets.com/market-analysis/brent-wti-crude-oil-price-september-3-2026/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Air Force audits Gold Star widow's benefits denied because war is undeclared",
+    "direction": "Neutral",
+    "description": "The Air Force opened an audit into the case of Libby Klinner, widow of Major John Alexander Klinner, one of six service members killed when a refueling aircraft crashed over Iraq on 12 March. A casualty assistance officer told her the family could not receive hostile fire and imminent danger pay or combat-zone tax exclusions from his final paycheck because 'we have not declared war.' Congress has never voted a declaration for a conflict now in its seventh month.",
+    "source": "https://www.notus.org/defense/air-force-iran-war-widow-libby-alexander-klinner-missing-benefits",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Hegseth extends Middle East deployments into 2027, keeping 50,000 troops in theatre",
+    "direction": "Escalating",
+    "description": "Pete Hegseth has quietly extended US deployments in the Middle East into 2027, maintaining about 50,000 troops, 19 warships, fighter squadrons, air defence units and paratroopers in the region, according to the Wall Street Journal. Elements of the 82nd Airborne Division could remain well into 2027. Officials said the open-ended posture is meant in part to give Trump flexibility rather than to support any planned operation.",
+    "source": "https://www.commondreams.org/news/hegseth-troop-deployments-2027",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Iranian Red Crescent asks ICC to investigate Kuhestak wedding strike as war crime",
+    "direction": "Neutral",
+    "description": "The Iranian Red Crescent Society wrote to the International Criminal Court asking it to investigate the US strike that hit a wedding at Kuhestak in Sirik county at 9:30pm local time on 1 September, killing four and wounding 67. The dead were two women and two children aged four and 16. The society said the attack could amount to a 'war crime' and required 'an independent, impartial, thorough, and effective investigation' because the site was civilian. It is the first formal referral targeting US military conduct since the war began on 28 February.",
+    "source": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "IRGC says two tankers struck mines in Hormuz; CENTCOM flatly denies it",
+    "direction": "Escalating",
+    "description": "The Revolutionary Guard said two oil tankers hit naval mines while trying to transit the Strait of Hormuz. US Central Command rejected the claim outright, posting that 'no ships have hit mines in the Strait of Hormuz.' The competing accounts followed the tanker Burgan reporting a security incident and anchoring near Jazirat Um Al Ghanam, and leave underwriters without an agreed picture of whether the channel CENTCOM declared cleared on 25 August has been re-seeded.",
+    "source": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Pentagon pulls Secretary of Defense Orders Book from classified network after leak",
+    "direction": "Neutral",
+    "description": "The Pentagon removed documents associated with the Secretary of Defense Orders Book from an internal portal on the SIPRNet classified network, days after the Washington Post reported that four senior officers — Gen. Alexus Grynkewich, Gen. Francis Donovan, Adm. Samuel Paparo and Adm. Daryl Caudle — had warned Pete Hegseth about the risks of prolonging large-scale operations against Iran. The Orders Book records the location and availability of US warships, units and weapons, and is where commanders formally register non-concurrence with orders from Trump and Hegseth. Spokesman Sean Parnell declined to discuss the move but did not deny it.",
+    "source": "https://www.washingtonpost.com/national-security/2026/09/02/pentagon-cuts-access-classified-information-amid-iran-war-concerns/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Reuters: Trump aides push to keep Iran war 'quiet' until November midterms",
+    "direction": "De-escalating",
+    "description": "Senior aides to Trump have pressed to prevent further escalation before the 3 November midterm elections to limit Republican losses, Reuters reported, with White House officials prepared to consider ramping up military action only after the vote. The administration is meanwhile tightening economic pressure to extract concessions in any future talks. A late-August Reuters/Ipsos poll found 31 percent of Americans support the war and about 63 percent oppose it, with voters unhappy about petrol prices.",
+    "source": "https://www.israelhayom.com/2026/09/02/trump-aides-iran-war-midterms-reuters",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Xi in Egypt urges new Middle East security order and offers to guard shipping lanes",
+    "direction": "Neutral",
+    "description": "On his first state visit to Egypt in a decade, Xi Jinping told President Abdel Fattah el-Sisi that 'we must uphold the principle that the people of the Middle East are the masters of their own affairs, oppose external interference,' and said China 'stands ready to work with countries in the region to safeguard the security of international shipping lanes.' The two leaders urged a comprehensive agreement to end the war and launched the third phase of a Chinese-Egyptian industrial zone on the Suez Canal.",
+    "source": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-urges-new-middle-east-security-framework-during-rare-egypt-visit",
+    "actor": "Other"
+  },
+  {
     "date": "2026-09-03",
     "title": "Kuwait repels Iranian missile and drone attack on Ali Al Salem base",
     "direction": "Escalating",
