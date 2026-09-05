@@ -1,6 +1,102 @@
 [
   {
     "date": "2026-09-04",
+    "title": "Trump threatens to hit Iran's Pickaxe Mountain nuclear site 'very soon'",
+    "direction": "Escalating",
+    "description": "Speaking in the Oval Office, President Trump said the US could strike Pickaxe Mountain, the deeply buried tunnel complex about 1.5km south of Natanz where Iran is believed to have relocated thousands of centrifuges. 'We know everybody that's moving at Pickaxe; we know everybody that's moving everywhere all over Iran. And if anything goes bad, we hit them; we hit them hard.' Trump defended the six-month campaign: 'We're in five months now... They're not going to have a nuclear weapon; that's what we did.' Weapons experts doubt even GBU-57 bunker-busters could destroy the complex, estimated at 100 metres underground.",
+    "source": "https://aninews.in/news/world/us/trump-says-us-might-hit-irans-pickaxe-mountain-very-soon20260905044241/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Trump calls the Iran conflict 'small potatoes for us', declines to call it a war",
+    "direction": "Neutral",
+    "description": "Trump told reporters the fighting does not merit the word war: 'A lot of people don't call it a war. I call it a military conflict because it's small potatoes for us.' He compared the scale of the Iran campaign to US operations against Venezuela. The framing tracks Vice President Vance, who a day earlier also refused the term, and comes as Trump aides press to keep the conflict quiet ahead of November's midterms.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "US diesel hits record $5.85 a gallon; petrol at $4.15 on costliest Labor Day ever",
+    "direction": "Escalating",
+    "description": "AAA recorded a US national average diesel price of $5.85 a gallon, an all-time high that surpasses the June 2022 peak set after Russia's invasion of Ukraine and is up nearly 60% year on year. Regular petrol reached $4.15, the highest Labor Day price on record. Brent crude traded above $95 a barrel, against roughly $70 before the war. Because diesel moves US freight, the increase feeds directly into grocery prices for produce, meat and other perishables.",
+    "source": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Reuters analysis: Kuhestak wedding was a direct US munition hit; toll rises to 5",
+    "direction": "Escalating",
+    "description": "Four weapons experts who reviewed Reuters-verified video and images concluded the 1 September blast at a wedding in Kuhestak was consistent with a munition striking the building's roof directly, not a ricochet off another target; three said the weapon was likely American rather than an errant Iranian air-defence missile. A 22-year-old woman died of her wounds on 4 September, raising the toll to five including 4-year-old Amir-Mohammad Karimi, whose funeral drew thousands the same day. Vice President Vance confirmed a US investigation: 'We're investigating it because obviously we care.'",
+    "source": "https://www.spokesman.com/stories/2026/sep/04/us-probes-iran-wedding-strike-that-analysis-shows-/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "US, UK, France and Germany draft IAEA resolution referring Iran to Security Council",
+    "direction": "Escalating",
+    "description": "Diplomats told Reuters the four powers are circulating a draft resolution for the IAEA Board of Governors meeting next week that would report Iran to the UN Security Council for the first time in two decades. It follows the Director General's quarterly report finding Iran still denies inspectors access to key facilities, calling the situation 'a matter of proliferation concern'. Every such draft submitted by the four in recent years has passed the board, though Russian and Chinese vetoes make Security Council action unlikely.",
+    "source": "https://www.usnews.com/news/world/articles/2026-09-04/us-and-allies-want-iaea-board-to-report-iran-to-un-security-council-diplomats-say",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Treasury sanctions Turkey's Golden Global bank as an Iranian 'financial lifeline'",
+    "direction": "Escalating",
+    "description": "The US Treasury designated Golden Global Yatirim Bankasi Anonim Sirketi and its subsidiaries, accusing the Istanbul-based institution of being set up to move Iranian oil revenues from China to Turkey for conversion into cash and gold. Treasury said the subsidiaries handled tens of millions of dollars in transactions for the IRGC-Quds Force. The designation comes a week after Secretary Scott Bessent launched 'Operation Economic Outcast', and marks the campaign's first strike against a NATO member's banking sector.",
+    "source": "https://abcnews.com/US/wireStory/us-issues-sanctions-turkish-bank-calls-critical-financial-136204523",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "State Department approves $5bn JDAM-ER sale to Saudi Arabia",
+    "direction": "Escalating",
+    "description": "The State Department cleared a potential $5 billion sale of Boeing-built Joint Direct Attack Munition-Extended Range kits to Saudi Arabia, plus a separate $750 million sale of Honeywell AGT-1500 engines. The department said the package would improve Riyadh's ability to counter regional threats and its interoperability with US forces. The approval follows months of Iranian and Houthi missile and drone attacks on Saudi territory and shipping, including strikes on the tankers Amzan and Sidr.",
+    "source": "https://gvwire.com/2026/09/04/us-approves-potential-sale-of-joint-direct-attack-munitions-extend-range-to-saudi-arabia-for-5-billion/",
+    "actor": "US|Saudi Arabia"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "IDF declares operational control of Lebanon's Ali al-Taher ridge",
+    "direction": "Escalating",
+    "description": "The IDF said soldiers of the 36th Division had cleared and neutralised two underground routes on the Ali al-Taher ridge and now hold operational control above and below ground, with Hezbollah fighters killed or driven out. Defence Minister Israel Katz said forces had 'cleared Hezbollah fighters embedded in tunnels' beneath the ridge, which sits about 10km from the Israeli border near Nabatieh and the Litani. Israeli officials called it the completion of the phase establishing control over the southern Lebanon security zone; Iran had reportedly warned Washington that taking the ridge would trigger a large-scale attack on Israel.",
+    "source": "https://thisisbeirut.com.lb/news/politics/idf-says-achieved-operational-control-at-ali-al-taher-ridge",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Israeli strike on Kfar Reman kills 3, wounds 23; seven more towns shelled",
+    "direction": "Escalating",
+    "description": "Lebanon's Ministry of Public Health said an Israeli air strike on Kfar Reman in the Nabatieh district killed three people and wounded at least 23. Lebanon's National News Agency reported two young men were targeted while riding a motorcycle. Israeli raids and artillery also hit al-Mansouri, Majdal Zoun, Buyout al-Sayyad, Beit Lif, Srebbine, Zawtar al-Sharqiyah and Mayfadoun without further casualties. Israeli operations in Lebanon since 2 March have killed more than 4,000 people and displaced over a million.",
+    "source": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Houthi push toward Bab al-Mandab kills 81 in two days of Yemen fighting",
+    "direction": "Escalating",
+    "description": "Medical and military sources reported 81 combatants killed since Thursday as Houthi forces launched a ground assault backed by rocket and drone fire on Yemen's Red Sea coast. The dead include 39 government troops — 24 on the coast and 15 in Taiz — and at least 42 Houthi fighters. The offensive aims to cut the port city of Mokha off from other government-held areas and push toward the Bab al-Mandab strait, the alternate route for Saudi oil now that Hormuz is closed.",
+    "source": "https://www.manilatimes.net/2026/09/05/world/americas-emea/81-dead-as-yemens-houthis-push-toward-key-strait/2418876",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "US military disables ad trackers on troops' devices after Iran targeting reports",
+    "direction": "Neutral",
+    "description": "Letters released by Senator Ron Wyden show the Air Force disabled advertising identifiers on computers and mobile phones two months ago, US Special Operations Command 'recently' did so on its Windows devices, and the Army disabled mobile advertising IDs earlier this year. The moves follow reports that commercially available location data was used to target American forces in the Middle East. Wyden and Representative Pat Harrigan asked the Pentagon on Friday to investigate, with Wyden saying the military's efforts 'have not been effective at neutralizing this threat.'",
+    "source": "https://www.usnews.com/news/top-news/articles/2026-09-04/exclusive-us-military-turns-off-ad-trackers-on-devices-amid-middle-east-targeting-reports",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Iranian army spokesman Akraminia says US and Israel failed on every war objective",
+    "direction": "Neutral",
+    "description": "Brigadier General Mohammad Akraminia, spokesman for Iran's regular army, said the enemy entered the war 'making a series of miscalculations about Iran and its capabilities'. He said Washington and Israel had aimed at 'destroying Iran's missile and nuclear capabilities, overthrowing the government and, of course, partitioning Iran' but 'failed to achieve any of these objectives', adding they misjudged both the Iranian people and Tehran's ability to control the Strait of Hormuz. The claim answers Netanyahu's statement a day earlier that toppling the regime was 'within reach'.",
+    "source": "https://www.presstv.co.uk/Detail/2026/09/04/775650/Iran",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-04",
     "title": "South Korea moves toward Hormuz deployment, seeks parliamentary consent this month",
     "direction": "Escalating",
     "description": "South Korea's presidential office said Seoul is 'reviewing practical options, including military measures' to support freedom of navigation in the Strait of Hormuz, while denying reports a decision had been made. Options under study are a maritime patrol aircraft, a logistics support vessel and a mine detection and clearance unit, requiring about 150 troops, with dispatch targeted before year-end. The government is preparing a consent motion for parliament this month after cabinet review, and has discussed the scale of its contribution with the United States, Britain and France. South Korea draws 61 percent of its crude oil imports and 54 percent of its naphtha through the strait.",
