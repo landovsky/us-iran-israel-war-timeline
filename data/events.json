@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-09-06",
+    "title": "Zamir orders surprise multi-front war drill 'Breaking Dawn 2.0'",
+    "direction": "Neutral",
+    "description": "IDF Chief of the General Staff Lt. Gen. Eyal Zamir launched an unannounced military-wide exercise early Sunday to test General Headquarters readiness for a sudden, large-scale multi-front attack. Senior commanders across regional commands, branches and directorates were summoned, standby forces were mobilised, one battalion was airlifted by helicopter and reserve readiness was reviewed. Zamir directed the drill from the military's underground Supreme Command Post and from field positions. The IDF said the exercise tests updated operational plans and lessons from the October 7, 2023 Hamas attack, and warned the public to expect heavy troop and aircraft movement.",
+    "source": "https://www.israelnationalnews.com/news/432752",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-09-06",
+    "title": "Israeli strikes destroy Nabatieh's Ghandour Hospital after Hezbollah drone launch",
+    "direction": "Escalating",
+    "description": "Hezbollah launched two explosive drones at Israeli troops on the Ali Taher ridge overnight; the IDF shot one down and reported no casualties, calling the launch 'a blatant violation' of the ceasefire. Israeli aircraft then struck southern Lebanon, destroying the Ghandour Hospital in Nabatieh al-Fawqa, which had already been evacuated and was empty at the time. The IDF separately ordered residents of Arab Salim to move at least 300 metres from a building it said Hezbollah was using.",
+    "source": "https://www.timesofisrael.com/liveblog-september-06-2026/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "IRGC fires ballistic missiles at US aircraft carrier and destroyer; both evade",
+    "direction": "Escalating",
+    "description": "CENTCOM said Iran's Islamic Revolutionary Guard Corps launched multiple ballistic missiles at two US Navy warships — an aircraft carrier and a guided-missile destroyer — in regional waters. Both vessels manoeuvred clear, neither was hit and no American personnel were injured. CENTCOM commander Adm. Brad Cooper called the launches unprovoked. It was the first direct Iranian missile attack on a US carrier since strikes resumed at the start of September.",
+    "source": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4591744/centcom-destroys-3-irgc-oil-tankers-after-iran-targets-2-us-navy-warships/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "CENTCOM destroys three IRGC oil tankers: Downy, Stark 1 and Kylo",
+    "direction": "Escalating",
+    "description": "US forces permanently disabled the IRGC-linked crude carriers M/T Downy off Kharg Island and M/T Stark 1 near Jask, and completely destroyed the unladen M/T Kylo in the Gulf of Oman after evacuating its crew. Iranian state television said four US missiles hit a tanker about six miles from Kharg Island, Iran's main export terminal, with no casualties. Adm. Brad Cooper said: 'If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours.'",
+    "source": "https://www.nbcnews.com/world/iran/us-strikes-3-iranian-oil-tankers-iran-targets-rcna596222",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Hegseth threatens to sink Iran's 'defenseless' oil fleet",
+    "direction": "Escalating",
+    "description": "Defense Secretary Pete Hegseth wrote on X: 'It's simple: if Iran shoots at U.S. ships, we will destroy (and sink) their oil tankers. All they have to do is stop shooting at @USNavy.' He called Iran's tanker fleet 'defenseless', saying Tehran no longer has a navy or air force able to protect it, and said US aircraft, warships and submarines could strike Iranian tankers anywhere across the CENTCOM and Indo-Pacific Command areas. CENTCOM said it would 'if necessary, destroy Iran's limited and exposed oil fleet'.",
+    "source": "https://www.iranintl.com/en/202609052283",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "IRGC claims strikes on three tankers and three US-linked vessels in Hormuz",
+    "direction": "Escalating",
+    "description": "The IRGC navy said it had struck three oil tankers taking 'unauthorised' routes through the Strait of Hormuz and three US-affiliated ships elsewhere, in retaliation for the American tanker strikes. CENTCOM did not confirm any of the claimed attacks. The IRGC warned shipping: 'Do not be deceived by the terrorist US military and refrain from any suspicious movement aimed at passing through unauthorized waterways.' Iran's Khatam al-Anbiya central headquarters added that strikes on US military vessels 'will be more severe than before'.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-907652",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Iran's foreign ministry calls US tanker strikes a war crime",
+    "direction": "Neutral",
+    "description": "Iran's foreign ministry condemned the American strikes on Iranian commercial vessels in the Persian Gulf and Sea of Oman as 'illegal and aggressive', saying they 'constitute a continuation of the U.S. military aggression against Iran and are part of the naval blockade and economic warfare imposed on the Islamic Republic'. The ministry said the attacks violate Article 2(4) of the UN Charter, amount to a war crime and threaten international peace and maritime trade, and warned Washington and its allies would face consequences.",
+    "source": "https://www.tribuneindia.com/news/commercial-vessels/iran-slams-us-strikes-on-irgc-oil-tankers-in-west-asia-calls-it-war-crime",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Houthi missile strike near Taiz kills 4 civilians; 1,800 families flee in 48 hours",
+    "direction": "Escalating",
+    "description": "A Houthi missile hit a crowded stretch of the strategic Heijah al-Abd road south of Taiz city, killing at least four civilians and wounding nine. Nearly 1,800 families fled their homes within 48 hours as shelling in Maqbanah and Jabal Habashi districts emptied existing displacement camps. Yemeni government forces said they had retaken several positions on the Haifan front. Aid agencies reported emergency supplies 'severely depleted' and communications networks down across the combat zones.",
+    "source": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Seoul rally and ruling-party revolt stall South Korea's Hormuz deployment",
+    "direction": "De-escalating",
+    "description": "Protesters rallied in Seoul against sending South Korean warships to the Strait of Hormuz as President Lee Jae-myung's own Democratic Party split over the plan. Lawmaker Lee Ki-heon said 'deploying our military to the Strait of Hormuz cannot be tolerated under any pretext', and Rebuilding Korea Party floor leader Kim Joon-hyung called it an illegal military operation Korea must not join. Polling showed 55 percent of South Koreans opposed sending a warship. Party leaders pushed the question to the National Defense Committee before any consent motion reaches parliament.",
+    "source": "https://en.sedaily.com/politics/2026/09/05/hormuz-deployment-splits-koreas-ruling-bloc-again",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Egypt and Oman push US and Iran back to the Islamabad memorandum",
+    "direction": "De-escalating",
+    "description": "Egyptian Foreign Minister Badr Abdelatty and his Omani counterpart discussed containing the escalation, reviving US-Iran negotiations and safeguarding navigation through the Strait of Hormuz in a phone call. Abdelatty said Washington and Tehran should return to talks under the Islamabad memorandum and urged all sides to avoid steps that threaten regional security. Cairo has made similar calls to Turkey, Kuwait, Italy and Norway over the past week.",
+    "source": "https://www.dailynewsegypt.com/2026/09/05/cairo-calls-for-resumption-of-us-iran-talks-warns-against-wider-regional-escalation/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Maariv: Iran plans coordinated assault with Hezbollah, Hamas, Houthis and Iraqi militias",
+    "direction": "Escalating",
+    "description": "Israeli daily Maariv reported that Iran is preparing a simultaneous multi-front attack on Israel involving Hezbollah, Hamas, the Houthis and pro-Iranian Iraqi militias, describing it as 'a dangerous scenario'. Senior Iranian officials recently held talks with commanders of the allied groups, and Quds Force representatives ran conference calls with them during lulls in the fighting while Iranian advisers worked alongside them on the ground. Maariv cited 'joint exercises, closer operational and humanitarian ties, and increased coordination of political and military decisions between the components of the axis'. Israeli officials framed the plan as Tehran applying the lesson of October 7, when Hamas attacked alone.",
+    "source": "https://www.naharnet.com/stories/en/322263-iran-preparing-coordinated-attack-with-hezbollah-proxies-israeli-report-says",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Brent settles at $92.68 after biggest weekly gain since July",
+    "direction": "Neutral",
+    "description": "Brent crude futures settled at $92.68 a barrel, up 76 cents or 0.8 percent, while WTI finished at $91.48, up 18 cents. For the week Brent rose 7.6 percent and US crude gained nearly 10 percent, the steepest weekly advance since July, as US-Iran strikes resumed in the seventh month of the war. Traders cited the continued Hormuz restrictions, falling US crude inventories and an exceptionally tight diesel market, with retail US diesel hitting a record high the same day.",
+    "source": "https://www.cnbc.com/2026/09/04/oil-set-for-steepest-weekly-gain-over-renewed-us-iran-tensions.html",
+    "actor": "Other"
+  },
+  {
     "date": "2026-09-04",
     "title": "Trump threatens to hit Iran's Pickaxe Mountain nuclear site 'very soon'",
     "direction": "Escalating",
