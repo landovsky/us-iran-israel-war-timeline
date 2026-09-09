@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-09-09",
+    "title": "IRGC fires 20 ballistic missiles at Jordan's Azraq air base; 18 intercepted",
+    "direction": "Escalating",
+    "description": "The IRGC launched 20 ballistic missiles overnight from Tuesday into Wednesday at the US-hosted Azraq air base in eastern Jordan, retaliating for CENTCOM's destruction of five Iranian tankers a day earlier. Jordan's military said it engaged the salvo and intercepted 18 missiles; the remaining two fell in unpopulated areas, causing no casualties. US Central Command said all American troops in Jordan were accounted for.",
+    "source": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "IRGC claims attacks on 10 ships, including destroyers DDG-119 and DDG-53",
+    "direction": "Escalating",
+    "description": "The IRGC said its forces struck two American vessels and eight oil tankers in the Persian Gulf and the Strait of Hormuz, naming the destroyers USS Delbert D. Black (DDG-119) and USS John Paul Jones (DDG-53) among the targets. The Guards said the ten ships had entered a 'prohibited and unsafe zone' of the strait at US instigation, the first enforcement claim since Mohsen Rezaei announced the zone on September 7. The US military did not confirm damage to either destroyer.",
+    "source": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "CENTCOM destroys five IRGC tankers: Kaviz, Charminar, Horizon 1, Riesco, Derya",
+    "direction": "Escalating",
+    "description": "US Central Command destroyed five IRGC-linked crude carriers, striking four in the Gulf of Oman and one near Kharg Island, after Iran targeted a US Navy warship on September 7. 'American forces directed the crews to abandon ship before the vessels were struck and rendered inoperable,' CENTCOM said. The strikes bring to eight the number of Iranian tankers US forces have destroyed or disabled in four days.",
+    "source": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Rubio: every time Iran tries to hit US Navy ships, 'they're going to lose tankers'",
+    "direction": "Escalating",
+    "description": "Speaking to reporters during a visit to Colombia, Secretary of State Marco Rubio codified the tanker-for-warship exchange as US policy: 'Iran continues to try to hit US naval ships, and for every time they do that or try to do that, they're going to lose tankers.' The remark formalises the retaliation ratio CENTCOM has applied since September 1, when it began striking Iranian tankers in response to attacks on American vessels.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-iran-will-lose-tankers-if-it-tries-hit-us-navy-ships",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Treasury sanctions 36 entities, blacklisting all 27 of Iran's remaining airlines",
+    "direction": "Escalating",
+    "description": "The Treasury's Office of Foreign Assets Control sanctioned 36 targets, including all 27 remaining active Iranian passenger airlines and cargo intermediaries in Turkey, the UAE, Kazakhstan and Malaysia, under the Operation Economic Outcast framework launched August 24. Treasury accused the airlines, among them Mahan Air, of moving weapons, personnel and illicit cargo for the IRGC. 'Let this be a warning to anyone doing business with Iran's remaining airlines: You are at risk of being cut off from the global financial system,' Scott Bessent said. Foreign Minister Abbas Araghchi replied that after failing through sanctions or war, 'Washington's novel solution is more sanctions.'",
+    "source": "https://home.treasury.gov/news/press-releases/sb0623/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "UK sanctions 71 Iranian nuclear-linked targets and bars Iranian aircraft",
+    "direction": "Escalating",
+    "description": "Britain published legislation adding 71 individuals and entities tied to Iran's nuclear programme to its sanctions list, imposing asset freezes and travel bans, widening trade prohibitions on goods, technology and services, restricting Iranian access to the British financial system, and barring Iranian aircraft from landing in the UK absent an exemption. Iran's London embassy called the measures illegal, saying that aligning with US 'economic terrorism against Iran will do nothing but deepen the wall of mistrust between the two countries.'",
+    "source": "https://www.al-monitor.com/originals/2026/09/uk-publishes-legislation-tougher-sanctions-iran",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "IRGC says it captured an Anduril Dive-LD undersea drone at the Hormuz entrance",
+    "direction": "Neutral",
+    "description": "The IRGC Navy said it 'trapped one of the most modern, intelligent and unmanned submarines of the terrorist American army at the entrance to the Strait of Hormuz.' Iranian state media identified the vessel as a Dive-LD, a 5.8-metre, three-tonne autonomous underwater vehicle built by Anduril Industries and delivered to the US Navy's Unmanned Undersea Vehicle Squadron 1 in April 2025, capable of ten-day missions to 6,000 metres. A Pentagon spokesperson said the drone had 'malfunctioned more than a day ago' and was 'an older model that neither collected sensitive data nor carried any classified sonar or radar equipment.'",
+    "source": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Qatar warns of 'industrial catastrophe' as Hormuz traffic hits post-May low",
+    "direction": "Neutral",
+    "description": "Qatari foreign ministry spokesperson Majed Al-Ansari told US media that reopening the Strait of Hormuz is the world's priority and that an 'industrial catastrophe' awaits if the crisis continues. An average of 10 commodity ships a day transited the strait over the previous 10 days, the lowest since May, with traffic down 28 percent week on week; six vessels crossed on Tuesday, against about 85 a day before the war.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues",
+    "actor": "Qatar"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Yemen's government launches counteroffensive, vows to retake Sanaa",
+    "direction": "Escalating",
+    "description": "Yemen's internationally recognised government opened a counteroffensive against the Houthis on multiple fronts, with warplanes striking positions in Hodeidah, Marib and al-Jawf. Deputy Defence Minister Major-General Samir Al-Sabri said the government had decided to 'retake Sanaa'; spokesman Majid al-Nuzaili framed the aim as restoring 'Sanaa as a capital for all Yemenis.' The WHO said at least 728 people have been killed or wounded since August 23, and roughly 3,000 families, some 21,000 people, have fled Taiz since Thursday. It is the most serious Yemeni escalation since the UN-brokered truce of 2022.",
+    "source": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Brent hits $99.46, a war high, as Goldman raises its 2026-27 forecasts",
+    "direction": "Escalating",
+    "description": "Brent crude touched a session high of $99.46 a barrel and settled up about 1.6 percent near $99.49, with WTI at $94.63, after Houthi strikes on Saudi energy facilities and the US-Iran tanker exchange. Oil has risen more than 8 percent in September alone. Goldman Sachs raised its December 2026 Brent and WTI forecasts by $5 to $85 and $80, and warned Brent could exceed $120 in 2027 if Gulf output stays 4 million barrels a day below pre-war levels.",
+    "source": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Iran says 27 of its airports were damaged in the war's first phase",
+    "direction": "Neutral",
+    "description": "Morteza Dehghan, chief executive of the Iran Airports and Air Navigation Company, said 27 airports sustained damage to runways, safety buildings, navigation and inspection equipment and passenger terminals. The list includes Mashhad, Isfahan, Bandar Abbas, Bandar Lengeh, Kish, Bushehr, Kermanshah, Shiraz, Lamerd, Larestan, Jahrom, Kerman and Jiroft, plus airports in East and West Azerbaijan. Dehghan said daily flights have recovered from about 100 immediately after the strikes to 500, with roughly 100 transit flights, though several regional carriers have not resumed service.",
+    "source": "https://en.shafaqna.com/475929/official-27-airports-damaged-during-us-israeli-attacks-on-iran/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-09-08",
     "title": "Houthi strikes wound 73 in Saudi Arabia; Aramco sites in Abha and Jizan ablaze",
     "direction": "Escalating",
