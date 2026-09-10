@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-09-10",
+    "title": "A-10 loses a wing at Jordan's Muwaffaq Salti base; eight F-15s damaged",
+    "direction": "Escalating",
+    "description": "CBS reporter Jennifer Jacobs reported that the IRGC's 20-missile barrage on Muwaffaq Salti Air Base left one A-10 Thunderbolt with a wing torn off and lightly damaged roughly eight F-15s, which were returned to service. US air defences fired more than 30 Patriot interceptors during the attack. The damage assessment undercuts Jordan's initial statement that it intercepted 18 of the 20 missiles and that the remaining two fell in unpopulated areas.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-908179",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "HRW: Iran executed 59 men on political charges since March",
+    "direction": "Escalating",
+    "description": "Human Rights Watch reported that Iranian authorities arbitrarily executed at least 59 men on politically motivated national security charges between 18 March and the end of August, including 29 arrested during the December 2025-January 2026 protests. Sixteen of those 29 cases involved no allegation of killing anyone. Those hanged included 19-year-old wrestling champion Saleh Mohammadi, executed about five weeks after his arrest, and 18-year-old Amir Hossein Hatami, executed 84 days after his. 'The authorities' message is clearly that protests will be met with brutality,' said HRW researcher Bahar Saba.",
+    "source": "https://www.hrw.org/news/2026/09/10/iran-ongoing-unlawful-execution-campaign-against-protesters",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "Reuters: Iran bartered oil for up to $2.5bn of Chinese goods via secret vehicle",
+    "direction": "Neutral",
+    "description": "A Reuters investigation found Iran moved between $2bn and $2.5bn through a special purpose vehicle over the past year, swapping crude shipped to China for credits against Chinese imports including air defence systems, vehicles, communications equipment and medicines. The mechanism routes hundreds of millions of dollars a month through a China-based financial entity called ChuXin and involves state oil trader Zhuhai Zhenrong. Reuters could not locate ChuXin in Chinese company registries or independently verify the transactions.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-908205",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "Trump: Iran war 'will end immediately after the election'",
+    "direction": "Neutral",
+    "description": "Speaking at Joint Base Andrews, Trump said 'I think war is going to end immediately after the election because they can't hold out any longer', referring to the 3 November midterms, and said Tehran was 'desperate to try and affect the election'. He said Washington is no longer seeking a negotiated end but left the door open to talks: 'I'm doing much more than a nuclear deal. There's a lot more than nuclear.' His administration had originally predicted the war would last four to six weeks.",
+    "source": "https://www.cnn.com/2026/09/09/politics/iran-war-end-midterms-trump",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "WSJ: Vance and Rubio privately warn Trump the war could run past 2029",
+    "direction": "Escalating",
+    "description": "The Wall Street Journal reported that Vice President JD Vance and Secretary of State Marco Rubio told Trump in Oval Office and Situation Room discussions that Iran could keep resisting US pressure through the rest of his presidency, past Inauguration Day in January 2029. The private assessment contradicts Trump's public claim the same day that the war ends immediately after November's midterms.",
+    "source": "https://www.jpost.com/international/article-908188",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "IAEA board votes 23-3 to refer Iran to the UN Security Council",
+    "direction": "Escalating",
+    "description": "The IAEA's 35-nation Board of Governors passed the US-, UK-, French- and German-backed resolution reporting Iran for non-compliance with its non-proliferation obligations, 23 in favour, three against and eight abstentions. Russia, China and Niger voted no. It is the first such referral in about 20 years. Iran's UN mission responded that 'the current situation is created solely because of the criminal acts of aggression by the U.S. and Israeli regime.' Security Council action remains unlikely given Russian and Chinese vetoes.",
+    "source": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "Brent closes above $100 for the first time since July, up 3.4 percent",
+    "direction": "Escalating",
+    "description": "Brent crude jumped 3.4 percent on Wednesday to close above $100 a barrel, its first triple-figure settlement since July, with WTI above $96. The benchmark stood near $93 on 2 September. Traders cited CENTCOM's destruction of five Iranian tankers, the IRGC missile barrage on Jordan and Houthi strikes on Saudi energy sites. A senior Iranian official told Bloomberg Tehran will not back down against the US naval blockade and will escalate its strikes if American attacks continue.",
+    "source": "https://www.energyconnects.com/news/oil/2026/september/brent-oil-holds-near-101-as-iran-says-ready-for-intense-war",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "CENTCOM calls IRGC destroyer claims 'completely FALSE', says 10 tankers hit in a week",
+    "direction": "Neutral",
+    "description": "US Central Command rejected the IRGC's claim to have struck the destroyers DDG-119 and DDG-53, saying no US Navy warship has been hit and every IRGC attempt failed. CENTCOM said the targeted warship 'successfully evaded the attempted Iranian attacks and continued to patrol regional waters' and that no American personnel were harmed. It added that US forces have destroyed 10 Iranian tankers over the past week, describing them as part of a network financing the IRGC.",
+    "source": "https://iranwire.com/en/news/157396-centcom-denies-irgc-claims-of-striking-two-us-destroyers/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "Pakistan warns Iran to rein in the Houthis, citing the Mecca defence pact",
+    "direction": "Escalating",
+    "description": "Defence Minister Khawaja Asif said Houthi attacks spilling into Saudi Arabia could activate the mutual defence agreement Pakistan, Saudi Arabia and Turkey signed in Mecca last month: 'An aggression on one country will be considered an aggression on all three countries.' Islamabad delivered the warning to Tehran and urged it to use its influence over the group, Reuters reported, a day after Houthi missiles and drones wounded 73 people in the kingdom.",
+    "source": "https://www.usnews.com/news/world/articles/2026-09-09/exclusive-pakistan-warns-iran-to-rein-in-houthis-as-riyadh-strikes-back",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "Projectiles hit Sirik, Qeshm and Jask on Iran's southern coast",
+    "direction": "Escalating",
+    "description": "IRNA reported that 'several areas' of Sirik were struck by projectiles fired by 'the enemy', with further explosions across Minab county, Qeshm Island and Jask in Hormozgan province from Wednesday evening into early Thursday. Provincial officials said the Jask blast 'came from the sea', and an IRNA reporter said gunfire at the waterway was heard beforehand. Neither Washington nor Israel claimed the strikes, and Iranian media reported no casualties.",
+    "source": "https://english.news.cn/20260910/868d7ae787c0409585ea5e9f22726bb9/c.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "Israeli drone kills one near Zebdine; Israel destroys a school in Mansouri",
+    "direction": "Escalating",
+    "description": "An Israeli drone killed a man riding a motorcycle on the Zebdine-Harouf road in Lebanon's Nabatieh district, the National News Agency reported; Israel issued no statement, as is now typical for strikes on motorcycles. Israeli forces also destroyed a school in Mansouri, fired machine guns at Majdal Zoun before dawn and shelled Kfar Roumine, where an eight-year-old boy was among the wounded. The strikes followed Israel's capture last week of the Ali al-Taher ridge above Nabatieh.",
+    "source": "https://naharnet.com/stories/en/322353-one-killed-in-strike-on-zebdine-harouf-road-despite-relative-calm",
+    "actor": "Israel|Lebanon"
+  },
+  {
     "date": "2026-09-09",
     "title": "IRGC fires 20 ballistic missiles at Jordan's Azraq air base; 18 intercepted",
     "direction": "Escalating",
