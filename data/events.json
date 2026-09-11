@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-09-11",
+    "title": "Treasury sanctions Hezbollah financiers in Iraq, UAE, Lebanon, Turkey",
+    "direction": "Escalating",
+    "description": "OFAC hits firms and individuals in Iraq, the UAE, Lebanon and Turkey that fund Kata'ib Hezbollah and Lebanese Hezbollah, plus a $1.43 million settlement with a US citizen for 39 sanctions violations, under Treasury's 'Operation Economic Outcast.' Secretary Bessent: 'Whether they finance terror, launder money, or help Iran evade sanctions, we will find them, cut them off from the US financial system.' Treasury says the sanctions stay until Iran stops obstructing the Strait of Hormuz and attacking US forces in the Gulf.",
+    "source": "https://home.treasury.gov/news/press-releases/sb0626",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "Houthis capture Mocha, close in on Bab el-Mandeb Strait",
+    "direction": "Escalating",
+    "description": "Iran-aligned Houthis seize the Red Sea port city of Mocha, ending a decade of Yemeni government control there; government troops retreat south toward Dhubab, putting the front line roughly 46km from the Bab el-Mandeb Strait, through which 10-12 percent of global trade passes. Aid agencies count at least 194 killed and 880 wounded over the prior two weeks of fighting across Taiz, the western coast, al-Jawf, Marib and Dhalea. The UN Security Council convenes on Yemen in response.",
+    "source": "https://www.timesofisrael.com/yemens-houthis-seize-port-city-of-mocha-closing-in-on-strategic-bab-el-mandeb-strait/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "IDF detonates 1,100 tons of explosives on Hezbollah tunnel network",
+    "direction": "Escalating",
+    "description": "Israel destroys a 2km Hezbollah tunnel system beneath Ali Taher Ridge in south Lebanon, built over two decades and containing Iranian-made rockets, missiles, drones, anti-tank missiles and mines. The blast registers as a 4.1-magnitude earthquake on the US Geological Survey. Netanyahu and Katz say the network was 'financed and planned by Iran'; at the Western Wall, Netanyahu warns Iran is rebuilding after losing its nuclear-weapons capability, citing resumed underground missile production at the Khojir complex.",
+    "source": "https://www.timesofisrael.com/liveblog-september-10-2026",
+    "actor": "Israel|Lebanon"
+  },
+  {
     "date": "2026-09-10",
     "title": "A-10 loses a wing at Jordan's Muwaffaq Salti base; eight F-15s damaged",
     "direction": "Escalating",
