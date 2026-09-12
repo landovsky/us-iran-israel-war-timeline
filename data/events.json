@@ -1,6 +1,102 @@
 [
   {
     "date": "2026-09-11",
+    "title": "Houthis seize Perim Island, taking all of Yemen's Red Sea coast",
+    "direction": "Escalating",
+    "description": "Houthi fighters crossed by boat to Mayyun Island — also called Perim — after government forces withdrew, then took the al-Omari camp overlooking the Bab al-Mandeb Strait and the coastal town of Dhubab, completing control of Yemen's entire Red Sea coastline. The volcanic island splits the narrowest part of the strait into two shipping lanes at the southern gateway to the Red Sea, the main alternative route to the blockaded Strait of Hormuz. Houthi military spokesman Yahya Saree said the two-week offensive expelled Saudi-backed forces from six districts covering 5,400 square kilometres. A Yemeni official told the Washington Post: 'This is the first day that Iran really started winning the war.'",
+    "source": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Houthis declare the Red Sea open to all shipping except Saudi vessels",
+    "direction": "Neutral",
+    "description": "Hours after taking Perim Island, the Houthis said 'maritime navigation is safe for all companies except for Saudi vessels,' carving out Riyadh alone for attack while leaving the Bab al-Mandeb nominally open. Spokesman Yahya Saree vowed to keep striking Saudi targets 'until the aggression stops and the blockade against our dear people is lifted,' adding the group would 'continue to enforce blockade for blockade and escalation for escalation.' The declaration puts Saudi Arabia's Red Sea exports at risk at both ends — the Yanbu terminal fed by the just-shuttered East-West pipeline, and the strait its tankers must transit.",
+    "source": "https://www.nbcnews.com/world/middle-east/houthis-control-bab-el-mandeb-yemen-red-sea-saudi-iran-war-oil-rcna597186",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Saudi Arabia shuts the East-West pipeline after drone strikes from Iraq",
+    "direction": "Escalating",
+    "description": "Saudi Arabia halted the East-West crude pipeline as a 'precautionary measure' after several drones launched from Iraq hit pump stations along its route in the Riyadh and Medina regions on 10 September, causing injuries and material damage. Satellite imagery showed extensive fire damage at one pumping station and thick black smoke from a second southeast of Medina. The 1980s pipeline carries crude from the eastern oil fields to Yanbu on the Red Sea and had been moving more than 5 million barrels a day by early June — the kingdom's principal workaround for the closed Strait of Hormuz. The foreign ministry issued its 'strongest condemnation' and reserved 'the right to take all necessary measures to protect its sovereignty, its security, its facilities.'",
+    "source": "https://www.timesofisrael.com/saudi-arabia-shutters-major-oil-pipeline-struck-by-drones-from-iraq/",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Iraq sacks its Maysan commander and shuts the Shalamcheh crossing with Iran",
+    "direction": "Neutral",
+    "description": "Iraq dismissed the commander of Maysan Operations Command after its own investigation confirmed the drones that struck Saudi Arabia's East-West pipeline were launched from within the southern province. Prime Minister Ali al-Zaidi ordered an investigative council, closed the Shalamcheh border crossing with Iran and launched operations to pursue those responsible. Saudi Arabia agreed to hold off on retaliation at Baghdad's request, giving Iraqi authorities time to stop further launches; Iraq welcomed the restraint and condemned the attack.",
+    "source": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Mohammed bin Salman presses Trump twice to bomb the Houthis; Trump refuses",
+    "direction": "Neutral",
+    "description": "Saudi Crown Prince Mohammed bin Salman spoke to Trump at least twice within 24 hours urging US military strikes on the Houthis as they overran Yemen's Red Sea coast and hit Saudi energy infrastructure. Trump declined to authorise strikes but agreed to supply target development and intelligence sharing. Two US officials said Washington did not intend to intervene directly, and a Yemeni Presidential Leadership Council official said the US also withheld support for a full-scale Saudi air campaign.",
+    "source": "https://www.nbcnews.com/world/middle-east/houthis-control-bab-el-mandeb-yemen-red-sea-saudi-iran-war-oil-rcna597186",
+    "actor": "US|Saudi Arabia"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Iran to meet GCC foreign ministers in Salalah on Hormuz shipping",
+    "direction": "De-escalating",
+    "description": "Iran's foreign ministry announced it will meet the foreign ministers of the six Gulf Cooperation Council states, plus Iraqi representatives, in the southern Omani city of Salalah on Monday 14 September to discuss the results of Iranian-Omani talks on safe commercial shipping routes through the Strait of Hormuz. It would be the first meeting between GCC top diplomats and a senior Iranian official since the US and Israel began the war in February. Tehran and Muscat agreed in August on a temporary route, mine clearance and short-term management of the waterway; Iran said the gathering should 'promote better understanding among the countries of the region.'",
+    "source": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Katz: Israel ready to keep striking Hezbollah 'at additional locations'",
+    "direction": "Escalating",
+    "description": "A day after the IDF detonated Hezbollah's tunnel network under the Ali al-Taher ridge, Defence Minister Israel Katz said: 'We are ready and prepared to continue the campaign, to continue striking Hezbollah and at additional locations.' Netanyahu and Katz said Israeli forces would remain on the ridge to stop Hezbollah re-establishing itself there. Israeli drones continued dropping explosive charges on houses in Mansouri village in southern Lebanon the same day.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/katz-says-israel-prepared-for-further-strikes-on-hezbollah-after-tunnel-detonation/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "IOM: 46,000 displaced in Yemen; Houthis seize UN compound in Mocha",
+    "direction": "Escalating",
+    "description": "The International Organization for Migration said at least 46,000 people have fled the fighting on Yemen's west coast and in Taiz governorate in a week, with the figure rising 'by the hour' and families arriving in Lahj, Aden and Ibb. IOM chief Amy Pope said families 'are being forced to flee for the second or third time in this conflict, with almost nothing left.' UN deputy spokesman Farhan Haq said Houthi forces seized a compound in Mocha housing UN agency staff; all personnel had evacuated beforehand and were 'safe and accounted for.'",
+    "source": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "Brent tops $108, up 6.3 percent, after Trump rules out an Iran deal",
+    "direction": "Escalating",
+    "description": "Brent settled at $107.63 a barrel, up 6.3 percent and its highest since May, after Trump said he was not pursuing a deal with Iran and expected prices to stay high until November: 'Right after the election, oil prices are going to be tumbling downward.' WTI rose 6.7 percent to $102.48; both benchmarks are up more than 75 percent this year. The 10-year Treasury yield hit 4.95 percent, its highest since 2023, and the 30-year reached 5.36 percent, the highest since 2007, pushing 30-year mortgage rates to 7.07 percent. US pump prices rose 5 cents to $4.27 a gallon and diesel 4 cents to $5.98.",
+    "source": "https://www.nbcnews.com/business/energy/us-crude-oil-iran-trump-hormuz-rcna596997",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "Four projectiles hit two vessels off Khasab; one ship catches fire",
+    "direction": "Escalating",
+    "description": "Four unidentified projectiles struck two vessels about four nautical miles west of Khasab, Oman, late on 10 September, setting one ablaze. The master of a third ship six nautical miles away reported watching the projectiles hit. The UK Maritime Trade Operations logged the incident as Warning 133-26 at 1910 UTC and did not attribute it to Iran, the United States or any other party.",
+    "source": "https://shipandbunker.com/news/world/483101-ukmto-reports-two-more-vessels-hit-by-projectiles-off-khasab-one-on-fire",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "Russia and China block revival of the UN's Iran sanctions committee",
+    "direction": "Neutral",
+    "description": "One day after the IAEA board referred Iran to the Security Council, Russia and China blocked a Western push to fully reactivate the dormant 1737 Sanctions Committee overseeing Iran's nuclear file. Russian envoy Vasily Nebenzya said Moscow 'won't allow sanctions on Tehran to be reimposed under any circumstances' and accused Western powers of distorting the facts. UK ambassador Sarah MacIntosh insisted all member states implement the existing resolutions including the arms embargo, and the US delegation said Washington would 'look to partners in the coming days to weigh options.'",
+    "source": "https://www.thenationalnews.com/news/us/2026/09/10/russia-and-china-oppose-push-to-reactivate-un-iran-sanctions-committee/",
+    "actor": "Russia"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "Trump: 'I don't believe in the word regret. If I had it to do again, I'd do exactly as I did'",
+    "direction": "Neutral",
+    "description": "In a Fox News interview broadcast on 10 September, Trump said he had no regrets about launching the war despite its effect on November's midterms, and would make the same decision again. He justified the strikes on Iran's nuclear sites — 'Supposing we were cruising and all of a sudden Iran has a nuclear weapon. They would use it' — and dismissed suggestions his base had soured on the conflict, saying supporters were 'very proud of the fact that I'm not letting Iran have a nuclear weapon.'",
+    "source": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-11",
     "title": "Treasury sanctions Hezbollah financiers in Iraq, UAE, Lebanon, Turkey",
     "direction": "Escalating",
     "description": "OFAC hits firms and individuals in Iraq, the UAE, Lebanon and Turkey that fund Kata'ib Hezbollah and Lebanese Hezbollah, plus a $1.43 million settlement with a US citizen for 39 sanctions violations, under Treasury's 'Operation Economic Outcast.' Secretary Bessent: 'Whether they finance terror, launder money, or help Iran evade sanctions, we will find them, cut them off from the US financial system.' Treasury says the sanctions stay until Iran stops obstructing the Strait of Hormuz and attacking US forces in the Gulf.",
