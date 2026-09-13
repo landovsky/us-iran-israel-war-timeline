@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-13",
+    "title": "Projectile strikes Iranian vessel off Qeshm Island; 1 dead, 3 hurt",
+    "direction": "Escalating",
+    "description": "An unknown projectile strikes an Iranian commercial vessel off Qeshm Island near the Strait of Hormuz before dawn, killing one crew member and wounding three, Iranian state media reports citing the Qeshm County governor. UKMTO separately confirms a vessel was struck by an unknown projectile while transiting the strait and says crew condition and damage extent remain unclear.",
+    "source": "https://www.arabnews.com/middle-east/vessel-struck-by-projectile-while-transiting-hormuz-strait-ukmto-says-3001522",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-13",
+    "title": "Pezeshkian accuses US of war crimes, vows Iran's forces will fight",
+    "direction": "Escalating",
+    "description": "Iranian President Masoud Pezeshkian accuses the United States of war crimes and declares, \"If Americans are warriors, let them face our valiant military forces.\" The statement follows unexplained explosions heard off Qeshm Island in the Strait of Hormuz.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-09-13/live-updates-908436",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-12",
+    "title": "Houthi projectile wounds two, damages mosque in Saudi Arabia's Jizan",
+    "direction": "Escalating",
+    "description": "A projectile fired from Yemen strikes Al-Tuwal Governorate in Saudi Arabia's Jizan province near the Yemeni border, wounding two people and damaging a mosque, vehicles and nearby buildings, the Saudi Civil Defense Agency says.",
+    "source": "https://www.haaretz.com/israel-news/israel-security/2026-09-13/ty-article-live/saudi-arabia-says-houthi-attack-wounds-two-damages-mosque/000001a0-9785-dfa9-ada3-dfc708db0004",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-12",
+    "title": "Trump says Iran 'probably' behind Saudi pipeline drone attack",
+    "direction": "Escalating",
+    "description": "Speaking in Dublin, President Trump says Iran was \"probably\" responsible for the drone attack that forced Saudi Arabia to shut its East-West pipeline, while saying the Houthis have asked Washington not to intervene in Yemen and predicting the wider war will end \"very soon.\"",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-12",
+    "title": "Iraq approves joint probe with Iran into pipeline-attack drones",
+    "direction": "De-escalating",
+    "description": "Iraqi Prime Minister Ali al-Zaidi approves an Iranian request to form a joint committee investigating drone launch platforms near the Iraq-Iran border used in the East-West pipeline attack; Iraqi foreign minister Fuad Hussein and Iranian counterpart Abbas Araghchi discuss the probe. Saudi Arabia says it will hold off retaliating \"at this stage\" at Baghdad's request.",
+    "source": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran",
+    "actor": "Iraq|Iran"
+  },
+  {
+    "date": "2026-09-12",
+    "title": "Iran hails Houthi capture of Yemen's Red Sea coast as 'divine triumph'",
+    "direction": "Escalating",
+    "description": "IRGC spokesman Hossein Mohebbi calls the Houthi takeover of Yemen's Red Sea coast \"a divine triumph,\" while First Vice President Mohammad Reza Aref welcomes the advance and urges regional states to break from Western dependency. Adviser to the Supreme Leader Mohammad Mokhber calls it a \"grand\" victory showing security \"cannot be purchased.\"",
+    "source": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-12",
+    "title": "Lebanon's Aoun visits south, pledges to secure Israeli withdrawal",
+    "direction": "Neutral",
+    "description": "Lebanese President Joseph Aoun makes a surprise visit to Nabatieh and Zawtar al-Gharbiya in southern Lebanon accompanied by army chief Rodolphe Haykal, pledging to secure a full Israeli withdrawal and rebuild damaged areas. \"We stand by your side,\" Aoun tells residents.",
+    "source": "https://www.timesofisrael.com/liveblog-september-12-2026/",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-09-12",
+    "title": "UN: Yemen displacement surges to 76,000, quadrupling in a week",
+    "direction": "Neutral",
+    "description": "The International Organization for Migration says at least 76,000 people have fled fighting in Yemen since July, with the weekly displacement rate quadrupling amid the Houthi offensive on the Red Sea coast. \"The number is alarmingly rising by the hour,\" IOM warns.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-12",
+    "title": "Xi tells BRICS summit Middle East war 'caused serious losses'",
+    "direction": "Neutral",
+    "description": "Chinese President Xi Jinping tells the BRICS summit in New Delhi that the Middle East war \"has caused serious losses to people across the region\" and does not serve common interests, urging the bloc toward a peacemaking role. BRICS, whose members include Iran, issues a joint statement calling for calm, overcoming earlier divisions among Iran, Saudi Arabia and the UAE.",
+    "source": "https://www.businesstoday.in/world/story/xi-jinping-warns-against-war-in-middle-east-gulf-urges-brics-to-stand-on-right-side-of-history-555143-2026-09-12",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "US diesel price hits record $6.05 a gallon, up 60% in a year",
+    "direction": "Escalating",
+    "description": "The US national average diesel price reaches a record $6.05 per gallon, up more than 60% from $3.71 a year earlier, AAA data shows, as the Strait of Hormuz blockade and wider war disrupt global fuel supply. Diesel prices are critical for trucking, rail, construction and farming.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea/",
+    "actor": "Other"
+  },
+  {
     "date": "2026-09-11",
     "title": "Houthis seize Perim Island, taking all of Yemen's Red Sea coast",
     "direction": "Escalating",
