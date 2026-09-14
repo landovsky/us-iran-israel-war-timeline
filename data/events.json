@@ -1,6 +1,38 @@
 [
   {
     "date": "2026-09-13",
+    "title": "Oman, Iran postpone Salalah Gulf ministerial meeting on Hormuz",
+    "direction": "Escalating",
+    "description": "Oman and Iran jointly postponed Monday's planned Salalah meeting between Iran and Gulf Cooperation Council states on safe shipping routes through the Strait of Hormuz, Omani Foreign Minister Badr al-Busaidi said, citing a need \"to reach consensus.\" Iran's foreign ministry said the delay came at the request of unspecified regional countries; no new date was set. Bahrain had already said it would boycott any meeting including Iran until diplomatic ties are restored.",
+    "source": "https://gulfnews.com/world/mena/some-regional-countries-requested-iran-after-meeting-with-gulf-states-in-oman-postponed-1.500673426",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-13",
+    "title": "Israel strikes ten-plus towns across south Lebanon; Katz vows to stay",
+    "direction": "Escalating",
+    "description": "Israeli airstrikes and artillery hit at least ten towns and villages across southern Lebanon on Sept. 13, including Nabatieh al-Fawqa, Kfar Tibnit, Wadi Zibqin and al-Mansouri. Defense Minister Israel Katz said Israeli forces would not leave the \"security zone\" or withdraw from southern Lebanon before Hezbollah disarms. Lebanese and Israeli ambassadors were set to meet in Washington, with formal talks planned for Rome in October.",
+    "source": "https://www.profilenews.com/en/daily-report-september-13-2026/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-09-13",
+    "title": "Yemeni government forces counterattack Houthis at Dhubab, Mocha",
+    "direction": "Escalating",
+    "description": "Yemen's internationally recognized government forces struck Houthi vehicles and positions at Dhubab and Mocha on Sept. 13, pushing back against the Iran-backed group's week-old offensive that captured Yemen's Red Sea coast. The clashes are part of fighting between Saudi-backed government forces and the Houthis that shattered a four-year civil-war truce.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-12",
+    "title": "Bahrain refuses to join Iran-proposed Hormuz shipping talks",
+    "direction": "Escalating",
+    "description": "Bahrain's foreign ministry said it \"will not participate\" in Iran's planned Monday meeting in Oman on safe passage through the Strait of Hormuz, and \"will not be a party to any collective meeting that includes Iran\" until diplomatic relations resume. Bahrain cut ties with Iran in 2016 and, unlike Saudi Arabia, never restored them. It said regional security \"cannot be preserved through a policy of appeasement\" and demanded Hormuz reopen without \"discrimination, fees or permits.\"",
+    "source": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-13",
     "title": "Projectile strikes Iranian vessel off Qeshm Island; 1 dead, 3 hurt",
     "direction": "Escalating",
     "description": "An unknown projectile strikes an Iranian commercial vessel off Qeshm Island near the Strait of Hormuz before dawn, killing one crew member and wounding three, Iranian state media reports citing the Qeshm County governor. UKMTO separately confirms a vessel was struck by an unknown projectile while transiting the strait and says crew condition and damage extent remain unclear.",
