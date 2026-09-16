@@ -1,5 +1,157 @@
 [
   {
+    "date": "2026-09-16",
+    "title": "IRGC downs a US MQ-9 Reaper over Qeshm Island",
+    "direction": "Escalating",
+    "description": "The IRGC says its air defences shot down a US MQ-9 Reaper at 2:29am local time over Qeshm Island, inside Iranian airspace at the mouth of the Strait of Hormuz. It is the latest in a run of Iranian claims against US surveillance drones over the strait, following two MQ-1s downed on 14 and 15 September. CENTCOM did not immediately confirm the loss.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Houthis claim downing a Saudi F-15 over Mount Helan near Marib",
+    "direction": "Escalating",
+    "description": "Houthi forces say they shot down a Saudi F-15 fighter jet over Mount Helan, northwest of Marib, and that the 'downing was achieved using a locally manufactured surface-to-air missile'. Saudi Arabia did not confirm the loss. It would be the first manned Saudi aircraft lost since the coalition resumed large-scale air operations over Yemen in early September.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Araghchi meets Wang Yi in Beijing; China urges US-Iran consultations",
+    "direction": "De-escalating",
+    "description": "Iranian Foreign Minister Abbas Araghchi met Chinese Foreign Minister Wang Yi in Beijing on his second China trip since the war began. Wang said: 'We do not want to see regional tensions escalate further to include Yemen and the Red Sea,' and added: 'We urge Washington and Tehran to engage in substantive consultations on outstanding issues.' The visit comes eight days before Xi Jinping is due to meet Donald Trump in the United States.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on",
+    "actor": "Iran|Other"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Houthi spokesman: Saudi coalition flew 450-plus air strikes in a week",
+    "direction": "Escalating",
+    "description": "Houthi military spokesman Yahya Saree said the Saudi-led coalition carried out more than 450 air strikes over the past week across Taiz, Lahj, al-Jawf, Hajjah, Marib, Saada and al-Bayda. The tempo marks the heaviest sustained Saudi air campaign over Yemen since the 2022 truce collapsed.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "House votes 220-204 to end US hostilities with Iran",
+    "direction": "De-escalating",
+    "description": "The House of Representatives passed a war powers resolution directing President Trump to end US military involvement in Iran, 220-204, with seven Republicans in favour including Rep. Thomas Massie. It is the third time the chamber has voted to curb the president's war authority. The measure faces near-certain deadlock in the Senate and a veto threat.",
+    "source": "https://www.newsweek.com/pete-hegseth-thomas-massie-impeachment-iran-war-12445811",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Massie files eight impeachment articles against Hegseth over Iran war",
+    "direction": "Neutral",
+    "description": "Republican Rep. Thomas Massie filed eight articles of impeachment against Defense Secretary Pete Hegseth, charging him with violating the War Powers Resolution, defying Congress's order to withdraw, disregarding civilian-casualty safeguards, retaliating against Senator Mark Kelly, and directing unauthorised operations in Yemen and against Venezuela's Nicolas Maduro. Massie filed the resolution as privileged, forcing a House vote within two legislative days. Attorney General Todd Blanche said Hegseth was 'doing a phenomenal job' and 'follows the law'.",
+    "source": "https://www.axios.com/2026/09/15/massie-impeach-pete-hegseth-iran-war",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "CBO: Iran war has cost $38bn and consumed two-thirds of Patriot interceptors",
+    "direction": "Neutral",
+    "description": "The Congressional Budget Office put the war's cost at about $38bn through 1 August and said the military may have expended two-thirds of its Patriot interceptor inventory. Replacing munitions fired through 1 August would cost $21.7bn, of which $13.1bn is missile-defence interceptors, $7.3bn land-attack cruise missiles and $1.2bn other munitions. CBO said rebuilding the stockpile could take five years or longer and estimated ongoing costs of $2bn to $3bn a month.",
+    "source": "https://www.defensenews.com/news/your-military/2026/09/15/iran-war-has-cost-38-billion-depleted-two-thirds-of-us-missile-interceptors-cbo-says/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Aramco suspends crude loadings at Yanbu; Forties hits $136.75",
+    "direction": "Escalating",
+    "description": "Saudi Aramco suspended crude loadings at Yanbu, its Red Sea export terminal handling up to 5 million barrels a day, four days after shutting the 7-million-bpd East-West pipeline that feeds it. Aramco delayed or cancelled late-September cargoes to at least three European refiners, putting up to 4 percent of global supply at risk into October. North Sea Forties, the grade European refiners turned to as a substitute, jumped to $136.75 a barrel.",
+    "source": "https://www.al-monitor.com/originals/2026/09/saudi-yanbu-halt-deepens-oil-strain-europe-scrambles-crude",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Saudi air defences destroy a Houthi drone south of Mecca; Houthis deny",
+    "direction": "Escalating",
+    "description": "Royal Saudi Air Defence Forces destroyed a Houthi drone south of Mecca on Tuesday evening before it entered restricted airspace over the holy city, coalition spokesman Turki al-Maliki announced the next day, calling the security of the two holy mosques and pilgrims 'a red line'. It is the first security alert over Mecca since a 2017 ballistic missile launch. A Houthi military source told Yemen's SABA agency: 'We categorically deny that there is any threat from Yemen directed at the city of Mecca or any other holy sites,' and politburo member Hizam al-Asad called the claim 'a nauseating lie'.",
+    "source": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "IRGC claims two US MQ-1 drones downed over Hormuz in two days",
+    "direction": "Escalating",
+    "description": "The IRGC said its Aerospace Force detected and destroyed an 'advanced MQ-1 drone' west of the Strait of Hormuz using a new air-defence system, a day after claiming an identical shoot-down on 14 September. The IRGC public relations department said dozens of aircraft have been intercepted since the start of what it calls an 'unprovoked war'. The US made no statement on either claim.",
+    "source": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260915-irna03.htm",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "CENTCOM says it has redirected 103 commercial vessels under the blockade",
+    "direction": "Neutral",
+    "description": "US Central Command said it had redirected 103 commercial vessels since imposing its blockade on Iranian oil exports, four more than on Friday and up from 94 on 7 September. The count covers ships turned away from Iranian ports rather than boarded or disabled.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Vance: war enters a 'much different phase' in a couple of months",
+    "direction": "Neutral",
+    "description": "Vice President JD Vance said the war would enter a 'much different phase in a couple of months', shifting toward preventing Iran from rebuilding its military rather than offensive operations. Vance said the United States is not currently conducting offensive military operations inside Iran and accused Iran of intermittently attacking commercial vessels.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "UAE condemns Houthi attacks on Saudi Arabia in the strongest terms",
+    "direction": "Neutral",
+    "description": "The UAE Ministry of Foreign Affairs condemned the Houthi missile and drone attacks on Saudi Arabia 'in the strongest terms', after Monday's barrage on King Khalid Air Base, Abha and Taif wounded 13 civilians. Abu Dhabi, which quit the Yemen ground campaign in 2019, stopped short of announcing any military contribution.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Israeli air strikes hit Ain al-Samahiyah, Wadi Zibqin and Marjayoun",
+    "direction": "Escalating",
+    "description": "Lebanon's National News Agency reported Israeli air strikes on Ain al-Samahiyah, Wadi Zibqin and Marjayoun in southern Lebanon, a day after strikes on Kfar Rumman killed 13. Lebanese security officials told Reuters they anticipate continued escalation in the south in the coming weeks.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Israeli strikes kill 13 in Kfar Rumman, including six children",
+    "direction": "Escalating",
+    "description": "Two Israeli strikes after midnight on the southern Lebanese village of Kfar Rumman killed at least 13 people. Lebanon's Health Ministry said 12 died when a residential building was hit, among them six children and three women, and a medic was killed in a separate drone strike on a car. The IDF said it targeted people 'seen transferring weapons' in retaliation for two Hezbollah explosive drones launched at Israeli troops from the area, the first reported Hezbollah fire since 4 September, and issued no evacuation warning.",
+    "source": "https://www.rte.ie/news/middle-east/2026/0914/1591508-israel-lebanon/",
+    "actor": "Israel|Lebanon"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "UN fact-finding mission on Iran demands hostilities stop, cites war crimes questions",
+    "direction": "Neutral",
+    "description": "Sara Hossain, chair of the UN Independent Fact-Finding Mission on Iran, called for an immediate halt to hostilities: 'These strikes are yet another devastating reminder of the human cost of the conflict between the United States and Israel and Iran.' Mission member Max du Plessis said 'repeated airstrikes causing civilian casualties raise serious questions about whether all necessary measures are being taken to comply with States' obligations under international law.' The mission cited more than 160 children killed in strikes on schools since February and civilian deaths in a 1 September strike on a wedding celebration.",
+    "source": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260914-unnews01.htm",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Treasury blacklists Russia's VTB Bank for aiding Iran sanctions evasion",
+    "direction": "Escalating",
+    "description": "The US Treasury designated VTB Bank, one of Russia's largest financial institutions, under Operation Economic Outcast for opening offices in Iran, establishing correspondent relationships with sanctioned Iranian banks and facilitating billions in frozen-asset transfers. VTB is the third institution hit under the campaign Secretary Scott Bessent launched on 24 August, after Egypt's Banque Misr and Turkey's Golden Global.",
+    "source": "https://www.cnn.com/2026/09/14/politics/us-announces-sanctions-major-russia-ban",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Austria revokes visa for Iran's nuclear chief, barring him from IAEA conference",
+    "direction": "Escalating",
+    "description": "Austria revoked a visa it had already granted to Mohammad Eslami, head of the Atomic Energy Organization of Iran, forcing him and his delegation to cancel their trip to the five-day IAEA General Conference in Vienna. Vienna had sought a travel exemption from the UN Security Council sanctions committee under the reimposed snapback measures; the United States objected and the request was rejected. Iran summoned an Austrian diplomat, and its IAEA ambassador called the move 'a stark indication of a political act and advanced formal politicization of this organization'.",
+    "source": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Mohammed bin Salman receives CENTCOM's Brad Cooper in Jeddah",
+    "direction": "Neutral",
+    "description": "Saudi Crown Prince Mohammed bin Salman received CENTCOM commander Admiral Brad Cooper and his delegation in Jeddah to review bilateral relations and regional developments, with National Security Adviser Musaed bin Mohammed Al-Aiban attending. The meeting followed the crown prince's twice-rejected requests that Trump bomb the Houthis; Washington instead offered intelligence-sharing and targeting support. No CENTCOM readout was issued.",
+    "source": "https://www.spa.gov.sa/en/N2675738",
+    "actor": "Saudi Arabia|US"
+  },
+  {
     "date": "2026-09-15",
     "title": "Saudi coalition vows 'firm' response after Houthi barrage wounds 13",
     "direction": "Escalating",
@@ -145,9 +297,9 @@
   },
   {
     "date": "2026-09-13",
-    "title": "Projectile strikes Iranian vessel off Qeshm Island; 1 dead, 3 hurt",
+    "title": "Projectile strikes Iranian vessel off Qeshm Island; 1 dead, 4 hurt",
     "direction": "Escalating",
-    "description": "An unknown projectile strikes an Iranian commercial vessel off Qeshm Island near the Strait of Hormuz before dawn, killing one crew member and wounding three, Iranian state media reports citing the Qeshm County governor. UKMTO separately confirms a vessel was struck by an unknown projectile while transiting the strait and says crew condition and damage extent remain unclear.",
+    "description": "An unknown projectile struck an Iranian commercial container vessel near Hengam Island off Qeshm at about 5am, killing crew member Jamshid Rajabi and wounding four others, including two Pakistani nationals, Iranian state media reported citing the Qeshm County governor, who blamed the 'US terrorist enemy'. Ten crew were aboard. UKMTO separately confirmed a vessel was struck by an unknown projectile while transiting the strait.",
     "source": "https://www.arabnews.com/middle-east/vessel-struck-by-projectile-while-transiting-hormuz-strait-ukmto-says-3001522",
     "actor": "Iran"
   },
