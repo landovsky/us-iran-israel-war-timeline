@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-09-17",
+    "title": "UN Security Council splits 11-2-2 on reviving Iran sanctions panel",
+    "direction": "Neutral",
+    "description": "The Security Council adopted the provisional agenda for a meeting on the 1737 Iran Sanctions Committee's Panel of Experts by a vote of 11 in favour to 2 against — Russia and China — with Somalia and Pakistan abstaining. The US-authored draft would extend the panel's mandate to September 2027, but members remain split over whether nuclear-related sanctions on Iran have legally \"snapped back,\" leaving the committee's future in limbo a week after the IAEA board referred Iran to the Council.",
+    "source": "https://press.un.org/en/2026/sc16448.doc.htm",
+    "actor": "Russia"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "IRGC claims third MQ-1 Predator shootdown in 24 hours",
+    "direction": "Escalating",
+    "description": "Iran's IRGC said it downed a third US MQ-1 Predator drone within 24 hours, on top of the MQ-1 claims from 14 and 15 September and the MQ-9 Reaper claimed over Qeshm Island the same day. CENTCOM issued no confirmation, denial, or imagery for any of the three claims, continuing a pattern of unverified Iranian drone-kill claims over the Strait of Hormuz.",
+    "source": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Iranian drone strikes Kurdish opposition base at Balisan, Erbil province",
+    "direction": "Escalating",
+    "description": "An Iranian drone struck a base of the Kurdistan Democratic Party of Iran (KDPI) at Balisan in Erbil province at around 3:30am local time, causing material damage but no casualties. The strike followed missile attacks two days earlier on a separate Kurdish opposition camp in Sulaimani province, part of a wave of cross-border strikes on Iranian Kurdish groups in Iraqi Kurdistan around the anniversary of Mahsa Amini's death.",
+    "source": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "IRGC announces 330,000-strong Basij mobilization drill for Sept. 18",
+    "direction": "Escalating",
+    "description": "Tehran Province IRGC commander Hassan-Zadeh announced a mass Basij exercise for September 18 with a reported 330,000 participants, timed around the fourth anniversary of the 2022 \"Woman, Life, Freedom\" uprising. The show-of-force announcement came alongside a heavy security buildup in Tehran ahead of a planned Kurdish general strike marking Mahsa Amini's death.",
+    "source": "https://www.ncr-iran.org/en/news/iran-news-in-brief-september-17-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Iran fires 5 missiles at Kurdish opposition camps in Iraq's Sulaimani province",
+    "direction": "Escalating",
+    "description": "Five missiles struck three sites in Sulaimani province at about 3:10am local time: three hit the Komala family camp at Zirgwez, one landed near Gurgachya on the Sirwan river, and one struck between Dari Zayn and Lower Miras in the Qaradagh area. No casualties were reported. Komala blamed Tehran, linking the strikes to a planned September 16 general strike across Iranian Kurdish areas marking the fourth anniversary of Mahsa (Zhina) Amini's death, calling the attack \"a futile attempt stemming from the anxiety, fear, and panic of the Islamic Republic of Iran.\"",
+    "source": "https://www.rudaw.net/english/kurdistan/220420261",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-13",
+    "title": "Iran demolishes Gohardasht prison walls, erasing 1988 massacre evidence",
+    "direction": "Neutral",
+    "description": "State media broadcast footage of the demolition of Gohardasht prison in Karaj, with Prisons Organization chief Heydar Asiabi present and stating that, by order of the judiciary's leadership, all perimeter walls would be demolished within a month to clear the site for residential and commercial development. Gohardasht was a major torture and execution site during the 1988 mass killings of political prisoners; human rights groups say the demolition, alongside destruction of mass graves in other cities, erases evidence of crimes against humanity.",
+    "source": "https://english.mojahedin.org/news/irans-regime-expands-its-war-on-memory-from-mass-graves-to-gohardasht-prison/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-09-16",
     "title": "IRGC downs a US MQ-9 Reaper over Qeshm Island",
     "direction": "Escalating",
@@ -217,11 +265,11 @@
   },
   {
     "date": "2026-09-14",
-    "title": "US helicopters strike two Iranian fishing boats near Larak Island",
+    "title": "CENTCOM: US drone kills IRGC boat crews after failed bid to seize Navy vessel",
     "direction": "Escalating",
-    "description": "US Army AH-64E Apache helicopters struck two Iranian fishing vessels about 12 nautical miles from Larak Island and 30 nautical miles off Bandar Kargan in Minab County, Hormozgan province, according to Iranian regional officials and local media. Officials said several fishermen were missing and search-and-rescue operations were under way. Iranian state media first described the attack as a drone strike before attributing it to low-flying US rotary-wing aircraft; the US military issued no statement.",
-    "source": "https://starconnectmedia.com/u-s-apache-attack-helicopters-strike-iranian-fishing-boats-near-strategic-strait-of-hormuz/",
-    "actor": "US"
+    "description": "CENTCOM spokesman Capt. Tim Hawkins said Iranian small boats \"attempted to take possession of a U.S. unmanned surface vessel\" near Larak Island and Bandar Kargan in Hormozgan province, and that US forces responded with an armed drone, firing two missiles that destroyed the boats and killed most of those aboard. \"The surface drone remains under U.S. operational control,\" Hawkins said. Iranian media initially described the incident as a helicopter or drone strike on \"fishing boats,\" reporting several fishermen missing, without acknowledging the seizure attempt. CENTCOM said it was the first announced American kinetic action since September 8.",
+    "source": "https://www.axios.com/2026/09/15/us-iran-boats-navy-drone-strait-hormuz",
+    "actor": "US|Iran"
   },
   {
     "date": "2026-09-14",
