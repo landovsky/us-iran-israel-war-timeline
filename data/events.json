@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-09-18",
+    "title": "IRGC Navy strikes Togo-flagged tanker Trend off Khasab in Hormuz",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said it struck and detained the Togo-flagged oil tanker Trend for attempting 'illegal passage' through the Strait of Hormuz, and that the vessel caught fire and came to a halt. The UK Maritime Trade Operations placed the incident about 16 nautical miles northeast of Khasab, Oman, and reported the crew safe with no confirmed environmental impact. Tehran has blockaded the strait since late February and demands ships pay tolls and use its designated route.",
+    "source": "https://www.arabnews.com/middle-east/irans-irgc-says-it-struck-togo-flagged-tanker-in-strait-of-hormuz-3002165",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "US grants UN visas to Pezeshkian and Araghchi, a day after barring Abbas",
+    "direction": "De-escalating",
+    "description": "The State Department approved visas for President Masoud Pezeshkian, Foreign Minister Abbas Araghchi and a core Iranian delegation to attend next week's UN General Assembly in New York, saying it was acting 'consistent with our host country obligations.' The delegation is smaller than last year's and faces travel restrictions and a ban on buying luxury goods. The department had denied visas to Palestinian Authority President Mahmoud Abbas and his delegation the previous day.",
+    "source": "https://www.siasat.com/us-allows-irans-pezeshkian-araghchi-to-attend-unga-3544100/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Trump on Iran: 'Do I want to go in and annihilate them or do I not?'",
+    "direction": "Escalating",
+    "description": "Trump told Axios and Channel 12's Barak Ravid in a phone interview that he is close to deciding whether to resume large-scale attacks on Iran. 'I have a big decision coming up. Do I want to go in and annihilate them or do I not?' he said, adding: 'It's a big decision. Anything could happen with me.' He plans to meet the leaders of Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait and Oman on the sidelines of the UN General Assembly on Tuesday before deciding, and has not said whether he will act before or after the November midterms.",
+    "source": "https://www.axios.com/2026/09/17/trump-axios-interview-iran-war",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "UN mission finds 'reasonable grounds' US committed war crimes at Minab school",
+    "direction": "Neutral",
+    "description": "The UN Independent International Fact-Finding Mission on Iran told the Human Rights Council it had reasonable grounds to believe US forces committed war crimes in two strikes on 28 February. It attributed the strike on Shajareh Tayyebeh Primary School in Minab, which killed more than 150 people including about 120 children, to a Tomahawk missile, citing trajectory data and US military inquiry records. A second strike on a 'clearly identifiable' sports complex and residential area in Lamerd dispersed tungsten pellets and killed 22 civilians. The same report accused Iran of crimes against humanity in its crackdown on the 2025-26 protests.",
+    "source": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Macron hosts Aoun and King Abdullah II on post-UNIFIL Lebanese army plan",
+    "direction": "De-escalating",
+    "description": "Emmanuel Macron received Lebanese President Joseph Aoun and Jordan's King Abdullah II at the Elysee for a preparatory meeting ahead of an international conference to fund the Lebanese Armed Forces and Internal Security Forces. The three discussed a replacement arrangement for southern Lebanon after UNIFIL's mandate ends on 31 December 2026, followed by a year-long drawdown, as well as continued Israeli strikes and stalled Hezbollah disarmament. Officials and military experts from France, Britain, Jordan, Lebanon and the US attended under the Jordanian-led Aqaba Process.",
+    "source": "https://www.upi.com/Top_News/World-News/2026/09/17/lebanonfrance-lebanon-jordan-leaders-meet/8931789670637/",
+    "actor": "France|Lebanon"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Iran expels Swedish diplomat after Stockholm removes Iranian embassy official",
+    "direction": "Escalating",
+    "description": "Alireza Yousofi, director-general for Western Europe at Iran's foreign ministry, summoned Sweden's ambassador in Tehran and gave a Swedish diplomat 48 hours to leave. The move answered Sweden's expulsion of an Iranian embassy official the previous day; Swedish Foreign Minister Tobias Billstrom cited breaches of the Vienna Convention and accused Iranian officials of using criminal networks against regime opponents and Jewish and Israeli interests on Swedish soil. Tehran called the Swedish action 'the result of the influence of the Zionist regime.'",
+    "source": "https://www.euronews.com/2026/09/17/iran-expels-swedish-diplomat-in-tit-for-tat-after-stockholm-move",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Iran summons German ambassador Dittmann over Berlin's Hormuz demands",
+    "direction": "Escalating",
+    "description": "Iran's foreign ministry summoned German Ambassador Axel Wilhelm Dittmann over what it called 'inappropriate statements' by Berlin officials demanding Tehran lift its Strait of Hormuz blockade and end its nuclear programme. Chancellor Friedrich Merz had urged Iran on 15 September not to extend the war into Iraq and to reopen the strait, while continuing to rule out any German naval role there.",
+    "source": "https://www.timesofisrael.com/liveblog-september-17-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Satellite images show Iran rebuilding Taleghan 2 at Parchin under tarps",
+    "direction": "Escalating",
+    "description": "The Institute for Science and International Security published Vantor Technologies imagery from 13 September showing Iran rapidly reconstructing the Taleghan 2 facility at the Parchin military complex, 30km southeast of Tehran. Dump trucks, bulldozers, concrete pump trucks and cranes are working under a tarp erected over the destroyed hardened buried structure to hide the work from satellites and aerial reconnaissance. Repairs began in June 2026 with concrete caps over the penetration holes left by bunker-buster weapons used in the March strike.",
+    "source": "https://isis-online.org/isis-reports/iran-is-rapidly-reconstructing-taleghan-2",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Fed raises rates to 3.75-4% in first hike since 2023, citing war oil shock",
+    "direction": "Neutral",
+    "description": "The Federal Open Market Committee voted 12-0 to raise the federal funds target range by a quarter point to 3.75%-4%, its first increase since July 2023, as war-driven energy costs pushed inflation higher. Chairman Kevin Warsh said 'we cannot affect any individual price,' citing oil and groceries, but that the Fed would 'ensure that any change in relative prices don't broaden out.' A strong majority of officials projected another hike later this year.",
+    "source": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "General strike shutters Kurdish cities on fourth Mahsa Amini anniversary",
+    "direction": "Escalating",
+    "description": "Shops closed across Saqqez, Sanandaj, Mahabad, Bukan, Baneh, Divandarreh, Oshnavieh, Marivan, Paveh and Qorveh to mark four years since Mahsa Amini's death in morality police custody. Riot police, military convoys and units with mounted machine guns patrolled commercial streets, and authorities in Saqqez released water from a nearby dam to block secondary routes to Amini's grave for the third consecutive year. The monitor Hengaw documented at least 20 young people arrested in Oshnavieh beforehand, and four female political prisoners — Zeinab Jalalian, Varishe Moradi, Sakineh Parvaneh and Matlab Ahmadian — held a one-day hunger strike.",
+    "source": "https://www.iranintl.com/en/202609167981",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Leaked photos show E-3 Sentry destroyed at Prince Sultan Air Base",
+    "direction": "Neutral",
+    "description": "CBS News published six photographs supplied by US service members showing the extent of Iranian missile and drone damage at American installations the Pentagon has not detailed publicly. One image from Prince Sultan Air Base in Saudi Arabia shows a Boeing E-3 Sentry with its tail severed from a charred fuselage, alongside barracks gutted to hollow shells. Further photos document damage at Camp Arifjan and Camp Buehring in Kuwait. The service members cited media restrictions as their reason for leaking the images.",
+    "source": "https://www.cbsnews.com/news/new-photos-damage-u-s-kuwait-saudi-arabia-iran-drone-missile-attacks/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Aramco routes 20m barrels via ship-to-ship off Sohar; Brent falls 2.7%",
+    "direction": "De-escalating",
+    "description": "Saudi Aramco sold about 20 million barrels of spot Arab Medium and Arab Heavy crude to Asian refiners for September-October loading by ship-to-ship transfer in the Gulf of Oman near Sohar, absorbing the Hormuz transit risk itself after Houthi strikes forced the shutdown of the 7 million bpd East-West pipeline and the Yanbu terminal. Brent settled at $105.83 a barrel, down 2.7%, and WTI at $102.43, down 3.2%. Energy Secretary Chris Wright said 18 million barrels of oil and products moved through the strait the previous day.",
+    "source": "https://www.ttnews.com/articles/saudis-oil-strait-hormuz",
+    "actor": "Saudi Arabia"
+  },
+  {
     "date": "2026-09-17",
     "title": "UN Security Council splits 11-2-2 on reviving Iran sanctions panel",
     "direction": "Neutral",
