@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-09-19",
+    "title": "Explosions over Riyadh as Saudi Arabia sounds first capital air raid alert",
+    "direction": "Escalating",
+    "description": "Saudi civil defence pushed a phone alert to Riyadh residents shortly before 3am local time (0000 GMT) warning that 'the area is under a hostile aerial threat' and telling them to stay indoors. AFP journalists heard two explosions before the all-clear was lifted about half an hour later. Parallel alerts went out for al-Kharj, Jeddah, Taif, Madinah, Yanbu, al-Ula and Khamis Mushait. It is the first time the Saudi capital has been directly affected since the Houthi campaign against the kingdom intensified in July.",
+    "source": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-issues-air-raid-alert-in-riyadh-explosions-heard-1.500680175",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Iran hangs Hossein Pedaran for passing Isfahan missile-site data to Mossad",
+    "direction": "Escalating",
+    "description": "Iran's judiciary-run Mizan news agency said Hossein Pedaran was hanged after the Supreme Court upheld his death sentence for espionage and intelligence cooperation with Israel. Mizan said he had supplied Mossad with information on sensitive military sites in Isfahan province, including missile facilities, and had done so for money. The execution extends a wartime espionage-hanging campaign that has run since March.",
+    "source": "https://www.arabnews.com/middle-east/iran-executes-man-accused-of-providing-missile-info-to-israel-3002304",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Turkey revokes Bank Mellat's Istanbul licence after 44 years",
+    "direction": "Escalating",
+    "description": "Turkey's banking regulator BDDK published a notice in the Official Gazette revoking the operating licence of Iranian lender Bank Mellat's main Istanbul branch, which had operated for 44 years. The agency invoked a clause of Turkish banking law covering institutions whose continued operation threatens depositors' rights or financial system stability, and did not cite US sanctions. Bank Mellat has been on the US Treasury's sanctions list since 2018 over alleged financing links to Iran's Basij.",
+    "source": "https://www.thenationalnews.com/news/mena/2026/09/19/turkey-revokes-operating-license-of-irans-mellat-bank-amid-us-economic-measures-against-tehran/",
+    "actor": "Turkey"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Houthi strike on Taif air base damages an Italian Eurofighter",
+    "direction": "Escalating",
+    "description": "An overnight Houthi drone and missile attack on Taif air base in western Saudi Arabia hit an Italian Air Force F-2000 Eurofighter parked in a dispersed area of the field. Defence Minister Guido Crosetto said 'an Italian F-2000 aircraft, which was located in a decentralized area of the base was hit. There are no other damages to vehicles or infrastructure used by our personnel.' Italy has kept four Eurofighters and an E-550A CAEW aircraft in the kingdom under Task Force Air-Arabia, about 300 personnel deployed since March. It is the first Houthi strike to damage a European fighter jet.",
+    "source": "https://theaviationist.com/2026/09/18/italian-eurofighter-hit-saudi-arabia/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Israeli tanks push into Deir Mimas, force Lebanese army back 100 metres",
+    "direction": "Escalating",
+    "description": "Two Israeli Merkava tanks advanced up to an earth barricade at the edge of Deir Mimas in south Lebanon and troops threw six stun grenades near a newly established Lebanese army position. The Lebanese soldiers pulled back about 100 metres but held a line facing the tanks. Israel demanded the checkpoint be removed, arguing it sits inside the Israeli-designated Yellow Zone, in the most direct army-to-army confrontation since the framework agreement under which the Lebanese Armed Forces are meant to take over the occupied strip.",
+    "source": "https://www.arabnews.com/middle-east/israeli-lebanese-armies-face-off-in-village-after-israel-advances-3002233",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Aramco tells European refiners they get zero October term crude",
+    "direction": "Escalating",
+    "description": "Saudi Aramco notified every European term buyer that it will supply no crude at all under long-term contracts in October, and indefinitely suspended term deliveries to Indian refiners, who draw roughly 9% of their supply from the kingdom. The cuts follow the drone strikes that shut the 1,200km East-West pipeline and damaged three pumping stations, halting loadings at the Red Sea port of Yanbu. Aramco is redirecting 1-1.5 million bpd through Hormuz to buyers in China, South Korea, India and Japan via ship-to-ship transfers off Sohar.",
+    "source": "https://www.businesstoday.in/world/story/west-asia-impact-saudi-aramco-halts-european-crude-allocations-after-east-west-pipeline-attack-556576-2026-09-18",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Hundreds of thousands join Iran's 'Janfada' mobilization rally in Tehran",
+    "direction": "Escalating",
+    "description": "Iran staged the mass mobilization exercise the IRGC had announced on 15 September, turning out a state-choreographed march through Tehran with anti-American imagery and limited military training. Officials said more than 600,000 people had registered for the 'Janfaday-e Iran' programme, meaning those who sacrifice their lives, and that over 300,000 took part on the day. The IRGC had billed the drill as a 330,000-strong Basij turnout and staged it days after a Kurdish general strike closed bazaars in nine cities.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-of-hormuz-oil-houthis/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "IOM: 112,000 displaced in Yemen in two weeks; 3,000 flee by sea to Djibouti",
+    "direction": "Escalating",
+    "description": "The International Organization for Migration said at least 112,000 people have been displaced inside Yemen in the past fortnight as the Houthis advance along the Red Sea coast toward Bab el-Mandeb. UNHCR reported nearly 3,000 Yemenis have crossed to Djibouti by boat, more than 2,400 of them in the past week, landing at Obock, Khor Angar, Moulhoule and Godoria. Representative Sandrine Desamours said Djibouti already hosts about 36,000 refugees and that UNHCR is preparing for at least 10,000 more arrivals with rapidly diminishing capacity.",
+    "source": "https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Pakistan's DG ISPR: 'We will go to any extent' to defend Saudi Arabia",
+    "direction": "Escalating",
+    "description": "Lieutenant-General Ahmed Sharif Chaudhry, head of Pakistan's Inter-Services Public Relations, told Arab News that Islamabad's commitment under the Mecca Strategic Mutual Defence Agreement is unconditional. 'I would like to underscore here the word physically. We will go to any extent,' he said. Defence Minister Khawaja Asif added that spillover from the Yemen conflict would trigger the pact, which Turkish Foreign Minister Hakan Fidan has compared to NATO's Article 5. Pakistani troops are already stationed to protect Mecca and Medina, and Pakistan deployed fighter jets to King Abdulaziz Air Base in April.",
+    "source": "https://www.aljazeera.com/news/2026/9/18/pakistan-pledges-full-committment-to-defence-of-saudi-arabia",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "State Department approves $24.3bn sale of 48 F-35s to Saudi Arabia",
+    "direction": "Escalating",
+    "description": "The State Department cleared the sale of 48 Lockheed Martin F-35 Lightning II jets and 49 Pratt & Whitney engines to Saudi Arabia for $24.3 billion, saying it would improve the security of 'a major non-NATO ally that is a force for political stability and economic progress in the Gulf region.' Congress has 30 days to review. The Israeli military had filed documents opposing the transfer, warning it could 'diminish Israel's air superiority in the region'; the State Department said the sale would not alter the regional military balance. Saudi Arabia would be the only Arab operator of the F-35, and deliveries would take years.",
+    "source": "https://www.stripes.com/theaters/us/2026-09-18/state-department-approves-sale-of-48-f35s-to-saudi-arabia-22888413.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Houthi drone debris kills 1 in Taif, first Saudi death since attacks resumed",
+    "direction": "Escalating",
+    "description": "Saudi civil defence said falling debris from an intercepted Houthi drone killed a Yemeni national and injured a Saudi woman and a Pakistani resident in Taif governorate, damaging several buildings and vehicles. It is the first death announced in the kingdom since the Houthis resumed attacks on Saudi Arabia this month, in which more than 80 people have been wounded. The drone was shot down south of Mecca before entering restricted airspace; Riyadh said endangering the holy sites crossed a 'red line', and Houthi leader Abdel-Malik al-Houthi called the Mecca targeting claim a 'heinous lie'.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/09/17/one-killed-and-two-injured-by-houthi-drone-debris-in-saudi-arabias-taif/",
+    "actor": "Saudi Arabia"
+  },
+  {
     "date": "2026-09-18",
     "title": "IRGC Navy strikes Togo-flagged tanker Trend off Khasab in Hormuz",
     "direction": "Escalating",
