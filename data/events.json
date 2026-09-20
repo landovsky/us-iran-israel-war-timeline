@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-20",
+    "title": "Ghalibaf: Hormuz stays shut until US implements commitments",
+    "direction": "Escalating",
+    "description": "Iranian parliament speaker Mohammad Bagher Ghalibaf told Fars news agency that Iran will not reopen the Strait of Hormuz until its conditions are met and US commitments are implemented. He said Iran 'must both fight and negotiate', using military force to push its enemies back and diplomacy to consolidate battlefield gains when the timing suits Tehran. The statement came a day after security chief Mohsen Rezaei relayed Iran's terms to Washington through Qatar, and hardens the strait into an explicit bargaining chip.",
+    "source": "https://www.timesofisrael.com/liveblog-september-20-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-20",
+    "title": "US embassies in 10 Middle East countries issue simultaneous security alerts",
+    "direction": "Escalating",
+    "description": "US missions in Bahrain, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia and the UAE issued near-identical security alerts warning Americans that the 'military conflict has the potential to escalate rapidly' and to expect 'flight cancellations, airspace closures, and travel disruptions'. The State Department urged heightened vigilance and told citizens to reconsider travel to the region. The alerts followed the previous day's Houthi ballistic missile, cruise missile and drone salvos at Riyadh and Aramco facilities in Yanbu.",
+    "source": "https://www.euronews.com/2026/09/20/us-embassies-issue-security-alerts-over-houthi-attacks-on-saudi-arabia",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Rezaei sends Iran's three conditions to Washington via Qatar",
+    "direction": "De-escalating",
+    "description": "Iran's security chief Mohsen Rezaei told Al Jazeera that Tehran has passed three conditions to Washington through Qatari mediators: 'an end to the war on all fronts, the release of our frozen funds and an end to the naval blockade'. Rezaei said Iran is awaiting Trump's response and warned that 'Trump's threats will not achieve any results' because Iran is ready for a 'decisive war'. Qatar and Pakistan have been trying to restart talks since the US-Iran memorandum of understanding expired last month; the list drops Iran's earlier demand for war reparations.",
+    "source": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Houthis claim Riyadh and Yanbu strikes; Saudi coalition says missile destroyed",
+    "direction": "Escalating",
+    "description": "Houthi military spokesman Yahya Saree claimed the Yemeni Armed Forces struck 'sensitive sites' in Riyadh and Aramco facilities at Yanbu with ballistic missiles, cruise missiles and drones, calling it retaliation for Saudi air strikes on Sanaa. The Saudi-led coalition said the Royal Saudi Air Defence Forces 'successfully intercepted and destroyed' the dawn ballistic missile aimed at Riyadh and thwarted further attempts against Baish, Taif, Farasan and Yanbu, reporting no casualties or damage. Riyadh residents reported flames and smoke near the fuel storage area at King Khalid International Airport.",
+    "source": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Trump signs Graham Act, extending Iran sanctions law to 2031",
+    "direction": "Escalating",
+    "description": "Trump signed H.R. 5334, the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, into law. The act pushes the expiry of the Iran Sanctions Act of 1996 from 2026 out to 2031 and authorises expanded statutory sanctions, tariffs and prohibitions on Russia. Tehran called the measures 'economic terrorism'. The signing lands three days before Trump's UN General Assembly address, which his ambassador Mike Waltz said would put Iran's nuclear programme at its centre.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-signs-lindsey-graham-act-extending-iran-sanctions-2031",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "White House calls UN war crimes finding 'unserious nonsense'",
+    "direction": "Neutral",
+    "description": "White House spokeswoman Anna Kelly rejected the UN Independent International Fact-Finding Mission's report that found reasonable grounds to believe US forces committed war crimes in the Feb. 28 strikes on a Minab primary school and a Lamerd sports facility, which killed at least 178 civilians. Kelly called the findings 'unserious nonsense' and said 'the only party committing war crimes in the conflict has been the Iranian regime'. The same UN mission also found reasonable grounds that Iranian authorities committed crimes against humanity in the December-January protest crackdown.",
+    "source": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260918-rferl04.htm",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Brent falls to $102.41 as Saudi Arabia rushes East-West pipeline repair",
+    "direction": "De-escalating",
+    "description": "Brent crude settled at $102.41, down 2.3% in a third consecutive losing session, after Saudi Arabia said it would restore roughly half the capacity of the drone-damaged East-West pipeline within days and full flow within six weeks. Satellite tracking showed Saudi Arabia pushed 2.8 million barrels per day through the Strait of Hormuz over the previous six days, against just 700,000 bpd in August, and sold up to 60 million barrels from Ras Tanura for September and October loading via ship-to-ship transfer. The price is down from the $109.29 war high of Sept. 14.",
+    "source": "https://financefeeds.com/brent-crude-oil-price-102-saudi-east-west-pipeline-restart/",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Mahan Air halts all Turkey flights, severing Iran's last major air links",
+    "direction": "Escalating",
+    "description": "Mahan Air announced it will suspend its Tehran-Istanbul and Tehran-Ankara services from Sept. 21, flying its last flights on Sept. 20, and will also drop its Georgia route the same day. Its Tehran-Muscat service stopped on Sept. 17. The carrier blamed instructions from aviation authorities without naming sanctions, but the cuts follow the Sept. 8 'Operation Economic Outcast' designations covering 36 entities and all 27 previously unsanctioned Iranian airlines, plus three Turkey-based facilitators: Sky Phoenix, S Sistem and Mes Cargo.",
+    "source": "https://turkishminute.com/2026/09/18/irans-mahan-air-suspends-all-flights-to-turkey-amid-tighter-us-sanctions/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Iran goes 10 days without striking a host state as fire pause holds",
+    "direction": "De-escalating",
+    "description": "Iran recorded a 10th consecutive day with no ballistic missile or drone attack on any of the six Arabian Peninsula Gulf states, Jordan or Israel. The last confirmed salvo was 20 missiles fired at Jordan's Muwaffaq Salti air base on Sept. 8-9. CENTCOM likewise announced no new ashore strikes for a twelfth consecutive reporting period, publishing nothing beyond its standing tally of 103 redirected commercial vessels. US military dead held at 18 and Israeli dead at 32 or more, with no new Iranian military fatalities reported for an 11th day.",
+    "source": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Rial hits 2,311,000 to the dollar as Iranian food inflation reaches 127.5%",
+    "direction": "Escalating",
+    "description": "Iran's rial traded at 2,311,000 to the dollar on the open market, a 43.99% loss of value over six months, while year-on-year food inflation hit 127.5%. Crude loadings are down about 85% from pre-war levels under the US naval blockade. The IMF projects Iran's economy will contract 5.4% in 2026. The figures mark the war's economic pressure reaching households directly, and frame the demand for release of frozen funds that Rezaei sent to Washington the next day.",
+    "source": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-09-19",
     "title": "Explosions over Riyadh as Saudi Arabia sounds first capital air raid alert",
     "direction": "Escalating",
