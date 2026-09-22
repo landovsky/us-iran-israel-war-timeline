@@ -1,6 +1,102 @@
 [
   {
     "date": "2026-09-21",
+    "title": "Projectile hits tanker entering Hormuz, injuring two crew; LPG carrier struck hours later",
+    "direction": "Escalating",
+    "description": "UK Maritime Trade Operations reported an 'unknown projectile' struck a commercial tanker on inbound passage through the Strait of Hormuz, wounding two crew members. The vessel, identified by maritime trackers as the Isle of Man-flagged La Stephanie, sustained minimal damage and continued to its next port under its own power. Hours later an LPG carrier was hit by debris from another unidentified projectile near the strait. No party claimed either attack; it was the fourth strike on shipping in the waterway in 11 days and the first this month to cause injuries, in a campaign that has killed 14 seafarers and one port worker since February 28.",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/09/21/tanker-struck-by-projectile-in-strait-of-hormuz-two-crew-injured-ukmto-says",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Bessent: 'On September 23, all the Iranian airlines will be shut down around the world'",
+    "direction": "Escalating",
+    "description": "Treasury Secretary Scott Bessent told CNBC that secondary sanctions taking effect September 23 will ground Iran's civil aviation fleet worldwide. The measures target the airports, fuel suppliers, ground handlers and ticketing firms Iranian carriers depend on abroad: 'If they land, you cannot provide them with fuel, you cannot provide them with landing services, you cannot sell them tickets, or you will be knocked out of the dollar system.' Bessent said Chinese financial authorities were 'very engaged' on compliance.",
+    "source": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Iraq to ground sanctioned Iranian airlines from Tuesday dawn",
+    "direction": "Escalating",
+    "description": "Two Iraqi government sources told AFP that Baghdad will suspend flights by US-sanctioned Iranian carriers. 'Iraq will enforce the ban on Iranian airlines in accordance with the US Treasury decision starting Tuesday at dawn,' one official said, adding that 'countries that do not implement the decision risk sanctions.' Iraq had been one of the few remaining destinations served by Iranian carriers after Turkey, Kuwait and Gulf states cut links.",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/09/21/iraq-to-suspend-ussanctioned-iranian-airlines-government-sources-say",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Turkish Airlines suspends all Iran flights until at least March 2027",
+    "direction": "Escalating",
+    "description": "Turkish Airlines removed every Iran service from its schedule through at least March 2027, with no guarantee of resumption then. Pegasus and AJet also cancelled their Iran flights. Turkey had been the most accessible foreign destination for Iranians, and the withdrawal follows Mahan Air's own halt to Turkey flights three days earlier, leaving Iranians with almost no scheduled international air links.",
+    "source": "https://www.iranintl.com/en/202609212495",
+    "actor": "Turkey"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Araghchi lands in New York, highest-ranking Iranian in the US since the war began",
+    "direction": "Neutral",
+    "description": "Foreign Minister Abbas Araghchi arrived in New York after leaving Tehran on Sunday evening with a stopover in Doha, becoming the most senior Iranian official to enter the United States since US-Israeli strikes began on February 28. 'Our most important objective is to use a major international platform to defend the legitimacy, rights, and interests of the Iranian people,' he told reporters, and phoned UN Secretary-General Antonio Guterres after landing. Washington refused visas to members of President Pezeshkian's communications team; Foreign Ministry spokesman Esmail Baghaei said a nation 'that once took pride in tearing down the Iron Curtain now finds itself standing behind one of its own.'",
+    "source": "https://www.arabnews.com/world/iran-foreign-minister-arrives-in-new-york-for-un-general-assembly-3002609",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "G7 foreign ministers demand Houthis halt Saudi strikes and tell Iran to stop arming them",
+    "direction": "Neutral",
+    "description": "Meeting informally on the sidelines of the UN General Assembly, the foreign ministers of the US, UK, Canada, France, Germany, Italy and Japan condemned 'the unacceptable continued strikes carried out by the Houthis in Yemen and against the Kingdom of Saudi Arabia.' The statement demanded an end to attacks on civilian shipping and called on Iran to 'end its arming of and support for the Houthis,' saying Tehran is violating past Security Council resolutions.",
+    "source": "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "UK commits RAF tankers to Saudi jets; France offers to secure Saudi energy sites",
+    "direction": "Escalating",
+    "description": "Prime Minister Andy Burnham agreed to provide Royal Air Force air-to-air refuelling for Saudi aircraft countering Houthi attacks, an arrangement capped at weeks and subject to review. France separately pledged readiness to help 'secure' Saudi energy infrastructure hit by the Houthis, saying it would adopt a 'strictly defensive approach.' Both commitments mark the first direct European military support to the Saudi campaign in Yemen since the war began.",
+    "source": "https://www.euronews.com/2026/09/22/g7-leaders-call-on-iran-backed-houthis-to-stop-strikes-on-saudi-arabia",
+    "actor": "UK|France"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "US proposes $5bn fund to rebuild Gulf energy sites and bypass Hormuz",
+    "direction": "Neutral",
+    "description": "The Trump administration proposed investing $5 billion to seed a fund rebuilding Gulf energy infrastructure damaged by Iranian missile and drone strikes, the Wall Street Journal reported. The Development Finance Corporation would manage it, and Washington would seek matching contributions from Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, Oman, Iraq and Jordan. A stated aim is cutting the region's dependence on the blockaded Strait of Hormuz for oil and gas exports.",
+    "source": "https://www.usnews.com/news/top-news/articles/2026-09-21/trump-administration-proposes-5-billion-to-kickstart-investment-fund-to-rebuild-gulf-energy-sites-wsj-reports",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Abdul Malik al-Houthi demands Saudi Arabia end 'aggression' and decade-long blockade",
+    "direction": "Escalating",
+    "description": "Houthi leader Abdul Malik al-Houthi used a pre-recorded speech to demand Saudi Arabia halt what he called its aggression and lift the blockade imposed on Yemen for roughly a decade. He said Saudi forces had flown 760 airstrikes in the current round of fighting. The speech set no deadline and offered no pause in Houthi strikes on Saudi cities and Aramco facilities.",
+    "source": "https://www.clickorlando.com/news/2026/09/21/a-projectile-strikes-a-tanker-as-it-sails-into-the-strait-of-hormuz-and-other-mideast-developments/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-20",
+    "title": "Mohammed bin Salman phones Trump 'to implore him, again' to hit the Houthis",
+    "direction": "Escalating",
+    "description": "Saudi Crown Prince Mohammed bin Salman called President Trump to press him once more for American help against Houthi advances, after the group's first ballistic missile attack on Riyadh in years. Rashad al-Alimi, head of Yemen's internationally recognised governing council, also called Trump the same day to request US support against the Iran-aligned group. Riyadh signed a 'Mecca Joint Defence Agreement' with Pakistan and Turkey the previous month as confidence in the US security umbrella eroded.",
+    "source": "https://www.euronews.com/2026/09/22/g7-leaders-call-on-iran-backed-houthis-to-stop-strikes-on-saudi-arabia",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-09-20",
+    "title": "France to summon Iran's ambassador after Tehran shuts embassy language centre",
+    "direction": "Escalating",
+    "description": "Paris announced it would summon Iran's ambassador after Iranian authorities closed the French language centre attached to the French embassy in Tehran under a judicial order. The closure ends one of the last French cultural operations in Iran and follows a run of European-Iranian expulsions, including Iran's removal of a Swedish diplomat and its summoning of Germany's ambassador earlier in the month.",
+    "source": "https://www.justsecurity.org/158222/early-edition-september-21-2026/",
+    "actor": "France"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Iran cuts government office hours to 8am-1pm from Sept. 23 to ration fuel",
+    "direction": "Neutral",
+    "description": "The government ordered state offices to open only from 8am to 1pm from September 23 until the end of the Iranian year in late March 2027, with remaining contractual hours worked remotely and one designated day a week on which staff must use public transport. Metro and bus rapid transit will be free until mid-November. Iran produced an average 122 million litres of petrol a day over the first five months of the Iranian year against consumption of 132 million, a 10-million-litre daily shortfall. 'We have begun consumption savings with the government,' President Masoud Pezeshkian said.",
+    "source": "https://www.aljazeera.com/economy/2026/9/21/how-an-economic-squeeze-is-changing-everyday-life-and-work-for-iranians",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-21",
     "title": "IRGC's Mohebbi: new aggression will change 'the weaponry and the geography of the war'",
     "direction": "Escalating",
     "description": "IRGC spokesperson Hossein Mohebbi told Fars news agency that Iran would deploy weapons it has not yet used and strike locations it has not previously attacked if the United States launches a new offensive. 'If a new aggression occurs, we will certainly change the weaponry and the geography of the war,' Mohebbi said, adding that Tehran is prepared for a prolonged conflict. Iranian officials separately said the world would be 'astonished' by the new systems.",
