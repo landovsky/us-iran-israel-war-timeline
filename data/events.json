@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-09-23",
+    "title": "Iran cancels all Baghdad and Muscat flights as US airline sanctions take effect",
+    "direction": "Escalating",
+    "description": "Iranian carriers cancelled every flight to Baghdad and Muscat from midnight, hours before US secondary sanctions on air-service providers took force on September 23. Treasury Secretary Scott Bessent had warned that any airport fuelling, servicing or ticketing an Iranian airline would be 'knocked out of the dollar system'. Iran's aviation authority opened talks to reroute Baghdad traffic to Najaf, the main destination for Iranian pilgrims, and is negotiating with Oman. Istanbul flights were still operating as scheduled.",
+    "source": "https://www.freemalaysiatoday.com/category/business/2026/09/23/first-iran-flights-cancelled-as-us-sanctions-set-to-come-into-force",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Witkoff and Kushner hold three-hour mediated talks with Araghchi at the UN",
+    "direction": "De-escalating",
+    "description": "US envoys Steve Witkoff and Jared Kushner held roughly three hours of indirect talks with Iranian Foreign Minister Abbas Araghchi on the sidelines of the UN General Assembly, with mediators shuttling between the two delegations through the day. Witkoff said the round was 'constructive and promising'. State broadcaster IRIB said Araghchi restated Iran's three conditions for reopening the Strait of Hormuz: immediate lifting of the naval blockade, release of Iran's frozen assets, and an end to the war on all resistance fronts including Lebanon. Trump called it 'a very good meeting, a very productive meeting' and said another is scheduled in the near future.",
+    "source": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Trump at UN: 'Do I annihilate the Islamic Republic and do it quickly?'",
+    "direction": "Escalating",
+    "description": "Addressing the 81st UN General Assembly, Trump framed his Iran policy as a binary choice: 'Will a deal be made with Iran that lets them rebuild... Or do I annihilate the Islamic Republic?' He also asked whether to 'drive them into hell with no chance of survival and no hope of future greatness or generations'. Trump repeated that 'Iran will never have a nuclear weapon' and predicted a settlement would come only after the November US midterm elections: 'I believe we'll make a deal right after the election because it doesn't make sense for them not to.'",
+    "source": "https://www.nbcnews.com/politics/trump-administration/trump-address-united-nations-general-assembly-iran-war-rcna599085",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Most of Iran's UN delegation walks out of Trump's General Assembly speech",
+    "direction": "Neutral",
+    "description": "Senior members of Iran's delegation left the General Assembly hall about ten minutes into Trump's address, as he began recounting seven months of US strikes on Iran and repeated his threat to annihilate the Islamic Republic. A single lower-level Iranian diplomat stayed for the full speech. Cuba's delegation also walked out after Trump attacked its government. Pezeshkian and Araghchi were in New York but did not attend the speech.",
+    "source": "https://gulfnews.com/world/mena/iranian-delegation-walks-out-during-trump-speech-at-un-1.500684030",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Iranian officials float seven-day Hormuz reopening; Fars calls the reports false",
+    "direction": "De-escalating",
+    "description": "Senior Iranian officials told Reuters and Japan's Kyodo News that Tehran could reopen the Strait of Hormuz within seven days if Washington eases military pressure and lifts its blockade of Iranian ports, and that the delegation in New York holds full authority to revive diplomacy. Kyodo's sources said Iran aims to 'achieve a permanent end to the war'. The semi-official Fars news agency rejected the reports as 'unreliable and inaccurate', claiming they were planted to push oil prices down. Pezeshkian, departing Tehran, said: 'We will not back down on the strait.'",
+    "source": "https://www.euronews.com/2026/09/22/us-open-to-meeting-iran-at-un-as-conflicting-reports-over-peace-deal-swirl",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Brent falls below $100 to $99 on Hormuz hopes and Saudi pipeline restart",
+    "direction": "De-escalating",
+    "description": "Brent crude dropped about 3% to $99 a barrel, a fifth straight session of losses and the lowest level in two weeks, after reports that Iran could reopen the Strait of Hormuz within seven days of a US blockade being lifted. Saudi Arabia's move to restart the East-West pipeline, shut since drone strikes on September 11, added to the fall, with exports expected to resume later in the week. It is the first sub-$100 Brent print since the pipeline closure.",
+    "source": "https://www.thenationalnews.com/business/energy/2026/09/22/oil-falls-below-100-on-hormuz-reopening-hopes-and-saudi-pipeline-restarting/",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Pezeshkian lands in New York, first Iranian president on US soil since the war began",
+    "direction": "Neutral",
+    "description": "Masoud Pezeshkian arrived in New York late Tuesday to attend the UN General Assembly, becoming the most senior Iranian official to set foot in the United States since the war started on February 28. Leaving Tehran he said: 'We emerged with our heads held high, and this is a source of dignity and pride for all of us,' and pledged to 'firmly defend' Iran's positions. He is scheduled to address the Assembly on September 23. Araghchi said separately that Iran has 'no trust' in the UN in its current form.",
+    "source": "https://www.cbsnews.com/live-updates/us-iran-war-trump-decision-tehran-warns-of-expansion/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Trump convenes GCC plus Turkey, Jordan, Syria and Iraq, says deal has 'a lot of momentum'",
+    "direction": "De-escalating",
+    "description": "Trump hosted leaders and foreign ministers of all six Gulf Cooperation Council states — Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait and Oman — plus officials from Turkey, Jordan, Syria and Iraq on the sidelines of the General Assembly to discuss a postwar strategy for Iran and regional security. He told them there was 'a lot of momentum' toward an agreement with Tehran. The Gulf states have absorbed much of the war's cost through repeated Iranian strikes on US bases on their territory and the collapse of their oil and gas exports.",
+    "source": "https://www.al-monitor.com/originals/2026/09/trump-tells-middle-east-leaders-us-iran-talks-have-momentum",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "France drafts UN Security Council resolution for an international Hormuz mission",
+    "direction": "De-escalating",
+    "description": "French diplomats began drafting a Security Council resolution, coordinated with Washington, to create an international mission guaranteeing freedom of navigation through the Strait of Hormuz. The move followed talks between Macron and Trump on the General Assembly sidelines on Monday evening. Paris wants the text to avoid an offensive posture toward Iran, avoid criticising the United States and avoid linking the strait to other regional disputes. Russia and China vetoed an earlier Bahraini-led draft on reopening Hormuz in April.",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/09/22/france-working-on-un-security-council-resolution-on-strait-of-hormuz-diplomatic-source",
+    "actor": "France"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Putin and Mohammed bin Salman call for open passage through Hormuz and Bab el-Mandeb",
+    "direction": "De-escalating",
+    "description": "Vladimir Putin and Saudi Crown Prince Mohammed bin Salman spoke by phone on Gulf security, and the Kremlin said both stressed the need for safe and unrestricted shipping through the Strait of Hormuz and Bab el-Mandeb. They called for a rapid end to the fighting in Yemen as conditions there deteriorate, and said political and diplomatic solutions remain the only workable route out of the regional crisis. It is Moscow's most explicit public alignment with Riyadh on reopening the waterways Iran and the Houthis have closed.",
+    "source": "https://www.arabnews.com/saudi-arabia/saudi-crown-prince-putin-discuss-regional-escalation-maritime-security-3002726",
+    "actor": "Russia|Saudi Arabia"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "French-Lebanese citizen files war crimes complaint in Paris over south Lebanon demolitions",
+    "direction": "Neutral",
+    "description": "Lawyers for an unnamed French-Lebanese citizen living in France filed a complaint with France's National Anti-Terrorism Prosecutor's Office over Israel's destruction of his house and olive groves in southern Lebanon during the war with Hezbollah. His lawyer said the family had no ties to Hezbollah and no military target was present, arguing the wider pattern in southern Lebanon 'appears to amount to ethnic cleansing'. It is at least the third such complaint filed in France over the Lebanon campaign.",
+    "source": "https://www.thenationalnews.com/news/mena/2026/09/22/new-war-crimes-complaint-filed-in-france-over-israeli-destruction-in-lebanon/",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Iran's anti-execution prison protest reaches week 139 and spreads to 64 prisons",
+    "direction": "Neutral",
+    "description": "The 'No to Execution Tuesdays' hunger strike campaign marked its 139th consecutive week, expanding to 64 prisons with the addition of Bandar Abbas Prison in the south and Ziabar Prison in the north. Iran has carried out at least 448 executions since the Iranian year began in late March 2026, including at least 61 between August 23 and September 15. The campaign condemned the hanging of Rezvan Asgharzadeh, a 45-year-old mother of six, on drug charges at Dastgerd Prison in Isfahan.",
+    "source": "https://www.ncr-iran.org/en/news/human-rights/iran-anti-execution-campaign-reaches-week-139-as-hunger-strikes-expand-to-64-prisons/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-09-21",
     "title": "Projectile hits tanker entering Hormuz, injuring two crew; LPG carrier struck hours later",
     "direction": "Escalating",
