@@ -1,6 +1,70 @@
 [
   {
     "date": "2026-09-23",
+    "title": "Canada sanctions Iran's interior minister and cyber police chiefs",
+    "direction": "Escalating",
+    "description": "Canada imposed sanctions on five Iranian individuals and five entities, including Interior Minister Eskandar Momeni, Greater Tehran cyber police chief Davoud Moazami Goudarzi, and the Headquarters for the Promotion of Virtue and Prevention of Vice, over digital surveillance, censorship and arbitrary detention. Foreign Affairs Minister Anita Anand announced the round in New York — Canada's 24th against Iran since October 2022, now covering 237 individuals and 265 entities.",
+    "source": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-announces-additional-sanctions-against-iranian-individuals-and-entities.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "UAE bars Bank Melli Iran's 8 branches from transactions",
+    "direction": "Escalating",
+    "description": "The UAE Central Bank barred Bank Melli Iran's eight branches, including its regional office, from trade finance and fund transfers over anti-money-laundering and terror-financing compliance violations. Bank Melli is Iran's largest lender; the move follows the US sanctioning its Dubai branch manager, Reza Mohammad Taeedi, on August 28.",
+    "source": "https://www.thenationalnews.com/business/2026/09/23/uae-central-bank-bars-bank-melli-iran-from-conducting-transactions/",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Torpedo attack on bulker Cape Dao in Hormuz kills Indian seafarer",
+    "direction": "Escalating",
+    "description": "Suspected torpedoes struck the Antigua-flagged capesize bulker Cape Dao around 0630 UTC off Oman's Musandam peninsula, hitting the accommodation block and engine room. Indian wiper Suraj Yadav was killed and the vessel's 27 crew were evacuated as it caught fire and drifted. It is the third vessel struck in the strait within 48 hours, after the tankers LR Stephanie and Al Maryah were hit on September 21.",
+    "source": "https://gcaptain.com/seafarer-killed-in-hormuz-attack-as-trump-pushes-iran-deal-at-un/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "US Army captain's death raises war's US military toll to 19",
+    "direction": "Escalating",
+    "description": "Capt. Bianca C. Wilkerson died from a medical emergency while traveling to the Middle East, raising total US military deaths in the Iran war to 19 since it began on February 28.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Iranian schools and universities reopen after months of war closures",
+    "direction": "De-escalating",
+    "description": "Schools and universities across Iran reopened after being shut for months since the war began on February 28, marking a partial return to normal civilian life even as fighting and the Hormuz blockade continue.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Pezeshkian tells UN Iran is 'victim of terrorism,' cites Minab school strike",
+    "direction": "Neutral",
+    "description": "Addressing the UN General Assembly, Iranian President Masoud Pezeshkian said 'We have been the victims of terrorism' by the US and Israel and called his country the target of 'cowardly attacks.' He cited the bombing of a school in Minab that killed roughly 170 people, mostly girls aged 7 to 12, on the war's opening day.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Yemen fighting kills roughly 169 in three days as Houthis battle Saudi-backed forces",
+    "direction": "Escalating",
+    "description": "Houthi and Saudi-backed government forces fought intensifying battles across Yemen, with roughly 169 people reported killed over three days. The clashes come as Saudi Crown Prince Mohammed bin Salman presses Trump to strike the Houthis directly.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Iran restores half of South Pars gas field's damaged capacity",
+    "direction": "De-escalating",
+    "description": "An Iranian oil ministry official said roughly 50% of the production capacity damaged at the South Pars gas field has been restored, with output in that section resuming by the end of September.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-23",
     "title": "Iran cancels all Baghdad and Muscat flights as US airline sanctions take effect",
     "direction": "Escalating",
     "description": "Iranian carriers cancelled every flight to Baghdad and Muscat from midnight, hours before US secondary sanctions on air-service providers took force on September 23. Treasury Secretary Scott Bessent had warned that any airport fuelling, servicing or ticketing an Iranian airline would be 'knocked out of the dollar system'. Iran's aviation authority opened talks to reroute Baghdad traffic to Najaf, the main destination for Iranian pilgrims, and is negotiating with Oman. Istanbul flights were still operating as scheduled.",
