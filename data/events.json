@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-09-26",
+    "title": "Trump rejects Iran's seven-day plan, expects to resume bombing after midterms",
+    "direction": "Escalating",
+    "description": "US officials told the Wall Street Journal that President Trump rejected Iran's proposal to reopen the Strait of Hormuz within seven days and restart nuclear talks. Officials said Trump is \"skeptical\" Iran would meet his demands and expects to resume bombing Iran after the November midterms, though the scope of any strikes remains undecided. The rejection came roughly 30 hours after Araghchi publicly laid out the plan at the UN Security Council.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Trump posts map relabeling the Strait of Hormuz 'Trump Strait'",
+    "direction": "Neutral",
+    "description": "About 30 minutes after the Wall Street Journal reported he had rejected Iran's ceasefire proposal, Trump posted a map on Truth Social labeling the Strait of Hormuz \"Trump Strait.\" The post came as the US naval blockade and escorted-transit corridor remained the main instruments of US pressure on Tehran.",
+    "source": "https://www.timesofisrael.com/liveblog-september-26-2026/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Saudi coalition downs 2 Houthi drones toward Riyadh, 2 missiles at Khamis Mushait",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said it intercepted and destroyed two Houthi drones launched toward the Riyadh area and two ballistic missiles aimed at Khamis Mushait, home to a major Saudi air base. Houthi Political Bureau member Hezam al-Assad said the group's forces view recent operations as \"merely a small-scale rehearsal for a full-scale escalation.\"",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Pezeshkian: Iran would admit UN nuclear inspectors under a ceasefire deal",
+    "direction": "De-escalating",
+    "description": "Asked by CBS News' Face the Nation whether Iran would allow IAEA inspectors back as part of a long-term ceasefire agreement, President Masoud Pezeshkian twice replied, \"That is absolutely correct.\" IAEA inspectors have been unable to access Iranian sites since the US-Israeli strikes began in February.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-25",
+    "title": "Araghchi details seven-day plan: Hormuz reopens day six, nuclear talks day seven",
+    "direction": "De-escalating",
+    "description": "Iranian Foreign Minister Abbas Araghchi told reporters at the UN Security Council that Iran had sent Washington, via Qatar, a seven-day road map that starts \"as soon as the United States accepts this plan.\" Iran would reopen the Strait of Hormuz on day six and begin nuclear negotiations on day seven, in exchange for the US lifting its naval blockade, waiving oil sanctions, releasing about $12 billion in frozen assets and observing a regional ceasefire including Lebanon and Yemen. \"The choice now rests with the United States,\" Araghchi said.",
+    "source": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-25",
+    "title": "US blockade redirects 7 ships in two days, 122 since July 14",
+    "direction": "Neutral",
+    "description": "The US naval blockade of Iranian ports redirected seven commercial vessels in two days, bringing total redirections to 122 as of Friday, up from 115 on Wednesday, and 12 for the week. Nearly 40 million barrels of crude transited Hormuz under US escort in the preceding 48 hours.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-25",
+    "title": "EU energy commissioner warns of 'price crisis' turning into supply crisis",
+    "direction": "Neutral",
+    "description": "European Energy Commissioner Dan Jorgensen said the Iran war has created a \"price crisis\" linked to a supply crisis and urged EU member states to limit energy demand and keep injecting gas into storage ahead of winter.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Senate rejects Iran war powers resolution 50-49",
+    "direction": "Neutral",
+    "description": "The US Senate voted 50-49 against a resolution directing President Trump to end the war with Iran; the House had passed the measure 214-208 in July. Republicans Thom Tillis, Susan Collins, Lisa Murkowski and Rand Paul voted in favor, while Democrat John Fetterman voted against. \"We got to know what success looks like,\" Tillis said, citing gasoline, diesel and fertilizer prices.",
+    "source": "https://www.upi.com/Top_News/US/2026/09/24/congress-senate-iran-war-powers/6471790280826",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Israeli official says Iran moved nuclear work to Jabal al-Fas near Natanz, threatens strikes",
+    "direction": "Escalating",
+    "description": "An unnamed Israeli official told Saudi outlet Al Hadath that Israeli intelligence detected Iran trying to revive its nuclear program by transferring remaining projects to Jabal al-Fas, near Natanz. \"We will move to strike nuclear facilities and any site belonging to them again if Tehran crosses any of the red lines,\" the official said, adding Israel would act with or without the US.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-909607",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-09-24",
     "title": "Rezaei gives US 'four to five days' to accept Iran's seven conditions",
     "direction": "Escalating",
