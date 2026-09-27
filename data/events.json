@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-09-27",
+    "title": "Energy Secretary Wright: Hormuz oil flows average nearly 13 million barrels a day",
+    "direction": "De-escalating",
+    "description": "US Energy Secretary Chris Wright told Fox News that oil flows through the Strait of Hormuz under US-escorted transit were averaging almost 13 million barrels a day, with one day last week exceeding 20 million barrels, above pre-war levels. \"The pricing problem today is much more refining capacity than it actually is the flow of oil,\" Wright said. The claim came a day after Trump cited 29 ships exiting the strait in a single night as proof of US \"total control.\"",
+    "source": "https://www.iranintl.com/en/liveblog/202609269384",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Hezbollah fires explosive drone at IDF troops; Israel strikes launch posts",
+    "direction": "Escalating",
+    "description": "Hezbollah launched an explosive drone at IDF soldiers in Israel's security zone in southern Lebanon on the night of September 26; troops shot it down and the IDF reported no injuries. The IDF then struck Hezbollah infrastructure in southern Lebanon, including drone and anti-tank missile launch posts, calling the attack a \"blatant violation\" of the ceasefire. Earlier the same day the IDF bombed a Hezbollah weapons cache in the Sejoud area that it said was stocked for attacks on troops in the zone.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/hezbollah-fires-explosive-drone-at-troops-prompting-strikes-in-response-idf/",
+    "actor": "Lebanon|Israel"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Araghchi: Iran 'will not back down', awaits formal US answer via mediators",
+    "direction": "Neutral",
+    "description": "Foreign Minister Abbas Araghchi said on Telegram that Iran \"will not back down\" on its conditions after Trump publicly rejected the seven-day Hormuz plan, adding that \"nothing has been conveyed to us from the mediators yet\" and calling Trump's statements \"contradictory.\" Tehran is treating Trump's remarks as an initial reaction and will decide only after Qatari mediators deliver an official US position. Iranian state media said Araghchi will remain in New York until Wednesday, September 30.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/irans-araghchi-says-tehran-yet-to-receive-official-us-position-on-hormuz-proposal/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Pezeshkian: Iran has 'no faith' in Washington; says Mojtaba Khamenei 'completely healthy'",
+    "direction": "Neutral",
+    "description": "In interviews with Al Jazeera and CBS News, President Masoud Pezeshkian said Qatar and Pakistan are carrying Tehran's messages to Washington but \"we no longer have faith in Washington after the attacks and sanctions that have followed all negotiations.\" He said Supreme Leader Mojtaba Khamenei, who has made no public appearance since the February 28 strike, is \"completely healthy,\" and that he had met him twice, once for more than seven hours. Pezeshkian also denied any Iranian role in the Saudi-Houthi war.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/pezeshkian-qatari-pakistani-mediation-ongoing-but-weve-lost-faith-in-us-as-a-negotiating-partner/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Iran's Security Council rules out military retaliation over aviation bans",
+    "direction": "De-escalating",
+    "description": "Iran's Supreme National Security Council called reports that Tehran would respond militarily to the US-driven aviation restrictions baseless, saying it is negotiating with \"some relevant countries\" to lift them and holds \"numerous non-military options\" against airports if needed. The statement walked back warnings from Council Secretary Mohsen Rezaei on September 23 and supreme leader adviser Mohammad Mokhber on September 25 that neighbours' airports would stop operating if Iran's flights were grounded.",
+    "source": "https://www.middleeastmonitor.com/20260926-iran-denies-plans-for-military-retaliation-over-aviation-restrictions/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Iran's Hormuz authority threatens to blacklist charterers using unauthorized routes",
+    "direction": "Escalating",
+    "description": "Iran's Persian Gulf Strait Authority (PGSA) said it had received reports that \"some charterers are forcing vessels to use illegal routes\" through the Strait of Hormuz, a practice it said risks \"financial and life losses for the vessel, owner, master, and crew.\" Charterers found to be doing so will be added to the PGSA's Non-Compliance List, restricting passage for all their vessels. The warning targets the US-escorted transits that have pushed crude outflows to their highest level since July.",
+    "source": "https://www.presstv.co.uk/Detail/2026/09/26/777083/Iran-Hormuz-warning-ships-charterer-illegal-routes",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Bessent: Turkey revokes Bank Mellat license as Treasury presses 50+ countries",
+    "direction": "Escalating",
+    "description": "Treasury Secretary Scott Bessent said Operation Economic Outcast teams had engaged more than 50 countries, and listed results: Turkey and Oman halted Mahan Air flights, the UAE stopped all Iranian airline flights and its central bank blocked Bank Melli transactions, and Turkey revoked Bank Mellat's license. \"These efforts are delivering results,\" Bessent said, thanking Turkey, Oman, the UAE and the UK.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/us-treasury-secretary-claims-successes-in-sanctions-campaign-to-isolate-iran/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Lavrov at UN condemns Khamenei killing, offers Russian Gulf stabilization initiative",
+    "direction": "Neutral",
+    "description": "Russian Foreign Minister Sergey Lavrov told the UN General Assembly that the killing of Supreme Leader Ali Khamenei and members of his family and leadership was \"another unacceptable manifestation of coercive diktat,\" and said strikes on IAEA-safeguarded sites did \"irreparable damage\" to non-proliferation. He announced a Russian initiative for Persian Gulf security and Hormuz de-escalation, saying Russia \"stands ready to constructively contribute to stabilizing this strategically important region.\"",
+    "source": "https://sharjah24.ae/en/Articles/2026/09/26/Lavrov-at-UN-Russia-ready-to-help-on-Strait-of-Hormuz",
+    "actor": "Russia"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Iraq says US will keep shipping cash dollars after months of curbs",
+    "direction": "De-escalating",
+    "description": "Iraq's government said it reached an understanding with Washington to continue cash dollar shipments, with deliveries expected imminently, according to the Iraqi News Agency. The US halted about $500 million in dollar transfers in April and only partly resumed them in July. The deal came as Baghdad sought a humanitarian exemption from the US ban on Iranian flights and days after four Iraqi airports stopped serving Iranian carriers.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/iraq-says-us-agreed-to-continue-shipments-of-cash-dollars/",
+    "actor": "Iraq|US"
+  },
+  {
+    "date": "2026-09-25",
+    "title": "Saudi, Turkish and Pakistani military chiefs agree to integrate defences against Houthis",
+    "direction": "Escalating",
+    "description": "Saudi Chief of General Staff Gen. Fayyadh Al-Ruwaili, Turkish Chief of General Staff Selcuk Bayraktaroglu and Pakistan's Field Marshal Asim Munir met in Riyadh and agreed to deepen military and intelligence cooperation and integrate defensive capabilities under the Makkah Joint Defence Agreement signed in August. They pledged to protect Saudi Arabia's \"security, sovereignty and territorial integrity\" and condemned Houthi attacks on Makkah and civilian infrastructure. Houthi media reported Saudi strikes around Taiz hours later.",
+    "source": "https://www.dawn.com/news/2032546/pakistani-saudi-turkish-military-chiefs-meet-to-discuss-ways-to-assist-riyadh-under-makkah-defence-pact",
+    "actor": "Saudi Arabia|Turkey|Pakistan"
+  },
+  {
+    "date": "2026-09-25",
+    "title": "Four Iraqi airports halt all Iranian flights under US aviation sanctions",
+    "direction": "Escalating",
+    "description": "Baghdad, Najaf, Erbil and Sulaimaniyah airports suspended all flights to and from Iran after US aviation sanctions took effect. Najaf airport director Hussein Muhanna said flights stopped \"following a directive from the prime minister's office to the governor\"; Iranian carriers had run at least 20 daily flights at Najaf. Baghdad issued no public statement, and Shia pilgrims now face overland journeys of at least 12 hours.",
+    "source": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions",
+    "actor": "Iraq"
+  },
+  {
     "date": "2026-09-26",
     "title": "Trump rejects Iran's seven-day plan, expects to resume bombing after midterms",
     "direction": "Escalating",
