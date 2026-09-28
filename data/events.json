@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-09-27",
+    "title": "UK arrests 5 men near US-run RAF Fairford over suspected bomb plot",
+    "direction": "Escalating",
+    "description": "Gloucestershire armed police stopped three white trucks heading toward RAF Fairford after a 12:45 a.m. call on Sunday and arrested five men in neighbouring Whelford on suspicion of explosives offences, later adding suspicion of preparing a terrorist act. Police set a 400-metre cordon, evacuated about 85 households and sent in a bomb disposal robot. Counter Terrorism Policing is examining a possible Iran link; the base hosts US bombers that have struck Iranian missile sites. Trump said the suspects \"were looking to do big damage.\"",
+    "source": "https://www.pbs.org/newshour/world/uk-police-arrest-5-men-near-an-air-base-used-by-u-s-on-suspicion-of-preparing-a-terrorist-act",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-09-27",
+    "title": "IRGC claims seizure of second US underwater drone in Hormuz; CENTCOM denies",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said it captured a US REMUS 600 autonomous underwater vehicle in the Strait of Hormuz in an \"intelligence and electronic warfare operation\" and handed it to military experts to extract its data. CENTCOM spokesman Capt. Tim Hawkins said the US has \"positive control of all of our operational drone assets.\" The IRGC had claimed an Anduril Dive-LD days earlier. On September 28, IRGC spokesman Hossein Mohebbi relabeled the craft an Mk 18 Mod 2 Kingfish and called the strait \"a hunting ground for the IRGC Navy.\"",
+    "source": "https://www.euronews.com/2026/09/27/irans-revolutionary-guards-claim-seizure-of-second-us-underwater-drone-in-strait-of-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-27",
+    "title": "Trump expects Iran talks to resume this week; Waltz calls offer 'cynical'",
+    "direction": "Neutral",
+    "description": "Trump told Axios he expects indirect talks with Iran to resume this week, possibly as early as Monday: \"They want to make a deal, but it is not the deal that I want to make.\" He said Iran's plan \"is what we would have maybe agreed to a year ago\" and that on resuming strikes, \"I am always thinking about it.\" On NBC, UN Ambassador Mike Waltz called the offer \"a pretty cynical attempt to put something on the table that they knew was unacceptable.\"",
+    "source": "https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negotiations",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-27",
+    "title": "Araghchi: Iran ready for 'apocalyptic war' and 'real diplomacy'",
+    "direction": "Neutral",
+    "description": "Iranian Foreign Minister Abbas Araghchi told NBC's Meet the Press that Iran \"remains steadfast in the face of any aggression—even if it comes to an apocalyptic war,\" but is \"ready for real diplomacy.\" He said Iran would reopen Hormuz \"if certain things are done by the US.\" A source close to Iran's UN delegation said no new round with the US is planned this week because Tehran already delivered its position through the Qatari mediator and is waiting for a reply. Araghchi leaves New York on Tuesday.",
+    "source": "https://www.thenationalnews.com/news/us/2026/09/27/iran-apocalyptic-war/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-27",
+    "title": "Netanyahu makes unannounced Abu Dhabi visit, meets UAE's Mohamed bin Zayed",
+    "direction": "Neutral",
+    "description": "Netanyahu flew to Abu Dhabi on a private plane and met UAE President Sheikh Mohamed bin Zayed, a senior Israeli official said. He spent about four hours in the UAE. The trip was not announced in advance, and neither Netanyahu's office nor the UAE foreign ministry commented. It came three days after the UAE cut all flights with Iran.",
+    "source": "https://www.usnews.com/news/world/articles/2026-09-27/israels-netanyahu-visited-abu-dhabi-on-sunday-israeli-official-says",
+    "actor": "Israel|UAE"
+  },
+  {
+    "date": "2026-09-27",
+    "title": "Qassem at Nasrallah anniversary urges Beirut to halt talks with Israel",
+    "direction": "Escalating",
+    "description": "Speaking to tens of thousands in Beirut's southern suburbs on the second anniversary of Hassan Nasrallah's killing, Hezbollah chief Naim Qassem said \"we cannot be defeated\" and accused the Lebanese government of \"helping the Israeli-US project\" through its disarmament framework. He called for a halt to direct negotiations with Israel and said \"first, liberate the south\" before any dialogue. Lebanese President Joseph Aoun told his security chiefs not to send representatives to the ceremony.",
+    "source": "https://www.timesofisrael.com/we-cannot-be-defeated-hezbollah-chief-rallies-supporters-2-years-after-nasrallah-killing",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-09-27",
+    "title": "Saudi airstrikes hit Taiz market, killing at least 7",
+    "direction": "Escalating",
+    "description": "Two Saudi airstrikes hit a market on the outskirts of Taiz in southwest Yemen. Houthi-run Al-Masirah TV reported 7 killed and 40 wounded, including five children. Houthi sources told AFP that about 30 Houthi fighters and 8 civilians died. Houthi spokesman Yahya Saree said \"blood was unjustly and aggressively spilled.\" Riyadh schools moved to remote learning for a week after Saudi forces intercepted two Houthi drones heading for the capital.",
+    "source": "https://www.cp24.com/news/world/2026/09/27/houthis-say-saudi-strikes-on-yemens-taiz-leave-dozens-of-casualties/",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-09-27",
     "title": "Energy Secretary Wright: Hormuz oil flows average nearly 13 million barrels a day",
     "direction": "De-escalating",
     "description": "US Energy Secretary Chris Wright told Fox News that oil flows through the Strait of Hormuz under US-escorted transit were averaging almost 13 million barrels a day, with one day last week exceeding 20 million barrels, above pre-war levels. \"The pricing problem today is much more refining capacity than it actually is the flow of oil,\" Wright said. The claim came a day after Trump cited 29 ships exiting the strait in a single night as proof of US \"total control.\"",
