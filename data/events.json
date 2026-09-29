@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-09-29",
+    "title": "Araghchi expects formal US answer on Hormuz plan via Qatar by Sept. 30",
+    "direction": "De-escalating",
+    "description": "Speaking in New York during the UN General Assembly, Foreign Minister Abbas Araghchi told Iranian state media that Qatari mediators would put further ideas to Washington before relaying the formal US response to Iran's plan to reopen the Strait of Hormuz. \"The Qataris hope this will be done by tomorrow,\" Araghchi said.",
+    "source": "https://www.timesofisrael.com/liveblog-september-29-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "UK releases 5 RAF Fairford suspects on bail; ministers point to Iran's proxies",
+    "direction": "Neutral",
+    "description": "Police released on bail the five London men in their early 20s who were arrested near RAF Fairford. They remain under investigation under the Explosives Act and on suspicion of preparing a terrorist act. PA reported that police found no viable explosives. Counter-terrorism chief Laurence Taylor said \"this does not mean that the investigation is over,\" and Foreign Secretary Ed Miliband said Britain must \"act against the proxies of Iran.\" Iran's embassy rejected \"unfounded and malicious speculations,\" and Trump said the plot \"might be\" Iran-linked.",
+    "source": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Rubio hosts Lebanese PM Salam, backs Lebanon 'outside' Hezbollah's influence",
+    "direction": "Neutral",
+    "description": "Secretary of State Marco Rubio met Lebanese Prime Minister Nawaf Salam in Washington and \"reaffirmed United States support for a sovereign Lebanese state outside of the pernicious influence of Hizballah and Iran,\" according to the State Department readout. Salam pressed for the trilateral framework's principles of reciprocity and phased implementation to be turned into practical steps, including a full Israeli withdrawal. No new timetable was announced.",
+    "source": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-lebanese-prime-minister-salam",
+    "actor": "US|Lebanon"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Mojtaba Khamenei touts Hormuz attacks as Gulf exports hit wartime high",
+    "direction": "Escalating",
+    "description": "In a message carried by state media, Supreme Leader Mojtaba Khamenei said of US forces, \"Whenever they have taken that risk, they have suffered harm upon themselves.\" He added that the Arabian Sea would \"empty itself of them.\" Kpler preliminary data showed Arab Gulf crude exports rebounding to 12.8 million barrels a day in September, the highest since the war began. Exports through Hormuz averaged 7.4 million b/d, and 19 tankers, including 17 VLCCs, transited in the week ending September 27.",
+    "source": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Pentagon adds 37 to war-wounded list, total reaches 861",
+    "direction": "Neutral",
+    "description": "The Pentagon added 29 sailors and eight Marines to its list of service members wounded in the Iran war. That brings the total to 861 since February 28. At least 19 US service members have been killed.",
+    "source": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "WHO: Yemen war deaths since Aug. 6 reach 838, casualties rise ~100 a day",
+    "direction": "Escalating",
+    "description": "The World Health Organization recorded 809 new casualties in Yemen between September 19 and 26, including 164 deaths. That brings the toll since the Saudi-Houthi fighting resumed on August 6 to 4,481 casualties, including 838 deaths. Casualties are rising by about 100 a day. Al-Madharibah wa Ras Al-Arah alone recorded 47 casualties, including 18 dead, on September 21.",
+    "source": "https://www.anews.com.tr/world/2026/09/28/yemen-casualties-rising-by-around-100-per-day-amid-escalating-conflict-who",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-27",
+    "title": "Trump denies offering Iran sanctions relief: 'I offered them NOTHING!'",
+    "direction": "Neutral",
+    "description": "Axios and Channel 12 reported that Trump was weighing limited sanctions relief and the unfreezing of Iranian assets in exchange for nuclear concessions, with Qatari and Pakistani mediators shuttling between the sides. Trump rejected the reports on Truth Social: \"This is untrue. I offered them NOTHING!\"",
+    "source": "https://www.timesofisrael.com/liveblog-september-28-2026/",
+    "actor": "US"
+  },
+  {
     "date": "2026-09-27",
     "title": "UK arrests 5 men near US-run RAF Fairford over suspected bomb plot",
     "direction": "Escalating",
@@ -35,7 +91,7 @@
     "date": "2026-09-27",
     "title": "Netanyahu makes unannounced Abu Dhabi visit, meets UAE's Mohamed bin Zayed",
     "direction": "Neutral",
-    "description": "Netanyahu flew to Abu Dhabi on a private plane and met UAE President Sheikh Mohamed bin Zayed, a senior Israeli official said. He spent about four hours in the UAE. The trip was not announced in advance, and neither Netanyahu's office nor the UAE foreign ministry commented. It came three days after the UAE cut all flights with Iran.",
+    "description": "Netanyahu flew to Abu Dhabi on a private plane and met UAE President Sheikh Mohamed bin Zayed, a senior Israeli official said. He spent about four hours in the UAE. The trip was not announced in advance, and neither Netanyahu's office nor the UAE foreign ministry commented. It came three days after the UAE cut all flights with Iran. Kan reported that aircraft from Libya, Morocco, Qatar and Saudi Arabia also landed in Abu Dhabi during the visit, and that Netanyahu met officials from those countries in a session focused on Iran.",
     "source": "https://www.usnews.com/news/world/articles/2026-09-27/israels-netanyahu-visited-abu-dhabi-on-sunday-israeli-official-says",
     "actor": "Israel|UAE"
   },
