@@ -1,10 +1,50 @@
 [
   {
+    "date": "2026-09-30",
+    "title": "US-led coalition completes final troop withdrawal from Iraq",
+    "direction": "Escalating",
+    "description": "US forces completed withdrawal from their remaining Iraqi bases, ending the international coalition's mission after more than two decades of American military presence. Iraqi security analyst Jassim al-Bahadli warned 'security vacuums can be extremely dangerous,' with officials fearing the exit will embolden Iran-backed militias and a resurgent Islamic State. Tehran and its allies celebrated the departure even as the US continues waging war against Iran.",
+    "source": "https://www.timesofisrael.com/liveblog-september-30-2026/",
+    "actor": "US|Iraq"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Iran medicine prices triple as US blockade cripples pharmaceutical imports",
+    "direction": "Escalating",
+    "description": "Medicine prices in Iran have tripled amid the US naval blockade and sanctions, with pharmaceutical factories damaged and imports severely restricted. 'My daughter's illness and lost income are like scissors, cutting from both sides,' said Tehran welder Gholamreza Rahmani, describing the shortage's toll on ordinary families.",
+    "source": "https://www.timesofisrael.com/liveblog-september-30-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Syrian forces dismantle Hezbollah sabotage cell in Daraa, seize Aleppo arms depot",
+    "direction": "Neutral",
+    "description": "Syria's Internal Security Forces dismantled a Hezbollah cell plotting sabotage operations in the Yarmouk Basin area of Daraa province and seized a separate weapons depot near Al-Hadaba, outside Aleppo. The operation reflects the post-Assad Syrian government's continued moves against Hezbollah's covert network inside Syrian territory.",
+    "source": "https://www.jpost.com/middle-east/iran-news/2026-09-30/live-updates-910145",
+    "actor": "Lebanon|Other"
+  },
+  {
     "date": "2026-09-29",
     "title": "Araghchi expects formal US answer on Hormuz plan via Qatar by Sept. 30",
     "direction": "De-escalating",
     "description": "Speaking in New York during the UN General Assembly, Foreign Minister Abbas Araghchi told Iranian state media that Qatari mediators would put further ideas to Washington before relaying the formal US response to Iran's plan to reopen the Strait of Hormuz. \"The Qataris hope this will be done by tomorrow,\" Araghchi said.",
     "source": "https://www.timesofisrael.com/liveblog-september-29-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Tether says it helped freeze $550 million in Iran-linked USDT in 2026",
+    "direction": "Escalating",
+    "description": "Tether said it cooperated with the US Treasury's OFAC and law enforcement to freeze nearly $550 million in Iran-linked USDT during 2026, including wallets tied to the Central Bank of Iran. The total includes $344 million frozen in April across two TRON wallets and $130 million frozen in July across four more, part of a widening Treasury crackdown on Iranian shadow-banking networks financing the regime's military and proxy networks.",
+    "source": "https://crypto.news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt/",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Students, retirees stage price and hijab-enforcement protests across Iran",
+    "direction": "Escalating",
+    "description": "Students at Tehran's Allameh Tabataba'i University protested rising prices, education costs, and university security measures targeting female students over compulsory hijab enforcement. Telecommunications and Shafaroud company retirees held simultaneous demonstrations in Isfahan, Kermanshah, Bijar, and Gilan province over unpaid pensions and wartime economic hardship.",
+    "source": "https://www.ncr-iran.org/en/news/iran-news-in-brief-september-30-2026/",
     "actor": "Iran"
   },
   {
@@ -90,8 +130,8 @@
   {
     "date": "2026-09-27",
     "title": "Netanyahu makes unannounced Abu Dhabi visit, meets UAE's Mohamed bin Zayed",
-    "direction": "Neutral",
-    "description": "Netanyahu flew to Abu Dhabi on a private plane and met UAE President Sheikh Mohamed bin Zayed, a senior Israeli official said. He spent about four hours in the UAE. The trip was not announced in advance, and neither Netanyahu's office nor the UAE foreign ministry commented. It came three days after the UAE cut all flights with Iran. Kan reported that aircraft from Libya, Morocco, Qatar and Saudi Arabia also landed in Abu Dhabi during the visit, and that Netanyahu met officials from those countries in a session focused on Iran.",
+    "direction": "Escalating",
+    "description": "Netanyahu flew to Abu Dhabi on a private plane and met UAE President Sheikh Mohamed bin Zayed, a senior Israeli official said. He spent about four hours in the UAE. The trip was not announced in advance, and neither Netanyahu's office nor the UAE foreign ministry commented. It came three days after the UAE cut all flights with Iran. Kan reported that aircraft from Libya, Morocco, Qatar and Saudi Arabia also landed in Abu Dhabi during the visit, and that Netanyahu met officials from those countries in a session focused on Iran. Netanyahu presented intelligence on new construction at 'Pickaxe Mountain,' a site roughly 140 miles south of Tehran flagged as a possible location for restoring Iran's nuclear program, and told bin Zayed Iran could 'initiate an attack in the region in the coming weeks.'",
     "source": "https://www.usnews.com/news/world/articles/2026-09-27/israels-netanyahu-visited-abu-dhabi-on-sunday-israeli-official-says",
     "actor": "Israel|UAE"
   },
