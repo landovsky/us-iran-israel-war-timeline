@@ -1,6 +1,94 @@
 [
   {
     "date": "2026-09-30",
+    "title": "Iran receives formal US response to seven-day Hormuz plan",
+    "direction": "Neutral",
+    "description": "Foreign Minister Abbas Araghchi presented Washington's formal response to President Masoud Pezeshkian at a cabinet meeting, government spokesperson Fatemeh Mohajerani told IRNA. Qatari mediators relayed it. Officials did not disclose its contents or say whether it was a rejection. Reports put the main dispute on sequencing. Under Iran's plan, the Strait of Hormuz would reopen within a week if the US lifts its port blockade, releases frozen assets and waives oil sanctions.",
+    "source": "https://www.bostonglobe.com/2026/09/30/world/iran-us-response-end-war/",
+    "actor": "Iran|Qatar"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Trump on Iran: 'We blow them up or make a deal'",
+    "direction": "Escalating",
+    "description": "Asked about Iran, President Trump told reporters: 'We blow them up or make a deal. But the time is coming. It's going to end very soon, one way or another.' He repeated that Iran's seven-day proposal 'would not be acceptable.' No strike on Iranian territory had been reported for 23 consecutive days, and he announced no new military order.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-negotiations-strait-of-hormuz-oil/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Kataib Hezbollah suspends operations as last US troops leave Iraq",
+    "direction": "De-escalating",
+    "description": "Kataib Hezbollah leader Ahmad al-Hamidawi ordered the group's fighters to suspend military operations after the final US troops left Iraq, 'with the exception of targeting hostile aircraft violating the country's airspace.' He urged all Iraqi militias to do the same until the federal government secures air defense systems. The group called the US departure 'the beginning of full sovereignty.' Kataib Hezbollah has recently used 'hostile aircraft' for carriers of countries enforcing US sanctions on Iranian aviation.",
+    "source": "https://ground.news/article/kataib-hezbollah-suspends-operations-as-us-forces-leave-iraq",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "UK PM Burnham: 'strong indications' Iran involved in RAF Fairford incident",
+    "direction": "Escalating",
+    "description": "Prime Minister Andy Burnham told the BBC that 'there are strong indications that Iran played a part in what happened over the weekend at RAF Fairford.' The base hosts US bombers used against Iran. Burnham said he had held an emergency cabinet meeting and was consulting US intelligence. He promised more details in the coming days. All five suspects had been released on bail two days earlier, and police have not reported finding viable explosives.",
+    "source": "https://www.i24news.tv/en/news/international/europe/artc-very-strong-indiciations-iran-was-invovled-in-raf-fairford-incident-uk-pm-says",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Iran hangs two Mashhad protesters, Ali Hemmati and Majid Nik-Andish",
+    "direction": "Escalating",
+    "description": "Iran executed Ali Hemmati, 21, and Majid Nik-Andish, 25, at dawn over their roles in the January 8-9 uprising in Mashhad's Tabarsi district. The judiciary's Mizan news agency said their actions 'resulted in the deaths of four security forces.' It also accused them of burning shops, a bank and buses. Nik-Andish was convicted of 'moharebeh' and sentenced to death in May, and the Supreme Court upheld both sentences. Rights groups say at least 100 detained protesters face death sentences.",
+    "source": "https://iranfocus.com/human-rights/59009-irans-regime-executes-protesters-ali-hemmati-and-majid-nik-andish/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Flydubai co-pilot stabs captain on Dubai-Tel Aviv flight; plane diverts to Tabuk",
+    "direction": "Neutral",
+    "description": "On flydubai flight FZ1073 from Dubai to Tel Aviv, the Omani co-pilot stabbed Indian captain Smit Machchhar. The plane dropped from 34,000 to 16,000 feet in three minutes. Israeli passengers and off-duty crew restrained the attacker, and the aircraft landed at Tabuk, Saudi Arabia, at 06:45 GMT. Netanyahu said the co-pilot 'apparently attempted to crash the plane.' Israel's Foreign Ministry called it an attack on 'the Abraham Accords,' though Israeli officials saw no sign of Iranian direction. Flydubai suspended all Israel flights.",
+    "source": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "IRGC issues 26-page letter urging US voters to oust Trump administration",
+    "direction": "Escalating",
+    "description": "Five weeks before the US midterms, the Revolutionary Guards published a 26-page open letter to Americans. It claimed a 'decisive victory' and said: 'Remove from power the evil, deceitful and violent politicians.' Spokesman Hossein Mohebbi called Trump an 'inveterate liar.' He said the war ends only if 'Washington admits defeat and U.S. forces leave the region.' The State Department called it 'the IRGC's desperate effort to lie to the American people' and offered $15 million for information on IRGC Aerospace Force finances.",
+    "source": "https://www.thenationalnews.com/news/us/2026/09/30/irgc-letter-to-american-voters-is-desperate-smokescreen-us-says/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Iran's rial breaks 2.5 million per dollar, a record low",
+    "direction": "Escalating",
+    "description": "The rial fell past 2.5 million to the US dollar, a new record. It had hit 2.4 million a day earlier and 2.2 million on September 2. Annual inflation stood at 61.4% and food prices were up 128% year-on-year. The slide followed Trump's rejection of Iran's seven-day ceasefire plan.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Treasury sanctions 10 suppliers of Iran's Defense Ministry",
+    "direction": "Escalating",
+    "description": "The Treasury Department sanctioned 10 individuals and companies in Iran, mainland China, Hong Kong and Pakistan for procuring weapons and military equipment for Iran's Ministry of Defense. The action falls under its Operation Economic Outcast campaign. 'Treasury will not tolerate any support to the regime,' said Secretary Scott Bessent.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Turkey seizes Caspian Airlines Boeing 737 at Istanbul over $3.4M debt",
+    "direction": "Escalating",
+    "description": "Turkish authorities seized a Caspian Airlines Boeing 737 at Istanbul Airport over an alleged $3.4 million unpaid debt after passengers had already boarded. Iran was already facing US sanctions on all of its passenger airlines and flight bans across the region. Government spokesperson Fatemeh Mohajerani called the US aviation sanctions 'American bullying,' and Iran filed a complaint with ICAO.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
+    "actor": "Turkey"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Projectile strikes Kuwaiti supertanker Al Funtas east of Musandam",
+    "direction": "Escalating",
+    "description": "An unknown projectile hit the Kuwait Oil Tanker Company's VLCC Al Funtas (316,648 dwt) on Monday evening while it was transiting the Strait of Hormuz east of Musandam with its transponder off. The strike started a fire. The crew put it out, nobody was hurt, and the ship continued on its way. UKMTO learned of it late, from a third party. It was the first reported strike in nearly a week and came after Trump rejected Iran's overtures. The IMO counts 86 incidents and 24 seafarer deaths in the Gulf area since the war began.",
+    "source": "https://maritime-executive.com/article/kuwaiti-tanker-struck-in-the-strait-of-hormuz",
+    "actor": "Kuwait|Other"
+  },
+  {
+    "date": "2026-09-30",
     "title": "US-led coalition completes final troop withdrawal from Iraq",
     "direction": "Escalating",
     "description": "US forces completed withdrawal from their remaining Iraqi bases, ending the international coalition's mission after more than two decades of American military presence. Iraqi security analyst Jassim al-Bahadli warned 'security vacuums can be extremely dangerous,' with officials fearing the exit will embolden Iran-backed militias and a resurgent Islamic State. Tehran and its allies celebrated the departure even as the US continues waging war against Iran.",
