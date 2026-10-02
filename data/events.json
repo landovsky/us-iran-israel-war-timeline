@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-10-01",
+    "title": "Trump tells TIME renewed Iran bombing after midterms is 'possible'",
+    "direction": "Escalating",
+    "description": "In a TIME interview published October 1, President Trump rejected Iran's latest ceasefire offer, which would open only some parts of the Strait of Hormuz: 'It's just, it's not good enough.' Asked whether he could step up bombing after the November 3 midterms, he answered 'Possible,' and said the US was restocking munitions 'at levels we've never done before.' He said he kept the campaign going 'only because I wanted to go further.' Later that day, at a Peterbilt plant in Denton, Texas, he said Iran was 'ready to fold up.'",
+    "source": "https://www.iranintl.com/en/202610011277",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Treasury sanctions Iran Khodro, SAIPA and state railways",
+    "direction": "Escalating",
+    "description": "Under 'Operation Economic Outcast,' the Treasury Department sanctioned automakers Iran Khodro (IKCO) and SAIPA, which hold more than 90% of Iran's domestic car market. It also designated the Islamic Republic of Iran Railway Company, Raja Passenger Trains Company and a railway freight operator. Treasury said Iran had turned to rail to move oil and trade around the US naval blockade. Secretary Scott Bessent said the action lays groundwork 'to drain the regime's revenue once and for all' and said Iran loaded zero crude onto tankers in September.",
+    "source": "https://www.arabnews.com/middle-east/us-sanctions-target-irans-auto-rail-sectors-after-blockade-chokes-shipping-lanes-3004141",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "UK police arrest sixth suspect, a UK-Iranian dual national, in Fairford probe",
+    "direction": "Neutral",
+    "description": "Counter Terrorism Policing arrested a 25-year-old UK-Iranian dual national in the London borough of Westminster on suspicion of preparing acts of terrorism. He is the sixth person arrested over the suspected plot at US-run RAF Fairford, after five British men in their 20s were detained and then bailed. Police called the investigation 'hugely complex' and said they were examining 'possible foreign state involvement.' Tehran denies any role.",
+    "source": "https://www.itv.com/news/westcountry/2026-10-01/uk-iranian-dual-national-arrested-over-raf-fairford-suspected-terror-plot",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "FBI arrests Energy Department engineer on charge of aiding Houthis",
+    "direction": "Neutral",
+    "description": "The FBI arrested Ashton Hamed Ellaboudy, 51, an electrical engineer at the Department of Energy, in Richland, Washington. He is charged with attempting to provide material support to the Houthis, a designated foreign terrorist organization. Prosecutors say he travelled to Yemen in 2025, worked on Houthi mobile communications, and bought drone parts and explosive precursors including acetone and sodium bisulfate. He faces up to 20 years in prison.",
+    "source": "https://www.foxnews.com/world/doe-employee-charged-trying-aid-iran-backed-houthis-feds-say",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "IRGC says it killed six members of 'terrorist team' in southeast Iran",
+    "direction": "Neutral",
+    "description": "The IRGC Ground Forces' Quds Base said it identified and 'struck' a takfiri team planning an attack, killing six members and seizing explosive packages. Mehr reported that the Thursday-morning operation took place in southeastern Iran. Some outlets placed the safe house at Manjilabad, near Tehran. The group was not named, and the claim was not independently verified.",
+    "source": "https://en.mehrnews.com/news/248230/Six-terrorists-killed-in-IRGC-operation-in-SE-Iran",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Chinese refiners suspend October fuel exports; Brent jumps 4.4% to $102",
+    "direction": "Escalating",
+    "description": "China began a week-long holiday without giving its major refiners permission to export fuel in October, except to Hong Kong and Macau. PetroChina cancelled several gasoline and jet fuel cargoes, and Zhejiang Petrochemical scheduled no product shipments. Beijing has tied exports to stocks returning to pre-war levels. Together with the new US carrier deployment, the move sent Brent up 4.37% to settle at $102.31 a barrel.",
+    "source": "https://www.brecorder.com/news/40442264/chinese-refiners-suspend-october-fuel-exports",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Saudi coalition downs 4 Houthi drones, 2 missiles over Khamis Mushait, Jazan",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said it intercepted four drones and two ballistic missiles that the Houthis launched toward Khamis Mushait and Jazan in southern Saudi Arabia. Loud explosions were later reported in Houthi-held Sanaa. The Houthis' Saba agency blamed 'Saudi aggression.'",
+    "source": "https://www.timesofisrael.com/liveblog-october-01-2026",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Saudi coalition says Houthi drone hit Medina power station serving Prophet's Mosque",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said a Houthi drone struck the Taibah electricity distribution station in Medina at 5:11 a.m. on September 29 (02:11 UTC). The station supplies power to the Prophet's Mosque, and the strike knocked one transformer out of service without disrupting the grid. The coalition announced the attack on October 1 and cited drone wreckage as evidence. A Houthi military source called the accusation false, and Pakistan called the attack a 'grave provocation.'",
+    "source": "https://www.arabnews.pk/saudi-arabia/houthis-target-madinah-power-station-supplying-prophets-mosque-coalition-says-3002902",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Projectiles hit three Liberian-flagged tankers transiting Hormuz dark",
+    "direction": "Escalating",
+    "description": "Shipping intelligence firm Marisks said unknown projectiles struck three Liberian-flagged tankers as they transited the Strait of Hormuz with their AIS transponders switched off. The ships were the products tanker Al Ruwais, the VLCC Mersin Prosperity and the Aframax Sinbad. Two had recently carried out ship-to-ship transfers off Sohar, Oman. No one claimed the attack, and damage and casualties were not disclosed.",
+    "source": "https://www.cnbcafrica.com/2026/three-oil-tankers-hit-by-projectiles-in-hormuz-strait-on-tuesday-marisks-says",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Rubio orders Araghchi's delegation out of US; Iran denies expulsion",
+    "direction": "Escalating",
+    "description": "After Qatari-mediated contacts in New York stalled, Secretary of State Marco Rubio ordered Foreign Minister Abbas Araghchi's delegation to leave the United States. A US official said the Iranians had 'overstayed their welcome.' The delegation flew to Doha early on September 29. Iran's UN mission said it left 'in accordance with the schedule' given to the State Department on September 17 and called the reports 'baseless.' Axios disclosed the order on October 1.",
+    "source": "https://thenationalnews.com/news/gulf/2026/10/01/us-kicks-out-irans-un-delegation-as-peace-talks-stall",
+    "actor": "US"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "USS Theodore Roosevelt, Makin Island with 2,200 Marines deploy toward Iran",
+    "direction": "Escalating",
+    "description": "The USS Theodore Roosevelt carrier strike group left port on September 27. On September 28 the USS Makin Island amphibious ready group sailed from San Diego with about 2,200 Marines of the 13th Marine Expeditionary Unit. The Roosevelt needs two to three weeks to reach the Arabian Sea, where the USS George H.W. Bush and USS George Washington and about 18 surface warships are enforcing the blockade of Iran. Its arrival would put three US carriers in the region.",
+    "source": "https://www.al-monitor.com/originals/2026/10/pentagon-deploys-thousands-more-marines-another-aircraft-carrier-mideast",
+    "actor": "US"
+  },
+  {
     "date": "2026-09-30",
     "title": "Iran receives formal US response to seven-day Hormuz plan",
     "direction": "Neutral",
