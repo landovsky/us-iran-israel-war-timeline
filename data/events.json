@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-10-03",
+    "title": "Iran executes Siavash Jamshidi over January protest shooting",
+    "direction": "Escalating",
+    "description": "Iran hanged Siavash Jamshidi, who was convicted of firing a military-grade weapon at police during the January 2026 anti-government protests. The judiciary said he was sentenced to death for 'moharebeh through brandishing and firing a firearm, as well as conspiracy and collusion against national security.' He was also convicted of fraud, theft and illegal weapons possession. The hanging came three days after Iran executed two Mashhad protesters.",
+    "source": "https://www.timesofisrael.com/liveblog-october-03-2026",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Vance chairs secret Camp David meeting on Iran war, Yemen",
+    "direction": "Escalating",
+    "description": "Vice President JD Vance chaired an unannounced, hours-long Camp David meeting of Trump's top national security aides on Friday, Axios reported. Rubio, Hegseth, Witkoff, CIA Director John Ratcliffe and Gen. Dan Caine attended. They discussed resuming major combat operations against Iran and Saudi requests for US airstrikes on the Houthis. One official said 'things were decided or at least deeply discussed.' The last comparable meeting was in June 2025, days before Israel went to war with Iran.",
+    "source": "https://www.axios.com/2026/10/03/trumps-cabinet-camp-david-iran-war-yemen-houthis",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Saudi Arabia plans Yemen offensive to retake Bab el-Mandeb from Houthis",
+    "direction": "Escalating",
+    "description": "Reuters reported that Saudi Arabia is planning an offensive against the Houthis within weeks to reverse their seizure of the Bab el-Mandeb strait last month. Yemeni forces would fight on the ground with Saudi air support. Planners are weighing a narrow attack on Bab el-Mandeb against a broader multi-front offensive, and 'more than 100,000 Yemeni troops could be mobilized.' Riyadh is urging Washington to join with airstrikes.",
+    "source": "https://www.timesofisrael.com/liveblog-october-02-2026",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Saudi coalition downs 3 Houthi missiles; Houthis report 94 Saudi strikes",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said it intercepted three Houthi ballistic missiles aimed at Khamis Mushait. Saudi Civil Defense said shrapnel from an intercepted missile wounded one person in Ahad Rafidah, Asir region. The Houthis said Saudi aircraft carried out 94 strikes on areas they hold in the previous 24 hours, bringing the total since fighting resumed to 1,350.",
+    "source": "https://www.timesofisrael.com/liveblog-october-02-2026",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "UK charges two Iranians over Manchester Yom Kippur bomb plot",
+    "direction": "Escalating",
+    "description": "Counter-terrorism police charged Salam Ahmadyan, 36, of Liverpool, and Rahman Salehi, 34, of Salford, with preparing acts of terrorism against Manchester's Jewish community around Yom Kippur. Police allege they tried to obtain components for an improvised explosive device and scouted targets. Police said the two were 'in contact with an overseas third-party who may be in Iran.' Both were arrested on September 20 and appeared at Westminster Magistrates' Court on October 3.",
+    "source": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Another tanker hit in Hormuz, fifth in days, UKMTO says",
+    "direction": "Escalating",
+    "description": "UKMTO said an outbound tanker in the Strait of Hormuz was struck by an 'unknown projectile.' The strike caused a small fire and a blackout on board. The crew put out the fire, no one was hurt, and the ship continued its transit. UKMTO counted it as the fifth tanker hit in the waterway in recent days. Late on October 2, UKMTO also reported a crude tanker hit by a projectile 4 nautical miles east of Oman, with all crew safe. No one claimed either attack.",
+    "source": "https://www.arabnews.com/middle-east/tanker-struck-in-the-strait-of-hormuz-3004312",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Iraq allows 40 Iranian flights a day to Najaf under US exemption",
+    "direction": "De-escalating",
+    "description": "PM Ali Al Zaidi's office said Iraq will allow Iranian airlines to operate 40 flights a day to and from Najaf airport after securing an exemption from the US sanctions on Iranian aviation. Iraq had suspended Iranian flights on September 25. Mahan Air is excluded. The exemption serves Shia pilgrims and medical travellers.",
+    "source": "https://www.thenationalnews.com/news/mena/2026/10/02/iraq-allows-40-iranian-flights-a-day-to-and-from-najaf/",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Projectile sets Kuwaiti VLCC Kazimah III ablaze in Hormuz",
+    "direction": "Escalating",
+    "description": "An unknown projectile struck the Kuwait Oil Tanker Company's 317,000-dwt VLCC Kazimah III as it transited the Strait of Hormuz, setting it on fire. The ship was bound for Lomé, Togo. UKMTO reported the crew safe, and they were evacuated. India's embassy in Oman said five Indian crew members were brought ashore with help from Omani authorities. It was the second Kuwaiti tanker hit near Hormuz in four days, after the Al Funtas.",
+    "source": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-5-indians-rescued-after-kuwait-flagged-tanker-mt-kazimah-iii-hit-by-projectile-in-strait-of-hormuz-what-happened-297701/",
+    "actor": "Kuwait|Other"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Trump says Iran likely behind Flydubai attack: 'they'll be hit very hard'",
+    "direction": "Escalating",
+    "description": "Asked whether Iran was behind the Omani co-pilot's attack on Flydubai flight FZ1073, Trump said: 'I would say the answer, based on what I'm hearing, is yes but we're working on it right now.' He added that Iran would be 'hit very hard, don't worry.' He gave no evidence. On October 2, Israeli officials said the co-pilot had been 'indoctrinated into al-Qaeda's ideology.' Their current assessment was that the decision to attack was 'his own.'",
+    "source": "https://www.timesofisrael.com/liveblog-october-02-2026",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Iraq moves militia disarmament deadline to June 2027; Kataib Hezbollah refuses",
+    "direction": "Escalating",
+    "description": "Kataib Hezbollah Secretary-General Abu Hussein al-Hamidawi said the group reached no deal with PM Ali Al Zaidi before the September 30 deadline. 'The resistance has won this round,' he said, adding that its weapons 'will remain as a trust in the hands of our mujahideen.' Zaidi pledged to 'fully disarm all non-Iraqi armed groups' and buy complete air defence systems. Foreign Minister Fuad Hussein said Baghdad is negotiating with seven armed groups and expects to complete disarmament by June 30, 2027. Only Asaib Ahl al-Haq, Kataib Imam Ali and Saraya al-Salam say they have placed their weapons under state control.",
+    "source": "https://www.thenationalnews.com/news/mena/2026/10/01/resistance-has-won-this-round-kataib-hezbollah-denies-disarmament-deal-after-us-troops-leave-iraq/",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Tehran international flights fall 42% to 53 a day after US ban",
+    "direction": "Escalating",
+    "description": "FlightRadar24 data showed Imam Khomeini International Airport averaging 53 international flights a day since the US aviation sanctions took effect on September 23, down from 91. Flights to Dubai, Georgia, Oman and Azerbaijan have stopped. Turkey routes fell only 19%, and China service held at 8 flights a day.",
+    "source": "https://www.arabnews.com/middle-east/tehran-international-flights-drop-42-percent-after-us-ban-3004077",
+    "actor": "US"
+  },
+  {
     "date": "2026-10-01",
     "title": "Trump tells TIME renewed Iran bombing after midterms is 'possible'",
     "direction": "Escalating",
