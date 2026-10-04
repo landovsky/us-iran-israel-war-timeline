@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-10-04",
+    "title": "Ghalibaf: Iran will 'fight and negotiate' but keep Hormuz closed until 7 conditions met",
+    "direction": "Neutral",
+    "description": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf declared that Iran will pursue both military action and diplomacy while maintaining closure of the Strait of Hormuz until its seven conditions under the Islamabad Memorandum of Understanding are accepted. 'We must both fight reasonably and strategically, and also negotiate with authority and rationality,' he said. Ghalibaf stated that Iran is 'neither alarmed nor afraid' and the US 'can no longer stall for time' or impose 'unilateral demands.' He said the US had made proposals through mediators despite public denials.",
+    "source": "https://www.yahoo.com/news/politics/articles/iran-live-updates-oil-prices-071414031.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "Saudi coalition launches 26 airstrikes on Sanaa after Houthi strike on Aramco",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition struck Sanaa 26 times on October 4 in retaliation for the Houthis' claimed attack on Saudi Aramco near Riyadh. Powerful explosions rocked the Yemeni capital with warplanes overhead rattling buildings. Al Masirah reported hospital facilities, including maternity and pediatric wards, sustained damage, though immediate casualty figures were unavailable. The Saudi-backed Yemeni government reported 'at least 260 Houthi fighters' killed and '44 military vehicles' destroyed across 97 coalition operations on October 5.",
+    "source": "https://www.freepressjournal.in/world/powerful-explosions-rock-yemens-sanaa-as-houthis-report-renewed-saudi-airstrikes-after-riyadh-attack",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "Hegseth: US blockade of Hormuz is 'ironclad', Iran controls nothing",
+    "direction": "Escalating",
+    "description": "US Defense Secretary Pete Hegseth declared that the American blockade of the Strait of Hormuz is 'ironclad' and Iran does not control the waterway. 'Our blockade has been ironclad and we're running almost at prewar levels every single night,' Hegseth said. He stated Iran has 'literally gotten nothing through' the blockade and Trump 'is hell-bent and determined' to ensure Iran does not acquire nuclear weapons. Hegseth said Trump has 'all the options he needs on the table' if Iran continues to 'play games' with the strait.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/hegseth-says-us-blockade-of-strait-of-hormuz-ironclad/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "Houthis claim ballistic missile and drone strike on Saudi Aramco facility",
+    "direction": "Escalating",
+    "description": "Yemen's Iran-backed Houthis claimed they conducted a military operation with ballistic missiles and drones against an oil facility near Riyadh, causing fires. Military spokesman Yahya Saree said the strikes were 'precise and direct' and 'led to fires breaking out.' Witness reports and photographs showed a large plume of smoke and flames at the Aramco site south of Riyadh. Saudi coalition spokesman dismissed the claims as 'misleading' but visual evidence confirmed significant fire at the facility. The attack was retaliation for Saudi airstrikes on Houthi-controlled areas in Yemen.",
+    "source": "https://www.aljazeera.com/amp/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Trump says Iran has been 'decimated', offers choice between easy or hard way",
+    "direction": "Escalating",
+    "description": "President Trump told reporters that Iran had been 'decimated' by US military operations and faced a choice between 'the easy way or the hard way.' He said Iran is 'virtually giving up any plans of a nuclear weapon.' Trump noted that 18 U.S. service members have been killed during Operation Epic Fury, which began in February 2026. He predicted the war would end 'probably right after the midterms' in November. Trump said Iran faced 301 percent inflation with 'no money' and its military was defeated with navy and air force 'gone.'",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-trump-talks-strait-hormuz-oil-prices-10-03-26",
+    "actor": "US"
+  },
+  {
     "date": "2026-10-03",
     "title": "Iran executes Siavash Jamshidi over January protest shooting",
     "direction": "Escalating",
