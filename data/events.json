@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-10-05",
+    "title": "Gunmen kill at least 3 in attack on military vehicles in Bampur",
+    "direction": "Escalating",
+    "description": "Gunmen fired on two Toyota vehicles used by Iranian military forces in Bampur, Sistan-Baluchestan province. The Baluch rights group Haalvsh reported at least three people killed. State TV called it a 'terrorist attack' on a police patrol and reported one officer killed; Tasnim News Agency reported two deaths. The attack came four days after the IRGC said it killed six members of a 'terrorist team' in southeast Iran.",
+    "source": "https://www.iranintl.com/en/liveblog/202610033293",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "UAE transfers 17 Iranian prisoners to Iran",
+    "direction": "De-escalating",
+    "description": "The United Arab Emirates transferred 17 Iranian prisoners to Iran, Iranian Deputy Justice Minister Askar Jalalian said. Jalalian called the UAE's cooperation 'a sign of good-neighborly relations.'",
+    "source": "https://www.iranintl.com/en/liveblog/202610033293",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "US pulls all 12 B-1 bombers from RAF Fairford over Iran-linked plot fears",
+    "direction": "Neutral",
+    "description": "The Pentagon withdrew all US bombers deployed to RAF Fairford in England, about 12 B-1s, to their home stations. 'All US bombers that were deployed to RAF Fairford have re-deployed to their home stations in the United States,' a Pentagon spokesperson said. At least three B-1s had reached their base in South Dakota by Sunday. US European Command declined to discuss specific threat information. The move follows the September 27 arrests of five men near the base and the October 1 arrest of a 25-year-old UK-Iranian dual national in London; UK PM Burnham has said Iran 'played a part.' Iran denies involvement.",
+    "source": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "Yemen's Alimi orders offensive to retake all Houthi-held territory",
+    "direction": "Escalating",
+    "description": "Rashad al-Alimi, chairman of Yemen's Saudi-backed Presidential Leadership Council, announced in a televised address a military operation to retake all Houthi-held territory. 'We have instructed the armed forces, security forces and all military formations to begin carrying out their assigned tasks under an approved plan until the country is liberated from the Houthis,' he said. The Saudi-led coalition pledged full support. Government spokesman Col. Majed Abdullah al-Nazili claimed 257 targeting operations on October 3 killed at least 700 Houthi fighters; the coalition reported 97 more operations on October 4. The Houthis seized Yemen's Red Sea coast and Bab el-Mandeb in September.",
+    "source": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "Projectile hits tanker Ore Vinst in Hormuz; 3 tankers struck day before",
+    "direction": "Escalating",
+    "description": "UKMTO reported a tanker struck by an unknown projectile in the Strait of Hormuz, damaging its engine room; the crew was safe and no environmental impact was reported. Iran's Fars News identified the vessel as the Ore Vinst and said it was traveling under US escort toward Oman. Three other tankers were struck on October 3, according to AP. UKMTO said 'attacks on the Omani side of the strait continue.' No party has claimed the attacks.",
+    "source": "https://www.iranintl.com/en/202610044767",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "Iran oil minister Paknejad resigns; NIOC chief Bovard named acting minister",
+    "direction": "Neutral",
+    "description": "President Masoud Pezeshkian accepted the resignation of Oil Minister Mohsen Paknejad and appointed National Iranian Oil Company chief executive Hamid Bovard as acting minister. The presidential office said Paknejad had sought to resign earlier for 'personal reasons' and Pezeshkian accepted 'at Paknejad's insistence.' The resignation comes as the US naval blockade has halted Iranian crude cargoes crossing the blockade line since mid-July and new loadings since mid-August, with production down to about 1.8 million barrels per day.",
+    "source": "https://www.iranintl.com/en/202610051913",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "Araghchi: 'There is no military solution', warns of stronger response",
+    "direction": "Neutral",
+    "description": "Iranian Foreign Minister Abbas Araghchi said, according to IRNA, 'There is no military solution, nor any solution based on new sanctions: only a solution based on negotiation.' He warned: 'If our enemies choose the path of military confrontation once again, our response will be stronger than before.' The remarks came the same day Parliament Speaker Ghalibaf said Hormuz stays closed until Iran's seven conditions are met.",
+    "source": "https://uk.lapresse.it/world-en/2026/10/04/iran-araghchi-no-military-solution-or-solution-through-sanctions-only-negotiation/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "Iraq's state tanker company ships 2M barrels through Hormuz on own VLCC",
+    "direction": "De-escalating",
+    "description": "Iraq's state-run Oil Tanker Company moved 2 million barrels of Iraqi crude through the Strait of Hormuz aboard a very large crude carrier, its first such operation in decades, Director General Ali Qais Abdul Jabbar said. The shift from delivering crude at Basra gives state marketer SOMO more flexibility on where it sells. Iraq had previously secured Iranian permission for its tankers to transit the strait. The company said it plans to buy more crude tankers.",
+    "source": "https://www.abc.net.au/news/2026-10-04/houthi-saudi-yemen-iraq-middle-east-hostilities/107226524",
+    "actor": "Iraq"
+  },
+  {
     "date": "2026-10-04",
     "title": "Ghalibaf: Iran will 'fight and negotiate' but keep Hormuz closed until 7 conditions met",
     "direction": "Neutral",
