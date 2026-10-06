@@ -1,6 +1,70 @@
 [
   {
     "date": "2026-10-05",
+    "title": "Trump at Nebraska rally: 'Let them take out Los Angeles'",
+    "direction": "Neutral",
+    "description": "At a midterm campaign event in Grand Island, Nebraska, President Trump said of the costs of the Iran war: 'They can take out a city. Let them take out Los Angeles. Let them take out San Diego.' He added: 'This is a very small price to pay, and it's going to be over with very soon.' California Governor Gavin Newsom responded that 'the President is advocating for an attack on 10+ million U.S. residents in two of America's largest cities.'",
+    "source": "https://abc7.com/story/trump-suggests-iran-take-los-angeles-san-diego-campaign-event-nebraska/19912174/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Turkey, Pakistan to deploy forces to Saudi Arabia under Makkah Alliance",
+    "direction": "Escalating",
+    "description": "Saudi Arabia, Turkey and Pakistan agreed at an emergency meeting of the Makkah Alliance for Defense's Strategic Political and Defense Committee to 'move immediately to the practical implementation of the collective defence commitments' and ensure 'rapid deployment' of military forces to the kingdom. The decision responds to escalating Houthi attacks on Saudi Arabia, including on the holy cities. Saudi Defense Minister Khalid bin Salman announced the activation; no troop numbers were given. It is the first activation of the pact.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/mecca-alliance-agrees-to-activate-collective-deterrence-measures-to-respond-to-attacks-saudi-arabia-says/",
+    "actor": "Saudi Arabia|Turkey|Pakistan"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Houthis claim strikes on Riyadh airport, Rabigh refinery; warn airlines off Saudi airspace",
+    "direction": "Escalating",
+    "description": "Houthi military spokesman Yahya Saree claimed strikes on King Khalid International Airport in Riyadh, the Saudi Aramco refinery in Rabigh, and other Saudi sites. Residents reported loud explosions in northern Riyadh near the airport. The Houthis warned 'all global airlines using Saudi airspace against continuing their flights,' exempting only Mecca and Medina airspace. Earlier, an energy source told AFP the East-West pipeline pumping station east of Riyadh 'was attacked again' and flow stopped; Reuters and Bloomberg reported oil still flowing. Saudi Arabia's foreign ministry condemned the attacks.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Yemeni government forces retake Mocha port; coalition sends 100 jets",
+    "direction": "Escalating",
+    "description": "Saudi-backed Yemeni government forces retook the Red Sea port of Mocha, which the Houthis captured in September, Reuters reported. Coalition spokesman Maj. Gen. Turki al-Malki said 100 fighter jets struck Houthi positions that morning under 'Operation Yemen Dawn', destroying 324 'high-value targets', and pledged 24/7 air cover for ships in Bab el-Mandeb. Yemen's military spokesman claimed over 1,000 strikes and said forces had retaken control of the Bab el-Mandeb Strait; the Houthis disputed this. UN Secretary-General Guterres voiced concern at the 'sharp escalation in fighting.'",
+    "source": "https://www.timesofisrael.com/liveblog_entry/yemen-armed-forces-retake-control-of-red-sea-port-captured-last-month-by-houthis/",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Pezeshkian: negotiations with US are 'meaningless'",
+    "direction": "Escalating",
+    "description": "Iranian President Masoud Pezeshkian said: 'With an enemy that every day resorts to assassination, sanctions, pressure and threats... negotiations are meaningless.' He said the US had attacked Iran three times after talks and that 'they are not seeking dialogue; rather, their goal is to overthrow the Islamic Republic of Iran.' A day earlier, Deputy Foreign Minister Kazem Gharibabadi said Iran was still examining US proposals.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/iran-president-says-talks-with-us-meaningless/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "CENTCOM redirects 130th vessel; 13 ships destroyed in blockade",
+    "direction": "Escalating",
+    "description": "US Central Command said it had redirected its 130th commercial vessel since the naval blockade of Iranian ports resumed on July 14, and had destroyed 13 commercial ships and disabled 3 that refused to comply. CENTCOM said targeted vessels were breaking the blockade or tied to the IRGC's 'multibillion-dollar shadow network.' CENTCOM commander Adm. Brad Cooper said: 'We will swiftly act against any vessels trying to run the blockade.'",
+    "source": "https://vinnews.com/2026/10/05/u-s-forces-redirect-130th-vessel-in-naval-blockade-of-iranian-ports/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "US approves $1B arms sale to UAE, $400M to Kuwait",
+    "direction": "Escalating",
+    "description": "The State Department approved a $1 billion sale to the UAE of 10,000 Advanced Precision Kill Weapon System guidance sections, which convert unguided rockets into precision munitions useful against drones, and a $400 million sale to Kuwait for Patriot missile repair services. Both states have been repeatedly targeted by Iran during the war.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/us-approves-1-billion-arms-sale-to-uae-400-million-sale-to-kuwait/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Trump eases red-dye diesel rules, blames Ukraine for fuel price spike",
+    "direction": "Neutral",
+    "description": "President Trump signed an executive order easing tax restrictions on red-dye diesel, saying 'The typical trucker will save more than $100 every time they fill up.' Trump blamed the price spike on Ukrainian strikes on Russian refineries rather than the Iran war.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-05",
     "title": "Gunmen kill at least 3 in attack on military vehicles in Bampur",
     "direction": "Escalating",
     "description": "Gunmen fired on two Toyota vehicles used by Iranian military forces in Bampur, Sistan-Baluchestan province. The Baluch rights group Haalvsh reported at least three people killed. State TV called it a 'terrorist attack' on a police patrol and reported one officer killed; Tasnim News Agency reported two deaths. The attack came four days after the IRGC said it killed six members of a 'terrorist team' in southeast Iran.",
