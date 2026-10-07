@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-10-07",
+    "title": "Houthi missiles hit near Aden airport runway; Saudis down missile near Riyadh",
+    "direction": "Escalating",
+    "description": "Yemen's Transport Ministry said two Houthi ballistic missiles and several explosive drones targeted Aden International Airport at dawn. One missile landed near the runway minutes before Yemenia flight 603 from Cairo was due to land, and the flight diverted to Jeddah. No casualties were reported. The Houthis said they targeted 'Saudi military supplies' at the Badr camp next to the airport and also claimed strikes on airports in Riyadh and Abha. The Saudi-led coalition said it intercepted a Houthi ballistic missile north of Riyadh, and King Khalid International Airport halted flights for over an hour.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/10/07/houthis-claim-dawn-drone-and-missile-strikes-on-saudi-and-yemeni-airports/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Vance: Iran must 'meaningfully' cut enrichment capacity to end war",
+    "direction": "Neutral",
+    "description": "Vice President JD Vance told Reuters that Iran must make a 'meaningful' reduction in its nuclear enrichment capacity to end the seven-month war. 'If you don't want a nuclear weapon, then why do you need 60 per cent enriched fuel? That's a very basic threshold issue,' he said. Vance said Washington would not accept promises of future reductions: 'We're not going to trade words for actions.' He added that the US remains unsure who ultimately makes decisions in Tehran.",
+    "source": "https://www.al-monitor.com/originals/2026/10/interview-us-vice-president-vance-says-iran-must-cut-enrichment-end-war",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "Projectile hits tanker MT On Peace in Hormuz, wounding 12 crew",
+    "direction": "Escalating",
+    "description": "A projectile struck the Panama-flagged tanker MT On Peace as it transited the Strait of Hormuz, wounding 12 of its 19 crew, 11 of them Indian nationals. The wounded were evacuated to Khasab, Oman, for treatment. India's foreign ministry condemned the attack and said 'continuing incidents of attacks on shipping in the region remain a cause of deep concern.' UKMTO separately reported a tanker hit by an unknown projectile while exiting the strait the same day.",
+    "source": "https://english.aawsat.com/world/5326868-india-says-12-seafarers-injured-hormuz-tanker-attack",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "Houthis hit Jazan and Najran airports; coalition strikes Sanaa launcher",
+    "direction": "Escalating",
+    "description": "Saudi Arabia's General Authority of Civil Aviation said Houthi attacks hit King Abdullah bin Abdulaziz International Airport in Jazan and Najran International Airport, causing three minor injuries. Coalition spokesman Maj. Gen. Turki al-Malki said forces intercepted a ballistic missile aimed at Khamis Mushait, destroyed a ballistic missile launch platform in Sanaa and a missile storage facility in Saada. The US and British embassies in Riyadh warned residents of an ongoing missile and drone threat.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "Yemen fighting kills over 270 in 24 hours",
+    "direction": "Escalating",
+    "description": "More than 270 combatants were killed in 24 hours of fighting in southwest Yemen, centred on the Bab el-Mandeb strait, AFP reported citing both sides. Government sources said 115 troops died in fighting and in Houthi missile and drone attacks; Houthi sources said they lost 160 fighters, mainly in Saudi airstrikes. Houthi spokesman Yahya Saree denied government claims to have retaken Mocha: 'What the enemy is promoting is imaginary heroism.' A senior Yemeni military official said fighting continued in the strategic town of Dhubab.",
+    "source": "https://nukta.com/yemen-fighting-kills-more-than-270-in-24-hours-sources-say",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "UK police arrest seventh suspect in RAF Fairford plot",
+    "direction": "Neutral",
+    "description": "British counter-terrorism police arrested a 22-year-old British man in Westminster, the seventh arrest in the investigation into an alleged Iran-linked plot to kill US troops and destroy aircraft at RAF Fairford. The six people arrested earlier have been released on bail. The US withdrew all 12 of its B-1 bombers from the base on October 4. Iran denied involvement.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "Families of 6 soldiers killed in Kuwait shun Trump White House reception",
+    "direction": "Neutral",
+    "description": "Most Gold Star families of the six US soldiers killed by an Iranian drone at Port Shuaiba, Kuwait, on March 1 declined to attend a White House reception hosted by President Trump; only one family member confirmed attendance. Joey Amor, spouse of Master Sgt. Nicole M. Amor, said they were 'done asking quietly' for answers about the deaths.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "Iran claims arms output up 2.5-3 times since war began",
+    "direction": "Neutral",
+    "description": "Defense Ministry spokesman Brig. Gen. Reza Talaei-Nik claimed Iran's defense production capacity has risen 2.5 to 3 times compared with pre-war levels, citing cooperation with Russia and China. A day earlier President Pezeshkian nominated missile-industry veteran Mehrdad Akhlaghi Ketabchi as defense minister.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "UK diesel hits record 199.52p a litre",
+    "direction": "Neutral",
+    "description": "UK average diesel prices reached a record 199.52 pence per litre in the week ending October 5, passing the previous high of 199.22p set in July 2022 after Russia's invasion of Ukraine. Brent crude fell back below $100 a barrel on October 6, while Shell CEO Wael Sawan said Middle East oil flows were running at about 80% of pre-war levels despite attacks on Hormuz shipping.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Iran executes Alireza Sepahi, Alireza Raeisi over Isfahan protest killings",
+    "direction": "Escalating",
+    "description": "Iran executed Alireza Sepahi and Alireza Raeisi on Monday morning over the deaths of four police officers during January 2026 protests in Isfahan, the judiciary's Mizan news agency reported. They were convicted of 'membership in an armed rebel group', 'waging war against God' and 'corruption on earth', and the Supreme Court upheld the sentences. Sepahi's execution had been halted on July 28 after he suffered a heart attack shortly before a scheduled public hanging.",
+    "source": "https://today.lorientlejour.com/article/1549721/iran-executes-two-men-arrested-over-january-2026-protests.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Pezeshkian nominates sanctioned missile chief Akhlaghi Ketabchi as defense minister",
+    "direction": "Escalating",
+    "description": "President Masoud Pezeshkian nominated Mehrdad Akhlaghi Ketabchi as defense minister, filling a post vacant since Aziz Nasirzadeh was killed in US-Israeli strikes on February 28. Akhlaghi Ketabchi was listed by the UN Security Council in 2007 as head of the Shahid Bagheri Industrial Group, part of Iran's ballistic missile program, and returned to UN sanctions lists in September 2025. Majid Ebn-e-Reza has served as acting minister since March 2. Parliament must confirm the nomination.",
+    "source": "https://www.iranintl.com/en/202610059428",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "US, 10 Western Hemisphere states condemn Iranian 'terrorist actions'",
+    "direction": "Neutral",
+    "description": "The US, Argentina, Canada, Colombia, Costa Rica, the Dominican Republic, Guyana, Paraguay, Peru, Trinidad and Tobago and another regional government issued a joint statement condemning Iranian 'lethal plotting, illicit fundraising, political interference' and support for terrorist networks in the Western Hemisphere. 'The Islamic Republic of Iran and its proxies must halt these actions now,' it said. The statement followed a counterterrorism forum hosted by the US and Paraguay in September.",
+    "source": "https://www.jpost.com/international/article-910809",
+    "actor": "US|Other"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Kpler: Middle East oil exports top pre-war levels at 18M bpd",
+    "direction": "De-escalating",
+    "description": "Middle East oil exports averaged more than 18 million barrels a day last week, the first time above the pre-conflict average, according to Kpler ship-tracking data. About 40% of flows now avoid the Strait of Hormuz, with most crude moved through offshore transfers. Saudi Aramco CEO Amin Nasser nonetheless warned that global stockpiles are 'scarily thin' and 'the system is already straining.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb/",
+    "actor": "Other"
+  },
+  {
     "date": "2026-10-05",
     "title": "Trump at Nebraska rally: 'Let them take out Los Angeles'",
     "direction": "Neutral",
