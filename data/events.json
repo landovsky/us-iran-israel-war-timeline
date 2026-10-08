@@ -1,6 +1,94 @@
 [
   {
     "date": "2026-10-07",
+    "title": "Houthi strikes on Abha and Riyadh airports kill 3, wound 36",
+    "direction": "Escalating",
+    "description": "Saudi Arabia's General Authority of Civil Aviation said Houthi attacks on two airports killed three foreign nationals and wounded 36. At Abha International Airport, hit on October 6, a Moroccan and an Algerian woman were killed and 28 people wounded; at Riyadh's King Khalid International Airport on October 7, a Sudanese resident was killed and eight wounded, five of them Saudi citizens. Coalition spokesman Maj. Gen. Turki al-Maliki said forces destroyed a launch platform in Sanaa used against Riyadh. The US Embassy issued a new security alert citing Houthi threats to airports.",
+    "source": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Tanker hit by multiple projectiles 51nm north of Qatar; casualties reported",
+    "direction": "Escalating",
+    "description": "UKMTO said a tanker was 'struck by multiple projectiles' around 1900 UTC about 51 nautical miles north of Madinat ash Shamal, inside Qatar's exclusive economic zone and roughly 500 km from the Strait of Hormuz. 'Casualties have been reported. Authorities are investigating,' UKMTO said, without naming the vessel or the attacker. EOS Risk Group called it the first Gulf attack away from Hormuz since September 9; UKMTO had logged nine attacks in the strait in October before this one.",
+    "source": "https://aa.com.tr/en/middle-east/tanker-struck-by-multiple-projectiles-north-of-qatar-casualties-reported-uk-maritime-agency/4081500",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Pakistan's ISPR confirms troops already deployed in Saudi Arabia",
+    "direction": "Escalating",
+    "description": "Pakistan's military spokesman Lt. Gen. Ahmed Sharif Chaudhry told CNN: 'I can confirm that the forces of Pakistan are already there,' two days after the Makkah Alliance agreed to deploy Turkish and Pakistani forces to the kingdom. Defence Minister Khawaja Asif said Pakistani and Turkish forces were playing 'a supportive role' with a 'presence in theatre', with Pakistan handling reconnaissance while only Saudi troops are in combat.",
+    "source": "https://independent-pakistan.com/news/pakistan-confirms-its-troops-are-already-in-saudi-arabia-under-new-defence-pact/",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Rubio in Athens: Iran has 'lost complete control' of Hormuz",
+    "direction": "Neutral",
+    "description": "Secretary of State Marco Rubio, speaking in Athens, said Iran had 'lost complete control' of the Strait of Hormuz and that 'the Straits of Hormuz are open.' He said Iran's economy was 'in total and complete freefall' and that Tehran had squandered repeated chances for a deal: 'Iran cannot have a nuclear weapon, simple, period, end of story.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Iran army threatens 'preemptive' strikes; Naqdi vows to close 'illegal' Hormuz routes",
+    "direction": "Escalating",
+    "description": "Iranian army spokesman Brig. Gen. Mohammad Akrami-Nia said Iran would carry out 'preemptive' strikes on US positions if necessary, saying its doctrine had shifted to the offensive to 'take the initiative away from them.' IRGC adviser Brig. Gen. Mohammad Reza Naqdi said Iran would soon block 'illegal routes' through Hormuz, conceding some oil was moving through lanes cleared of explosives but calling the volume 'minimal.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Iranian official: US nuclear ideas 'at odds' with Tehran; blockade must go first",
+    "direction": "Neutral",
+    "description": "Responding to Vice President Vance's enrichment demand, a senior Iranian official told Reuters that US 'requests and ideas' on the nuclear file were 'at odds with Iran's demands.' The official called enrichment a red line but said details 'can be discussed later,' and insisted the US lift its naval blockade of Iranian ports before any such talks.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Hegseth gives Lincoln strike group Presidential Unit Citation; 450 Tomahawks fired",
+    "direction": "Neutral",
+    "description": "Defense Secretary Pete Hegseth presented the USS Abraham Lincoln Carrier Strike Group with the Presidential Unit Citation as it returned to San Diego after a deployment of more than 300 days. Pentagon figures credited the group with 3,693 sorties, 1.37 million pounds of ordnance, 450 Tomahawk missiles, 77 one-way attack drones downed and a role in sinking 64 Iranian vessels. Acting Navy Secretary Hung Cao disclosed eight suicide attempts across the strike group during the deployment.",
+    "source": "https://www.washingtonexaminer.com/policy/defense/4757633/hegseth-awards-uss-lincoln-presidential-citation-leading-iran-war/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "IOM: Yemen displacement tops 200,000",
+    "direction": "Escalating",
+    "description": "The International Organization for Migration said fighting in Yemen has displaced more than 200,000 people, up from 112,000 in mid-September, as the Saudi-backed government offensive and Houthi counterattacks spread along the Red Sea coast and in Taiz. 'People are running for their lives and finding nowhere safe to go,' IOM Director General Amy Pope said.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "IEA ready to release more oil; 325M of 400M barrels already out",
+    "direction": "Neutral",
+    "description": "IEA Executive Director Fatih Birol said member states were 'ready to release more of these stocks to the market if and when required.' Members have released 325 million of the 400 million barrels pledged in March, and the G7 agreed on October 2 to release a further 100 million. Saudi Aramco CEO Amin Nasser called global stockpiles 'scarily thin.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Putin to meet Pezeshkian in Turkmenistan on October 9",
+    "direction": "Neutral",
+    "description": "Russian President Vladimir Putin will meet Iranian President Masoud Pezeshkian on Friday in Turkmenistan, Iran's IRNA news agency reported. Iran's Defense Ministry said ties with Russia and China had strengthened over the seven-month war.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "actor": "Russia|Iran"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "France and Iran summon each other's ambassadors over protest 'disinformation'",
+    "direction": "Escalating",
+    "description": "France summoned Iran's ambassador over what Paris called a 'disinformation campaign' about high-school protests in France, a day after Tehran summoned the French ambassador. Iran Human Rights counts 4,219 people killed in Iran's January 8-9 protest crackdown.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "actor": "France|Iran"
+  },
+  {
+    "date": "2026-10-07",
     "title": "Houthi missiles hit near Aden airport runway; Saudis down missile near Riyadh",
     "direction": "Escalating",
     "description": "Yemen's Transport Ministry said two Houthi ballistic missiles and several explosive drones targeted Aden International Airport at dawn. One missile landed near the runway minutes before Yemenia flight 603 from Cairo was due to land, and the flight diverted to Jeddah. No casualties were reported. The Houthis said they targeted 'Saudi military supplies' at the Badr camp next to the airport and also claimed strikes on airports in Riyadh and Abha. The Saudi-led coalition said it intercepted a Houthi ballistic missile north of Riyadh, and King Khalid International Airport halted flights for over an hour.",
