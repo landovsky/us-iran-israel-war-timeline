@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-10-08",
+    "title": "Trump: US 'will not be attacking Iran' before November 3 midterms",
+    "direction": "De-escalating",
+    "description": "Trump wrote on Truth Social that 'we will not be attacking Iran at any time prior to the Midterm Elections to be held in the United States on November 3rd,' citing 'productive conversations' with Tehran and saying the naval blockade stays in full force. Brent, up about 4% to near $105 before the post, fell to $103. Trump also posted 'IRAN WILL NOT HAVE A NUCLEAR WEAPON!'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Putin tells Pezeshkian Russia will 'do everything' to help end war",
+    "direction": "De-escalating",
+    "description": "Putin met Pezeshkian in Turkmenbashi, Turkmenistan, on the sidelines of the CIS summit. 'On our part, we are ready to do everything we can to help you resolve this situation,' Putin said, per Interfax, adding that 'Iran is making real efforts to end the conflict.' Russian Foreign Ministry spokeswoman Maria Zakharova separately warned of 'grave consequences' from renewed US-Israeli military action.",
+    "source": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran",
+    "actor": "Russia|Iran"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Iran's Fars: several tankers hit naval mines in southern Hormuz passage",
+    "direction": "Escalating",
+    "description": "Fars, citing military sources, reported 'several powerful explosions' in the southern passage of the Strait of Hormuz and said non-compliant tankers had struck naval mines laid there. Iran gave no vessel names or casualty figures, and no independent body confirmed the strikes. An IRGC Navy political deputy said Iranian forces run operations every night against ships Tehran considers in violation of its rules. The southern lane near Oman is the route ships use to avoid Iran's northern corridor.",
+    "source": "https://tass.com/emergencies/2199601",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Houthis target Riyadh airport for third day; debris hits nursery, clinic",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said it intercepted two Houthi ballistic missiles fired at Riyadh. Saudi civil defence said falling debris damaged a kindergarten and a medical complex, and an empty Saudia aircraft was damaged by fire. The Houthis told workers at Saudi oil facilities to evacuate. The US Embassy now requires government personnel to get special authorization to use King Khalid International Airport, nearly half of Riyadh departures were cancelled, and Lufthansa suspended Riyadh flights through October 16.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Saudi coalition says it destroyed 82 Houthi sites in four provinces",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said it destroyed 82 Houthi military sites across Saada, Hodeidah, Al-Jawf and Marib after Houthi attacks on the Riyadh and Abha airports, saying the attacks 'will not go unpunished.' Houthi spokesperson Yahya Saree warned airlines 'for the last time' to stop flying in Saudi airspace.",
+    "source": "https://time.com/article/2026/10/08/saudi-arabia-yemen-houthi-rebels-airport-attacks-war/",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Treasury sanctions 17 tankers in Iran's remaining shadow fleet",
+    "direction": "Escalating",
+    "description": "OFAC designated 17 tankers and their owners under Executive Order 13902 as part of Operation Economic Outcast. Treasury said the action 'effectively neutralizes' most of Iran's remaining shadow fleet network. Named vessels include the Cameroon-flagged SHENZHEN, which Treasury says has moved more than 3.5 million barrels of Iranian crude since November 2025. Bessent: 'Treasury is starving the tyrannical regime in Tehran of the money it uses to wage war in the region.'",
+    "source": "https://www.cnbc.com/2026/10/08/iran-treasury-sanctions-shadow-fleet.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Axios: Pentagon tells US military to be ready to resume Iran strikes",
+    "direction": "Escalating",
+    "description": "Citing US officials, Axios reported that the Pentagon told the US military to be ready to resume operations against Iran. Trump had made no final decision and no date was set. Expected targets are nuclear, infrastructure and energy sites, and Israel's military would likely take part. Hours later, Trump ruled out strikes before the November 3 midterms.",
+    "source": "https://www.timesofisrael.com/liveblog-october-08-2026",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Araghchi: Iran reviewing US response to its seven-day plan",
+    "direction": "De-escalating",
+    "description": "Foreign Minister Abbas Araghchi said Tehran is reviewing Washington's response to Iran's 'seven-day plan' for a ceasefire and phased reopening of Hormuz, and will reply 'within a few days.' Talks continue through intermediaries. Araghchi also said US aircraft losses are 'far higher' than the 81 aircraft and drones lost or damaged in a Congressional Research Service count.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Iran nuclear chief Eslami: Iran will not abandon enrichment",
+    "direction": "Escalating",
+    "description": "Atomic Energy Organization head Mohammad Eslami said Iran 'will not abandon' uranium enrichment 'in any way' and called US nuclear demands 'nothing new.' He spoke two days after Vance said Iran must 'meaningfully' cut its enrichment capacity to end the war.",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-trump-talks-strait-hormuz-oil-10-08-26",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "IDF officer killed, 3 wounded as Humvee overturns near Litani",
+    "direction": "Neutral",
+    "description": "Capt. Eliav Haim Tzapalamus, 21, of Haifa, was killed and three soldiers were wounded when a Humvee overturned during operations near the Litani River in southern Lebanon. The IDF opened an investigation. By Times of Israel's count, he is the 41st IDF soldier killed in southern Lebanon in the current fighting.",
+    "source": "https://www.timesofisrael.com/idf-soldier-killed-3-others-wounded-after-humvee-overturned-in-southern-lebanon/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Iraqi Airways flight is first foreign airliner to land in Iran since war",
+    "direction": "De-escalating",
+    "description": "An Iraqi Airways flight from Najaf landed at Tehran's Imam Khomeini Airport at 03:20 GMT, the first commercial flight by a foreign airline into Iran since February 28. The US granted Iraqi Airways a sanctions waiver, reportedly for pilgrim traffic. Iraq said a separate agreement lets Iranian airlines other than Mahan Air fly daily to Najaf.",
+    "source": "https://www.timesofisrael.com/liveblog-october-08-2026",
+    "actor": "Iraq|Iran"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "USS Abraham Lincoln returns to San Diego after 321 days",
+    "direction": "Neutral",
+    "description": "The carrier USS Abraham Lincoln returned to San Diego with more than 4,500 sailors after a 321-day deployment that covered over 90,000 miles. Hegseth credited the strike group with 10,000 sorties in the Iran war.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Atlantic: White House asks Pentagon for pre-midterm Iran strike options",
+    "direction": "Escalating",
+    "description": "Citing two administration officials, The Atlantic reported that the White House asked the Pentagon for options to strike Iran before the November 3 midterms. CENTCOM is drafting them, and size and targets are undecided. The Pentagon also gave Trump post-election options, ranging from limited strikes to large-scale attacks that could hit Iran's energy industry. A White House official said Trump 'has all options available at any time.'",
+    "source": "https://www.iranintl.com/en/202610072501",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Iran and Oman agree coordinates of Hormuz safe-transit routes",
+    "direction": "De-escalating",
+    "description": "Foreign Ministry spokesman Esmaeil Baghaei said Iran and Oman agreed on the geographic coordinates of designated safe routes for ships entering and leaving the Strait of Hormuz, and on how to communicate them to the relevant international maritime body. Baghaei had announced agreed coordinates in August. Iran still imposes navigation conditions, and the deal does not reopen the strait.",
+    "source": "https://www.iranintl.com/en/202610072067",
+    "actor": "Iran|Other"
+  },
+  {
     "date": "2026-10-07",
     "title": "Houthi strikes on Abha and Riyadh airports kill 3, wound 36",
     "direction": "Escalating",
