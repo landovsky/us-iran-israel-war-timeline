@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-10-10",
+    "title": "Trump: Iran must 'give us everything' or 'not exist any longer'",
+    "direction": "Escalating",
+    "description": "At a rally in Syracuse, New York, Trump said the Iran war would end quickly 'one way or the other' and that Iran must 'give us everything' or 'not exist any longer.' In a Truth Social post attacking the Nobel Peace Prize award to former UN rights chief Navi Pillay, he said he had stopped Iran from destroying Israel, the Middle East and Europe and from obtaining a nuclear weapon. Two days earlier he had ruled out strikes before the November 3 midterms.",
+    "source": "https://www.iranintl.com/en/liveblog/202610033293",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Sri Lanka refuses aid to 19 stranded Iranian tankers off its coast",
+    "direction": "Neutral",
+    "description": "Sri Lanka said it has no immediate plan to help 19 Iranian ships anchored about 24 nautical miles offshore despite reported food, water and fuel shortages. Foreign Ministry spokesperson Thushara Rodrigo said suppliers feared US secondary sanctions. Foreign Minister Vijitha Herath said the vessels are Iranian oil tankers stranded for months since the US resumed its naval blockade.",
+    "source": "https://www.iranintl.com/en/liveblog/202610033293",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "IRGC Navy hits LPG carrier NV Sunshine south of Hormuz",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said it struck the Vietnamese-owned LPG carrier NV Sunshine, operated by Nhat Viet Corporation, as it tried to transit south of the Strait of Hormuz, causing 'an extensive fire in the engine room and propulsion system.' The IRGC said companies 'deceived' by the US would be sanctioned and that it would act against any vessel on an 'unauthorized route' in the region, not only in the strait.",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-trump-us-attack-iran-ahead/?id=137063637",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "UKMTO logs 11 ship attacks in a week; Hormuz traffic 75% below pre-war",
+    "direction": "Escalating",
+    "description": "UKMTO's weekly report recorded 11 attacks on commercial vessels: 10 in the Strait of Hormuz and one in the Persian Gulf, seven causing only minor damage. Of 59 incidents since July 6, 41 occurred on the strait's southern route near Oman. UKMTO said traffic remains about 75% below pre-war levels.",
+    "source": "https://www.iranintl.com/en/liveblog/202610033293",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "Trump announces Putin diesel deal; Treasury waives Russian diesel sanctions",
+    "direction": "Neutral",
+    "description": "Trump said Putin agreed to release 300,000 tons of diesel immediately, 500,000 tons in November and 1 million tons in December, with 3 million more to follow depending on Russian refinery condition. Treasury temporarily waived sanctions to 'allow the supply of Russian diesel to the global market.' US diesel averaged $6.28 a gallon, against $3.68 a year earlier. Zelenskyy: 'Gifts to Putin will not bring peace or any benefit to the civilized world.'",
+    "source": "https://www.cbsnews.com/news/trump-russia-release-diesel-oil-iran-skyrocketing-costs/",
+    "actor": "US|Russia"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "Bloomberg: Iran kept missile factories running; Russia supplying missiles",
+    "direction": "Escalating",
+    "description": "Bloomberg reported that Iran has preserved its missile and drone production capacity despite months of US and Israeli bombing. A Western official said Russia, which reportedly helped Iran target US bases in the region, is also supplying Iran with missiles, echoing a June assessment.",
+    "source": "https://www.bloomberg.com/news/newsletters/2026-10-09/iran-said-to-have-preserved-its-missile-factories-evening-briefing-americas",
+    "actor": "Russia|Iran"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "Houthis declare Saudi airspace a missile operations zone",
+    "direction": "Escalating",
+    "description": "The Houthis declared all Saudi airspace except over Mecca and Medina an active operational zone for their missile forces and disclaimed responsibility for harm to aircraft, crews or passengers until the 'aggression and blockade' on Yemen ends. EASA expanded its warning on Saudi overflights and OPSGROUP advised airlines to avoid Saudi airspace. Lufthansa and Air India had already suspended Riyadh flights.",
+    "source": "https://www.israelnationalnews.com/news/434363",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "Saudi coalition says it hit 136 Houthi targets; Bab al-Mandab cleared",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said its widening operation has destroyed 136 military targets in Houthi-held areas and that it is giving government forces round-the-clock air support. Strikes hit Saada's Kitaf and Al-Buq districts, Sanaa and Amran. Saudi Arabia's ambassador to Yemen said Houthi forces had been driven from the Bab al-Mandab area; Reuters could not verify the claim.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-announces-wide-ranging-strikes-targeting-yemens-houthis/",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "Israeli drone strike in Hermel targets 'Iran-directed' Syrian operative",
+    "direction": "Escalating",
+    "description": "An Israeli drone struck a car near Hawsh al-Sayyed Ali in Lebanon's Hermel district, near the Syrian border. The IDF said the target, Yusuf Ali al-Hassoun, was a Syrian operative who 'operated under the direction of the Iranian regime' and planned drone and rocket attacks on Israeli forces in southern Syria. Lebanon's health ministry said six people were wounded: five Syrians, two of them women, and one Lebanese.",
+    "source": "https://www.timesofisrael.com/idf-says-lebanon-strike-targeted-syrian-operative-who-was-plotting-attacks-on-behalf-of-iran/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "HRANA: Iran executed at least 2,003 people in past year",
+    "direction": "Neutral",
+    "description": "Rights group HRANA said Iran executed at least 2,003 people between October 10, 2025 and October 8, 2026, up 29% from 1,553 in the prior period and the highest in 10 reporting periods. About 95% of the executions were not announced by official sources.",
+    "source": "https://www.iranintl.com/en/202610091479",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "NYT: Pentagon drafts 3-day strike plan; Zamir warns of Israeli election delay",
+    "direction": "Escalating",
+    "description": "The New York Times reported that the Pentagon drew up plans for about three days of intense strikes on Iranian missile and drone arsenals, energy sites and IRGC command centers, the sixth major-combat plan put to Trump in recent months after he rejected the previous five. Vance reviewed it at Camp David. Channel 12 reported that US officers told IDF chief Lt. Gen. Eyal Zamir to prepare for a major attack within three weeks, and that Zamir warned it could postpone Israel's October 27 election.",
+    "source": "https://www.timesofisrael.com/us-said-preparing-options-to-renew-iran-war-including-plan-for-3-days-of-intense-strikes/",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Bessent: 'absolute isolation campaign'; US to seize ~$1B in Iran crypto",
+    "direction": "Escalating",
+    "description": "Treasury Secretary Scott Bessent told Newsmax that 'we did have a maximum pressure campaign. Now we have an absolute isolation campaign and it's working.' He said the US would 'probably' seize about $1 billion in Iran-linked digital assets that week and is working with Pakistan and Turkey to cut Iran's overland trade routes. He said Iran had not loaded crude onto a tanker since August 25.",
+    "source": "https://www.iranintl.com/en/202610106673",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Baluch militants kill at least 5 Iranian security personnel in 4 attacks",
+    "direction": "Escalating",
+    "description": "Four armed attacks in Sistan-Baluchestan between October 7 and 8 killed at least five military and police personnel, per rights group Haalvsh. Targets included army vehicles in Nikshahr, a police commando patrol near Zahedan and police headquarters in Jaleq, which was hit with a mine and RPGs. The People's Fighters Front, a Baluch coalition that includes Jaish al-Adl, claimed three of the attacks.",
+    "source": "https://www.iranintl.com/en/202610094229",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "OpenAI exposes Iran-run fake-journalist campaign using ChatGPT",
+    "direction": "Neutral",
+    "description": "OpenAI said an Iran-origin influence operation it dubbed 'Bogus Bylines' used ChatGPT to run seven fake Western journalist personas, which placed nearly 100 articles, mostly on the US-Iran conflict, in about a dozen outlets between July 2025 and October 2026. Output rose sharply after the war began. The operators also generated hostile Persian-language replies to Iran International posts.",
+    "source": "https://www.iranintl.com/en/202610092630",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Pew: 65% of Americans disapprove of Trump's handling of Iran war",
+    "direction": "Neutral",
+    "description": "A Pew Research Center poll found about 65% of Americans disapprove of Trump's handling of the Iran war, and most expect it to last at least another year. A Reuters/Ipsos poll found 30% of Trump supporters enthusiastic about voting in the midterms, against 48% of Democratic voters.",
+    "source": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms",
+    "actor": "US"
+  },
+  {
     "date": "2026-10-08",
     "title": "Trump: US 'will not be attacking Iran' before November 3 midterms",
     "direction": "De-escalating",
@@ -25,10 +145,10 @@
   },
   {
     "date": "2026-10-08",
-    "title": "Houthis target Riyadh airport for third day; debris hits nursery, clinic",
+    "title": "Houthi strikes on Riyadh airport kill 3 Saudis, including Saudia pilot",
     "direction": "Escalating",
-    "description": "The Saudi-led coalition said it intercepted two Houthi ballistic missiles fired at Riyadh. Saudi civil defence said falling debris damaged a kindergarten and a medical complex, and an empty Saudia aircraft was damaged by fire. The Houthis told workers at Saudi oil facilities to evacuate. The US Embassy now requires government personnel to get special authorization to use King Khalid International Airport, nearly half of Riyadh departures were cancelled, and Lufthansa suspended Riyadh flights through October 16.",
-    "source": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "description": "Saudi Arabia's General Authority of Civil Aviation said two Houthi attacks on King Khalid International Airport, one on airport facilities and one on an empty Saudia aircraft, killed three Saudi citizens and wounded several people; Saudia said one of the dead was a pilot. The coalition said it intercepted two ballistic missiles fired at Riyadh and one aimed at Khamis Mushait, and falling debris damaged a kindergarten and a medical complex. Nearly half of Riyadh departures were cancelled, and Lufthansa suspended Riyadh flights through October 16.",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-trump-us-attack-iran-ahead/?id=137063637",
     "actor": "Other"
   },
   {
