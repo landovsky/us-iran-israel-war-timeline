@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-10-11",
+    "title": "UN, Arab League, Canada condemn Riyadh airport strike",
+    "direction": "Neutral",
+    "description": "UN Secretary-General António Guterres strongly condemned the Houthi attack on Riyadh's King Khalid airport, saying 'attacks on civilians and civilian infrastructure are a violation of international law.' The Arab League condemned the attacks and backed Saudi measures to protect its territory. Canadian PM Mark Carney called the strike 'abhorrent,' and Pakistani PM Shehbaz Sharif reaffirmed Pakistan's commitment to Saudi security under the Makkah Joint Defence Agreement.",
+    "source": "https://www.iranintl.com/en/liveblog/202610105959",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Riyadh schools go remote; US restricts staff use of Jeddah, Dammam airports",
+    "direction": "Escalating",
+    "description": "Saudi Arabia's Ministry of Education moved all Riyadh schools to distance learning for the full week after the deadly airport strike, the second such order in under a month. The US embassy extended its special-authorization requirement for staff travel from Riyadh's airport to Jeddah and Dammam airports. The US Mission kept Saudi Arabia at Level 3 'Reconsider travel,' citing missile and drone risks from Iran and the Houthis.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/us-embassy-restricts-staff-access-to-saudi-arabias-jeddah-dammam-airports/",
+    "actor": "Saudi Arabia|US"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "US jet disables blockade runner M/V Ocean Molica in Gulf of Oman",
+    "direction": "Escalating",
+    "description": "CENTCOM said a US fighter jet struck the stern of the Panama-flagged cargo ship M/V Ocean Molica (also 'Arika Sun') with a precision munition after it left an Iranian port and ignored warnings, 'fully disabling the ship's propulsion without harming the crew.' CENTCOM says 133 commercial vessels have been redirected under the US blockade of Iranian ports.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/us-military-says-it-disabled-cargo-vessel-trying-to-bypass-iran-blockade/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "22 Indian crew rescued from tanker MT GEM No. 2 off Ras Al Khaimah",
+    "direction": "Neutral",
+    "description": "India's consulate in Dubai said all 22 Indian crew of the oil tanker MT GEM No. 2 were rescued and safe after an incident off Ras Al Khaimah, UAE, without describing what happened. UKMTO had earlier reported vessels off Ras Al Khaimah being ordered to move by suspicious VHF radio calls from an unidentified source.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/all-22-indian-crew-rescued-and-safe-after-incident-off-uae-coast-consulate-says/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Missile strike on Riyadh airport kills 12, wounds 309",
+    "direction": "Escalating",
+    "description": "A missile hit the domestic Terminals 3 and 4 complex at Riyadh's King Khalid International Airport at about 3 p.m. local time, killing 12 and wounding 309, Saudi Arabia's civil aviation authority said — the kingdom's deadliest attack since the 2015 Qatif mosque bombing. The dead were four Saudis, two Bangladeshis and one each from the US, Egypt, Jordan, Syria, Sudan and Palestine. The Saudi-led coalition blamed the Houthis, called it a war crime and vowed a 'decisive' response; the Houthis did not formally claim it. Hours later a projectile landed near King Fahd International Airport in Dammam.",
+    "source": "https://www.timesofisrael.com/dozens-hurt-as-houthis-hit-riyadh-airport-trump-us-may-join-saudi-strikes/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Trump weighs joining Saudi strikes on Houthis, then says Saudis 'can defend'",
+    "direction": "Escalating",
+    "description": "After the Riyadh airport strike, Trump said of joining Saudi strikes on the Houthis: 'We may. We're going to look at it... We move very quickly,' calling the attack 'not acceptable.' Hours later he said 'They're able to defend. The Saudis are good fighters.' At a Clarksville, Tennessee rally he warned Iran might 'do a little bit extra' before the November 3 midterms and said 'we could end it really quick.' Rubio confirmed an American was among the dead and said the attacks 'must stop now.'",
+    "source": "https://www.iranintl.com/en/202610118579",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "IRGC says crude supertanker hit mine on 'unauthorized' Hormuz route",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said via Sepah News that a 'violating' supertanker carrying crude, with navigation and GPS switched off, exploded and caught fire after hitting a naval mine while exiting the Strait of Hormuz on an unauthorized, high-risk route. It did not name the vessel, flag, crew or casualties, and warned action against violating vessels would 'no longer be limited' to the strait. No independent confirmation was available.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/irans-guards-says-oil-tanker-exploded-after-hitting-mine-in-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Kremlin: Putin relayed Iran's terms for ending war to Trump",
+    "direction": "De-escalating",
+    "description": "Kremlin spokesman Dmitry Peskov said Putin, with Pezeshkian's backing, 'conveyed to Trump the Iranian side's view on a possible resolution of the conflict' during their October 9 phone call. The Kremlin did not disclose the substance. The same call produced the US-Russia diesel deal; Putin met Pezeshkian in Turkmenistan on October 8.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/putin-conveyed-to-trump-tehrans-position-on-ending-us-iran-war-kremlin-says/",
+    "actor": "Russia"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Bab el-Mandeb fighting kills 63 in 24 hours",
+    "direction": "Escalating",
+    "description": "Clashes around the Bab el-Mandeb Strait killed at least 63 people in 24 hours — 35 Yemeni government troops and 28 Houthis — military sources on both sides told AFP. Government forces advancing from Lahj had not secured the waterway; Mayun Island remained in Houthi hands. Houthi spokesman Yahya Saree said his forces drove back 'Saudi-aligned troop concentrations.'",
+    "source": "https://www.timesofisrael.com/yemeni-forces-said-advancing-near-bab-el-mandeb-strait-63-said-killed-in-houthi-clashes/",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Pentagon raises US military death toll in war to 21",
+    "direction": "Neutral",
+    "description": "The Pentagon raised the US military death toll in the Middle East war to 21 — 11 hostile and 10 non-hostile — up from 19. The two added deaths occurred in March and September.",
+    "source": "https://foxnews.com/live-news/us-iran-war-saudi-arabia-trump-putin-oil-energy-prices-10-10-26",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Kpler: Iran's crude export revenue could hit zero by mid-December",
+    "direction": "Neutral",
+    "description": "Kpler's Homayoun Falakshahi said Iran's crude and condensate revenue could fall to zero by mid-December if the US blockade holds, costing $3-6 billion a month. Iran loaded no crude in September, the first full month without loadings since 1979; about 8 million barrels remain at sea outside the blockade zone, down from nearly 90 million in mid-July, and should discharge by about October 18.",
+    "source": "https://www.iranintl.com/en/202610105397",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "ISIS: Iran restoring activity at Israeli-struck Minzadayi nuclear site",
+    "direction": "Escalating",
+    "description": "The Institute for Science and International Security said September-October satellite imagery shows vehicles returning, rubble removal, repairs, continued excavation over apparent underground structures, a repaired water tank and a new small building at the Minzadayi compound northeast of Tehran. Israel struck the site on March 3, saying scientists there worked on a nuclear-weapon component. The imagery does not show what work has resumed inside.",
+    "source": "https://www.iranintl.com/en/202610109658",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-10-10",
     "title": "Trump: Iran must 'give us everything' or 'not exist any longer'",
     "direction": "Escalating",
