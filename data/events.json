@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-10-12",
+    "title": "WSJ: Saudi Arabia running low on interceptors; Riyadh toll rises to 13",
+    "direction": "Escalating",
+    "description": "The Wall Street Journal, citing Saudi officials, reported that Saudi Arabia is short of interceptor missiles to counter continued Houthi missile and drone strikes and is moving air-defense batteries to protect energy infrastructure and palaces. Riyadh has asked Pakistan for help and is seeking more air defenses abroad, while Washington has so far sent only military advisers. The death toll from the Oct. 10 Riyadh airport strike rose to 13 after the Indian embassy said an injured Indian national had died.",
+    "source": "https://www.newsdrum.in/international/riyadh-airport-houthi-strike-toll-rises-to-13-amid-reports-of-interceptor-shortage-12667813",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Second strike on Riyadh airport Terminal 4 kills 1, wounds 11",
+    "direction": "Escalating",
+    "description": "A projectile hit Terminal 4 at Riyadh's King Khalid International Airport on Sunday afternoon, the same passenger terminal hit the day before, and started a fire, the Saudi-led coalition said. Saudi Arabia's civil aviation authority said a Pakistani resident was killed and 11 people were injured. The Houthis said they had carried out at least four operations against the airport since Saturday, and the airport has been targeted daily since Oct. 7.",
+    "source": "https://www.pbs.org/newshour/world/iran-calls-latest-u-s-proposal-to-end-war-insufficient-as-netanyahus-corruption-trial-resumes",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Houthis claim strike on Dammam's King Fahd airport; Saudis confirm attack",
+    "direction": "Escalating",
+    "description": "Houthi military spokesman Yahya Saree said the group hit King Fahd International Airport in Dammam and disrupted air traffic. He also claimed attacks on Riyadh's airport and Aramco facilities in the Eastern Province. Saudi Arabia's General Authority of Civil Aviation confirmed an attack on the Dammam airport on Sunday evening without giving details on damage or casualties. Flightradar24 logged no departures from the airport over the next two hours.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-authority-confirms-houthi-attack-dammam-airport",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Houthis declare Saudi airports a 'theatre of operations,' exempt Mecca, Medina",
+    "direction": "Escalating",
+    "description": "Houthi spokesman Yahya Saree warned airlines and travelers against using Saudi airports and airspace, saying they 'are exposed to targeting and constitute a theatre of operations for our forces.' Airports serving Mecca and Medina were excluded. Saree urged 'everyone to take our warnings seriously.'",
+    "source": "https://www.timesofisrael.com/liveblog_entry/houthis-warn-travelers-against-using-saudi-airports-after-deadly-riyadh-attack/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "FAA orders US airlines to use 'extreme caution' in Saudi airspace",
+    "direction": "Escalating",
+    "description": "The FAA issued a notice to airmen, in effect until Dec. 10, telling US carriers to exercise 'extreme caution' in Saudi airspace after the Houthi airport strikes. Flightradar24 data showed 156 flights (20%) cancelled and 374 (49%) delayed at Jeddah's King Abdulaziz International Airport.",
+    "source": "https://foxnews.com/live-news/iran-war-news-saudi-arabia-houthis-trump-october-11",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Rezaei: US reply to Iran's 7 conditions 'insufficient'; threatens Gulf data centers",
+    "direction": "Escalating",
+    "description": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the latest US response to Tehran's seven conditions for reopening the Strait of Hormuz was 'insufficient.' He said Washington had accepted some conditions but must clarify others, and that Iran was no longer responding to the US. He threatened 'cables, data centers, AI facilities and other sites in the region' if intense fighting resumes. The IRGC Navy separately warned that any ship in Hormuz with navigation and identification systems switched off would be 'identified as hostile.'",
+    "source": "https://www.pbs.org/newshour/world/iran-calls-latest-u-s-proposal-to-end-war-insufficient-as-netanyahus-corruption-trial-resumes",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Drone hits tanker MT Petro Dolphin off Oman; 2 Indian crew missing",
+    "direction": "Escalating",
+    "description": "A drone struck the Nicaragua-flagged tanker MT Petro Dolphin at the Sohar anchorage in northern Oman, India's shipping minister Sarbananda Sonowal said. Nine of the 11 Indian seafarers aboard were rescued, and two remain missing while the local coast guard searches for them. India's foreign ministry condemned attacks on commercial vessels in the Hormuz region.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/two-indian-sailors-missing-after-vessel-attacked-off-oman/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "UKMTO: projectile damages outbound tanker in Strait of Hormuz",
+    "direction": "Escalating",
+    "description": "UKMTO said an unidentified projectile hit an outbound tanker in the Strait of Hormuz on its port side, damaging the vessel. All crew were safe and no environmental impact was reported. On the same day, Iranian army chief of staff Habibollah Sayyari said on state TV: 'We have struck blows against enemy vessels. If anything else happens against Iran, we will strike them again.'",
+    "source": "https://www.timesofisrael.com/liveblog_entry/tanker-damaged-after-being-hit-in-strait-of-hormuz-marine-agency-says/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Saudi Arabia, Turkey, Pakistan, Egypt jointly condemn Houthi attacks",
+    "direction": "Neutral",
+    "description": "Saudi Arabia, Turkey, Pakistan and Egypt said in a joint statement that the Houthi attacks on Saudi Arabia, including the Riyadh airport strikes, were a 'blatant violation of international law.' They held the Houthis 'fully accountable,' demanded an 'immediate and unconditional halt,' and backed all legitimate Saudi measures to deter further attacks. Pakistan and Turkey signed a defense pact with Riyadh in August, but Turkey's foreign minister has ruled out sending troops.",
+    "source": "https://aa.com.tr/en/middle-east/turkiye-egypt-pakistan-saudi-arabia-condemn-hostile-houthi-attacks-on-saudi-arabia/4085441",
+    "actor": "Saudi Arabia|Turkey|Pakistan"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Yemeni government claims 900 Houthis killed; Houthis report Sanaa airport hit",
+    "direction": "Escalating",
+    "description": "Yemeni government military spokesman Col. Majed al-Nazili said 'Operation Dawn of Yemen' forces had carried out 1,732 operations, killed 900 Houthi fighters and disabled 287 vehicles. The figures have not been independently verified. The Houthis said Sanaa airport had been struck again and blamed Saudi Arabia, and claimed the kingdom launched more than 120 airstrikes in 24 hours.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/houthis-report-another-strike-on-sanaas-airport-accusing-saudi-arabia/",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Netanyahu convenes security chiefs over Iran escalation fears",
+    "direction": "Neutral",
+    "description": "Netanyahu held a security meeting at the Kirya in Tel Aviv on Iran, Gaza and Lebanon, attended by Defense Minister Israel Katz and senior security officials. The meeting followed the Houthi attacks on Saudi Arabia and came amid growing concern about renewed escalation in the US-Iran war. Earlier, Netanyahu condemned the 'horrific terrorist attack' on Riyadh's airport.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/netanyahu-convenes-security-officials-amid-possible-iran-escalation/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Israeli shelling kills retired Lebanese officer in Yater during olive harvest",
+    "direction": "Escalating",
+    "description": "Lebanon's army said retired officer Ali Abdul Hassan Sweidan was 'directly targeted by a hostile Israeli tank' while checking his property in the southern town of Yater. An engineer was killed separately by a war remnant in Froun. The IDF said it was not aware of the incident. Israel still occupies a strip of southern Lebanon about 10 km wide.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/two-killed-during-olive-harvest-in-south-lebanon-official-media/",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-10-11",
     "title": "UN, Arab League, Canada condemn Riyadh airport strike",
     "direction": "Neutral",
