@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-10-13",
+    "title": "Iran indicts 97 US and Israeli officials, claims $15B nuclear damage",
+    "direction": "Escalating",
+    "description": "Iranian judiciary spokesman Ali Kazemi said prosecutors indicted 97 US and Israeli officials over attacks in Iran's two recent wars and damage to the Atomic Energy Organization of Iran, and sent the cases to court. Charges include \"corruption on earth,\" undermining national security and seizing or destroying national resources. Prosecutors allege arson and destruction at the Atomic Energy Organization caused $15 billion in damage.",
+    "source": "https://www.iranintl.com/en/liveblog/202610105959",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Gharibabadi: Iran finalizing reply to US comments on its proposal",
+    "direction": "Neutral",
+    "description": "Deputy Foreign Minister Kazem Gharibabadi said Tehran is finalizing its reply to US comments on the proposal Iran submitted in New York, adding that Iran welcomes diplomacy but is prepared for war. A day earlier, Foreign Ministry spokesman Esmaeil Baghaei said Iran was still reviewing the US response and that \"the exchange of messages\" through mediators \"is continuing.\"",
+    "source": "https://www.iranintl.com/en/liveblog/202610105959",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Trump: Russia, China help to Iran 'at a very low level' if any",
+    "direction": "Neutral",
+    "description": "In a Truth Social post Monday evening, Trump dismissed claims that Moscow and Beijing are aiding Iran's war effort: \"it's at a very low level, but I don't believe they are at all. They have too much to lose, and we would know about it, and know about it very fast.\" The post came days after Bloomberg reported Russia was supplying Iran with missiles and after Trump announced a Russian diesel deal.",
+    "source": "https://ca.investing.com/news/economy-news/trump-says-russia-china-not-helping-iran-4877061",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Trump speaks to MBS; Houthis threaten 'swift and painful' response to US",
+    "direction": "Escalating",
+    "description": "Trump said he had spoken with Saudi Crown Prince Mohammed bin Salman after the Riyadh airport strikes, without detailing the call, and said \"the Houthis are misbehaving very badly. No good.\" Asked whether the US would join Saudi strikes, he said, \"We may. We're going to look at it.\" Houthi political bureau member Mohammed al-Bukhaiti told AFP that US involvement would bring a \"swift and painful response targeting the U.S. and all its interests in the region,\" and called Saudi oil facilities and airports \"legitimate targets.\"",
+    "source": "https://www.arabnews.com/saudi-arabia/trump-says-houthis-are-misbehaving-very-badly-following-attacks-on-saudi-arabia-3006033",
+    "actor": "US|Other"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Houthis fire 3 ballistic missiles at Riyadh, Khamis Mushait; all intercepted",
+    "direction": "Escalating",
+    "description": "Saudi-led coalition spokesman Turki al-Maliki said forces intercepted and destroyed one Houthi ballistic missile aimed at Riyadh and two aimed at Khamis Mushait, the third straight day of attacks on the capital. Residents heard several powerful explosions Monday night after a hostile aerial threat alert. Houthi spokesman Yahya Saree claimed a ballistic missile hit King Khalid International Airport and a drone struck a Khamis Mushait airbase, and warned travellers that all Saudi airports except Mecca and Medina are \"unsafe.\"",
+    "source": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Saudi Arabia probes air-defense failure, keeps Riyadh airport shut to Oct 17",
+    "direction": "Escalating",
+    "description": "Saudi authorities opened an investigation into why air defenses failed to stop the Riyadh airport strikes; an initial inquiry found the Houthis sent drones first to clear a path for cruise and ballistic missiles that flew more than 1,000 km, and that manoeuvring warheads challenge Patriot interceptors. A NOTAM extended King Khalid airport's closure to Oct. 17, affecting nearly 700 flights a day. Energy Minister Prince Abdulaziz bin Salman said: \"The events of recent weeks are serious, our response must be equally serious.\" Etihad, Gulf Air and Delta cancelled or postponed Riyadh service.",
+    "source": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Iran 'deeply concerned' by Houthi-Saudi escalation; Araghchi calls Saudi FM",
+    "direction": "De-escalating",
+    "description": "Foreign Ministry spokesman Esmaeil Baghaei said Tehran is \"deeply concerned about the developments taking place in the Arabian Peninsula\" and offered Iran's \"good offices\" to help start a dialogue between the Houthis and Riyadh. Foreign Minister Abbas Araghchi phoned Saudi Foreign Minister Prince Faisal bin Farhan to discuss the escalation.",
+    "source": "https://gulfnews.com/world/gulf/saudi/riyadh-airport-hit-again-in-fresh-houthi-strike-1-pakistani-killed-11-wounded-1.500706943",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "UK PM Burnham: IRGC 'almost certainly' directed RAF Fairford plot",
+    "direction": "Escalating",
+    "description": "Prime Minister Andy Burnham told Parliament the suspected plot against RAF Fairford was \"highly likely to have been coordinated in Iran, almost certainly directed by\" the IRGC. Foreign Secretary Ed Miliband sanctioned Ruhollah Bazghandi, head of IRGC counterespionage, and Shahram Ali Reza Tamarzadeh Jakki of the Zindashti network, and summoned Iran's ambassador Ali Mousavi, who \"categorically rejected\" the allegations. No one has been charged; seven men arrested in the case are on bail.",
+    "source": "https://aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "29 countries, including US and UK, condemn Iran's 'hybrid activities'",
+    "direction": "Escalating",
+    "description": "Foreign ministers of 29 countries, including the US, UK, most European states, Canada, Australia and New Zealand, issued a joint statement denouncing \"in the strongest terms Iran's use of violent attacks,\" citing lethal plotting, arson, sabotage and cyber-attacks in Europe and North America. NATO Secretary-General Mark Rutte welcomed the statement. Iran's Foreign Ministry called the accusations \"unfounded.\"",
+    "source": "https://www.lbc.co.uk/article/ran-raf-fairford-terror-burnham-5HjdjnH_2/",
+    "actor": "US|UK|Other"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "IRGC Navy claims third 'offending' supertanker hit in Hormuz in 2 days",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said it struck a third \"non-compliant\" supertanker in the Strait of Hormuz in two days on Monday morning, saying the vessel had switched off its navigation system and ignored warnings while trying to leave the strait; it did not name the ship or say how it was hit. The IRGC warned that any cooperation by commercial vessels with the US military in the strait and the Gulf would face a \"decisive response.\" UKMTO separately reported a products tanker struck by an unknown projectile while transiting outbound.",
+    "source": "https://www.middleeastmonitor.com/20261012-irans-irgc-says-3rd-offending-supertanker-hit-in-strait-of-hormuz-in-2-days/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Hezbollah cluster bomblet kills 14-year-old, wounds 24 on Israeli school trip",
+    "direction": "Neutral",
+    "description": "An unexploded munition the IDF identified as a Hezbollah cluster bomblet detonated near the Lebanon border between Kibbutz Manara and Kibbutz Yiftah, killing a 14-year-old boy and wounding 24 students and staff of ORT Ma'alot Yeshiva High School on an annual field trip. A preliminary investigation found a student had put the munition in his bag. Netanyahu visited the wounded, and the Education Ministry rerouted border-area school trips.",
+    "source": "https://www.jpost.com/israel-news/defense-news/article-911444",
+    "actor": "Israel|Other"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Houthi siege of Taiz kills 62 fighters in 24 hours",
+    "direction": "Escalating",
+    "description": "Military sources told AFP that fighting around Taiz killed at least 22 pro-government fighters and 40 Houthi fighters in 24 hours, after the Houthis cut off every exit from the city and launched several overnight attacks despite Saudi airstrikes. Yemen's health ministry warned of a \"humanitarian catastrophe,\" saying medicine, medical equipment and fuel were close to running out.",
+    "source": "https://nukta.com/houthi-siege-of-taiz-tightens-as-more-than-60-killed-in-24-hours",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Iran arrests lawyer who publicized executed protester's prison marriage",
+    "direction": "Neutral",
+    "description": "Iranian authorities arrested human rights lawyer Amir Salar Davoudi at the Isfahan Revolutionary Court over an Instagram post describing a prison marriage between protester Alireza Sepahi, executed Oct. 5, and jailed protester Mahshad Keshani, whom Davoudi was defending. Isfahan's judiciary chief called the post \"false.\"",
+    "source": "https://www.iranintl.com/en/liveblog/202610105959",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Brent closes at $106.65, highest since Sept. 15",
+    "direction": "Escalating",
+    "description": "Brent crude closed Monday at $106.65 a barrel, its highest since Sept. 15, as Houthi strikes on Saudi airports and IRGC attacks on Hormuz tankers outweighed Trump's planned purchase of Russian diesel. Bloomberg reported at least 10 supertankers and several Suezmax vessels halted or diverted from Fujairah.",
+    "source": "https://foxnews.com/live-news/iran-war-news-us-trump-houthis-saudi-arabia-october-12",
+    "actor": "Other"
+  },
+  {
     "date": "2026-10-12",
     "title": "WSJ: Saudi Arabia running low on interceptors; Riyadh toll rises to 13",
     "direction": "Escalating",
