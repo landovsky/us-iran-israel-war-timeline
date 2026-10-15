@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-10-14",
+    "title": "IRGC's Mohebbi: renewed US attack 'still very much exists' as possibility",
+    "direction": "Escalating",
+    "description": "IRGC spokesman Hossein Mohebbi told Iranian state TV that the possibility of a renewed US attack remains live, despite Trump's pledge not to strike before the Nov. 3 midterms. Axios reported the previous day that Trump and Netanyahu discussed a possible operation against Iran, while a White House official said the US would not attack before the elections.",
+    "source": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Sistan-Baluchistan attacks kill police officer and female Basij commander",
+    "direction": "Escalating",
+    "description": "Police officer Mohammad Ali Shahriari died of wounds after gunmen fired on a police vehicle in Mehrestan County; Haalvsh reported three other officers wounded. Tasnim reported that Afsaneh Aqila, a women's Basij commander, was killed in front of her home.",
+    "source": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "US September CPI rises 0.6%, annual rate 3.7%; gasoline up 7.1%",
+    "direction": "Neutral",
+    "description": "US consumer prices rose 0.6% in September, taking annual inflation to 3.7%, with gasoline up 7.1% on the month. Brent traded near $106.60 and WTI near $95.79 on Oct. 14, a three-week high for WTI, as Houthi strikes on Saudi Arabia and Hormuz shipping attacks kept energy markets tense, 22 days before the US midterms.",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-donald-trump-oil-nuclear-sites-hormuz-strait-october-14",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-14",
     "title": "Iran executes mountaineer Ali-Sina Mostafavi over Kerman 'armed attacks'",
     "direction": "Escalating",
     "description": "Iran executed Ali-Sina Mostafavi, a 38-year-old mountaineer from Kerman, the judiciary's Mizan news agency reported. Mizan said he carried out armed attacks in Kerman during the war while \"acting in support of exiled opposition figure Reza Pahlavi and Israel.\" Rights group Dadban had warned a day earlier that his execution was imminent.",
@@ -22,6 +46,38 @@
     "description": "At a campaign rally in Wasilla, Alaska, Trump said: \"Wait until you see what we do to Iran. We're going to do a number.\" He said Washington has \"sort of had it\" with Tehran and called higher oil prices \"a small price to pay for stopping them from having a nuclear weapon.\" He has publicly said he will not resume strikes before the Nov. 3 midterms.",
     "source": "https://www.timesofisrael.com/liveblog_entry/trump-threatens-that-us-going-to-do-a-number-on-iran/",
     "actor": "US"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Singapore container ship GFS Pride sinks after Hormuz projectile strike; 21 crew rescued",
+    "direction": "Escalating",
+    "description": "Singapore's Maritime and Port Authority said two Singapore-registered container ships were hit by unidentified projectiles: GFS Pride caught fire and sank with all 21 crew evacuated, and GFS Giselle suffered hull damage but reached safe anchorage with 22 crew accounted for. The IRGC Navy said a container ship hit a naval mine on a route it deems unauthorized, without naming the vessel. The IMO had recorded 106 confirmed incidents and 24 seafarer deaths as of Oct. 13; AFP counted 23 attacks in the region since early October.",
+    "source": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
+    "actor": "Iran|Other"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Amnesty condemns Iran's execution of 5 January protesters in Sept. 30-Oct. 5",
+    "direction": "Neutral",
+    "description": "Amnesty International condemned Iran's executions of five men linked to January protests, carried out between Sept. 30 and Oct. 5. Amnesty's Diana Eltahawy said Iran uses the death penalty to 'weaponize' it against opponents. UN special rapporteur Gina Romero announced a hunger strike in solidarity with Iran's 'No to Execution Tuesdays' campaign.",
+    "source": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Trump: Iran 'probably' behind Houthi attacks; 'I will never forget' after elections",
+    "direction": "Escalating",
+    "description": "On Truth Social, Trump suggested the Houthi attacks on Saudi Arabia were 'probably at the behest of Iran' and said the Houthis may be trying to raise oil prices before the Nov. 3 midterms, calling it 'NOT NICE.' He added: 'I'll be there after the elections, and I will never forget!'",
+    "source": "https://www.iranintl.com/en/202610137695",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Kpler: Iran loaded no crude onto tankers in September",
+    "direction": "Neutral",
+    "description": "Kpler data showed Iran loaded no crude oil onto tankers in September, as the US naval blockade continued. The IMF separately forecast Iran's economy would shrink 7.6% in 2026.",
+    "source": "https://www.iranintl.com/en/202610137695",
+    "actor": "Iran"
   },
   {
     "date": "2026-10-13",
