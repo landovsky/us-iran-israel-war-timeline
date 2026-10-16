@@ -1,5 +1,133 @@
 [
   {
+    "date": "2026-10-15",
+    "title": "CNN: Pentagon drafts MOAB strike options against Iranian energy, nuclear sites",
+    "direction": "Escalating",
+    "description": "CNN, citing five US officials, reported that the Pentagon has developed strike options using the 21,600-pound GBU-43/B Massive Ordnance Air Blast bomb against Iranian energy infrastructure and nuclear sites, including Pickaxe Mountain near Natanz. CBS separately reported that the White House and Pentagon had prepared MOAB plans for Iranian military sites if Trump orders them. Officials doubted the bomb could reach deeply buried facilities; one called it 'great for huge area clearance but not much else.' A White House official said Trump 'keeps all options on the table.'",
+    "source": "https://www.yahoo.com/news/politics/articles/exclusive-us-considering-using-mother-040144982.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Trump: 'I wouldn't use nuclear'; no plans for ground troops in Iran",
+    "direction": "Neutral",
+    "description": "In a Newsmax interview, Trump ruled out using nuclear weapons against Iran: 'I wouldn't use nuclear. We don't have to.' He called the MOAB 'not nuclear' and said he has 'no plans' to deploy ground troops in Iran. He has said the US will not attack Iran before the November 3 midterms.",
+    "source": "https://www.iranintl.com/en/liveblog/202610105959",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Houthi missiles hit Aden's al-Maashiq palace; 5 killed, 16 wounded",
+    "direction": "Escalating",
+    "description": "The Houthis fired five missiles at al-Maashiq presidential palace in Aden, seat of Yemen's Saudi-backed government, killing five people and wounding 16, according to the Yemeni health minister. Two of the prime minister's bodyguards were among the dead; the prime minister was unharmed. The Houthis said they hit a 'Saudi military operations HQ.' It was the first Houthi strike directly on the government's headquarters.",
+    "source": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Houthis fire 16 ballistic missiles at Marib; Taiz shelling kills 3 civilians",
+    "direction": "Escalating",
+    "description": "Marib officials said the Houthis fired 16 ballistic missiles and other projectiles at residential areas of the city on the evening of October 15. Taiz Governor Nabil Shamsan said Houthi fire killed three civilians and wounded seven, and government forces said they repelled Houthi attacks at Jabal Han west of Taiz. Taiz has been under Houthi siege since October 13.",
+    "source": "https://www.iranintl.com/en/liveblog/202610105959",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Saudi Arabia: Iran 'continues to arm, train' Houthis; airport toll 17 dead, 333 hurt",
+    "direction": "Escalating",
+    "description": "Saudi deputy foreign minister for public diplomacy Rayed Krimly said 'Iran continues to arm, train and support the Houthi militia in violation of UN Security Council resolutions' and that the Houthi escalation 'is encouraged by Iran.' Coalition spokesman Turki al-Maliki said 20 Houthi attacks on Riyadh's King Khalid airport this month killed 17 and wounded 333, and attacks on Abha airport killed 3. He said the coalition destroyed 127 Houthi weapons depots and launch sites. Krimly said the Houthis refused a Saudi offer to meet in Muscat.",
+    "source": "https://tribune.com.pk/story/2635053/saudi-arabia-accuses-iran-of-encouraging-houthis-as-attacks-intensify",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Saudi coalition intercepts cruise missile over Medina; Houthis deny firing",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said it shot down a cruise missile over the Medina region, without naming the launcher or target. Houthi spokesman Yahya Saree denied carrying out any operation against Saudi Arabia that day, calling the claim a lie. The Houthis have declared all Saudi airspace unsafe except over Mecca and Medina.",
+    "source": "https://www.deccanchronicle.com/west-asia/saudi-coalition-intercepts-missile-over-medina-amid-houthi-conflict-1996093",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "EU-GCC summit set for Oct. 24 in Riyadh postponed over Houthi attacks",
+    "direction": "Escalating",
+    "description": "The GCC postponed the second EU-GCC leaders' summit, scheduled for October 24 in Riyadh, citing continued Houthi attacks on Saudi Arabia and the extended closure of King Khalid International Airport. GCC Secretary-General Jasem Albudaiwi said the decision was taken to ensure the safety of delegations. No new date was set.",
+    "source": "https://www.business-standard.com/amp/world-news/eu-gcc-summit-in-saudi-arabia-postponed-amid-houthi-missile-attacks-126101501721_1.html",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Hezbollah admits seized explosives truck is its own; Rubio urges no return",
+    "direction": "Escalating",
+    "description": "Hezbollah MP Hassan Fadlallah said the vehicle seized at the Dahr al-Baidar checkpoint, carrying about 500 kg of TNT and C4, belonged to the group and was 'intended exclusively for use against the Israeli occupation'; he demanded the explosives and two detainees be returned. In a call, President Aoun told Rubio the army is enforcing Hezbollah's disarmament and asked him to press Israel to halt strikes in southern Lebanon. Rubio urged Aoun not to return the explosives, which a State Department official said 'should be out of the question.'",
+    "source": "https://timesofisrael.com/hezbollah-claims-confiscated-truck-of-explosives-but-denies-assassination-plans",
+    "actor": "Lebanon|US"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Iran's military: 'non-compliant' tanker on fire in Gulf of Oman",
+    "direction": "Escalating",
+    "description": "Iran's military said its naval surveillance found an oil tanker on fire in the Gulf of Oman after it switched off its tracking and tried to enter Iran's declared prohibited zone. The cause of the fire was not stated, and the tanker was not identified. A pro-IRGC outlet claimed missiles hit several 'rogue' vessels; neither claim was independently verified.",
+    "source": "https://www.arabnews.pk/middle-east/irans-military-says-oil-tanker-on-fire-in-gulf-of-oman-3004259",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "CENTCOM rejects Iran's Hormuz claims; says IRGC projectile sank GFS Pride",
+    "direction": "Neutral",
+    "description": "CENTCOM rejected Iranian claims that Tehran controls the Strait of Hormuz, that a commercial ship sank after hitting a mine, and that hundreds of US troops were killed in Jordan. It said the M/V GFS Pride was hit by an IRGC projectile and sank under tow, that more than 40 commercial vessels transited the strait in 24 hours, and that 3 US service members were killed in action in July. An Iranian naval officer had claimed '100% control' of the strait earlier that day.",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Treasury sanctions 16 people, 10 entities; Reuters: US weighs easing tanker sanctions",
+    "direction": "Neutral",
+    "description": "The US Treasury sanctioned 16 individuals and 10 entities, including an Iraqi bank, Iranian offshore banks and oil intermediaries; Secretary Bessent said 'the noose is tightening around Iran's economy.' The same day Reuters reported the administration is considering easing sanctions on some Iranian shadow-fleet tankers to bring down record freight rates. Brent fell 1.1% to $104.91.",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "CBS: ousted Army chief warned of missile-defense shortage lasting to 2030",
+    "direction": "Neutral",
+    "description": "CBS reported that Gen. Randy George, removed as Army chief of staff by Hegseth in April, warned in December of missile-defense interceptor shortages lasting until 2030. A CSIS estimate says the US used 1,050-1,430 of about 2,300 prewar Patriot interceptors and 190-290 of about 355 THAAD interceptors. Pentagon spokesman Sean Parnell said the US has a 'deep, ready arsenal.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "USS George H.W. Bush carrier returns to Arabian Sea",
+    "direction": "Escalating",
+    "description": "The aircraft carrier USS George H.W. Bush, with about 5,000 personnel, returned to the Arabian Sea to support CENTCOM operations. The move came as US media reported the Pentagon had drafted new strike options against Iran.",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "10 ships attacked near Hormuz since Oct. 11, most of the war",
+    "direction": "Escalating",
+    "description": "Security data showed at least 10 vessels attacked in and around the Strait of Hormuz since Sunday, October 11 (six on Sunday, four on Tuesday), the highest count for any comparable period of the war. October has seen 23 attacks so far. Greek maritime monitor Marisks said ships face 'indiscriminate attacks' even with tracking switched off.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump/",
+    "actor": "Iran|Other"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Netanyahu rules out preemptive Iran strike before Oct. 27 vote: 'it's no good'",
+    "direction": "De-escalating",
+    "description": "Netanyahu said the Iranian regime 'must go' but is not expected to fall before Israel's October 27 election, and rejected a preemptive strike on Iran, saying 'it's no good.' Defense Minister Israel Katz warned Hezbollah that Israel could take territory in the Nabatieh and Litani areas. The day before, Channel 12 reported Netanyahu had pressed Trump to renew the war before the vote.",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-donald-trump-oil-nuclear-sites-hormuz-strait-october-14",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Trump at Arizona rally: leakers 'should be shot' over Iran strike leaks",
+    "direction": "Neutral",
+    "description": "At a rally in Bullhead City, Arizona, Trump responded to reports of possible strikes on Iran before the midterms by saying 'in my opinion, leakers should be shot.' He claimed a leak of B-2 departure and arrival times forced him to call off a raid and strike two days later. He had said on October 8 there would be no strikes before the November 3 elections.",
+    "source": "https://politicalwire.com/2026/10/14/trump-says-leakers-should-be-shot/",
+    "actor": "US"
+  },
+  {
     "date": "2026-10-14",
     "title": "IRGC's Mohebbi: renewed US attack 'still very much exists' as possibility",
     "direction": "Escalating",
