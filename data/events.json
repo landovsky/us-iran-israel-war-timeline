@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-10-17",
+    "title": "IRGC: supertanker with 2M+ barrels hits mine on 'unauthorised' Hormuz route",
+    "direction": "Escalating",
+    "description": "Iran's IRGC Navy said a supertanker carrying more than two million barrels of crude struck a sea mine while crossing the Strait of Hormuz on an 'unauthorised route,' causing a large explosion and fire. The IRGC said the ship had switched off its tracking and radar in a 'deceptive manoeuvre' backed by the US military, and declared the strait still closed. The vessel was not named; the claim could not be independently verified. It is the IRGC's second such supertanker claim in a week, after Oct. 10.",
+    "source": "https://unb.com.bd/category/World/oil-super-tanker-hits-sea-mine-catches-fire-in-strait-of-hormuz-says-irgc/198073",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "UKMTO: 12 ships attacked near Hormuz in a week; October worst since March",
+    "direction": "Escalating",
+    "description": "UKMTO reported 12 ships attacked in the week to Oct. 16: 10 in the Strait of Hormuz, one in the Gulf and one in the Gulf of Oman. One ship was lost. October is now the busiest month for reported attacks since March. Since July 6, 55 of 74 reported incidents occurred on the southern route off Oman, where the US military guides at-risk vessels. UKMTO said it was 'struggling to accurately report' the true number because most ships no longer report attacks.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "EU leaders condemn Iran's regional attacks and 'large-scale executions'",
+    "direction": "Neutral",
+    "description": "European Council conclusions at the end of a two-day Brussels summit reiterated 'strong condemnation of Iran's attacks against countries in the region,' opposed any disruption of Hormuz traffic, and criticized Iran's 'large-scale executions.' Leaders urged Tehran to meet its NPT obligations and 'resume full cooperation' with the IAEA, and condemned Houthi attacks on Saudi Arabia. Spanish PM Pedro Sánchez said the war 'has already cost us Europeans more than 100 billion euros'; Spain has approved over €12 billion in relief.",
+    "source": "https://www.yahoo.com/news/world/articles/eu-leaders-condemn-iran-over-215118921.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Two missiles hit Aden airport, second strike on the city in two days",
+    "direction": "Escalating",
+    "description": "Two missiles struck Aden airport on Friday night, hitting an area hosting a military unit aligned with Yemen's Saudi-backed government, police said. Police blamed the Houthis; no one claimed responsibility and no casualties were reported. The strike came a day after Houthi missiles hit Aden's al-Maashiq palace compound, killing at least five.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Saudi coalition downs missile aimed at Yanbu, strikes Houthi launchers",
+    "direction": "Escalating",
+    "description": "Coalition spokesman Maj. Gen. Turki al-Maliki said Saudi forces destroyed a ballistic missile aimed at the Red Sea oil port of Yanbu, two cruise missiles over the Red Sea and three drones over Riyadh and the south. The coalition said it later destroyed two ballistic missile launchers in northwestern Yemen, targeting weapons bound for Hodeidah. Houthi attacks this month have killed 19 and injured 364 in Saudi Arabia.",
+    "source": "https://www.foxnews.com/live-news/iran-war-trump-strait-hormuz-oil-prices-midterms-october-16",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Iran denies role in Houthi attacks, offers to mediate with Riyadh",
+    "direction": "De-escalating",
+    "description": "Foreign Ministry spokesman Esmaeil Baqaei rejected Saudi Arabia's accusation that Iran arms and trains the Houthis, called their attacks independent and blamed US and UK blockades of Yemen. He offered Iranian mediation between the Houthis and Riyadh. Houthi strikes on Saudi Arabia have killed about 20 people in several weeks, including 13 at King Khalid International Airport.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Iranian army: Hormuz reopens only 'if America leaves the region'",
+    "direction": "Escalating",
+    "description": "Iranian Army spokesman Mohammad Akraminia said on X that the Strait of Hormuz will reopen if US forces leave the region: 'If it does not leave, we will expel it.' A day earlier Deputy Rear Adm. Habibollah Sayyari said 'the Strait of Hormuz is closed' and claimed '100% control.' CENTCOM chief Adm. Brad Cooper said the US 'sank Iran's navy' and that Iran has no sea imports or exports except approved humanitarian aid.",
+    "source": "https://www.foxnews.com/live-news/iran-war-trump-strait-hormuz-oil-prices-midterms-october-16",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Pezeshkian in Yerevan: Iran 'not seeking nuclear weapons,' calls war 'ecocide'",
+    "direction": "De-escalating",
+    "description": "At a UN biodiversity summit in Yerevan attended by UN Secretary-General Guterres, President Masoud Pezeshkian called damage across the Middle East 'ecocide' that 'must be condemned.' He told Georgian PM Irakli Kobakhidze that Iran is 'not seeking nuclear weapons,' said it is ready for dialogue and called US sanctions 'unjustifiable and inhumane.' He also said 'we will not submit to coercion' and told CBS it is 'difficult to trust' Washington.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Iraq FM: war has cost Iraq about $60 billion",
+    "direction": "Neutral",
+    "description": "Foreign Minister Fuad Hussein said Iraq has lost about $60 billion during the US-Iran war and its foreign currency reserves have fallen by $20 billion. Before the war Iraq exported about 3.5 million bpd, mostly through Hormuz; exports recovered to 2.6 million bpd from Sept. 1-21. Syria plans an overland oil route to bypass the strait.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "UK advises against all but essential travel to most of Saudi Arabia",
+    "direction": "Neutral",
+    "description": "The UK Foreign Office advised against all but essential travel to Riyadh, Aseer, Najran and Jizan provinces and Taif after Houthi missile and drone attacks, and told British nationals to avoid Riyadh's King Khalid International Airport after the Oct. 10 strike that killed 17. It warned of a heightened threat to airports, military bases, ports and energy infrastructure across the kingdom.",
+    "source": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/regional-risks",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Reuters: Iran and proxies hit 84 Gulf infrastructure sites at least 135 times",
+    "direction": "Neutral",
+    "description": "A Reuters visual investigation counted at least 135 drone and missile strikes on at least 84 infrastructure sites in seven Gulf states since Feb. 28, including Fujairah (19 times), Ras Laffan LNG, the UAE's Barakah nuclear plant and Kuwait's airport (8 times). All 14 insiders consulted said falling interceptor debris, cited in at least 34 official statements, could not explain the damage. Saudi output stayed below 7 million bpd for most of the war's first six months, versus over 10 million pre-war.",
+    "source": "https://www.devdiscourse.com/article/international/3992879-visual-investigation-irans-precision-strikes-picked-apart-gulf-infrastructure-blunting-us-war-plans",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "German court jails 2 men for Quds Force plots on Jewish leaders",
+    "direction": "Neutral",
+    "description": "Hamburg's Higher Regional Court sentenced Danish national Ali Hassan S. to 8.5 years and Afghan accomplice Tawab M. to 4.5 years for espionage for Iran, attempted murder and aggravated arson. Prosecutors said Ali S. took direct orders from IRGC Quds Force officers from early 2025 to surveil targets including Central Council of Jews head Josef Schuster and German-Israeli Society head Volker Beck. Beck renewed calls to expel Iran's ambassador.",
+    "source": "https://www.timesofisrael.com/germany-jails-two-men-for-iran-backed-plots-against-pro-israel-figures-spying-on-jews/",
+    "actor": "Other"
+  },
+  {
     "date": "2026-10-15",
     "title": "CNN: Pentagon drafts MOAB strike options against Iranian energy, nuclear sites",
     "direction": "Escalating",
