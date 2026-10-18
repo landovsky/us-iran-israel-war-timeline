@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-10-18",
+    "title": "Tug hit by 2 projectiles off UAE's Khor Fakkan; 1 injured",
+    "direction": "Escalating",
+    "description": "UKMTO reported that a southbound tug was struck by two unknown projectiles northeast of Khor Fakkan, UAE, on Oct. 18. The vessel was damaged but continued its voyage; one crew member suffered a minor injury. No party claimed the attack, the latest in a record month of strikes on shipping around Hormuz.",
+    "source": "https://www.anews.com.tr/world/2026/10/18/tugboat-struck-by-2-unknown-projectiles-off-uae-1-injured-uk-maritime-agency",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Saudi AH-6i helicopter crashes in Najran, killing 2; Houthis claim shootdown",
+    "direction": "Escalating",
+    "description": "Coalition spokesman Turki al-Maliki said a National Guard AH-6i reconnaissance helicopter crashed inside Saudi territory in Najran due to a 'technical malfunction,' killing both officers aboard. A day earlier Houthi military spokesman Yahya Saree claimed the group shot down a Saudi Apache near Najran; it is unclear whether the claims refer to the same aircraft.",
+    "source": "https://www.dawn.com/news/2037998/saudi-led-coalition-says-helicopter-crash-in-najran-kills-2-crew-members",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Netanyahu: Iran regime 'like cancer'; leaves new strikes open before Oct. 27 vote",
+    "direction": "Escalating",
+    "description": "Netanyahu said Israel 'did 90 percent of the work' against Iran but 'it's like cancer. If you don't get rid of this regime in Iran, it will come back,' declining to rule out further military action. He accused Iran, Hezbollah and Hamas of trying to interfere in Israel's Oct. 27 election, including by 'creating security incidents.'",
+    "source": "https://www.timesofisrael.com/liveblog_entry/netanyahu-warns-election-is-neck-and-neck-urges-supporters-to-turn-out/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Araghchi at OIC Baghdad: talks need 'credible guarantees'; Hormuz 'choice is now with America'",
+    "direction": "Neutral",
+    "description": "Addressing the 52nd OIC Council of Foreign Ministers in Baghdad, Iranian FM Abbas Araghchi said Iran will negotiate with the US only with 'credible guarantees of non-repetition' of attacks, and that Hormuz could reopen within seven days under Iran's Qatar-relayed plan: 'The choice is now with America.' He said about 5,000 people were killed in US and Israeli attacks and met Turkish FM Hakan Fidan on the sidelines. Hormuz traffic remains about 70% below prewar levels.",
+    "source": "https://www.turkiyetoday.com/region/iran-ready-for-us-talks-with-credible-guarantees-araghchi-tells-oic-3230513",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Yemeni government rejects Iran's mediation offer: 'Whoever arms a party… cannot be its mediator'",
+    "direction": "Escalating",
+    "description": "Yemen's internationally recognized government, through official Afrah Al-Zouba, rejected Tehran's offer to mediate between Riyadh and the Houthis, saying Iran is 'a party to the war on Yemenis.' 'Whoever arms a party to a war cannot be its mediator,' Al-Zouba said. Riyadh had not responded to the Iranian offer.",
+    "source": "https://www.foxnews.com/live-news/iran-war-trump-strait-hormuz-oil-prices-midterms-10-17-26",
+    "actor": "Other|Iran"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Sisi pledges 'any measure' to defend Saudi Arabia from Houthis",
+    "direction": "Escalating",
+    "description": "Egyptian President Abdel-Fattah el-Sisi pledged Cairo would take 'any measure' to defend Saudi Arabia against the Houthi campaign and said he could convene parliament in emergency session, as sending forces abroad requires parliamentary approval. He cited the Houthi strike on Riyadh's King Khalid International Airport the previous week.",
+    "source": "https://www.latintimes.com/houthis-free-159-yemen-prisoners-saudi-strikes-kill-children-egypt-warns-600273",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Report: UAE to resume funding anti-Houthi forces; Saudi Arabia to provide air cover",
+    "direction": "Escalating",
+    "description": "The Guardian reported that the UAE agreed with Saudi Arabia to resume funding southern Yemeni forces fighting the Houthis, including the Giants Brigades, with Saudi Arabia providing air cover. The UAE had cut off the groups when it withdrew from Yemen operations in January; the deal is the first concrete sign of a Saudi-Emirati rapprochement over Yemen amid the Houthi offensive.",
+    "source": "https://dunyanews.tv/en/World/978328-uae-agrees-with-saudi-arabia-to-reenter-yemen-conflict",
+    "actor": "UAE|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Houthis free 159 pro-government fighters under amnesty; ICRC confirms",
+    "direction": "De-escalating",
+    "description": "The Houthis released 159 detainees in Sanaa under an amnesty issued by Supreme Political Council head Mahdi al-Mashat, describing them as fighters who surrendered during the Red Sea coast offensive. The ICRC conducted pre-departure interviews but said the unilateral release falls outside the Stockholm Agreement and it had no role in selecting detainees.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-free-159-pro-government-fighters-under-amnesty/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Saudi coalition intercepts 4 drones, then 2 missiles aimed at Khamis Mushait",
+    "direction": "Escalating",
+    "description": "Coalition spokesman Turki al-Maliki said Saudi forces intercepted four Houthi drones over Riyadh and the Eastern and Southern regions and destroyed two missile-launch platforms in Saada. Late on Oct. 17 Riyadh residents received a 'hostile aerial threat' alert; Saudi forces said they intercepted two ballistic missiles aimed at Khamis Mushait and a drone aimed at Riyadh.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Vance: US has 'won decisively' in some ways, but war not over without nuclear pledge",
+    "direction": "Neutral",
+    "description": "At a CBS town hall in Flat Rock, Michigan, VP JD Vance said 'in some ways we have won decisively' but the conflict is not over until Tehran makes a verifiable commitment not to rebuild its nuclear program. He said gas prices would be 'three times as high' without the Navy keeping oil moving and that prices will fall 'when this conflict is over.'",
+    "source": "https://www.foxnews.com/live-news/iran-war-trump-strait-hormuz-oil-prices-midterms-10-17-26",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "CENTCOM: 138 vessels redirected under US blockade of Iranian ports",
+    "direction": "Neutral",
+    "description": "CENTCOM said US forces had redirected 138 commercial vessels as of Oct. 17 under the naval blockade of Iranian ports, with the destroyer USS Rafael Peralta (DDG 115) supporting the operation. Spokesman Capt. Tim Hawkins said more than 50,000 US service members are in the region.",
+    "source": "https://www.foxnews.com/live-news/iran-war-trump-strait-hormuz-oil-prices-midterms-10-17-26",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Two tankers attacked off Saudi Arabia's Al Jubayl, one by RPG from small boat",
+    "direction": "Escalating",
+    "description": "UKMTO reported two tankers attacked in the Persian Gulf northeast of Al Jubayl, Saudi Arabia: one struck by an 'unknown projectile' about 68 nm offshore, the other hit by a rocket-propelled grenade fired from a small boat about 78 nm offshore, damaging its aft port quarter. All crew were reported safe; no group claimed responsibility. The attacks extend the shipping campaign deep into the Gulf off Saudi Arabia's eastern coast.",
+    "source": "https://rudaw.net/english/categories/middleeast/1079766",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Houthis: Saudi strike in Dhamar kills 3 children; 124 dead since fighting resumed",
+    "direction": "Escalating",
+    "description": "The Houthi-run health ministry said Saudi airstrikes on houses in al-Ar village, Dawran Aness district, Dhamar province, killed three children aged 8, 10 and 10 and wounded more than a dozen. It said at least 124 people have been killed in Houthi-held areas since fighting resumed. Riyadh did not comment; the figures could not be independently verified.",
+    "source": "https://www.latintimes.com/houthis-free-159-yemen-prisoners-saudi-strikes-kill-children-egypt-warns-600273",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Trump waives Russia sanctions, tariffs; Rubio cites Iran war energy prices",
+    "direction": "Neutral",
+    "description": "Trump signed an order waiving Graham Act sanctions on Russian oil buyers and tariffs on Russian goods that were due to take effect the following week, after a deal for Russia to send more than 300,000 metric tons of diesel to the US. Secretary of State Marco Rubio called it a '60-day pause' and tied it to energy prices driven by the Iran war and Houthi attacks on Saudi Arabia. Zelensky said the move 'seems wrong to me.'",
+    "source": "https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact",
+    "actor": "US|Russia"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Brent settles at $109.86, up 3.7%; WTI tops $101",
+    "direction": "Escalating",
+    "description": "Brent crude settled at $109.86 a barrel on Oct. 16, up 3.7%, while WTI settled at $101.41, up 3.5%, per Reuters, amid record attacks on shipping around Hormuz and Houthi strikes on Saudi Arabia. Brent had closed at $106.65 on Oct. 12.",
+    "source": "https://www.foxnews.com/live-news/iran-war-trump-strait-hormuz-oil-prices-midterms-10-17-26",
+    "actor": "Other"
+  },
+  {
     "date": "2026-10-17",
     "title": "IRGC: supertanker with 2M+ barrels hits mine on 'unauthorised' Hormuz route",
     "direction": "Escalating",
