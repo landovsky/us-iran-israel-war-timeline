@@ -1,6 +1,102 @@
 [
   {
     "date": "2026-10-18",
+    "title": "IRGC claims another tanker hit mine in southern Hormuz",
+    "direction": "Escalating",
+    "description": "Iran's IRGC Navy said on Oct. 18 that an oil tanker struck a naval mine in the southern Strait of Hormuz, setting off an explosion and fire in its engine room. It was the IRGC's third such claim in three days. It did not name the vessel and warned that ships switching off navigation and identification systems in Hormuz and the Gulf would face 'strict and decisive measures.' CENTCOM and UKMTO had not confirmed the incident.",
+    "source": "https://www.fxstreet.com/news/irans-irgc-says-oil-tanker-hits-mine-catches-fire-in-strait-of-hormuz-202610182344",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Trump endorses Netanyahu, warns US may 'soon finish the job' on Iran",
+    "direction": "Escalating",
+    "description": "Trump endorsed Netanyahu nine days before Israel's Oct. 27 election, calling him a 'Great Warrior Prime Minister' and his partner against Iran. He said the US might 'soon finish the job' against Iran 'unless they change their ways, rapidly,' and warned that if Israel 'has the wrong Leader,' 'America will have to do this work ourselves.' Netanyahu replied on X: 'Together we will complete the mission!'",
+    "source": "https://www.pbs.org/newshour/politics/trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-for-reelection",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Araghchi dares Trump: 'Want to try your luck again? Be our guest'",
+    "direction": "Escalating",
+    "description": "Foreign Minister Abbas Araghchi responded to Trump on X: 'Last time you wanted to finish the job, Iran emerged even stronger. Want to try your luck again? Be our guest. But be careful; we have unfinished jobs too.' He also accused Netanyahu of 'driving America into another war to stay out of jail.'",
+    "source": "https://www.breitbart.com/politics/2026/10/18/iran-threatens-trump-netanyahu-endorsement-try-your-luck/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Netanyahu: Iran 'regime must fall, and I will bring it down'",
+    "direction": "Escalating",
+    "description": "At a two-hour pre-election security briefing in Jerusalem, Netanyahu said he had a 'very comprehensive and very determined plan to bring about the fall of the regime' in Tehran. He said Israel's security does not depend on US approval: 'we will also act independently. We have already done so, and if necessary, we will do so again.' He said about 90% of the work against Israel's enemies was done and that 'the test of these elections is who will finish the job.'",
+    "source": "https://www.timesofisrael.com/in-pre-election-briefing-pm-vows-to-topple-iranian-regime-downplays-settler-violence",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Majlis confirms missile chief Akhlaghi as defense minister, 237-15",
+    "direction": "Escalating",
+    "description": "Iran's parliament confirmed Mehrdad Akhlaghi Ketabchi as defense minister by 237 votes to 15, with 277 ballots cast. He fills the post left empty since Aziz Nasirzadeh was killed in the Feb. 28 strikes. Akhlaghi has headed the Defence Industries Organisation since 2013 and was sanctioned by the UN in 2007. He told lawmakers that any new US-Israeli 'miscalculation' would meet a 'surprising and extensive' response, and later warned of 'enormous damage' to the US and its allies.",
+    "source": "https://english.news.cn/20261018/c6f64e8822bd48858a53154075a163c5/c.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Araghchi: 7-day plan stands; Hormuz would reopen 'on the sixth day'",
+    "direction": "De-escalating",
+    "description": "Araghchi told Tasnim that Tehran is still reviewing US 'comments' on the seven-day proposal it presented in September. The plan requires an end to the US naval blockade, lifting of oil sanctions and a ceasefire on all fronts. If Washington complies, 'the Strait of Hormuz will reopen on the sixth day' and negotiations would start on day seven. 'Our conditions are fair,' he said.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Ghalibaf announces 'Persian Gulf Data Authority' to target AI firms",
+    "direction": "Escalating",
+    "description": "Parliament speaker Mohammad Bagher Ghalibaf wrote on X that 'the Persian Gulf Data Authority is coming.' He told Gulf governments, funds and firms to give 'no resources to any AI or data company aiding invasions or killing children,' adding: 'No finance, equity, land and energy.' He did not say how the body would work. A week earlier, security chief Mohsen Rezaei had said $2 trillion of regional cables, data centers and AI facilities 'will be within range.'",
+    "source": "https://www.iranintl.com/en/202610181490",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "GCC: attack on Saudi Arabia is attack on all six; presses Lavrov",
+    "direction": "Neutral",
+    "description": "GCC foreign ministers meeting in Manama condemned Houthi attacks on Saudi Arabia, invoked their joint defence pact and said an attack on any member affects all six. They urged states to designate the Houthis a terrorist group. Secretary General Jasem Al Budaiwi said member states had faced more than 7,000 Iranian ballistic missile and drone attacks since Feb. 28. Ministers asked Russia's Lavrov, who flew on to Tehran on Oct. 19, to press Iran to stop attacking its Gulf neighbours.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/10/19/russias-lavrov-heads-to-tehran-as-gulf-states-press-moscow-over-iran-attacks/",
+    "actor": "Other|Russia"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Saudi strike on Saada house kills 9, incl. 5 children; 6 hurt in Najran",
+    "direction": "Escalating",
+    "description": "The Houthi-run Health Ministry said a strike on a house in Saada province's Sahar district killed at least nine people, five of them children and two women, and wounded 19. Houthi spokesperson Anees al-Asbahi blamed Saudi Arabia, which did not comment. On the same day a Houthi projectile hit a residential area of Najran, injuring six people and damaging three homes and three vehicles, according to Saudi civil defense.",
+    "source": "https://www.timesofisrael.com/nine-said-killed-in-saudi-strike-on-houthis-as-sides-continue-trading-fire/amp/",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Egypt's parliament delays vote on aiding Saudi Arabia; Houthis warn Cairo",
+    "direction": "Escalating",
+    "description": "Egypt's parliament extended by two days its closed session on Sisi's request for authority to help defend Saudi Arabia, which needs a two-thirds majority. Sisi said Egypt was 'speaking only about defense.' Houthi parliament speaker Yahya al-Raei wrote to Egyptian speaker Hisham Badawy that intervention 'would pose a grave danger to its national security.'",
+    "source": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "US issues worldwide alert: Iran and allies may target US interests",
+    "direction": "Escalating",
+    "description": "The US Virtual Embassy in Iran told Americans not to travel to Iran, to leave now and, if in the Middle East, to stay highly vigilant. It warned of flight cancellations, airspace closures and possible Iranian or proxy attacks on US interests worldwide. The US Embassy in Riyadh issued a parallel alert citing Houthi strikes on Saudi airports and critical infrastructure.",
+    "source": "https://ir.usembassy.gov/security-alert-iran-october-18-2026/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "IOM: 233,000 displaced in Yemen; Taiz hospitals have 4 days of fuel",
+    "direction": "Neutral",
+    "description": "The International Organization for Migration said renewed fighting has displaced more than 233,000 Yemenis, about 121,000 of them in besieged Taiz province, where food prices have risen fivefold. The WHO warned that Taiz's 12 hospitals have fuel for four more days and have run out of surgical supplies amid a cholera outbreak. Government commanders said eight soldiers died in fighting in Lahij on Oct. 17.",
+    "source": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-18",
     "title": "Tug hit by 2 projectiles off UAE's Khor Fakkan; 1 injured",
     "direction": "Escalating",
     "description": "UKMTO reported that a southbound tug was struck by two unknown projectiles northeast of Khor Fakkan, UAE, on Oct. 18. The vessel was damaged but continued its voyage; one crew member suffered a minor injury. No party claimed the attack, the latest in a record month of strikes on shipping around Hormuz.",
