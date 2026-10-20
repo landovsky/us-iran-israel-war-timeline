@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-10-20",
+    "title": "IRGC claims 54th US MQ-9 drone shot down over Hormuz",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guards said they shot down a US MQ-9 Reaper over the Strait of Hormuz early on October 20 using a 'new advanced' system in Iran's integrated air-defense network, and that the drone fell into Gulf waters. The IRGC called it the 54th MQ-9 it has downed since the war began; its 53rd claim came in mid-September over Qeshm Island. The US did not confirm the loss.",
+    "source": "https://www.presstv.co.uk/Detail/2026/10/20/778753/Iran-intercepts,-shoots-down-54th-US-MQ-9-Reaper-drone-since-start-of-US-Israeli-aggression",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Pakistan army chief Munir due in Tehran to revive stalled mediation",
+    "direction": "De-escalating",
+    "description": "Field Marshal Asim Munir, Pakistan's Chief of Defence Forces, was due in Tehran on October 20, a Pakistani official and Iranian media told Reuters. Munir brokered the June 'Memorandum of Islamabad', and his summer talks with Iranian leaders covered preventing escalation and reopening the Strait of Hormuz. Russia's Lavrov had said a day earlier that US-Iran talks were at a standstill.",
+    "source": "https://www.dawn.com/news/2038436/cdf-munir-to-visit-tehran-today",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Lavrov makes first wartime Tehran visit; Araghchi: ties closest 'in our history'",
+    "direction": "Neutral",
+    "description": "Russian Foreign Minister Sergey Lavrov met Abbas Araghchi and President Masoud Pezeshkian in Tehran, his first visit since the war began. Lavrov called the US-Israeli attacks illegal, said US-Iran talks were at a standstill, and said Moscow aims at 'preventing the return of a large-scale war.' Araghchi wrote: 'Never in our history have Iran and Russia worked as closely as now,' and called for a regional security arrangement 'without the presence of foreign forces.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/",
+    "actor": "Russia|Iran"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Iran says US hit Konarak naval base, wounding 2; US official denies",
+    "direction": "Escalating",
+    "description": "Iran's navy said US forces fired 'two light projectiles' at the Konarak naval base in Sistan-Baluchestan, hitting a 35mm anti-aircraft gun and wounding two soldiers. A US official denied that American forces attacked the base, and CENTCOM did not claim responsibility. If confirmed, it would be the first US strike on Iran in nearly seven weeks.",
+    "source": "https://shafaq.com/en/World/US-denies-reported-strike-on-Iranian-naval-base",
+    "actor": "Iran|US"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Houthi missiles kill 53 recruits at Shabwa training camp",
+    "direction": "Escalating",
+    "description": "Three Houthi ballistic missiles hit a training exercise for new recruits at the al-Alam military camp in Yemen's Shabwa governorate. Shabwa authorities put the toll at 53 killed and about 200 wounded, up from an initial 18. Houthi spokesman Yahya Saree said 'anywhere with a Saudi-backed military presence will be considered a legitimate target'; Presidential Leadership Council head Rashad al-Alimi promised a 'firm response.'",
+    "source": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Houthis claim 6 strikes on Saudi Arabia, incl. Riyadh airport and Shaybah",
+    "direction": "Escalating",
+    "description": "Houthi spokesman Yahya Saree said the group carried out six operations in Saudi Arabia over 48 hours, targeting King Khalid International Airport in Riyadh, Aramco facilities in Yanbu, the Shaybah oil field, Abha airport and Khamis Mushait air base, and vowed 'escalation for escalation.' Saudi civil defence issued a 'hostile aerial threat' alert for Riyadh and Kharj before lifting it. Riyadh did not confirm the hits, and Reuters could not verify them.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Saudi Arabia postpones 'Davos in the desert' FII to 2027",
+    "direction": "Neutral",
+    "description": "Saudi Arabia pushed its Future Investment Initiative, set for October 26-29 in Riyadh, to 2027 amid Houthi missile and drone attacks on the capital, CEO Maha Al Saud said. Cirium data showed more than 45% of departures from Saudi airports cancelled since October 8.",
+    "source": "https://www.dawn.com/live/iran-israel-war",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Hegseth makes unannounced Israel visit, meets Netanyahu",
+    "direction": "Escalating",
+    "description": "US Defense Secretary Pete Hegseth met Prime Minister Benjamin Netanyahu during an unannounced trip to Israel, Axios reported, citing two sources. Hegseth posted that he visited troops in the CENTCOM region on 'a historic mission'; the Pentagon declined to comment. The visit came a day after Trump endorsed Netanyahu before the October 27 election, amid US-Israeli discussions on resuming major combat against Iran.",
+    "source": "https://theprint.in/world/hegseth-meets-netanyahu-in-unannounced-visit-to-israel-axios-reports/3076498/",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Netanyahu releases Trump call: 'Donald, we have a job to finish'",
+    "direction": "Escalating",
+    "description": "Netanyahu released video of a call in which Trump told him, 'I think you're going to have a tremendous victory, actually.' Netanyahu replied, 'Donald, we have a job to finish,' called Iran's clerical government 'the greatest danger,' and praised Trump for joining the February attack.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Trump: US 'could leave right now'; threatens to leave Europe over Iran",
+    "direction": "Neutral",
+    "description": "At a Kansas rally Trump said of Iran, 'We could leave right now. They're not going to have a nuclear weapon,' and added, 'I don't know who the hell to negotiate with.' On Truth Social he said Europe 'weren't there to help' on Iran, 'something which I can never forget,' and warned, 'if they don't soon find their way, we will have no choice but to leave.' He also wrote that Russia was 'doing very little, if anything, to help' Iran.",
+    "source": "https://www.arabtimesonline.com/news/trump-threatens-to-leave-europe-over-iran-war-says-us-could-end-military-campaign/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Iran summons German ambassador after Berlin protests assassination plots",
+    "direction": "Neutral",
+    "description": "Iran summoned German Ambassador Axel Dittmann over 'baseless political allegations' after Germany summoned Iran's ambassador the same day. Berlin acted after a court jailed two men tied to Iranian intelligence for plotting attacks on Central Council of Jews head Josef Schuster and Volker Beck.",
+    "source": "https://www.dawn.com/live/iran-israel-war",
+    "actor": "Iran|Other"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Iran Air: 20-30 airliners destroyed and 70-80 hit in the war",
+    "direction": "Neutral",
+    "description": "Iran Air CEO Taher Abdolhai said 20-30 Iranian commercial aircraft were destroyed and 70-80 targeted during the war. He said Iran has about 300 passenger aircraft, of which only 130-140 were operational before the war, against a need of about 1,000.",
+    "source": "https://www.dawn.com/live/iran-israel-war",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Pakistan suspends trade with Iran at Taftan and Gabd-Rimdan crossings",
+    "direction": "Neutral",
+    "description": "Pakistan's Commerce Ministry closed the Taftan and Gabd-Rimdan border crossings in Balochistan to trade with Iran, citing security and smuggling concerns. Around 2,000 trucks were reported stranded, and the Gabd-Rimdan route carries more than 4,000 tonnes of LPG imports daily. Iran's Foreign Ministry spokesman Esmaeil Baghaei called the closure temporary.",
+    "source": "https://theprint.in/world/pakistan-suspends-trade-with-iran-at-two-key-border-crossings-over-smuggling-security-concerns/3075358/",
+    "actor": "Pakistan"
+  },
+  {
     "date": "2026-10-18",
     "title": "IRGC claims another tanker hit mine in southern Hormuz",
     "direction": "Escalating",
