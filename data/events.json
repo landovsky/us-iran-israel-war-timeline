@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-10-21",
+    "title": "Iraq shuts Sheeb crossing with Iran; more closures to follow",
+    "direction": "Escalating",
+    "description": "Iraq closed the Sheeb border crossing with Iran to passengers, vehicles and trucks from 6 a.m. on Oct. 21 until further notice, on the order of Prime Minister Ali al-Zaidi. Iraqi officials said other crossings with Iran would close gradually. Baghdad gave no official reason; two crossing sources cited 'urgent security reasons,' while Shafaq News cited technical issues. Iraq briefly shut Sheeb, Shalamcheh and Mandali on Sept. 12 after a drone attack on Saudi Arabia was launched from Iraqi soil.",
+    "source": "https://www.devdiscourse.com/article/international/3995541-iraq-closes-sheeb-border-crossing-with-iran-for-urgent-security-reasons-sources-say",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Trump: must make 'final decision' — win 'the nice way, or the not-nice way'",
+    "direction": "Escalating",
+    "description": "Speaking in the Oval Office, Trump said the US is doing 'very well' in Iran but needs to 'make a final decision of which way do we want to win. Do we want to win the nice way, or the not-nice way?' He said European leaders declined his requests for help. Earlier on Oct. 20 Trump said strikes are 'not good enough' without guarantees against a future Iranian bomb, while deputy press secretary Anna Kelly said the US 'will not be attacking Iran at any time prior to the midterm elections.'",
+    "source": "https://www.dawn.com/news/2038575/trump-says-need-to-make-final-decision-on-iran",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Iran tells Munir no enriched uranium leaves, no talks without trust",
+    "direction": "Neutral",
+    "description": "Pakistani army chief Field Marshal Asim Munir, accompanied by Interior Minister Mohsin Naqvi, met President Pezeshkian, Speaker Ghalibaf and security chief Mohsen Rezaei in Tehran on his fifth visit since February. Rezaei said 'no negotiations with the US will take place until Washington builds trust' and that all enriched material stays in Iran; Ghalibaf said Iran has 'no new message' and the US must meet its seven conditions. Pezeshkian blamed 'US warmongering' for the Hormuz disruption and demanded the US lift sanctions and end threats before talks.",
+    "source": "https://theprint.in/world/pakistan-army-chief-munir-visits-tehran-meets-irans-top-leadership/3077247/",
+    "actor": "Iran|Pakistan"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Report: Qatar-Pakistan plan trades interest on $6B frozen funds for IAEA visit",
+    "direction": "De-escalating",
+    "description": "Qatar's Al-Araby Al-Jadeed reported a Qatari-Pakistani compromise, said to have US approval and a positive Iranian response, under which Iran would receive interest on $6 billion frozen in Qatari banks in exchange for an undisclosed IAEA visit to nuclear sites. Sources told the outlet a breakthrough could come this week. Qatari spokesman Majed al-Ansari said 'the negotiation is ongoing,' and Iranian state media reported a Qatari delegation reached Tehran after Munir left.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/",
+    "actor": "Qatar|Pakistan"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Iran asks UN Security Council for emergency meeting over MOAB threat",
+    "direction": "Neutral",
+    "description": "Iran's UN ambassador Gholamhossein Darzi wrote to Secretary-General Guterres and the Security Council president requesting an emergency meeting over reported US options to use the GBU-43/B 'Mother of All Bombs' against Iran. Darzi called the threat 'a flagrant violation of international law,' asked the Council to condemn threats against Iran's civilian infrastructure and Netanyahu's stated intent to launch another war, and invoked Iran's right to self-defense under Article 51.",
+    "source": "https://safir.af/en/2026/10/20/iran-reports-us-threat-to-use-mother-of-all-bombs-to-security-council/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "IRGC's Javani threatens 7 Hormuz internet cables if infrastructure hit",
+    "direction": "Escalating",
+    "description": "Brig. Gen. Yadollah Javani, IRGC deputy commander for political affairs, told Al-Alam that if the US and its allies strike Iranian infrastructure, Iran would hit the seven major internet cables running under the Strait of Hormuz. He said Iran's response would be 'smart and, in some cases, offensive.' IRGC spokesman Hossein Mohebbi had said a day earlier: 'the enemy must know that we have new targets.'",
+    "source": "https://www.middleeastmonitor.com/20261020-irans-revolutionary-guards-threaten-to-target-key-internet-cables/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "IRGC claims third supertanker hit mine south of Hormuz; no corroboration",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said a supertanker carrying more than 2 million barrels of crude 'exploded and caught fire' after striking a mine south of the Strait of Hormuz, claiming the ship had switched off radar and navigation systems in violation of Iranian rules. The IRGC said two other 'violating' tankers had been set ablaze earlier. It did not name the vessel; the Joint Maritime Information Centre said earlier IRGC mine claims had 'no substantiation.'",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/10/20/iran-says-supertanker-violating-regulations-hits-mine-south-of-strait-of-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "UK sends RAF Typhoons for defensive patrols over Saudi Arabia",
+    "direction": "Escalating",
+    "description": "Defence Secretary Wes Streeting announced RAF Typhoon jets will fly defensive counter-air missions over Saudi Arabia to protect cities and critical infrastructure from Houthi attacks, alongside an A400M transport and military advisers. Britain's air-to-air refuelling mission for Saudi aircraft was extended 90 days. Streeting called the Houthi strikes 'absolutely despicable'; the jets will not strike targets in Yemen.",
+    "source": "https://www.thenationalnews.com/news/uk/2026/10/20/uk-mission-to-defend-saudi-arabia-adds-typhoon-jets/",
+    "actor": "UK|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Turkey sends Mecca defence pact with Saudi, Pakistan to parliament",
+    "direction": "Escalating",
+    "description": "Ankara submitted the trilateral Mecca Joint Defence Agreement with Saudi Arabia and Pakistan to parliament for ratification, three parliamentary sources told Reuters. Signed Aug. 7, the pact treats an armed attack on one member as an attack on all three. FM Hakan Fidan said it is not an 'offensive agreement'; a Turkish official said Ankara's contribution would be limited to equipment, intelligence sharing and weapons systems.",
+    "source": "https://theprint.in/world/turkey-submits-saudi-pakistan-defence-pact-to-parliament-for-ratification-sources-say/3077259/",
+    "actor": "Turkey"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Shabwa camp death toll rises to 73, recruits aged 18-20",
+    "direction": "Escalating",
+    "description": "A senior Yemeni official said the Houthi ballistic missile strike on the al-Alam training camp in Shabwa killed 73 people, up from 53, most of them recruits aged 18 to 20. Shabwa governor Awad bin al-Wazir said 14 remain missing. It is the deadliest single attack since Saudi-Houthi fighting escalated three months ago.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Katz: IDF stays in 700 sq km Lebanon zone until Hezbollah disarmed",
+    "direction": "Escalating",
+    "description": "Defense Minister Israel Katz said Israel has established a 700-square-kilometre security zone in southern Lebanon and 'the IDF will not move out of the security zone as long as Hezbollah has not been disarmed throughout Lebanon.' He threatened strikes on Beirut's Dahiyeh after any drone or missile fire at northern Israel, and said the zone would expand toward Nabatieh and the Litani if Hezbollah joins an Iranian attack.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "UK police re-arrest 2 men over Iran-linked RAF Fairford plot",
+    "direction": "Neutral",
+    "description": "Counter Terrorism Policing re-arrested a 24-year-old British man and a 25-year-old British-Iranian dual national from Westminster under Section 3 of the National Security Act on suspicion of assisting a foreign intelligence service. Police said 'the country to which the investigation relates is Iran'; Commander Laurence Taylor said Iranian state involvement remains 'highly likely.' Seven men have been arrested since five were detained outside the base, used by US B-1 bombers, on Sept. 27.",
+    "source": "https://www.cnn.com/2026/10/20/uk/two-men-arrested-iran-uk-base-fairford-intl",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Brent hits five-month high of $111.99 before settling at $108.79",
+    "direction": "Neutral",
+    "description": "Brent crude touched an intraday five-month high of $111.99 a barrel before settling down 76 cents at $108.79. The November WTI contract expired at $101.79, down $1.87. IEA chief Fatih Birol said he sees no 'credible pathway that 2027 will be a year of normalisation,' citing about 400 million barrels of lost supply.",
+    "source": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-russia-october-20",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "France secures 200,000 tons/month of diesel from UAE, Bahrain",
+    "direction": "Neutral",
+    "description": "President Macron secured 100,000 tons a month of diesel each from the UAE and Bahrain, to be trucked overland via Oman. With Saudi deliveries, France's total reaches 295,000 tons monthly, just over 10% of consumption. Macron has blamed the Iran war for cost-of-living protests in France.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/",
+    "actor": "France|UAE"
+  },
+  {
     "date": "2026-10-20",
     "title": "IRGC claims 54th US MQ-9 drone shot down over Hormuz",
     "direction": "Escalating",
