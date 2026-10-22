@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-10-22",
+    "title": "IRGC claims it hit 4 tankers in northern Gulf; 3 more strike mines",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said Thursday its forces simultaneously struck four vessels conducting ship-to-ship oil transfers in the northern-central Persian Gulf, leaving all four burning, and that three other vessels caught fire after hitting mines west of the Strait of Hormuz overnight. It accused the US military of steering ships into a mined 'unauthorized' passage and warned that 'if this trend continues, the scope of confrontation will extend to the aggressor bases in the region.' Iran named no vessels, flags or casualties, and no independent confirmation was available.",
+    "source": "https://www.presstv.co.uk/Detail/2026/10/22/778916/IRGC-Navy-four-vessels-hit-Persian-Gulf",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Brent tops $110 after Dammam strike and US Saudi drawdown",
+    "direction": "Escalating",
+    "description": "Brent crude rose $1.29 (1.2%) to $110.11 a barrel by 00:34 GMT on Oct. 22, and WTI rose 97 cents to $98.12. Traders reacted to the Houthi-attributed strike on Dammam's airport and the US order pulling non-emergency diplomats out of Saudi Arabia.",
+    "source": "https://www.foxnews.com/live-news/iran-war-news-trump-russia-houthi-october-21",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Strike on Dammam airport kills 1, wounds 8; Shaybah drone debris kills 2",
+    "direction": "Escalating",
+    "description": "Saudi Arabia's General Authority of Civil Aviation said a late-evening attack on King Fahd International Airport in Dammam killed one person and injured eight, and operations halted from about 23:15 local time (20:15 UTC). Earlier the same day, the Energy Ministry said debris from a drone intercepted on its way to Saudi Aramco's Shaybah oilfield near the UAE border killed two workers, a Filipino and a Nepali, and injured two. The coalition said it destroyed four drones over the Eastern Province; Riyadh did not name the attacker.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/10/22/us-pulls-diplomats-from-saudi-arabia-but-denies-wider-gulf-withdrawal/",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "US orders non-emergency diplomats and families out of Saudi Arabia",
+    "direction": "Escalating",
+    "description": "State Department spokesman Tommy Pigott ordered non-emergency US government employees and their families to leave Saudi Arabia, citing Iran-backed Houthi strikes on civilian airports that caused deaths and 'severe travel disruptions.' Pigott said the order applies 'in Saudi Arabia only' and called reports of a Gulf-wide order 'inaccurate,' but four US officials told Reuters other Gulf missions would follow, and a diplomatic source told AFP families in the UAE, Jordan, Qatar and Bahrain had been told to leave. It is the second US drawdown from the kingdom this year.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/10/22/us-pulls-diplomats-from-saudi-arabia-but-denies-wider-gulf-withdrawal/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Trump denies negotiating with Iran, says US has 'decimated' it",
+    "direction": "Neutral",
+    "description": "Trump said Wednesday the US is not negotiating with Iran and that the situation would be resolved 'fairly soon.' In the Oval Office he said the US had 'decimated' Iran, that Russia had 'very little input,' and that Iran's inflation stood at 301%; at a South Carolina rally he said a nuclear-armed Iran would use a weapon 'within one day or one hour.' He repeated that the US 'could leave now' and referred to Hormuz as the 'Trump Strait.'",
+    "source": "https://www.foxnews.com/live-news/iran-war-news-trump-russia-houthi-october-21",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Araghchi: indirect talks continue; US seeking added clauses to 7-day plan",
+    "direction": "Neutral",
+    "description": "Foreign Minister Abbas Araghchi said Iran and the US are still negotiating indirectly through Pakistani and Qatari mediators over Iran's September seven-day ceasefire proposal, and that Washington wants to add clauses to it. 'The negotiating table remains in place,' he said. On X he said Iran would give diplomacy 'another chance' if the US shows sincerity, but 'if US chooses war over diplomacy, it'll certainly result in an even greater strategic failure.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "FT: Trump blocked Netanyahu's planned Oct. 10 multiday strike on Iran",
+    "direction": "Neutral",
+    "description": "The Financial Times, citing three people familiar with the plans, reported that Netanyahu ordered the IDF to prepare a multiday bombing campaign for the weekend of Oct. 10 targeting nuclear sites, power plants, other civilian infrastructure and regime sites, and that it was shelved because Trump opposed resuming the war before the Nov. 3 midterms. Israel has since given US officials an updated target list; one source said 'There will either be a deal or an attack.' White House deputy spokeswoman Anna Kelly ruled out US strikes before the midterms; Jerusalem Post sources disputed that Israel had been about to strike.",
+    "source": "https://www.ynetnews.com/article/hkbuyph2fx",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "US quietly thins troop presence at Mideast bases over Houthi, Iran threats",
+    "direction": "Neutral",
+    "description": "A US official and a senior military official told CBS News the military has been quietly reducing its footprint at regional posts because of Houthi and Iranian threats, as first reported by NBC News. CENTCOM spokesman Capt. Tim Hawkins said: 'We do not discuss related movements for operational security reasons.' Several US embassies have moved to 'restricted operations' status.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Houthis fire ballistic missile at Saudi operations room at Aden's Badr Camp",
+    "direction": "Escalating",
+    "description": "Houthi spokesman Yahya Saree said a ballistic missile hit a Saudi operations room at Badr Camp in Aden: 'The strike was accurate and direct.' Aden police confirmed an explosion but gave no casualty figures. It was the third Houthi attack on Aden in a week.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Riyadh's King Khalid airport partially reopens after 11-day closure",
+    "direction": "De-escalating",
+    "description": "King Khalid International Airport, shut since the Oct. 10 Houthi strike that killed 13, resumed limited operations, with Saudia and Flynas flying. Lufthansa and Air France cancelled Riyadh flights through mid-November.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Treasury sanctions Greek-Panamanian law firm over Iran shadow fleet",
+    "direction": "Escalating",
+    "description": "The US Treasury sanctioned the Panamanian-Greek law firm Karnakis and Karnakis, plus Singapore- and UAE-based shipping agents and a fleet of cargo vessels, under 'Operation Economic Outcast' targeting Iran's shadow fleet. Treasury Secretary Scott Bessent warned evaders: 'we will find you and sanction you.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Axios: dozens of Israeli jets flew 800 miles to Iran's border, turned back",
+    "direction": "Escalating",
+    "description": "Dozens of Israeli fighter jets and refuelling aircraft flew more than 800 miles through Syrian and Iraqi airspace on Monday along a route consistent with a strike on Iran, then turned back at the border, Axios reported on Oct. 21 citing Israeli and US officials. Israel notified Washington in advance and called it a training exercise to deter Iran before the Oct. 27 election; some US officials believed Israel hoped Iranian air defences would fire, giving it grounds to strike.",
+    "source": "https://www.iranintl.com/en/202610212139",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-10-21",
     "title": "Iraq shuts Sheeb crossing with Iran; more closures to follow",
     "direction": "Escalating",
