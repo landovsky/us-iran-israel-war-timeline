@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-10-23",
+    "title": "Saudi coalition downs Houthi ballistic missile over Riyadh, 2 drones in south",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition in Yemen said early Friday it 'intercepted and destroyed a ballistic missile' launched by the Houthis toward Riyadh, after loud explosions were heard in the capital and residents received mobile alerts. The coalition said it also destroyed two Houthi drones launched toward the kingdom's southern region; Saudi Civil Defence issued and then cleared alerts for Riyadh and Najran. No casualties were reported.",
+    "source": "https://english.news.cn/20261023/7d2477d6c5b345f39f4581b5580230e8/c.html",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Trump invokes Defense Production Act for oil production and refining",
+    "direction": "Neutral",
+    "description": "Trump signed a presidential memo invoking the Cold War-era Defense Production Act, declaring petroleum production, refining, pipelines and fuel storage 'essential to national defense' and directing the Secretary of War to use its financial incentives. The memo cited 'constrained financing, long lead times, permitting and infrastructure bottlenecks' but named no projects. Oil and diesel prices have surged since the US and Israel attacked Iran on Feb. 28; a Reuters/Ipsos poll put Trump's approval on the economy at 36% ahead of the Nov. 3 midterms.",
+    "source": "https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Trump accuses Iran of 'making up fake hits, mines' to lift oil prices",
+    "direction": "Neutral",
+    "description": "In an 11:40 EDT Truth Social post, Trump wrote that 'Iran is doing everything they can to drive up the price of Oil prior to the U.S. Midterm Election,' including 'making up fake hits, mines, and everything else,' and claimed more oil now transits Hormuz than before the war. The post came hours after the IRGC claimed 7 ships hit overnight. Brent settled up $3.51 at $112.33 a barrel, its highest since May, and Saudi Arabia's main stock index fell 2.5%.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-912639",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Aramco evacuates Dhahran headquarters for first time in the war",
+    "direction": "Escalating",
+    "description": "Saudi Aramco told staff to evacuate its Dhahran headquarters and work remotely, six people familiar with the matter told Reuters — the first such order since the Iran war began. The building houses the operations centre overseeing Aramco's rigs, refineries, export terminals and pipelines, and was extensively damaged by a Houthi missile strike earlier in October. Aramco did not comment.",
+    "source": "https://www.timeslive.co.za/news/world/2026-10-22-saudi-aramco-evacuates-dhahran-hq-after-houthi-attack-sources-say/",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Houthis claim strikes on Saudi Defense Ministry, Yanbu; Dammam toll rises to 2",
+    "direction": "Escalating",
+    "description": "Houthi spokesman Yahya Saree claimed four ballistic missile and drone operations in 48 hours against Saudi Arabia's Defense Ministry in Riyadh, Aramco facilities in Yanbu, and King Fahd International Airport in Dammam; Riyadh did not confirm the ministry or Yanbu hits. Saudi civil aviation authorities said the Dammam airport death toll rose to two — a Saudi citizen and an Indian national — with eight wounded. Saree said Saudi attacks had killed or wounded 562 people in Yemen since mid-July; the coalition said it downed four drones over Riyadh and Medina.",
+    "source": "https://dawn.com/news/2039176/houthi-attacks-on-saudi-sites-claim-four-more-lives",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Houthis say Saudi Arabia struck yacht carrying 14 Indians off Zuqar",
+    "direction": "Escalating",
+    "description": "Houthi military spokesman Yahya Saree alleged that Saudi forces targeted a yacht carrying 14 Indian nationals near Zuqar Island in the southern Red Sea, and said Houthi forces were rescuing those aboard. India's embassy in Yemen said it was seeking details; there was no independent confirmation or Saudi comment.",
+    "source": "https://www.theweek.in/news/middle-east/2026/10/22/14-indians-rescued-after-saudi-enemy-strikes-yacht-off-yemen-s-coast-houthis.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "CENTCOM: 100 days of blockade cost Iran $25 billion in crude exports",
+    "direction": "Neutral",
+    "description": "US Central Command marked 100 days of its reinstated naval blockade of Iranian ports, saying it has prevented at least $25 billion in Iranian crude exports. Strict enforcement resumed July 14 after the Islamabad memorandum collapsed; CENTCOM said 138 ships had been redirected as of Oct. 17. Kpler separately told the WSJ that Iran's floating storage had run dry by mid-October: 'There's no more oil to discharge to China anymore.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Turkey to host first E3–R4 foreign ministers' meeting on Hormuz, Yemen",
+    "direction": "De-escalating",
+    "description": "Turkish Foreign Minister Hakan Fidan will host the foreign ministers of the UK, France and Germany (E3) and Saudi Arabia, Pakistan and Egypt in Istanbul on Oct. 23, the first meeting in this format. The agenda covers the Strait of Hormuz, the Saudi-Houthi war, Gaza and Ukraine; Fidan is expected to call for a diplomatic end to the US-Iran conflict and open shipping through Hormuz and Bab el-Mandeb.",
+    "source": "https://www.usnews.com/news/world/articles/2026-10-22/turkey-to-host-regional-and-european-foreign-ministers-for-talks-on-regional-conflicts-source-says",
+    "actor": "Turkey"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Israel sanctions Coral Oil over 130,000 liters of fuel to Hezbollah",
+    "direction": "Neutral",
+    "description": "Israel's Defense Ministry sanctioned Coral Oil, a UK-registered Lebanese company controlled by the Yamin family, over roughly 130,000 liters of fuel it said were supplied to Hezbollah-linked Al-Amana.",
+    "source": "https://foxnews.com/live-news/us-iran-war-strait-hormuz-oil-prices-10-22-26",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-10-22",
     "title": "IRGC claims it hit 4 tankers in northern Gulf; 3 more strike mines",
     "direction": "Escalating",
@@ -14,6 +86,22 @@
     "description": "Brent crude rose $1.29 (1.2%) to $110.11 a barrel by 00:34 GMT on Oct. 22, and WTI rose 97 cents to $98.12. Traders reacted to the Houthi-attributed strike on Dammam's airport and the US order pulling non-emergency diplomats out of Saudi Arabia.",
     "source": "https://www.foxnews.com/live-news/iran-war-news-trump-russia-houthi-october-21",
     "actor": "Other"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "NYT: US, Israel plan 3-day strike campaign on Iran after midterms",
+    "direction": "Escalating",
+    "description": "The New York Times reported that US and Israeli militaries have drawn up plans for a short, intensive operation of about three days after the Nov. 3 midterms, targeting Iran's nuclear sites, including Pickaxe Mountain, energy infrastructure and missile and drone arsenals. Drills including strike-simulation flights over Iraq have increased, and US forces are expected to be in place in early November; Trump has not approved the operation. A White House official said all options remain on the table.",
+    "source": "https://www.timesofisrael.com/us-israel-said-to-draft-plans-for-resumed-strikes-on-iran-after-midterm-elections/",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "IRGC adopts 'offensive' doctrine; says missile stock up 1.5x since 2025",
+    "direction": "Escalating",
+    "description": "IRGC spokesman Hossein Mohebi announced a shift to an 'offensive and asymmetrical' doctrine: 'Now we say that if a country attacks us, we will both respond and launch an offensive.' He said Iran's missile stockpile has grown 1.5 times since the June 2025 12-day war, without giving figures, and that forces are preparing to unveil the 'father of all bombs.'",
+    "source": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent",
+    "actor": "Iran"
   },
   {
     "date": "2026-10-21",
