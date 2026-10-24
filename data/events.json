@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-10-24",
+    "title": "Iran's Abdollahi: US warships barred from Gulf 'under any circumstances'",
+    "direction": "Escalating",
+    "description": "Iran's armed forces chief of staff, Maj. Gen. Ali Abdollahi, said on Saturday that Iran will not allow US military vessels to enter the Persian Gulf 'under any circumstances and at any time,' according to Iranian state television and Mehr. He said Trump would 'take that dream to his grave.' The remarks followed US envoy Tom Barrack's statement that a US strike on Iran could come as soon as this weekend.",
+    "source": "https://www.anews.com.tr/middle-east/2026/10/24/iran-says-us-military-not-allowed-to-enter-gulf-under-any-circumstances",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "DNI memo: Iranian plots to kill Americans at 'advanced stages'",
+    "direction": "Escalating",
+    "description": "Director of National Intelligence Jay Clayton warned Secretary of State Marco Rubio in a declassified memo dated Oct. 23, copied to CIA Director John Ratcliffe, that Iran has 'substantially increased efforts to target U.S. personnel.' Clayton wrote that 'the lethal plotting efforts by the Iranians against U.S. citizens have reached advanced stages in both the Middle East and certain other countries.' The memo names no targets or countries; Axios first reported it.",
+    "source": "https://www.cbsnews.com/news/iran-target-u-s-personnel/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "US cuts staff at embassies in Jordan, Lebanon, Qatar, UAE",
+    "direction": "Escalating",
+    "description": "The State Department said it is reducing staffing at US embassies in Jordan, Lebanon, Qatar and the UAE under 'restricted operations' status, citing Iranian and Houthi threats; the embassies remain open. In Beirut, it ordered non-emergency personnel and family members to leave. The moves follow this week's ordered departure of non-emergency staff and all families from Saudi Arabia; officials deny they are tied to planned strikes on Iran.",
+    "source": "https://www.usnews.com/news/politics/articles/2026-10-23/us-is-reducing-staffing-at-4-middle-east-embassies-over-increased-threats-from-iran",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Barrack: US strike on Iran 'absolutely' possible this weekend",
+    "direction": "Escalating",
+    "description": "US Ambassador to Turkey Tom Barrack said a US strike on Iran could 'absolutely' happen this weekend, while adding that Trump remains open to a deal, despite Trump's pledge of no strikes before the Nov. 3 midterms. Trump said he knew nothing of weekend strike plans, but told a rally at Florida Gulf Coast University in Fort Myers: 'We may do another little Epic Fury, or they'll agree.' Earlier Friday he said the US 'could take the whole country' and that 'the Hormuz Strait is ours.'",
+    "source": "https://www.timesofisrael.com/liveblog_entry/us-envoy-there-absolutely-could-be-a-us-strike-on-iran-this-weekend",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Waltz: Iran war could last another year; blockade sustainable",
+    "direction": "Escalating",
+    "description": "US Ambassador to the UN Mike Waltz told the Financial Times the war could last another year and that the US Navy can keep its blockade of Iranian ports 'for the foreseeable future.' He said US objectives are not met until Iran's highly enriched uranium is dealt with and a deal on domestic enrichment is reached, while saying Washington still wants Tehran back at the table. CENTCOM says the blockade has blocked at least $25 billion in Iranian crude exports over 100 days.",
+    "source": "https://iranintl.com/en/202610234921",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "First R4+E3 ministers' meeting in Istanbul urges restraint, Hormuz reopening",
+    "direction": "De-escalating",
+    "description": "Turkish FM Hakan Fidan hosted foreign ministers from Saudi Arabia, Egypt and Pakistan (R4) and Britain, France and Germany (E3), with Italy attending, in Istanbul on Friday; they urged restraint and the reopening of Hormuz and Bab el-Mandeb. Italy's Antonio Tajani said the problem 'cannot be solved' militarily; French FM Jean-Noël Barrot said further US-Iran escalation 'would leave no winners.' Germany's foreign minister said the E3 are ready to negotiate with Iran; Iran did not attend.",
+    "source": "https://www.france24.com/en/live-news/20261023-european-mideast-foreign-ministers-hold-talks-in-istanbul",
+    "actor": "Turkey"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Araghchi: Pezeshkian to meet Putin in Moscow next week",
+    "direction": "Neutral",
+    "description": "Iranian FM Abbas Araghchi announced on Instagram that President Masoud Pezeshkian will travel to Moscow next week to meet Vladimir Putin, continuing talks held during Sergei Lavrov's visit to Tehran. 'Next week, these discussions and consultations will continue in Moscow with the participation of the presidents of both countries,' he wrote. It would be Pezeshkian's first meeting with Putin in Russia since the war began.",
+    "source": "https://thisisbeirut.com.lb/news/politics/the-iranian-and-russian-presidents-to-meet-next-week-in-moscow",
+    "actor": "Iran|Russia"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Reuters: Iran has detailed plans to cut Gulf undersea cables",
+    "direction": "Escalating",
+    "description": "Two senior Iranian security officials told Reuters that Tehran has drawn up detailed plans to attack undersea communications cables in the Gulf if the US and Israel strike Iran again, and would try to block repairs to prolong outages. They did not say how or where. TeleGeography's Alan Mauldin said less than 1% of international bandwidth passes through the Strait of Hormuz.",
+    "source": "https://www.thedailystar.net/news/world/global-conflicts/news/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-4306161",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Iran says 'non-compliant' ships halted in Hormuz; IRGC: US 600-700 km away",
+    "direction": "Escalating",
+    "description": "Iranian state TV said movement of 'non-compliant' vessels through the Strait of Hormuz had been completely halted and warned of 'much more forceful' action if US escorts resume. IRGC Navy commander Ali Ozmaei said US forces were 600 to 700 km from the strait: 'America no longer has a place in the Strait of Hormuz.' Trump said more oil moved through Hormuz last week than at any time before the war.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Tanker oil spill closes all Umm Al Quwain beaches in UAE",
+    "direction": "Escalating",
+    "description": "The UAE Ministry of Climate Change and Environment closed all beaches and coastal areas in Umm Al Quwain after a tanker oil spill reached the shore; Sharjah closed Al Hamriya Beach and residents in Sharjah, Ajman and northern Dubai reported fumes. Orbital Risk Intelligence and the Conflict and Environment Observatory traced the slick, about 160 sq km, to the tanker Gem No. 2, hit by a projectile on Oct. 9 west of Al Jazeera, UAE. Authorities have not named the ship or the cause.",
+    "source": "https://www.thenationalnews.com/news/uae/2026/10/23/umm-al-quwain-beaches-uae-tanker-oil-spill/",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Brent tops $117, highest since March, on strike fears",
+    "direction": "Escalating",
+    "description": "Brent crude rose about 3.5% to above $117 a barrel on Friday, its highest since March and up from under $97 at the start of October, as US officials floated renewed strikes on Iran. The Dow fell about 550 points, just over 1%. Treasury Secretary Scott Bessent said Gulf exports via Hormuz, the Gulf of Oman and the Red Sea are back to about 17-18 million barrels a day, above the Jan-Feb 2026 average.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+    "actor": "Other"
+  },
+  {
     "date": "2026-10-23",
     "title": "Saudi coalition downs Houthi ballistic missile over Riyadh, 2 drones in south",
     "direction": "Escalating",
