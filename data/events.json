@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-10-26",
+    "title": "Saudi, Pakistani, Turkish security chiefs go to Tehran for Mecca pact talks",
+    "direction": "De-escalating",
+    "description": "Saudi Defense Minister Prince Khalid bin Salman led a delegation to Tehran on Oct. 26 to meet President Masoud Pezeshkian and Supreme National Security Council secretary Mohsen Rezaei, alongside Pakistani army chief Asim Munir and Turkish intelligence chief Ibrahim Kalin. Saudi deputy minister Rayed Krimly said the visit was part of \"ongoing efforts by the Makkah pact states to deescalate the current situation\" and supported Qatari and Pakistani mediation. Reuters called it the first high-level contact between Iran and all three Mecca pact states since Houthi attacks on Saudi Arabia escalated. Munir proposed the meeting during his Tehran visit the previous week.",
+    "source": "https://www.arabnews.pk/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3005285",
+    "actor": "Saudi Arabia|Pakistan|Turkey"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Saudi coalition says it destroyed 4 Houthi launchers, 5 missile tunnels",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said it intercepted a Houthi ballistic missile fired at Riyadh early on Oct. 26 and destroyed the two launchers in Sanaa used against the capital. Spokesman Turki al-Maliki later said coalition strikes destroyed five tunnels storing ballistic missiles, four launchers and a missile storage facility. Houthi spokesman Yahya Saree said Riyadh's King Khalid International Airport was \"successfully targeted\" and that drones hit East-West pipeline pumping stations; Riyadh did not confirm.",
+    "source": "https://cyprus-mail.com/2026/10/26/houthis-claim-attacks-on-saudi-oil-facilities-and-riyadh-airport",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Trump: 'Do I make a deal with them, or do I finish them off?'",
+    "direction": "Neutral",
+    "description": "Trump told Fox News' \"Sunday Morning Futures\" on Oct. 25 he was choosing between a deal with Iran and further military action: \"do I make a deal with them, or do I finish them off?\" He said the US now controls the Strait of Hormuz and that Iran was not making major moves at its nuclear facilities. Later that day he said \"There will not be a strike today,\" after Barrack had said a weekend strike was possible. Brent futures fell 1.8% to $114.62 on the remarks.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Netanyahu warns Iran against disrupting Oct. 27 Israeli election",
+    "direction": "Escalating",
+    "description": "Netanyahu said in a video on Oct. 25 that \"we have intelligence signs that our enemies, Iran and its proxies, could challenge us with attacks in order to disrupt the elections,\" adding: \"Don't test us. You will suffer disproportionate blows.\" Israelis vote on Tuesday, Oct. 27. Channel 12 reported a sharp dispute between Netanyahu and army chief Eyal Zamir over a new Iran war directive, with Zamir demanding full deliberation and legal sign-off; Netanyahu denied the report.",
+    "source": "https://www.manilatimes.net/2026/10/26/world/americas-emea/netanyahu-warns-iran-may-try-to-disrupt-election-says-dont-test-us/2453570",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Saudi coalition intercepts 10 Houthi ballistic missiles fired at south",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said it intercepted 10 ballistic missiles aimed at southern Saudi Arabia on Oct. 25 and a cruise missile targeting Khamis Mushait, as sirens sounded in Taif and Jazan. Houthi spokesman Yahya Saree claimed \"three military operations with dozens of ballistic missiles\" against Riyadh airport, Khamis Mushait and Jazan, and warned airlines that the airport \"is not safe because it is a military target.\" GCC Secretary-General Jasem AlBudaiwi called the barrage \"a grave violation of the sanctity of the Holy Sites.\"",
+    "source": "https://aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Iran says messages to US flow via intermediaries; Qatari mediators in Tehran",
+    "direction": "De-escalating",
+    "description": "Foreign Ministry spokesman Esmail Baghaei said on Oct. 25 that Tehran had not closed the door to diplomacy and was exchanging messages with Washington through intermediaries, while accusing the US of insisting on unilateral demands. A source told Reuters that Qatari mediators were in Tehran as part of a US-coordinated effort to lower tensions. Parliament speaker Mohammad Bagher Ghalibaf said the US had entered a \"quagmire\" and must take steps to withdraw.",
+    "source": "https://www.iranintl.com/en/liveblog/202610244311",
+    "actor": "Iran|Qatar"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "CENTCOM chief Cooper visits Hormuz, claims 3,000 escorted transits",
+    "direction": "Neutral",
+    "description": "CENTCOM commander Adm. Brad Cooper visited the Strait of Hormuz on Oct. 25; CENTCOM said US forces had helped more than 3,000 commercial vessels transit over six months and that Gulf partners exported over 1.5 billion barrels of crude, and claimed escort routes were clear of Iranian mines. UKMTO has recorded 27 attacks on vessels around Hormuz in October, and tracking firms have disputed the US figures.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Ghalibaf urges Iranians to cut natural gas use 10% before winter",
+    "direction": "Neutral",
+    "description": "Parliament speaker Mohammad Bagher Ghalibaf called on Oct. 25 for Iranian households to cut natural gas consumption by at least 10% before winter and proposed paying residents who save. AP reported the same day that rice prices in Iran were up more than 60% and beef more than 150%, with a mid-range monthly salary of 400 million rials worth about $150.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-10-25",
     "title": "Iran's army claims it downed US LUCAS drone over Bandar Abbas",
     "direction": "Escalating",
