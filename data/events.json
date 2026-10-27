@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-10-27",
+    "title": "Israelis vote in election framed by Netanyahu as referendum on Iran",
+    "direction": "Neutral",
+    "description": "Polls opened at 7 a.m. on Oct. 27 at more than 12,000 stations, with exit polls due at 10 p.m. Final surveys had Gadi Eisenkot's Yashar party averaging 22 seats to Likud's 19.75, with neither bloc near a 61-seat majority. Netanyahu claimed that \"Gadi Eisenkot will not strike Iran,\" and Defense Minister Israel Katz urged voters to back Netanyahu \"in order to finish the job.\"",
+    "source": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Kayhan urges Iran to rethink nuclear doctrine; aide warns of 'fewer restraints'",
+    "direction": "Escalating",
+    "description": "Hard-line daily Kayhan argued on Oct. 27 that Iran would not have lost its leader if it had nuclear weapons, and called for reconsidering Iran's nuclear doctrine, citing India, Pakistan and North Korea. Rasoul Sanaei-Rad, a deputy in the supreme leader's office, said Iran would use its full capabilities with fewer restraints in any future war and respond with \"new surprises.\" Government spokesperson Fatemeh Mohajerani said Iran seeks peace but will respond to any attack.",
+    "source": "https://www.iranintl.com/en/liveblog/202610244311",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Saudi coalition intercepts 3 Houthi ballistic missiles aimed at Eastern Province",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said early on Oct. 27 that it shot down three ballistic missiles fired from Yemen toward the Eastern Province, home to Aramco's main facilities, spokesman Turki al-Malki said. Civil Defense alerts for the Eastern Province and Al-Kharj were later lifted. The Houthis again claimed strikes on Riyadh airport and East-West pipeline pumping stations.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Egypt's parliament authorizes Sisi to deploy forces to defend Saudi Arabia",
+    "direction": "Escalating",
+    "description": "Egypt's House of Representatives approved by a two-thirds majority on Oct. 26, in a closed-door roll call, President Abdel Fattah el-Sisi's request to take measures with Riyadh to defend the kingdom's \"territory, sovereignty and holy sites against any external aggression.\" The constitution requires 398 of 596 members; no tally was published. Sisi has said Egypt will act only if Saudi Arabia asks and will not attack Yemen; no formal Saudi request has been announced.",
+    "source": "https://www.thenationalnews.com/news/mena/2026/10/26/egypts-parliament-authorises-el-sisi-to-send-troops-to-defend-saudi-arabia/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Reuters: Hezbollah got tens of millions from Iran to prepare new war",
+    "direction": "Escalating",
+    "description": "Two Lebanese security sources told Reuters on Oct. 26 that Hezbollah has spent about three months preparing for renewed war with Israel after receiving tens of millions of dollars from Iran, on top of about $200 million earlier sent for displaced families. The group is buying explosives, producing attack drones and rebuilding command-and-control structures, but has not fully restocked weapons or fighters. Hezbollah's media office said resistance is a legitimate right while Israel occupies Lebanese land.",
+    "source": "https://www.arabnews.com/middle-east/hezbollah-readies-for-new-regional-war-with-funds-from-iran-sources-say-3008368",
+    "actor": "Lebanon|Iran"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Kuwait sentences 3 to death for Iran-Hezbollah plot to kill interior minister",
+    "direction": "Escalating",
+    "description": "A Kuwaiti criminal court on Oct. 26 sentenced three men to death for spying for Iran and Hezbollah and plotting to assassinate First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousef Al-Sabah, some with explosives. They include Hussein Abdallah al-Maatouq, secretary-general of the National Islamic Alliance. Other defendants received five-year terms; the verdict can be appealed.",
+    "source": "https://kuwaittimes.com/article/52455/kuwait/other-news/3-sentenced-to-death-for-spying-for-iran-hezbollah-plotting-to-assassinate-first-deputy-pm/",
+    "actor": "Kuwait"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "CNN: US forces could launch major Iran strikes within 96 hours of order",
+    "direction": "Escalating",
+    "description": "CNN reported on Oct. 26 that US forces in the Middle East could begin major operations against Iran within 96 hours of an order from Trump, going beyond limited strikes on radars and launchers; a source said \"It will be a big effort.\" The White House said it does not comment on \"sensitive military plans that may or may not exist.\" At a Mississippi rally the same day, Trump called the April ceasefire \"sort of a waste of time\" and said \"Iran started the war with us.\"",
+    "source": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-saudi-october-26",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Bessent tells Iranians to stockpile fuel, predicts 25% economic contraction",
+    "direction": "Escalating",
+    "description": "Treasury Secretary Scott Bessent told Iran International on Oct. 26 that Iran's economy could shrink by more than 25% in the year to March 2027, urged Iranians to stock up on gasoline and heating fuel and not to pay taxes. He said there had been \"no loadings at Kharg Island\" and the port blockade had run for eight weeks. CENTCOM says the blockade has cost Iran at least $25 billion in oil revenue.",
+    "source": "https://www.iranintl.com/en/liveblog/202610244311",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Katz: Israel has 'absolutely no intention' of attacking Iran before vote",
+    "direction": "De-escalating",
+    "description": "Defense Minister Israel Katz said on Oct. 26 that Israel had \"absolutely no intention\" of attacking Iran before the Oct. 27 election, and called reports of a Netanyahu-Zamir clash over a new Iran directive \"entirely baseless and false.\" Netanyahu denied he would fire army chief Eyal Zamir, saying \"I do intend to permanently remove the Iranian nuclear threat\" together with Trump.",
+    "source": "https://www.iranintl.com/en/liveblog/202610244311",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "UN rapporteur: 4,000+ arrested in Iran in war's first 10 weeks",
+    "direction": "Neutral",
+    "description": "UN Special Rapporteur Mai Sato's report, due before the UN General Assembly on Oct. 28, says more than 4,000 people were arrested in Iran on security-related accusations between Feb. 28 and May 9, and at least 29 people were executed in connection with the January protests. Sato wrote that the war \"did not reduce repression; it intensified it.\"",
+    "source": "https://www.iranintl.com/en/liveblog/202610244311",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "UKMTO: vessel on fire 63 nautical miles southeast of Iraq's al-Faw",
+    "direction": "Escalating",
+    "description": "UKMTO said on Oct. 26 it received multiple third-party reports of a vessel on fire about 63 nautical miles (117 km) southeast of al-Faw, Iraq, and labeled it \"suspicious activity.\" Crew status and the cause were unknown. UKMTO separately said the crew of a tanker disabled by an unknown projectile leaving Hormuz on Oct. 23 was safe.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq",
+    "actor": "Other"
+  },
+  {
     "date": "2026-10-26",
     "title": "Saudi, Pakistani, Turkish security chiefs go to Tehran for Mecca pact talks",
     "direction": "De-escalating",
