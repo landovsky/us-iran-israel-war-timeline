@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-10-28",
+    "title": "Partial count: Netanyahu bloc at 56 seats, 5 short of majority",
+    "direction": "Neutral",
+    "description": "With 60.2% of votes counted on Oct. 28, Netanyahu's bloc held 56 Knesset seats, Gadi Eisenkot's bloc 48 and Arab parties 16, leaving neither side at the 61 needed to govern. Likud led with 28 seats to Yashar!'s 21. Netanyahu urged that \"the Zionist majority must come to its senses and unite\"; Eisenkot declared, \"The public chose change.\"",
+    "source": "https://www.ynetnews.com/article/hjnatbkaml",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Saudi coalition downs Houthi missile aimed at Taif; Jeddah, Yanbu alerted",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said early on Oct. 28 that it intercepted and destroyed a Houthi ballistic missile fired toward Taif. Civil Defense issued early warnings of a potential hostile threat in Jeddah and Yanbu, the Red Sea export hub, before declaring the danger passed minutes later.",
+    "source": "https://www.arabnews.com/saudi-arabia/saudi-led-coalition-intercepts-houthi-missile-fired-towards-taif-3008560",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Israeli exit polls show no bloc at 61; turnout highest since 1988",
+    "direction": "Neutral",
+    "description": "Revised exit polls on Oct. 27 put Likud first with 27 seats on Channels 12, 13 and Kan 11, reversing final pre-election polls that had Eisenkot's Yashar! ahead. Channel 12 gave Netanyahu's bloc 52 seats to Eisenkot's 49; Kan and Channel 13 had the blocs tied at 51, with Arab parties at 18-19. Turnout reached 74.3% by 8 p.m., the highest at that hour since 1988, versus 66.3% in 2022.",
+    "source": "https://www.ynetnews.com/article/skd97fc2gl",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "WSJ: US tells Gulf allies to expect short, intense Iran campaign after midterms",
+    "direction": "Escalating",
+    "description": "The Wall Street Journal reported on Oct. 27 that Washington warned several Gulf Arab states through diplomatic and military channels to prepare for a brief but intense military campaign against Iran after the Nov. 3 midterms. Trump has not made a final decision but is leaning toward a large post-election attack that could target Iranian infrastructure and nuclear sites, per people familiar with his thinking.",
+    "source": "https://www.ynetnews.com/article/s1c65jkazg",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Reuters: US Iran war spending tops $47 billion",
+    "direction": "Neutral",
+    "description": "The US military has spent more than $47 billion on the Iran war, over 25% above the $37.5 billion estimate Defense Secretary Pete Hegseth gave in July, Reuters reported on Oct. 27 citing Pentagon data. Munitions replacement accounts for about $29 billion and replacement equipment, including lost aircraft and drones, more than $6 billion. The figures do not clearly include repairs to US bases hit by Iranian missiles and drones.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Grossi tells UN Security Council IAEA cannot verify Iran's 440 kg of HEU",
+    "direction": "Neutral",
+    "description": "IAEA chief Rafael Grossi told the Security Council on Oct. 27 that the agency \"has not been able to verify that there has been no diversion\" of Iran's declared nuclear material, including 440 kg of high-enriched uranium, and that Iran has refused access to the Isfahan enrichment plant. He said the IAEA has seen no activity to repair facilities damaged in the strikes. The agenda passed 11-2, with Russia and China opposed; US envoy Mike Waltz said the US \"will never let you obtain a nuclear weapon.\"",
+    "source": "https://www.middleeastmonitor.com/20261027-un-nuclear-watchdog-chief-urges-iran-to-grant-iaea-access-to-verify-nuclear-material/",
+    "actor": "Other|US"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Trump calls Iran strikes 'one of the greatest things I ever did'",
+    "direction": "Escalating",
+    "description": "At a rally at the Port of Corpus Christi, Texas, on Oct. 27, Trump said attacking Iran was \"one of the greatest things I ever did\" and that the war \"is going to end very soon.\" He claimed US forces had destroyed 288 Iranian fighter jets and 159 ships, and said \"anything is possible\" when asked about an attack after the midterms. He also floated renaming Hormuz the \"Trump Strait.\"",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-peace-talks-donald-trump-strait-hormuz-october-27",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Putin hosts Pezeshkian in Kremlin; Iran says region can manage without US",
+    "direction": "Neutral",
+    "description": "Vladimir Putin met Masoud Pezeshkian at the Grand Kremlin Palace on Oct. 27 on the sidelines of the Gas Exporting Countries Forum summit, their second meeting in a month. Pezeshkian said, \"we are capable of resolving our problems in the region without relying on the United States.\" Putin said the regional situation \"cannot help but cause concern\"; the Kremlin said Russia-Iran trade rose 10.4% in the first eight months of 2026.",
+    "source": "https://www.koreatimes.co.kr/world/20261028/iran-president-tells-putin-region-can-solve-problems-without-us",
+    "actor": "Russia|Iran"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Mojtaba Khamenei rejects 'neither war nor peace,' demands Iran's terms",
+    "direction": "Neutral",
+    "description": "Supreme Leader Mojtaba Khamenei said in a statement on Oct. 27, after a briefing from security chief Mohsen Rezaei, that Iran's rights and those of the \"resistance front\" must be secured by meeting the conditions \"stipulated by the country's officials with the aim of ending the war.\" He described the current state as \"neither war nor peace\" and stressed managing the Strait of Hormuz. He announced no new concessions or timeline.",
+    "source": "https://english.news.cn/20261027/057906a54bb74b83958b4050395bdd6c/c.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Iran's navy says tanker hit mines east of Hormuz, caught fire",
+    "direction": "Escalating",
+    "description": "Iran's navy said on Oct. 27 that an oil tanker that had \"switched off its tracking systems\" struck naval mines east of the Strait of Hormuz while crossing a \"restricted and unsafe\" area, and caught fire. It did not identify the vessel, its flag or any casualties, and declared the strait \"unsafe and closed\" to ships not coordinating with Iran's armed forces. The claim contradicted CENTCOM chief Brad Cooper's Oct. 25 statement that the main lanes were free of Iranian mines; no independent confirmation emerged.",
+    "source": "https://www.aa.com.tr/en/middle-east/iran-says-oil-tanker-catches-fire-after-hitting-naval-mine-east-of-strait-of-hormuz/4102560",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Houthis claim hit on Ras Tanura refinery; 2 missiles downed over Riyadh",
+    "direction": "Escalating",
+    "description": "Houthi spokesman Yahya Saree claimed on Oct. 27 that a ballistic missile struck Saudi Arabia's Ras Tanura refinery, the kingdom's largest at 550,000 bpd, and started a fire; Bloomberg reported Saudi Arabia had contained a fire near the terminal. The Saudi-led coalition said it destroyed two ballistic missiles fired at Riyadh, with debris damaging a building, a construction site and a vehicle, and downed four drones over the south. The Houthis also claimed strikes on Najran airport, Khamis Mushait air base, Abha airport and the Defense Ministry in Riyadh.",
+    "source": "https://www.thestar.com.my/news/world/2026/10/27/yemen039s-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-with-missile",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
     "date": "2026-10-27",
     "title": "Israelis vote in election framed by Netanyahu as referendum on Iran",
     "direction": "Neutral",
@@ -91,7 +179,7 @@
     "date": "2026-10-26",
     "title": "Saudi, Pakistani, Turkish security chiefs go to Tehran for Mecca pact talks",
     "direction": "De-escalating",
-    "description": "Saudi Defense Minister Prince Khalid bin Salman led a delegation to Tehran on Oct. 26 to meet President Masoud Pezeshkian and Supreme National Security Council secretary Mohsen Rezaei, alongside Pakistani army chief Asim Munir and Turkish intelligence chief Ibrahim Kalin. Saudi deputy minister Rayed Krimly said the visit was part of \"ongoing efforts by the Makkah pact states to deescalate the current situation\" and supported Qatari and Pakistani mediation. Reuters called it the first high-level contact between Iran and all three Mecca pact states since Houthi attacks on Saudi Arabia escalated. Munir proposed the meeting during his Tehran visit the previous week.",
+    "description": "Saudi Defense Minister Prince Khalid bin Salman led a delegation to Tehran on Oct. 26 to meet President Masoud Pezeshkian and Supreme National Security Council secretary Mohsen Rezaei, alongside Pakistani army chief Asim Munir and Turkish intelligence chief Ibrahim Kalin. Saudi deputy minister Rayed Krimly said the visit was part of \"ongoing efforts by the Makkah pact states to deescalate the current situation\" and supported Qatari and Pakistani mediation. Reuters called it the first high-level contact between Iran and all three Mecca pact states since Houthi attacks on Saudi Arabia escalated. Munir proposed the meeting during his Tehran visit the previous week. The parties agreed only to keep talking. Per The National, Iran told its guests it had little leverage over the Houthis and asked them to lobby Washington for a two-week regional pause in exchange for gradually reopening Hormuz.",
     "source": "https://www.arabnews.pk/saudi-arabia/saudi-defense-minister-leads-delegation-attending-makkah-pact-countries-meeting-with-iran-3005285",
     "actor": "Saudi Arabia|Pakistan|Turkey"
   },
