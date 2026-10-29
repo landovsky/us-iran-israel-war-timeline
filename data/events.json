@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-10-29",
+    "title": "UKMTO: vessel on fire in Hormuz 9 nm north of Khasab",
+    "direction": "Escalating",
+    "description": "UKMTO reported early on Oct. 29 that a vessel was on fire in the Strait of Hormuz about nine nautical miles north of Khasab, Oman, and said the crew's status was unknown. No party claimed responsibility. The fire came two days after Iran's navy said a tanker hit mines east of the strait, a claim CENTCOM rejected.",
+    "source": "https://www.iranintl.com/en/liveblog/202610244311",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "IRGC claims it downed 14th US MQ-1 drone off Sirik",
+    "direction": "Escalating",
+    "description": "The IRGC said on Oct. 29 that it shot down an MQ-1 drone over the eastern Strait of Hormuz, opposite Sirik in Hormozgan province, and called it the 14th advanced MQ-1 it has downed. The US did not immediately confirm the loss.",
+    "source": "https://www.iranintl.com/en/liveblog/202610244311",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "With 90% counted, Netanyahu bloc slips to 53; Arab parties win record 19",
+    "direction": "Neutral",
+    "description": "With 89.8% of votes counted on Oct. 28, Netanyahu's bloc fell to 53 seats, 8 short of a majority and down from 68 in the outgoing Knesset. Eisenkot's bloc held 48 and the Arab-led Joint List and Ra'am a record 19 combined, beating their previous high of 15. Likud had 26 seats and Yashar 21. Likud accused Arab parties of stealing the election through fraud; police dismissed the claim. Final official results are due Nov. 4.",
+    "source": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Hegseth fires Pentagon war planner Lt. Gen. Brett Sylvia",
+    "direction": "Neutral",
+    "description": "Defense Secretary Pete Hegseth fired Army Lt. Gen. Brett Sylvia, director of strategy, plans and policy (J-5) on the Joint Staff, The Atlantic and The Hill reported on Oct. 28. Sylvia is one of more than two dozen senior officers Hegseth has fired or pushed out. The Atlantic reported that CENTCOM has prepared several strike options on Iran, that Trump has not decided, and that strikes are unlikely before next week.",
+    "source": "https://www.iranintl.com/en/liveblog/202610244311",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "WSJ: Vance wrote to Rezaei; Trump says contact was about medical supplies",
+    "direction": "De-escalating",
+    "description": "The Wall Street Journal reported that Vice President JD Vance sent a letter to Iranian security chief Mohsen Rezaei to revive talks. Asked on Oct. 28 whether he had directed Vance to start peace talks, Trump said \"No,\" but said he had approved the contact because Iran \"need[s] help with medical supplies.\" Trump also said Tehran wants a deal but may be waiting for the midterms, which is \"not going to help them.\"",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Iran rejects Qatar's draft deal ideas as 'unacceptable'",
+    "direction": "Neutral",
+    "description": "Reuters reported on Oct. 28 that Qatari mediators handed Tehran a new draft deal on Oct. 25 and expected a reply by the end of the week. A senior Iranian official denied that a new proposal had been presented, called Qatar's ideas \"unacceptable,\" and said Tehran would show no flexibility on the nuclear issue. Araghchi said Iran \"continues to give diplomacy a chance to succeed\" and is in contact with mediators on its seven-day plan to reopen Hormuz.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+    "actor": "Iran|Qatar"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "CENTCOM calls Iran's Hormuz mine claims 'FALSE'",
+    "direction": "Neutral",
+    "description": "US Central Command said on Oct. 28 that Iranian claims that ships had struck sea mines in the Strait of Hormuz were \"FALSE.\" It said the main transit routes have been cleared and that thousands of vessels have used them. The statement answered the Iranian navy's Oct. 27 report of a tanker on fire after hitting mines east of the strait.",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Houthis fire sixth missile at Aden airport; air traffic halted",
+    "direction": "Escalating",
+    "description": "Houthi spokesman Yahya Saree told people at Aden airport on Oct. 28 to evacuate, saying a Saudi cargo aircraft was carrying weapons. A Houthi missile then fell inside the airport perimeter while a Saudi military aircraft was on the ground; the plane took off unharmed. Yemen's government said the strike injured civilians, and two Transport Ministry officials told Reuters that air traffic was halted. It was the sixth Houthi missile attack on the airport.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "US Embassy in Riyadh warns of Houthi attacks on Saudi airports",
+    "direction": "Escalating",
+    "description": "The US Embassy in Riyadh warned on Oct. 28 of possible attacks on Saudi airports, citing Houthi missile and drone strikes, and advised \"extreme caution\" at airports. The State Department had ordered non-emergency staff to leave Saudi Arabia on Oct. 23. Late on Oct. 28, the Saudi-led coalition said it destroyed another Houthi ballistic missile aimed at the Eastern Province.",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Kuwait summons Iranian ambassador over plot-verdict statement",
+    "direction": "Escalating",
+    "description": "Kuwait summoned Iranian Ambassador Mohammad Toutounchi on Oct. 28 after Iran's embassy said it \"categorically rejects\" Kuwait's allegations against an Iranian citizen. Kuwait called the statement \"blatant interference\" in its sovereignty. Two days earlier, a Kuwaiti court had sentenced three men to death for an Iran-Hezbollah plot to kill Interior Minister Fahad al-Yousef. The embassy said the Iranian named, Abdulredha Haydar Dahqani, had been outside Kuwait for 10 years.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+    "actor": "Kuwait"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Tehran court sentences photojournalist Artin Ghazanfari to 26 years",
+    "direction": "Escalating",
+    "description": "A Tehran court sentenced Baha'i photojournalist Artin Ghazanfari to 26 years in prison, HRANA reported on Oct. 28: 20 years for media work, 5 for \"assembly and collusion\" and 1 for anti-state propaganda. Security forces detained him in January 2026. Rights groups say he suffers from heart failure, asthma and high blood pressure.",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "European gas hits €100/MWh for first time since 2022",
+    "direction": "Escalating",
+    "description": "Europe's benchmark gas price briefly touched €100 per megawatt-hour on Oct. 28, the first time since 2022. EU Energy Commissioner Dan Jorgensen called it \"a very serious situation\" ahead of an emergency meeting of EU energy ministers in Luxembourg on Oct. 29. He said the Commission had begun talks with refiners about raising output.",
+    "source": "https://www.iranintl.com/en/liveblog/202610244311",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "UK budget gives £100 energy payment to 20 million households",
+    "direction": "Neutral",
+    "description": "In his first budget on Oct. 28, Chancellor John Healey announced a one-off £100 winter energy payment for 20 million households in council tax bands A-D. He also extended the cut in VAT on electricity through July and abolished a charge on gas bills. Healey said oil had risen from about $70 to well above $100 a barrel and gas prices had nearly tripled since February.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Iran finalizing small modular reactor protocol with Russia",
+    "direction": "Neutral",
+    "description": "AEOI spokesman Behrouz Kamalvandi said on Oct. 28 that Iran is finalizing a protocol with Russia for joint development of small modular reactors. He made the announcement during Iran's attendance at a nuclear conference in South Korea, a day after Pezeshkian met Putin in Moscow.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+    "actor": "Iran|Russia"
+  },
+  {
     "date": "2026-10-28",
     "title": "Partial count: Netanyahu bloc at 56 seats, 5 short of majority",
     "direction": "Neutral",
