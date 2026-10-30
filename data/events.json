@@ -1,6 +1,102 @@
 [
   {
     "date": "2026-10-29",
+    "title": "UKMTO: small boat plants 2 explosives on tanker 25 nm off Khasab",
+    "direction": "Escalating",
+    "description": "UKMTO said that at about 2212 UTC on Oct. 29 a small boat came up on a tanker's port side about 25 nautical miles northeast of Khasab, Oman, and attached two explosive devices to the hull above the waterline. The blasts set the engine room on fire and temporarily disabled the vessel. UKMTO later said the fire was out, all crew were safe and there was no environmental damage. It was the second attack on a tanker in the strait that day.",
+    "source": "https://openthemagazine.com/world/tanker-hit-by-two-explosive-devices-in-strait-of-hormuz-crew-safe",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Israel's final results: Likud 27, Yashar 21; no bloc reaches 61",
+    "direction": "Neutral",
+    "description": "Israel's Central Elections Committee published final results for the 26th Knesset late on Oct. 29. Likud won 27 seats, Yashar 21, B'Yachad 12, the Joint List 11, the Democrats and Ra'am 8 each, and Yisrael Beytenu, Otzma Yehudit and United Torah Judaism 7 each. Shas and Religious Zionism won 6 each. That leaves Netanyahu's bloc at 53, the opposition at 48 and Arab parties at 19. The results go to President Isaac Herzog on Nov. 4, and the Knesset is to be sworn in on Nov. 10.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/central-elections-committee-publishes-final-election-results-knesset-to-be-sworn-in-nov-10/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Saudi Arabia downs 2 Houthi missiles over Riyadh; debris injures 1",
+    "direction": "Escalating",
+    "description": "Saudi-led coalition spokesman Col. Turki al-Maliki said on the evening of Oct. 29 that air defenses intercepted and destroyed two Houthi ballistic missiles aimed at Riyadh. Saudi Civil Defense said falling debris slightly injured one person and damaged a house and a vehicle. Early warnings had sounded for Riyadh, Al-Kharj and Najran. Earlier that day, at 05:15 UAE time, the coalition had downed another Houthi missile aimed at the Eastern Province.",
+    "source": "https://www.iranintl.com/en/202610296493",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Ghalibaf: no deal unless US accepts Iran's seven conditions",
+    "direction": "Escalating",
+    "description": "Parliament Speaker Mohammad Bagher Ghalibaf said on Oct. 29 that any talks depend on Washington accepting Tehran's seven conditions and that a US \"carrot-and-stick approach\" would have no effect. Tasnim and Fars reported that Iran had received Vice President Vance's letter to Mohsen Rezaei but had not answered. Tasnim said Iran would not drop core demands, including lifting the US naval blockade and easing sanctions.",
+    "source": "https://gulfnews.com/world/mena/middle-east-war-saudi-intercepts-houthi-missile-as-iran-warns-israel-against-strikes-1.500727751",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "IRGC says 3 tankers hit mines; UKMTO confirms 1 struck by projectile",
+    "direction": "Escalating",
+    "description": "The IRGC said on Oct. 29 that three tankers exploded after hitting mines on the \"unauthorised southern route\" through Hormuz within 24 hours, and Iran's army said a fourth caught fire east of the strait. Iran said the ships had switched off their radar and navigation systems. UKMTO confirmed only one incident: a tanker hit by an unknown projectile near Khasab, Oman, at about 1600 GMT as it left the southern route, with no injuries. IRGC spokesman Abolfazl Mohebi challenged CENTCOM to back its mine-clearance claims with \"independent evidence.\"",
+    "source": "https://gulfnews.com/world/mena/middle-east-war-saudi-intercepts-houthi-missile-as-iran-warns-israel-against-strikes-1.500727751",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Axios: US and Israel prepare possible 7-day strike campaign",
+    "direction": "Escalating",
+    "description": "Axios reported on Oct. 29 that US and Israeli officials are preparing a possible seven-day bombing campaign against Iran after the Nov. 3 midterms, and that Trump has not decided. AP separately reported that US officials told regional allies to prepare for strikes and Iranian retaliation. Trump told Axios: \"We need to finish the job — either through a deal or another way.\" Gulf News put US forces in the region at more than 20,000 sailors and Marines.",
+    "source": "https://gulfnews.com/world/mena/we-need-to-finish-the-job-pressure-mounts-on-iran-as-us-israel-prepare-week-long-strikes-1.500728275",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Saudi Arabia urges Trump not to rush strikes, give mediators time",
+    "direction": "De-escalating",
+    "description": "Axios reported on Oct. 29 that after their security chiefs visited Tehran, Saudi officials asked the White House not to rush into a new bombing campaign and to give regional mediators more time. The mediators are led by Qatar, with Pakistan, Turkey and Egypt. Riyadh also passed on Tehran's concerns about a post-election operation. A Jerusalem Post source said the Saudis separately asked Iran to spare key Saudi oil and gas facilities if fighting resumes.",
+    "source": "https://gulfnews.com/world/mena/we-need-to-finish-the-job-pressure-mounts-on-iran-as-us-israel-prepare-week-long-strikes-1.500728275",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Reuters: Iran used 5,000+ agencies to import $2B past US blockade",
+    "direction": "Neutral",
+    "description": "A Reuters investigation published Oct. 29 found that Iran used a network of more than 5,000 military-linked agencies to import at least $2 billion in hardware, explosives components and trucks despite the US naval blockade. A Treasury spokeswoman said the US \"has severed the regime's economic lifelines.\"",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Qatar calls Israeli election-meddling claims 'ridiculous and dangerous'",
+    "direction": "Neutral",
+    "description": "Qatari Foreign Ministry spokesman Majid al-Ansari on Oct. 29 denied that Qatar interfered in Israel's election, calling the accusations \"ridiculous and dangerous in equal measure.\" Netanyahu had accused Arab parties of stealing the vote through fraud, and National Security Minister Itamar Ben Gvir called for Arab party leaders to be arrested over unproven claims of Qatari funding. Qatar is leading mediation between Washington and Tehran.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+    "actor": "Qatar"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Iran's Supreme Court overturns death sentence of protester Leila Abolhasani",
+    "direction": "De-escalating",
+    "description": "Iran's Supreme Court overturned the death sentence of Leila Abolhasani, a 43-year-old nail technician and mother of two from Shahin Shahr, and sent her case back for retrial, it was reported on Oct. 29. She had been convicted of moharebeh in August for allegedly helping set fire to a shop during the January protests. A source close to her family said she was only \"filming the scene.\"",
+    "source": "https://thenationalnews.com/news/mena/2026/10/29/iran-cancels-execution-for-woman-who-filmed-burning-shop-during-protests",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Iran arrests 16, says it broke up 4 cells in Sistan-Baluchestan",
+    "direction": "Neutral",
+    "description": "Iran's Intelligence Ministry said on Oct. 29 that it arrested 16 suspects and dismantled four \"terrorist cells\" in Sistan and Baluchestan province.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Exxon, Chevron chiefs pull out of Abu Dhabi ADIPEC summit over security",
+    "direction": "Neutral",
+    "description": "ExxonMobil CEO Darren Woods and Chevron's Clay Neff withdrew from the ADIPEC energy conference in Abu Dhabi over security concerns, Reuters reported on Oct. 29. The pullout came as Houthi attacks on Saudi airports and refineries continued and tanker incidents in Hormuz mounted.",
+    "source": "https://www.foxnews.com/live-news/us-iran-war-trump-military-options-strait-hormuz-10-29-26",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-29",
     "title": "UKMTO: vessel on fire in Hormuz 9 nm north of Khasab",
     "direction": "Escalating",
     "description": "UKMTO reported early on Oct. 29 that a vessel was on fire in the Strait of Hormuz about nine nautical miles north of Khasab, Oman, and said the crew's status was unknown. No party claimed responsibility. The fire came two days after Iran's navy said a tanker hit mines east of the strait, a claim CENTCOM rejected.",
