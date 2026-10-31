@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-10-31",
+    "title": "Report: US delegation to join direct talks with Iran in Doha",
+    "direction": "De-escalating",
+    "description": "Qatari daily Al-Araby Al-Jadeed reported on Oct. 31, citing sources close to Qatari and Pakistani mediation, that indirect US-Iran talks had reached a breakthrough and a US delegation would join Iranian officials for direct talks in Doha. The sides reportedly agreed preliminary measures on Iran's nuclear program, Hormuz navigation and financial incentives for Tehran, with China and Russia proposed as guarantors. Iran's negotiating team flew to Doha with the Qatari delegation; neither Washington nor Tehran confirmed a direct meeting.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/us-delegation-said-to-be-joining-direct-talks-with-iran-in-doha-after-negotiation-breakthrough",
+    "actor": "Qatar"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "UK says it has deployed air defenses to Saudi Arabia",
+    "direction": "Escalating",
+    "description": "UK minister Stephen Doughty told the IISS Manama Dialogue in Bahrain on Oct. 31 that British air defense equipment and personnel are in Saudi Arabia following renewed Houthi attacks. He said RAF missions had flown over Qatar, Bahrain, Jordan and the UAE and that Britain had sent air defense support to Bahrain and Kuwait. \"We will not stand by while civilians are attacked, infrastructure is attacked, or commercial shipping is threatened,\" Doughty said.",
+    "source": "https://www.iranintl.com/en/liveblog/202610312594",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Treasury: Iran has loaded no oil onto tankers since Aug. 25",
+    "direction": "Neutral",
+    "description": "A US Treasury report titled \"Operation Economic Outcast: Iran's Isolation by the Numbers\" said Iran has loaded no oil onto vessels since Aug. 25 and that its overland trade is stuck at border bottlenecks. The report said the rial has lost about 25% of its value since the US pressure campaign began on Aug. 24.",
+    "source": "https://www.iranintl.com/en/liveblog/202610312594",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Araghchi tells Merz 'red lines are a thing of the past'",
+    "direction": "Escalating",
+    "description": "Iranian Foreign Minister Abbas Araghchi wrote on X late on Oct. 30 that \"red lines are a thing of the past\" and threatened an \"Earth-shattering blow\" against anyone who harms Iranians. He was answering German Chancellor Friedrich Merz, who said in South Korea that day that the war \"cannot be resolved militarily\" and had cost European businesses and consumers more than €100 billion in higher energy prices. Araghchi accused Merz of having praised the US-Israeli bombing of Iran as \"doing Europe's dirty work.\"",
+    "source": "https://www.presstv.co.uk/Detail/2026/10/31/779588/araghchi-warns-merz-iran-will-no-longer-observe-red-lines-if-attacked-again",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "IRGC says supertanker with 2M+ barrels hit mine, fourth tanker blast of day",
+    "direction": "Escalating",
+    "description": "The IRGC said on the evening of Oct. 30 that a supertanker carrying more than 2 million barrels of oil struck a mine on an \"unauthorized route\" at the entrance to the Strait of Hormuz and caught fire, and called it the fourth tanker explosion of the day. Earlier the IRGC said two tankers on the unauthorized route were \"brought to a halt,\" and Iran's navy said it destroyed an \"enemy drone\" east of the strait. Separately, UKMTO reported a vessel hit by an \"unknown projectile\" south of Lavan Island.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Oman's navy evacuates 25 crew from burning tanker off Musandam",
+    "direction": "Escalating",
+    "description": "Oman's Maritime Security Centre said on Oct. 30 that the Royal Navy of Oman evacuated 25 crew from a Panama-flagged tanker that was hit and set on fire about 1.6 nautical miles off Musandam. The crew were handed to medical teams ashore. Authorities did not say what struck the ship.",
+    "source": "https://www.deccanherald.com/middle-east/oman-navy-evacuates-25-crew-after-vessel-caught-fire-off-musandam-4201336",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "UKMTO counts 30+ Hormuz attacks in October, double September",
+    "direction": "Escalating",
+    "description": "UKMTO said on Oct. 30 it had recorded just over 30 attacks on shipping in October, double September's total, and 145 incidents since Feb. 28. Of 81 projectile strikes since July 6, 59 hit ships on the southern route. In the week to Oct. 30, Hormuz traffic was about 70% below pre-war levels at 122 outbound and 155 inbound transits, and UKMTO kept the threat level at \"severe.\"",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Qatari mediators spend 12+ hours in Tehran conveying edits to draft",
+    "direction": "De-escalating",
+    "description": "A Qatari delegation returned to Tehran on Oct. 30, coordinating with Washington, and held more than 12 hours of talks with Iranian officials on edits to a draft deal, according to IRNA, Axios and a source who spoke to CBS News. The source cited \"indications of progress\" and said Iran's reply was expected by the weekend. Al Hadath reported the draft calls for reciprocal Iranian nuclear steps and US sanctions relief, direct talks, and reopening Hormuz within seven days.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+    "actor": "Qatar|Iran"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Trump says war will be 'wrapped up soon,' rules out strike that day",
+    "direction": "Neutral",
+    "description": "President Trump said on Oct. 30 that the war with Iran is \"going to get wrapped up soon\" without saying how, and that \"We need a guarantee there'll never be a nuclear weapon.\" He said there would not be a strike that day. MS NOW, citing three senior regional officials, reported the administration was briefing Gulf allies on a short, intense round of strikes as soon as Nov. 4, the day after the midterms.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "CENTCOM's Cooper: Iran's navy 'at the bottom of the sea'",
+    "direction": "Neutral",
+    "description": "CENTCOM commander Adm. Brad Cooper said on Oct. 30 that Iran's navy is \"at the bottom of the sea\" and that the southern shipping lanes through Hormuz are clear. He said US forces have helped Gulf partners export more than 1.5 billion barrels of oil since the summer. Cooper had briefed Trump in person on military options at the White House the previous day, the WSJ reported.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Iranian MP: bill to quit NPT drafted and before parliament",
+    "direction": "Escalating",
+    "description": "Alireza Salimi, a member of the Iranian parliament's presiding board, said on Oct. 30 that lawmakers had drafted a bill to withdraw Iran from the Nuclear Non-Proliferation Treaty and that it was now before parliament. Citing Articles IV and X of the treaty, he said withdrawal is Iran's right and called for revising the country's nuclear doctrine. He said parliament could pass it under its highest-urgency procedure if the relevant authorities approved; neither the Supreme National Security Council nor Mojtaba Khamenei has endorsed withdrawal.",
+    "source": "https://iranwire.com/en/news/145018-iranian-lawmaker-says-npt-withdrawal-bill-ready-for-parliament-vote/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Pentagon raises US war death toll to 23",
+    "direction": "Neutral",
+    "description": "The Pentagon's count of US service members killed in the Iran war rose to 23 on Oct. 30 after it added two airmen who died in nonhostile incidents. Eleven have been killed by enemy fire and 12 in nonhostile incidents.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Houthis fire 2 missiles at Aden's Maashiq presidential palace",
+    "direction": "Escalating",
+    "description": "Houthi forces fired two ballistic missiles at the Maashiq presidential palace complex in Aden's Crater district on Oct. 30, according to Yemeni army spokesman Majed al-Nuzaili and a police official. A security official said the missiles hit near the palace and air defenses then engaged drones over government buildings; witnesses saw ambulances enter the compound. Houthi spokesman Yahya Saree said Saudi forces had carried out 93 air and missile strikes on Sanaa and other provinces in the previous 24 hours.",
+    "source": "https://www.arabnews.com/middle-east/houthis-target-aden-airport-and-maashiq-presidential-palace-with-ballistic-missiles-3009041",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Saudi coalition downs Houthi drone over Mecca region; Houthis deny",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said on Oct. 30 it intercepted and destroyed a Houthi drone over the Mecca region, and later reported downing another drone near Riyadh and a ballistic missile over southern Saudi Arabia. Houthi military spokesman Yahya Saree denied targeting Saudi territory, saying the group only hits Saudi oil facilities and military bases. Earlier that week the Houthis claimed six operations against Saudi airports and oil sites.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "G20 ministers meet in Atlanta; Hormuz wording splits US and China",
+    "direction": "Neutral",
+    "description": "Secretary of State Marco Rubio opened a two-day G20 foreign ministers' meeting in Atlanta on Oct. 30, with the Iran war's effect on energy and shipping dominating the agenda. The US pushed for agreed language on freedom of navigation through Hormuz \"without threats or tolls,\" which China has opposed; Foreign Minister Wang Yi stayed away and sent a deputy. Organizers dropped the family photo because delegates planned to walk out rather than stand with Russia's Sergei Lavrov, and the US planned a chair's summary instead of a joint declaration.",
+    "source": "https://www.dawn.com/news/2040947/rubio-hosts-g20-ministers-as-iran-ukraine-wars-divide-members",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Lebanese military court charges 13 over Hezbollah explosives shipment",
+    "direction": "Neutral",
+    "description": "A Lebanese military court on Oct. 30 charged 13 people over a seized shipment of about 1,100 pounds of explosives bound for Hezbollah. Hezbollah has acknowledged the cargo was its own.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "ExxonMobil Q3 profit doubles to $15.4 billion on war oil prices",
+    "direction": "Neutral",
+    "description": "ExxonMobil reported third-quarter profit of $15.4 billion on Oct. 30, up from $7.5 billion a year earlier, as Brent and WTI traded about 70% above year-earlier levels. Oil was up more than 2% on the day and headed for a fourth straight monthly gain.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+    "actor": "Other"
+  },
+  {
     "date": "2026-10-29",
     "title": "UKMTO: small boat plants 2 explosives on tanker 25 nm off Khasab",
     "direction": "Escalating",
