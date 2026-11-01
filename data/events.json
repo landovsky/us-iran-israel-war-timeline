@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-11-01",
+    "title": "Iran designates Royal Navy and RAF as terrorist organizations",
+    "direction": "Escalating",
+    "description": "Iran's Foreign Ministry designated Britain's Royal Navy and Royal Air Force as 'terrorist' organizations and MI6 as a 'hostile group', effective on publication, under a Supreme National Security Council resolution. Tehran cited London's provision of bases and logistical support to the US-Israeli war and called the move reciprocal to the UK's July 13 designation of the IRGC under the State Threats Act 2026. The ministry said Britain would bear responsibility for any consequences.",
+    "source": "https://www.aa.com.tr/en/middle-east/iran-designates-british-navy-air-force-as-terrorist-organizations/4107764",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "Araghchi: Iran, Qatar draft 2-day Hormuz reopening plan",
+    "direction": "De-escalating",
+    "description": "Foreign Minister Abbas Araghchi told Al Jazeera that talks with Qatari mediators cut the proposed implementation period for reopening the Strait of Hormuz from five days to two, if Washington accepts Iran's conditions. \"We demand the restoration of oil waivers and the release of all our frozen funds, including those held in Qatar,\" he said. Araghchi called the US outreach in JD Vance's letter \"a positive step\" but said no direct talks are scheduled.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "Saudi coalition airstrikes hit Hodeidah oil station; Houthis say 3 hurt",
+    "direction": "Escalating",
+    "description": "Two Saudi-led coalition airstrikes hit an oil company station in Bajil district, western Hodeidah governorate, wounding at least three civilians, according to Houthi-run Al Masirah TV. The coalition did not comment. The strikes follow Houthi missile and drone attacks on Riyadh, the Mecca region and Saudi energy sites over the preceding days.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/three-civilians-injured-saudi-coalition-air-raids-hodeidah-houthis-say",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Mojtaba Khamenei orders 'geographically unrestricted' response to any attack",
+    "direction": "Escalating",
+    "description": "In a statement posted on his website from his first reported meeting with senior commanders, including chief of staff Ali Abdollahi, army chief Amir Hatami and IRGC commander Ahmad Vahidi, Supreme Leader Mojtaba Khamenei said \"any level or type of threat must be met with an immediate, impactful and geographically unrestricted response.\" He ordered the target list updated to include \"all types of tangible and intangible assets belonging to the American-Zionist enemy.\" Army spokesman Mohammad Akraminia warned a new US attack would make \"the flames of war\" engulf \"a much wider geographical area.\"",
+    "source": "https://www.timesofisrael.com/khamenei-orders-military-response-without-geographic-limits-if-us-israel-attacks/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Report: US tells Gulf allies Iran strikes could begin Nov. 4",
+    "direction": "Escalating",
+    "description": "MSNOW, citing three senior Gulf Arab officials, reported that Washington told Gulf allies to expect short but heavy strikes on Iran as early as November 4, the day after the US midterms. Gulf states urged de-escalation, and some may object to US use of their bases. A White House official said \"we do not comment on sensitive military plans that may or may not exist.\" The US has not struck Iran since September 1.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/report-us-warns-gulf-allies-of-possible-iran-strikes-as-early-as-november-4/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Trump: 'one or two sites' left in Iran, names Pickaxe Mountain",
+    "direction": "Escalating",
+    "description": "Speaking in Palm Beach, President Trump said talks with Iran were \"going fine\" but Tehran was \"not very reliable.\" \"We still have to take care of, I would say, one or two sites, but we can do that in 10 minutes,\" he said, citing Pickaxe Mountain near Natanz. The WSJ reported Trump spoke with Netanyahu by phone that morning amid preparations to resume strikes.",
+    "source": "https://www.timesofisrael.com/trump-holds-call-with-netanyahu-amid-preparations-to-renew-strikes-on-iran-report/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Rezaei: Iran debating whether to drop nuclear weapons ban",
+    "direction": "Escalating",
+    "description": "Supreme National Security Council chief Mohsen Rezaei told state TV that Tehran is debating whether to keep its ban on nuclear weapons if hostilities resume, though no decision has been taken. He said there will be no nuclear talks and Hormuz will \"remain closed\" until the US accepts Iran's demands. On Vance's letter: \"I read the letter. I haven't yet responded. Their tone has completely changed.\"",
+    "source": "https://www.timesofisrael.com/liveblog_entry/iran-security-chief-says-debating-whether-to-ditch-ban-on-nuclear-weapons/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Rubio: Trump has set no deadline, made no decision on strikes",
+    "direction": "Neutral",
+    "description": "At a G20 press conference in Atlanta, Secretary of State Marco Rubio said Trump had set no deadline for negotiations and had not decided whether to resume strikes. \"There are multiple talks. Talks have actually never stopped,\" he said, adding: \"We can achieve military objectives if we seek to.\" Rubio accused Iran of \"actively and openly\" targeting commercial vessels but said Trump preferred a diplomatic solution.",
+    "source": "https://www.israelnationalnews.com/news/435440",
+    "actor": "US"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Iran says drone hit 2 fishing boats off Qeshm, blames US",
+    "direction": "Escalating",
+    "description": "Fars reported that an \"enemy\" drone struck two fishing boats 14 nautical miles south of Qeshm Island, wounding two fishermen and leaving two missing. Iranian state TV later said the two missing men had been found and blamed \"the American enemy.\" CENTCOM did not immediately comment.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/drone-attacks-fishing-boats-south-of-qeshm-island-iranian-media-reports/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Syria weighing entry into Saudi-Turkey-Pakistan Mecca defense pact",
+    "direction": "Neutral",
+    "description": "Syrian Foreign Minister Asaad al-Shaibani said Damascus is in talks assessing whether to join the Makkah Joint Defense Agreement signed by Saudi Arabia, Turkey and Pakistan on August 7, which treats an attack on one signatory as an attack on all.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/syria-weighing-whether-to-enter-mecca-pact-foreign-minister-says/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Saudi Arabia downs Houthi drones over Riyadh and southern region",
+    "direction": "Escalating",
+    "description": "Saudi-led coalition spokesman Turki al-Malki said a \"hostile drone\" was destroyed over the Riyadh region, with debris that \"fell without causing injuries.\" Saudi forces also intercepted a Houthi drone launched at the kingdom's southern region.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/saudi-says-intercepted-hostile-drone-in-riyadh-region/",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Qatari Q-Max LNG carrier Al Mayeda hit 40 nm south of Lavan",
+    "direction": "Escalating",
+    "description": "Nakilat said its LNG carrier Al Mayeda \"was hit by unidentified objects\" while transiting the Gulf on the evening of October 30; UKMTO located the attack 40 nautical miles south of Iran's Lavan Island. No crew were injured, no pollution occurred, and the 266,000 cbm vessel remains operational. Qatar News Agency disclosed the attack on November 1, as Qatar mediates between Washington and Tehran.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/qatari-gas-tanker-struck-in-gulf-on-friday-evening-state-media-says/",
+    "actor": "Qatar"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Pakistan's military 'cautiously optimistic' on US-Iran mediation",
+    "direction": "De-escalating",
+    "description": "ISPR chief Lt. Gen. Ahmed Sharif Chaudhry told Reuters in Rawalpindi that Pakistan is \"cautiously optimistic,\" noting Field Marshal Asim Munir visited Tehran twice in October: \"Why would the Field Marshal be going twice if it is not for some positivity?\" He warned of \"powerful spoilers and detractors\" and said the Mecca pact does not exclude Iran joining. Pakistan will defend Saudi Arabia but will not take part in operations in Yemen.",
+    "source": "https://english.aawsat.com/world/5335828-pakistan-military-%E2%80%98cautiously-optimistic%E2%80%99-iran-us-mediation",
+    "actor": "Pakistan"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Brent ends October up 13.6%, highest settle since April",
+    "direction": "Escalating",
+    "description": "The expiring December Brent contract settled at $117.64 a barrel, up $2.76, after touching $118, while WTI settled at $104.12. Brent gained 13.6% in October and WTI 15.2%, both at their highest settlements since late April on fears of renewed US strikes after the midterms and Hormuz tanker attacks.",
+    "source": "https://www.nationthailand.com/news/world/40072956",
+    "actor": "Other"
+  },
+  {
     "date": "2026-10-31",
     "title": "Report: US delegation to join direct talks with Iran in Doha",
     "direction": "De-escalating",
