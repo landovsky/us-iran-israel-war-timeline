@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-11-02",
+    "title": "Oil falls 2-3% as Iran-Qatar talks run a third day",
+    "direction": "De-escalating",
+    "description": "Brent fell 2% to $111.20 and WTI 2.3% to $101.70 on the morning of Nov. 2 after Iranian negotiators held a third straight day of talks with Qatari mediators in Doha. Abu Dhabi's Murban grade rose 1.85% to $114.80. Lufthansa pushed its return to the region back to Nov. 25, ITA Airways to Nov. 30 and Singapore Airlines to Feb. 28, 2027.",
+    "source": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-nov-2-2026-1.500732326",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "UKMTO: tanker hit by 2 projectiles 72 nm off Ras al-Khafji",
+    "direction": "Escalating",
+    "description": "UKMTO said a southeast-bound tanker was struck on its port side by two unidentified projectiles at 23:47 UTC on Nov. 1, about 72 nautical miles east of Ras al-Khafji, Saudi Arabia, in the northern Gulf. All crew were accounted for and no environmental impact was reported. UKMTO did not name the vessel or attribute the attack. It reported a separate attack on a vessel in the Strait of Hormuz the same day.",
+    "source": "https://shipandbunker.com/news/emea/897564-tanker-hit-by-two-projectiles-off-saudi-arabias-eastern-coast",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "Trump at Iowa rally: 'we're going to have to give them the hammer'",
+    "direction": "Escalating",
+    "description": "At a campaign rally in Dubuque, Iowa, two days before the midterms, President Trump said he had held off further attacks to avoid casualties. \"The only reason why I'm not finished with Iran is I want to be nice,\" he said. \"But at some point we're going to have to give them the hammer.\" He gave no timeline.",
+    "source": "https://www.arabnews.com/middle-east/trump-says-at-some-point-us-will-have-to-give-iran-the-hammer-3009347",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "Axios: Netanyahu pressed Trump to strike Iran right after midterms",
+    "direction": "Escalating",
+    "description": "Axios reported, citing Israeli and US sources, that Netanyahu urged Trump in their Oct. 31 phone call to strike Iran immediately after the Nov. 3 midterms, while Trump wanted to let negotiations play out. An Israeli source called the call \"tough\" and a US source called it \"direct.\" Trump confirmed they discussed Iran but gave no details.",
+    "source": "https://www.iranintl.com/en/202611015366",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "IRGC says 2 'violating' tankers, including VLCC, hit mines in Hormuz",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said via Sepah News on Nov. 1 that two tankers \"were blown up by naval mines while following an unauthorized route\" through the Strait of Hormuz. It said both had switched off their AIS transponders and that one, a very large crude carrier, was engulfed in flames. No maritime authority confirmed the claim, and the vessels were not named.",
+    "source": "https://www.usnews.com/news/world/articles/2026-11-01/irans-irgc-navy-says-two-tankers-exploded-after-hitting-mines-in-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "Iranian deputy speaker Nikzad: 'window for negotiations' is closed",
+    "direction": "Escalating",
+    "description": "Iranian deputy parliament speaker Ali Nikzad said on Nov. 1 that \"the window for negotiations with our adversaries is now closed.\" On the same day Foreign Minister Araghchi said talks on a two-day Hormuz reopening plan were continuing, a public split as Iranian negotiators spent a third day with Qatari mediators in Doha.",
+    "source": "https://www.iranintl.com/en/202611015366",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "UAE's Gargash at Manama Dialogue: UAE 'braced for the worst'",
+    "direction": "Neutral",
+    "description": "Anwar Gargash, diplomatic adviser to the UAE president, told the closing session of the IISS Manama Dialogue on Nov. 1: \"It is not the interest of the region to go through another round … But I think we're also, as we've shown before, braced for the worst.\" On the same stage, Bahraini Foreign Minister Abdullatif Al Zayani called for a regional security framework that includes Iran.",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/11/02/uae-says-hoping-for-breakthrough-yet-braced-for-the-worst-in-iranus-war",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "Saudi coalition downs Houthi missile and drone aimed at south",
+    "direction": "Escalating",
+    "description": "Coalition spokesman Turki al-Maliki said on Nov. 1 that air defenses intercepted a Houthi ballistic missile and a drone fired toward southern Saudi Arabia. Saudi authorities issued emergency alerts in Abha and Khamis Mushait early that day and later lifted them. The coalition reported no casualties or damage.",
+    "source": "https://www.anews.com.tr/middle-east/2026/11/01/saudi-led-coalition-intercepts-houthi-missile-drone-targeting-kingdom",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Satellite imagery: 25+ US tanker aircraft parked at Israel's Ramon",
+    "direction": "Escalating",
+    "description": "Sentinel-2 satellite imagery from Oct. 31 showed at least 25 US Air Force KC-135 and KC-46 refueling aircraft at Ramon Airport near Eilat, plus about 10 heavy US transport planes, according to media reports. US and Israeli officials did not confirm the figures.",
+    "source": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-nov-2-2026-1.500732326",
+    "actor": "US"
+  },
+  {
     "date": "2026-11-01",
     "title": "Iran designates Royal Navy and RAF as terrorist organizations",
     "direction": "Escalating",
