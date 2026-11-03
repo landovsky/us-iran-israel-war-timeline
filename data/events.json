@@ -1,10 +1,90 @@
 [
   {
+    "date": "2026-11-03",
+    "title": "US jet destroys IRGC missile launcher on Qeshm after aircraft fired on",
+    "direction": "Escalating",
+    "description": "A US fighter jet struck Iranian targets on Qeshm Island late on Nov. 2 Eastern time after the IRGC fired a surface-to-air missile at a US aircraft over the Strait of Hormuz. US officials called them 'limited defensive strikes'. Axios reported that an IRGC surface-to-air launcher was destroyed, and IRNA reported several blasts on the island. The WSJ said the strike belongs to a run of small, unannounced US strikes in recent weeks, kept quiet to avoid signaling a return to full combat.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Ghalibaf: 'The ball is now in Washington's court to prevent war'",
+    "direction": "Neutral",
+    "description": "Parliament speaker Mohammad Bagher Ghalibaf said Iran had sent the US a strong reply and that its forces were at peak defensive readiness. He warned that another US 'strategic mistake' would open a new battlefield. The same morning a senior Iranian official told Reuters that Tehran and Washington remain far from a deal and that Iran will not accept US 'excessive demands'.",
+    "source": "https://www.iranintl.com/en/liveblog/202610312594",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Iran hangs 2 men over killing of 4 police in Isfahan protests",
+    "direction": "Escalating",
+    "description": "Iran executed Amirhossein Maleki and Amirhossein Ebrahimi, convicted of killing four police officers in Isfahan on Jan. 8, 2026 during the January protests, Fars and the judiciary's Mizan outlet reported. Mizan said both men were armed and that the Supreme Court had upheld the sentences.",
+    "source": "https://www.timesofisrael.com/liveblog-november-03-2026/amp/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Kan: Israel asks Lebanon to set up roadblocks in Hezbollah areas",
+    "direction": "Escalating",
+    "description": "Through US mediators, Israel asked the Lebanese government to send troops to set up roadblocks where Hezbollah operatives live, so the group cannot join in if war with Iran resumes, Kan reported, citing a security source. Israel warned Beirut that fighting in Lebanon will flare up again if Hezbollah attacks Israel.",
+    "source": "https://www.timesofisrael.com/liveblog-november-03-2026/amp/",
+    "actor": "Israel"
+  },
+  {
     "date": "2026-11-02",
-    "title": "Oil falls 2-3% as Iran-Qatar talks run a third day",
+    "title": "Trump twice says 'No' to striking Iran after midterms",
     "direction": "De-escalating",
-    "description": "Brent fell 2% to $111.20 and WTI 2.3% to $101.70 on the morning of Nov. 2 after Iranian negotiators held a third straight day of talks with Qatari mediators in Doha. Abu Dhabi's Murban grade rose 1.85% to $114.80. Lufthansa pushed its return to the region back to Nov. 25, ITA Airways to Nov. 30 and Singapore Airlines to Feb. 28, 2027.",
-    "source": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-nov-2-2026-1.500732326",
+    "description": "Asked by reporters on Nov. 2 whether he was considering strikes on Iran after the midterms, Trump twice answered 'No.' On Truth Social he wrote that a deal 'could happen' and that 'Iran wants a settlement, as soon as possible.' In a Fox News interview he still said 'We might have to go after Pickaxe. We can do that in one hour.' Vance told reporters: 'We've certainly made some progress.'",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-913632",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "India: dhow Al Jusufi hit by aerial object off Oman, 1 sailor killed",
+    "direction": "Escalating",
+    "description": "An 'unidentified aerial object' struck the India-flagged cargo vessel MSV Al Jusufi near Oman's coast with 14 Indian seafarers aboard. Crew member Gandhar Nahim Ajij of Gujarat died; the Omani Coast Guard rescued the other 13. India's foreign ministry said 'the targeting of commercial shipping and civilian infrastructure in the region must end.'",
+    "source": "https://businesstoday.in/india/story/india-flagged-cargo-vessel-attacked-near-oman-one-indian-sailor-killed-565310-2026-11-03",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "Iranian negotiators leave Doha; draft US deal circulating",
+    "direction": "Neutral",
+    "description": "An official briefed on the talks said Iranian negotiators left Doha on Nov. 1, not because of difficulties, and that a draft proposal is circulating with a follow-up meeting possible. Spokesman Esmaeil Baghaei said nothing can be finalized and Hormuz will not reopen 'unless the US naval blockade is brought to an end'. He also ruled out shipping Iran's enriched uranium abroad and said terms for new IAEA inspections have not been discussed.",
+    "source": "https://cyprus-mail.com/2026/11/02/iranians-have-left-doha-talks-draft-proposal-for-us-deal-being-circulated-official-says",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "Saudi coalition downs 2 drones over Riyadh and Houthi missile",
+    "direction": "Escalating",
+    "description": "Saudi coalition spokesman Turki al-Maliki said air defenses destroyed 2 drones over the Riyadh region, without naming who launched them, and earlier a Houthi ballistic missile fired at the southern region. Houthi spokesman Yahya Saree claimed 2 drone attacks on Dammam airport over 48 hours that he said disrupted air traffic.",
+    "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-2-drones-over-riyadh-region/4109053",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "China sends envoy Zhai Jun to Iran, Oman, Saudi; Wang Yi hosts both sides",
+    "direction": "De-escalating",
+    "description": "China's foreign ministry said Middle East envoy Zhai Jun will visit Iran, Oman and Saudi Arabia in early and mid-November. In Beijing, Foreign Minister Wang Yi told Iran's SNSC deputy Ali Bagheri Kani that dialogue was the way to resolve the conflict. After meeting Saudi national security adviser Musaed al-Aiban, who carried a letter from Mohammed bin Salman to Xi, Wang said the region 'has again reached a critical crossroads between war and peace.'",
+    "source": "https://www.usnews.com/news/world/articles/2026-11-02/chinas-foreign-minister-pushes-for-dialogue-to-resolve-middle-east-conflict",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "Putin and Iran security chief Rezaei hold phone call",
+    "direction": "Neutral",
+    "description": "Putin spoke by phone with Mohsen Rezaei, secretary of Iran's Supreme National Security Council, about the region. Both stressed continuing the Russia-Iran strategic partnership under an action plan agreed by their leaders. The call came days after Pezeshkian's Oct. 27 Kremlin visit and amid US preparations for possible renewed strikes.",
+    "source": "https://www.presstv.co.uk/Detail/2026/11/02/779787/irans-security-chief-russian-president-stress-need-to-continue-strategic-cooperation",
+    "actor": "Russia|Iran"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "Oil posts biggest drop since April: Brent falls 7.6% to $104.77",
+    "direction": "De-escalating",
+    "description": "Brent settled down 7.6% at $104.77 and WTI down 7.3% at $96.46 on Nov. 2, the largest one-day dollar drop for both since April 17, after three days of Iran-Qatar talks in Doha and Iran's two-day Hormuz reopening plan. AAA's US regular gasoline average fell to $4.17, 12 cents below a week earlier, a day before the midterms. Earlier that day Lufthansa delayed its return to the region to Nov. 25, ITA Airways to Nov. 30 and Singapore Airlines to Feb. 28, 2027.",
+    "source": "https://www.nbcnews.com/business/energy/oil-prices-slide-trump-hope-iran-talks-rcna607107",
     "actor": "Other"
   },
   {
