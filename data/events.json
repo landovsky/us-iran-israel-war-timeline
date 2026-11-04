@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-11-04",
+    "title": "Trump on Fox: 'We have to do something large' on Iran",
+    "direction": "Escalating",
+    "description": "In a phone interview with Fox News late on Nov. 3 Eastern time, Trump confirmed the Qeshm strike, calling it a 'minor attack' on a newly completed anti-aircraft facility: 'we hit it last night very nicely.' Asked about strikes being considered, he said 'We have to do something large' that could be a 'heavy hit,' and 'They will never have a nuclear weapon.' He said the war partly cost Republicans the midterms: voters 'probably weren't willing to do the short-term consequence of paying more for gasoline.'",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "IRGC says 4 more tankers hit mines south of Hormuz, 2 halted",
+    "direction": "Escalating",
+    "description": "In a statement on state TV, the IRGC said four oil tankers 'attempting to pass through the prohibited passage south of the Strait of Hormuz' struck naval mines and 'are still burning.' It said two more vessels were halted and that it had downed a US drone over the strait. The IRGC named no vessels, flags or exact locations, and no one has independently confirmed the claim. The IRGC says 11 tankers caught fire in the strait in the nine days to Nov. 2.",
+    "source": "https://investinglive.com/commodities/iran-s-irgc-says-four-tankers-destroyed-by-mines-south-of-hormuz-two-vessels-detained/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Ghalibaf on midterms: 'Americans said NO TO WAR'",
+    "direction": "Neutral",
+    "description": "After the Democratic midterm sweep, Iran's chief negotiator and parliament speaker Mohammad Bagher Ghalibaf posted on X: 'Conscience or the cost of living, Americans said NO TO WAR, and we endorse this message.' He warned that if Washington ignores its voters, it 'will learn our NO comes with a Nightmare.'",
+    "source": "https://timesofisrael.com/liveblog-november-4-2026",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Democrats win control of US House and Senate in midterms",
+    "direction": "De-escalating",
+    "description": "Democrats won majorities in both chambers of Congress in the Nov. 3 midterms, which Trump acknowledged were shaped partly by the Iran war and gasoline prices. Results include Ossoff's reelection in Georgia, Troy Jackson unseating Susan Collins in Maine, and Abdul El-Sayed winning Michigan. Hakeem Jeffries is in line to become House speaker when the new Congress is sworn in in January.",
+    "source": "https://timesofisrael.com/liveblog-november-4-2026",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Indian injured in Oct. 10 Riyadh airport attack dies",
+    "direction": "Neutral",
+    "description": "The Indian Embassy in Riyadh said an Indian national critically injured in the Oct. 10 attack on Riyadh airport died in intensive care, another Indian death from that attack. Separately, Etihad suspended passenger and cargo flights from Abu Dhabi to Riyadh and Dammam until Nov. 19.",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Trump says US will end $4B yearly military aid to Israel by year-end",
+    "direction": "Neutral",
+    "description": "On the morning of the midterms, Trump told Fox News: 'Bibi Netanyahu and I have made a deal — we give Israel $4 billion a year — we made a deal months ago that we're stopping.' The 2016 MOU runs until 2028 and provides $3.8B a year. Israeli Finance Ministry officials said no formal document had been submitted, and one put two lost years of aid at '$8 billion.' Eisenkot demanded answers from Netanyahu.",
+    "source": "https://www.timesofisrael.com/trump-says-us-to-end-4-billion-in-annual-military-aid-to-israel-by-end-of-2026/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "NYT: Israel warns skeptical US, Gulf that Iran may use chemical weapons",
+    "direction": "Escalating",
+    "description": "The New York Times reported that Israel shared intelligence with the US and Gulf states that Iran is considering chemical weapons attacks, either delivered by missile or smuggled into enemy countries. Israeli officials argued the threat is more urgent than the nuclear one. Some US officials see the intelligence as Netanyahu's lever to push Trump back into combat, and Gulf states called the briefings 'unserious.' Netanyahu's office said Israel is 'ready to confront' every Iranian threat.",
+    "source": "https://www.timesofisrael.com/israel-said-to-tell-skeptical-us-gulf-countries-that-iran-may-use-chemical-weapons/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Qatar: US and Iran reviewing proposals, agree to avoid Gulf escalation",
+    "direction": "De-escalating",
+    "description": "Qatar's foreign ministry spokesman said Washington and Tehran are reviewing proposals to end the war, have agreed to avoid escalation in the region and the Gulf, and both still back Doha's mediation. He said the Qatari team that flew to Tehran on Nov. 2 had returned to Doha and that efforts to close the remaining gaps continue.",
+    "source": "https://www.jfeed.com/news/qatar-us-iran-proposals-end-war",
+    "actor": "Qatar"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Report: Rezaei vetoes Qatari plan for direct US-Iran contact in Doha",
+    "direction": "Neutral",
+    "description": "Diplomatic sources told Erem News that Supreme National Security Council secretary Mohsen Rezaei rejected a Qatari proposal for a 'close-proximity' channel between the Iranian delegation and US diplomats who were in Doha at the same time. Indirect contacts through Qatar and Pakistan continue. Iran has not commented on the record.",
+    "source": "https://www.jfeed.com/news/iran-rezaei-rejects-qatar-direct-us-talks-doha",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Pezeshkian: Khamenei gave government new powers to negotiate",
+    "direction": "De-escalating",
+    "description": "In a televised speech hours after the Qeshm strike, President Masoud Pezeshkian said Iran still seeks a solution 'through dialogue' and that 'no one will benefit from this war.' He said the supreme leader had granted the government new authority to negotiate issues that were previously 'off-limits,' though 'there are still boundaries that cannot be crossed.' Deputy FM Kazem Gharibabadi said Iran keeps the right to 'legitimate self-defence.'",
+    "source": "https://www.arabnews.com/middle-east/iran-president-says-return-to-war-benefits-no-one-after-reported-us-strikes-3009536",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Saudi coalition downs 3 drones incl. over Mecca; Houthis deny",
+    "direction": "Escalating",
+    "description": "Coalition spokesman Turki al-Maliki said air defenses destroyed three drones: one over the Mecca region, one over the Eastern Province and one heading toward the south. Houthi spokesman Yahya Saree denied any operation against Saudi territory or Mecca that day. The Houthis said Saudi strikes had killed 17 civilians over two days, and Saree said Riyadh carried out 109 strikes in 24 hours across Saada, Taiz, Lahj, Al-Jawf and Hodeidah.",
+    "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-houthi-drone-headed-toward-southern-kingdom/4110514",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
     "date": "2026-11-03",
     "title": "US jet destroys IRGC missile launcher on Qeshm after aircraft fired on",
     "direction": "Escalating",
@@ -30,6 +118,14 @@
     "description": "Through US mediators, Israel asked the Lebanese government to send troops to set up roadblocks where Hezbollah operatives live, so the group cannot join in if war with Iran resumes, Kan reported, citing a security source. Israel warned Beirut that fighting in Lebanon will flare up again if Hezbollah attacks Israel.",
     "source": "https://www.timesofisrael.com/liveblog-november-03-2026/amp/",
     "actor": "Israel"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "WSJ: Arab states warn Iran of retaliation if infrastructure hit",
+    "direction": "Escalating",
+    "description": "Mediators told the Wall Street Journal that some Arab states have warned Tehran they could retaliate individually or collectively if Iran strikes their infrastructure in response to renewed US attacks. Gulf states are running security drills at airports and energy sites. The WSJ also reported that the Qatar-mediated channel had stalled over which side concedes first.",
+    "source": "https://www.ynetnews.com/article/h1cqae8afe",
+    "actor": "Other"
   },
   {
     "date": "2026-11-02",
