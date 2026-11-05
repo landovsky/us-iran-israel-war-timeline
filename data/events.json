@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-11-05",
+    "title": "IRGC says 2 tankers and tugboat ablaze in Hormuz; claims 2 LUCAS drones",
+    "direction": "Escalating",
+    "description": "Iran's IRGC said two oil tankers and a tugboat caught fire in separate incidents after 'attempting to use unauthorised routes through the Strait of Hormuz.' One tanker struck a mine in a passage south of the strait; a supertanker caught fire exiting the route in the eastern part of the waterway, and a tug sent to fight the fire also caught fire. The IRGC also said its electronic warfare units 'took control of two intruding LUCAS drones, landed them intact and captured them,' warning of 'greater financial losses and bigger political defeats for America.' No vessels were named and the claims were not independently verified.",
+    "source": "https://www.yahoo.com/news/articles/irans-irgc-says-two-tankers-042107548.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "South Korea expands Cheonghae unit toward Hormuz with P-8, mine team",
+    "direction": "Neutral",
+    "description": "South Korea's defense ministry said it will extend the Cheonghae anti-piracy unit's operating area to waters near the Strait of Hormuz and raise its personnel ceiling from 320 to 395. The 75 extra personnel will crew a P-8 maritime patrol aircraft (45) and an explosive ordnance disposal team with unmanned mine-clearing equipment (30). The ministry said the mission is non-combat, will stay in open waters south of Oman, and is meant to prepare for joint operations to reopen Hormuz after the war; the extension needs parliamentary approval.",
+    "source": "https://www.koreaherald.com/article/10926571",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "WSJ: Houthis demand $51 billion from Saudi Arabia to end hostilities",
+    "direction": "Neutral",
+    "description": "The Wall Street Journal reported that the Houthis asked Saudi Arabia for $51 billion to end hostilities, describing it as compensation for years of Saudi strikes and blockade, and demanded that Riyadh formally recognize them as Yemen's rulers. The demand comes as the Houthis attack Saudi tankers in the Red Sea and hold territory overlooking Bab al-Mandeb.",
+    "source": "https://www.iranintl.com/en/liveblog/202610312594",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Qatar seeks US, Iran backing for draft; direct talks possible 'within days'",
+    "direction": "De-escalating",
+    "description": "Qatari mediators sought US and Iranian support for a draft agreement that could restart direct talks 'within days,' laying out a three-day sequence of confidence-building steps. Iran demands that the US naval blockade be lifted, sanctions eased and frozen funds released before it reopens Hormuz. No meeting between Vance and Iran's security chief Mohsen Rezaei has been scheduled.",
+    "source": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+    "actor": "Qatar"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Vance: 'The reason we lost is the war'; Trump calls it 'largely true'",
+    "direction": "De-escalating",
+    "description": "Vice President JD Vance wrote after the midterm rout that 'The reason we lost is the war,' saying the Iran war must end and US ties with Israel must change. Trump called the post 'largely true because it drove the gasoline up a little bit short term,' but added 'if I had it to do again, I'd have to do it again... You can't let Iran have a nuclear weapon.' He also said he could 'finish the job very easily' if Iran does not agree to a binding nuclear deal: 'Certainly if Iran doesn't behave, I will.'",
+    "source": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Axios: US finalizing preparations for possible return to major combat",
+    "direction": "Escalating",
+    "description": "US officials told Axios the military is finalizing preparations for a possible return to major combat with Iran, including deploying additional assets, though 'preparations are not an order.' Trump remains undecided between renewed strikes, a deal or continued economic pressure. Vance leads advisers pushing for an agreement and privately said Netanyahu was 'wrong on everything' about Iran, while CIA Director Ratcliffe and Treasury Secretary Bessent favor keeping the naval blockade. The USS Theodore Roosevelt strike group is transiting the South China Sea toward the Middle East.",
+    "source": "https://www.foxnews.com/live-news/iran-war-news-trump-elections-oil-prices-november-4",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Mojtaba Khamenei: 'The process of the US's collapse has accelerated'",
+    "direction": "Escalating",
+    "description": "Supreme Leader Mojtaba Khamenei said on X that the US midterm results would not change Washington's hostility toward Iran. 'The process of the US's collapse has accelerated,' he wrote, adding that 'The Great Satan wants the surrender of the Iranian nation' and signaling that Iran would not submit.",
+    "source": "https://www.foxnews.com/live-news/iran-war-news-trump-elections-oil-prices-november-4",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Qaani threatens Bab el-Mandeb front; IRGC adviser vows 'annihilation' of leaders",
+    "direction": "Escalating",
+    "description": "IRGC Quds Force commander Esmaeil Qaani said 'the entire Resistance is one front,' warning the US would fight in Hormuz 'while facing the opening of the Bab el-Mandeb through Resistance.' Hamidreza Moqadamfar, senior adviser to the IRGC commander-in-chief, said any new war would meet responses with no limit of geography or time: 'Our responses will no longer be proportionate or commensurate. If they target our commanders this time, they should expect the annihilation of their own commanders and leaders.'",
+    "source": "https://en.irna.ir/news/86312949/General-Ghaani-US-faces-united-front-in-Hormuz-Bab-al-Mandab",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Houthis claim ballistic missile hit Riyadh's King Khalid airport",
+    "direction": "Escalating",
+    "description": "Houthi military spokesman Yahya Saree said a ballistic missile struck King Khalid International Airport in Riyadh 'directly,' claiming 'significant damage' and dozens killed or injured; he also claimed three operations in Jizan and Najran. Saudi civil defence issued an early-warning alert for Riyadh Province and lifted it shortly afterward; Saudi Arabia did not confirm any damage. Houthi attacks on Oct. 10 killed 12 at the airport and closed it for two weeks.",
+    "source": "https://english.news.cn/20261104/3aa137b1f7c348e49244ea4f5a53d70e/c.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Israeli drone kills motorcyclist in Qabrikha, first Lebanon death since September",
+    "direction": "Escalating",
+    "description": "An Israeli drone struck a motorcycle in the southern Lebanese town of Qabrikha, killing one man and wounding another, Lebanon's health ministry said, the first such death since September. The IDF said it 'struck two suspects who were observing IDF soldiers' near the area it patrols. The strike came a day after Israel warned Beirut that fighting would resume if Hezbollah joined a renewed war with Iran.",
+    "source": "https://www.arabnews.com/middle-east/lebanon-says-israeli-strike-kills-one-in-south-3009799",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Brent falls almost 8%, first close below $100 since early October",
+    "direction": "De-escalating",
+    "description": "Brent crude fell almost 8% on Nov. 4 from a $103.60 settle, its first close under $100 since early October, after Democrats won Congress, Qatar pressed its mediation and Trump said he had no immediate strike plans. Brent had peaked near $118 on Oct. 30; by Nov. 5 morning it traded at $93.63, a two-month low, with WTI at $87.13.",
+    "source": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Saudi Arabia, Syria's al-Sharaa sign defense pact, demand end to shipping threats",
+    "direction": "Neutral",
+    "description": "Crown Prince Mohammed bin Salman and Syrian President Ahmed al-Sharaa met in Riyadh and called for an immediate halt to threats against shipping in the Strait of Hormuz, the Red Sea and Bab al-Mandab, the Saudi Press Agency said. They signed a defense cooperation agreement and memoranda on industry, agriculture and environment, and the Saudi Fund for Development signed infrastructure, health and housing deals for Syria.",
+    "source": "https://www.iranintl.com/en/liveblog/202610312594",
+    "actor": "Saudi Arabia"
+  },
+  {
     "date": "2026-11-04",
     "title": "Trump on Fox: 'We have to do something large' on Iran",
     "direction": "Escalating",
@@ -38,6 +134,14 @@
     "description": "The Indian Embassy in Riyadh said an Indian national critically injured in the Oct. 10 attack on Riyadh airport died in intensive care, another Indian death from that attack. Separately, Etihad suspended passenger and cargo flights from Abu Dhabi to Riyadh and Dammam until Nov. 19.",
     "source": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100",
     "actor": "Other"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Trump to FT: 'We're locked and loaded... but there may be no reason'",
+    "direction": "De-escalating",
+    "description": "In a six-minute election-night phone interview with the Financial Times, Trump said the US had no immediate plans to strike Iran. 'We seem to be getting everything we want,' he said. 'We're having discussions, and we'll see how that all works out.' Asked about Netanyahu's hints of an attack, he said: 'We're locked and loaded if we need to go, but there may be no reason for it.'",
+    "source": "https://www.timesofisrael.com/liveblog-november-4-2026",
+    "actor": "US"
   },
   {
     "date": "2026-11-03",
