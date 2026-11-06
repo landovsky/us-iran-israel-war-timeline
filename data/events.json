@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-11-06",
+    "title": "Saudi coalition intercepts 2 Houthi ballistic missiles aimed at Najran",
+    "direction": "Escalating",
+    "description": "Saudi-led coalition spokesman Maj. Gen. Turki al-Malki said air defenses intercepted and destroyed two Houthi ballistic missiles launched toward Najran province. 'Debris fell as a result of the interception, and damage is being assessed,' he said. Saudi civil defense issued an emergency warning for Najran on its National Early Warning Platform, then lifted it shortly afterward. No casualties were reported.",
+    "source": "https://www.arabnews.com/saudi-arabia/coalition-forces-intercept-houthi-ballistic-missiles-targeting-najran-3010126",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Trump: 'Maybe I will have to' destroy rest of Iran",
+    "direction": "Escalating",
+    "description": "After his first national security meeting on Iran since the midterms, Trump told reporters in the Oval Office: 'I would rather not destroy the rest of the country if possible, but maybe I will have to. You'll know soon enough.' Two US officials told Axios he is weighing three options: new strikes, continued economic pressure, or a deal. Trump said 18 US service members have died in the war, said Iran would need 25 years to rebuild, and said of its nuclear program: 'They're not doing anything without our approval.'",
+    "source": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Iran sends nuclear proposal to US via Qatar; sets 7 conditions",
+    "direction": "De-escalating",
+    "description": "A senior Iranian official told Reuters that Tehran passed a nuclear proposal to Washington through Qatari mediators and that the US is reviewing it; its contents were not disclosed. Iran will not negotiate until the US meets seven conditions, including war reparations, an end to sanctions and the naval blockade, release of frozen assets, an end to hostilities in Lebanon and Gaza, a reduced US military presence, and a permanent end to the war. Washington insists nuclear issues be part of any initial talks.",
+    "source": "https://www.arabnews.com/middle-east/iran-sent-nuclear-proposal-to-the-us-via-qatar-senior-iranian-official-says-3010067",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Rezaei meets Putin in Kremlin, delivers Mojtaba Khamenei letter",
+    "direction": "Neutral",
+    "description": "Iran's Supreme National Security Council secretary Mohsen Rezaei met Vladimir Putin at the Kremlin and handed him an undisclosed letter from Supreme Leader Mojtaba Khamenei. Rezaei said they discussed post-war regional security and a Russia-to-Iran gas pipeline, and that Putin repeated Moscow's readiness to help end the war. 'As long as they do not execute our seven conditions, we will neither open the Strait of Hormuz nor have negotiations,' Rezaei said.",
+    "source": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei",
+    "actor": "Russia|Iran"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Turkish parliament ratifies Mecca defense pact with Saudi Arabia, Pakistan",
+    "direction": "Neutral",
+    "description": "Turkey's Grand National Assembly ratified the Mecca Joint Defense Agreement 279-119, with backing from the AK Party, MHP and opposition CHP. The pact, signed Aug. 7 by Mohammed bin Salman, Erdogan and Shehbaz Sharif, treats an attack on one member as an attack on all. A ruling-party lawmaker said a separate mandate to deploy Turkish troops to Saudi Arabia, which is under Houthi attack, will go to parliament.",
+    "source": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement",
+    "actor": "Turkey"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Turkey says soldier killed by gunfire from Iranian side of border",
+    "direction": "Escalating",
+    "description": "Turkey's Defense Ministry said Private Yusuf Sait Unlu of the 7th Border Brigade was killed Oct. 31 near the Engin Mayin border outpost in Hakkari's Yuksekova district 'while responding to an illegal crossing,' by fire assessed to have come from Iran. Spokesperson Zeki Akturk said Turkish and Iranian officials met at the scene on Nov. 3 and both countries opened judicial and administrative investigations. The shooters have not been identified.",
+    "source": "https://www.al-monitor.com/originals/2026/11/turkey-says-soldier-killed-gunfire-iran-border-what-know",
+    "actor": "Turkey"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Saudi coalition downs missile aimed at Medina; Houthis claim Dammam airport",
+    "direction": "Escalating",
+    "description": "Coalition spokesman Turki al-Malki said air defenses 'intercepted and destroyed a ballistic missile launched by the terrorist Houthi militia toward the Medina region,' minutes after a civil defense danger warning for the Yanbu oil port. The Houthis called the Medina claim a 'blatant and grave falsehood,' and spokesman Yahya Saree said they target 'only oil facilities and military bases.' Saree separately claimed a drone strike on King Fahd International Airport in Dammam, which Saudi Arabia did not confirm; Kuwait condemned the targeting of Medina.",
+    "source": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Houthis say Saudi airstrikes on Saada farm kill 7",
+    "direction": "Escalating",
+    "description": "The Houthi health ministry said two Saudi coalition airstrikes killed seven people and wounded six in Saada province, saying the first hit families working a farm in At Talh, Sahar district, and the second struck as paramedics arrived. Houthi spokesman Yahya Saree accused Saudi Arabia of 61 airstrikes in 24 hours across Sanaa and nine provinces. Saudi authorities did not comment and the toll was not independently verified.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/houthis-claim-two-saudi-airstrikes-in-yemen-killed-7-people/",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Iraqi PM al-Zaidi tells Trump Iraq won't be launchpad for strikes",
+    "direction": "De-escalating",
+    "description": "Iraqi Prime Minister Ali Faleh al-Zaidi told Trump by phone that Iraqi territory must not be used to attack neighboring countries, his office said, citing the 'non-use of its territories as a launchpad for aggression.' The call came as Trump weighed resuming strikes on Iran.",
+    "source": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-elections-november-5",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Araghchi calls 7 regional foreign ministers including UAE, Saudi",
+    "direction": "De-escalating",
+    "description": "Iranian Foreign Minister Abbas Araghchi held calls with his counterparts from the UAE, Saudi Arabia, Qatar, Oman, Turkey, Jordan and Kuwait. The UAE's Sheikh Abdullah bin Zayed stressed de-escalation and diplomacy; Oman's Badr Al Busaidi discussed lasting arrangements to reopen Hormuz through joint technical mechanisms. The calls came as Trump weighed renewed strikes.",
+    "source": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "UKMTO: tanker hit by 2 projectiles 50 nm north of Qatar",
+    "direction": "Escalating",
+    "description": "UKMTO warning 196-26 said a tanker was struck by two unidentified projectiles about 50 nautical miles north of Madinat ash Shamal, Qatar, reported at 2320 UTC. 'The status of the crew, damage assessment and environmental impact are unconfirmed at present,' UKMTO said. The site is roughly 500 km west of Hormuz in the central Gulf; the vessel and attacker were not identified.",
+    "source": "https://www.iranintl.com/en/202611051708",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Treasury sanctions India fake-flag network, Turkish firm aiding Iran",
+    "direction": "Escalating",
+    "description": "Under 'Operation Economic Outcast,' Treasury sanctioned a Chandigarh-based network run by Suniel Kumar Sharma and his wife Jaspreet Preeti Shahid that sold fraudulent flag registrations claiming Aruba, Guyana, Mali and Mozambique to Iran's shadow fleet, plus nine linked entities. It also designated Turkey-based Fugo Ground Services for handling sanctioned Iranian airlines including Iran Air Tour and Taban. 'You are either with us or against us,' Treasury Secretary Bessent said.",
+    "source": "https://washingtontimes.com/news/2026/nov/4/treasury-department-sanctions-couple-accused-helping-iran-evade-oil",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Iran sentences activist Amirhossein Mousavi to death over X posts",
+    "direction": "Escalating",
+    "description": "A Tehran Revolutionary Court sentenced activist Amirhossein Mousavi, 42, to death for 'corruption on earth' over posts from his anonymous X account 'James Bidin,' his lawyer Reza Shafakhah said. His sister said he also received five years for 'insulting religious sanctities.' Mousavi has been detained since December 2024; Iran has executed 36 men over the January 2026 protests.",
+    "source": "https://www.newarab.com/news/iran-sentences-death-activist-over-posts-x-lawyer-rights-groups",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-11-05",
     "title": "IRGC says 2 tankers and tugboat ablaze in Hormuz; claims 2 LUCAS drones",
     "direction": "Escalating",
