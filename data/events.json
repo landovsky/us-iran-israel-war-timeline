@@ -1,11 +1,147 @@
 [
   {
+    "date": "2026-11-07",
+    "title": "Saudi coalition downs Houthi cruise missile aimed at Riyadh",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said on Saturday its air defenses 'intercepted and destroyed' a Houthi cruise missile aimed at the Riyadh area, spokesman Maj. Gen. Turki Al-Maliki said. Late Friday the coalition also destroyed a drone near Riyadh, hours after downing a drone over the Makkah region. No casualties were reported.",
+    "source": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-07",
+    "title": "IRGC promises 'surprises'; army claims 228 US base sites hit",
+    "direction": "Escalating",
+    "description": "IRGC spokesman Hossein Mohebbi said that in a third round of fighting Iran 'may unveil some of those surprises' that would 'astonish the entire world', and claimed 7 reconnaissance drones were downed intact in the past one to two weeks. Army spokesman Mohammad Akraminia said Iranian forces are 'stronger' than in February, that over 228 locations at US regional bases were severely damaged or destroyed, and that Iran's response would be 'without geographical limitations'.",
+    "source": "https://www.iranintl.com/en/liveblog/202611077068",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-07",
+    "title": "Telegraph: Iran negotiating S-400 purchase from Russia",
+    "direction": "Escalating",
+    "description": "The Telegraph, citing an Iranian official, reported that Tehran is negotiating to buy Russia's S-400 air defense system and is optimistic Putin will approve the sale. The report follows SNSC secretary Mohsen Rezaei's Kremlin meeting with Putin this week, where he delivered a letter from Mojtaba Khamenei whose main request was Russian weapons.",
+    "source": "https://www.timesofisrael.com/liveblog-november-07-2026",
+    "actor": "Iran|Russia"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "US strikes Iranian air defense on Qeshm; Trump calls it 'minor'",
+    "direction": "Escalating",
+    "description": "US forces struck an Iranian air defense system on Friday; IRNA reported two projectiles hit the Suza area of Qeshm Island, with no casualties reported by semi-official media. Trump told reporters in West Palm Beach Iran 'built a little bit of an anti-aircraft device and we knocked it out in about 15 minutes, maybe five,' adding: 'We are talking to Iran. We have been.' They were the first US strikes since the Nov. 3 midterms.",
+    "source": "https://kashmirobserver.net/2026/11/07/us-military-carries-out-new-strikes-on-iran-amid-mediation-efforts/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Iran says it shot down US MQ-9 drone over Qeshm",
+    "direction": "Escalating",
+    "description": "Iran's army said via IRIB at about 23:00 GMT that its air defense force destroyed a US MQ-9 Reaper over Qeshm Island, following local reports of two missile impacts on the island. The US did not confirm the loss; a CENTCOM official described the situation as 'relatively calm'.",
+    "source": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "IRGC says 2 more tankers hit mines on 'unauthorized routes'",
+    "direction": "Escalating",
+    "description": "The IRGC said one tanker struck a mine east of the Strait of Hormuz and a second inside the strait, claiming both had switched off transponders to exit via an 'unauthorized route' with US support. It said the strait stays closed until Iran's seven conditions are met. Separately, UKMTO said a tanker reported an explosion on its port side 16 nm east of Khasab, Oman; the crew was safe and the ship continued under its own power.",
+    "source": "https://www.iranintl.com/en/202611065926",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Trump, Qatar emir discuss 'comprehensive agreement' with Iran",
+    "direction": "De-escalating",
+    "description": "Trump and Qatar's Emir Sheikh Tamim bin Hamad Al Thani discussed Doha's mediation toward a comprehensive agreement with Iran, the emir's office said; Tamim stressed avoiding escalation, freedom of navigation in Hormuz and energy security. Bloomberg, citing a diplomat familiar with the talks, reported Iran is now examining Qatari nuclear proposals it had previously refused to discuss.",
+    "source": "https://en.shafaqna.com/489714/bloomberg-iran-and-us-edge-closer-to-an-agreement-to-end-war/",
+    "actor": "US|Qatar"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Qatar denies talks failed; PM: US intentions survive midterms",
+    "direction": "De-escalating",
+    "description": "Qatar's International Media Office called reports that US-Iran talks had failed 'false and misleading'. Speaking at Oxford University, PM Sheikh Mohammed bin Abdulrahman Al Thani said US officials had shown 'very genuine intentions to find a way to contain the situation... Even after the election, the intentions are still there,' while acknowledging engagement had slowed. 'We will never have a perfect peace deal,' he said.",
+    "source": "https://www.iranintl.com/en/liveblog/202611077068",
+    "actor": "Qatar"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "WaPo: Bessent asked China to press Iran; Beijing relayed message",
+    "direction": "De-escalating",
+    "description": "Treasury Secretary Scott Bessent, with Trump's backing, asked China to use its influence to help end the war, and Beijing delivered the message to Tehran, the Washington Post's David Ignatius reported. Vance sent a conciliatory letter to SNSC secretary Mohsen Rezaei last month; Qatari intermediary Ali Al Thawadi said Iranian leaders 'appreciated that Vance said the war was a mistake'. Trump and Xi are due to meet in Shenzhen on Nov. 18.",
+    "source": "https://dunyanews.tv/en/World/981651-us-asks-china-to-help-end-iran-war",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "NBC: advisers urge Trump to strike before new Congress sits",
+    "direction": "Escalating",
+    "description": "Some Trump advisers told him his window for renewed major combat is about eight weeks, before a Democratic Congress takes office in January and can impose investigations, funding limits or war powers resolutions, two US officials told NBC. A shorter, more intense campaign could target oil and gas infrastructure and nuclear sites including Pickaxe Mountain. WSJ reported Hegseth and CENTCOM's Adm. Brad Cooper favor strikes, Vance and Witkoff diplomacy, and Rubio and Bessent sanctions plus the blockade.",
+    "source": "https://www.nbcnews.com/politics/national-security/trump-briefed-narrow-window-new-military-campaign-iran-rcna607879",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "US offers up to $20M for information on Iran nuclear program",
+    "direction": "Escalating",
+    "description": "The State Department's Rewards for Justice program, promoted by CENTCOM, offered up to $20 million and possible relocation for information on Iran's nuclear program, including facilities, equipment, scientists and their movements. Critics noted the offer contradicts Trump's repeated claims the program was 'obliterated'.",
+    "source": "https://www.al-monitor.com/originals/2026/11/us-offers-20-mn-reward-info-irans-nuclear-program-centcom",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Treasury sanctions 8 Canadian money exchanges over Iran finance",
+    "direction": "Escalating",
+    "description": "The US Treasury sanctioned eight money services businesses in Ontario and British Columbia, including Million Exchange, Farah Exchange and Darvish Exchange, for facilitating Iranian finance. 'Canada cannot be a safe haven for illicit financial facilitators,' Treasury Secretary Scott Bessent said.",
+    "source": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Report: US quashed Netanyahu-Gofman Iran operation before Israeli vote",
+    "direction": "Neutral",
+    "description": "Israel's Channel 12 reported that Netanyahu and Mossad chief Roman Gofman sought to conduct an operation inside Iran on the eve of Israel's Oct. 27 election, against the advice of senior security officials who feared escalation. An Israeli operative's mistake tipped off Washington, which moved quickly to stop it. Netanyahu's office denied any pre-election attack plan.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/report-pm-mossad-chief-planned-operation-inside-iran-on-eve-of-israeli-election-which-was-thwarted-after-us-accidentally-tipped-off/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Times: Iran distributes iodine tablets near nuclear sites",
+    "direction": "Escalating",
+    "description": "An Iranian Health Ministry official told The Times of London that iodine tablets are being distributed to residents within 2-3 km of nuclear sites. 'Trump can no longer be trusted,' the official said, amid reports a US strike on Pickaxe Mountain is under serious consideration.",
+    "source": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Houthis say Saudi strikes on Taiz market kill 30",
+    "direction": "Escalating",
+    "description": "A Houthi military spokesman said three Saudi-led coalition strikes hit the al-Hadara market in al-Waziiya, Taiz, early Friday, killing at least 30 civilians and injuring 8. Yemen's recognised government blamed a Houthi missile; the coalition did not comment and Al Jazeera could not verify the toll.",
+    "source": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Brent ends week down 16%, biggest weekly drop since Covid",
+    "direction": "De-escalating",
+    "description": "Brent crude settled up 3 cents at $98.32 on Friday, ending the week down more than 16% from near $118.70 on Oct. 30, the steepest weekly fall since the 2020 Covid crash; WTI settled at $90.83. The selloff followed the Democratic midterm sweep and reports of Iran's nuclear proposal via Qatar.",
+    "source": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+    "actor": "Other"
+  },
+  {
     "date": "2026-11-06",
     "title": "Saudi coalition intercepts 2 Houthi ballistic missiles aimed at Najran",
     "direction": "Escalating",
     "description": "Saudi-led coalition spokesman Maj. Gen. Turki al-Malki said air defenses intercepted and destroyed two Houthi ballistic missiles launched toward Najran province. 'Debris fell as a result of the interception, and damage is being assessed,' he said. Saudi civil defense issued an emergency warning for Najran on its National Early Warning Platform, then lifted it shortly afterward. No casualties were reported.",
     "source": "https://www.arabnews.com/saudi-arabia/coalition-forces-intercept-houthi-ballistic-missiles-targeting-najran-3010126",
     "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Court filings: US held wartime talks with Iran on deportations",
+    "direction": "Neutral",
+    "description": "Court documents unsealed Thursday show the Trump administration discussed travel documents and 'possible avenues for removal' of Iranian nationals with Iran during the war, and as of mid-October planned deportations via an unnamed third country. A judge ordered 24-hour notice of any finalized plan and 5 days' written notice before removals; the Iranian American Legal Defense Fund said at least a dozen detainees were told they would be deported.",
+    "source": "https://www.timesofisrael.com/liveblog-november-06-2026/",
+    "actor": "US"
   },
   {
     "date": "2026-11-05",
