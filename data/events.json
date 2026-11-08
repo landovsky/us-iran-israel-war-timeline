@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-11-08",
+    "title": "Houthi missiles target Riyadh; Aramco tower in KAFD damaged",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said it intercepted two Houthi ballistic missiles aimed at Riyadh and one at the Eastern Province on Sunday, and separately two cruise missiles over Riyadh and the south. Witnesses told AFP the Aramco building in the King Abdullah Financial District was damaged; Reuters cited four people saying a KAFD tower was hit by a projectile. Saudi authorities did not confirm the damage. Houthi spokesman Yahya Saree claimed six operations against Aramco facilities, Riyadh airport and Saudi military positions.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/aramco-building-damaged-houthis-target-riyadh-report-says",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Iran hangs 3 men over January Karaj protests",
+    "direction": "Escalating",
+    "description": "Iran executed Hassan Divband, Hamid Kazemi and Reza Zanganeh on Sunday morning after the Supreme Court upheld their sentences, the judiciary's Mizan Online said. They were convicted of 'operational activities on behalf of the Israeli Zionist regime, the United States and hostile groups', including Molotov and grenade attacks and damaging a Karaj electricity substation on Jan. 8-9. HRANA had reported the death sentences only two days earlier.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-914168",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Shroud-clad hardliners rally at IRGC HQ demanding strike on US",
+    "direction": "Escalating",
+    "description": "Women in burial shrouds rallied outside IRGC headquarters in Tehran demanding military action over threats to Supreme Leader Mojtaba Khamenei, carrying signs reading 'The Imam's life is in danger. Act now. Tomorrow will be too late.' A banner said Khamenei's Oct. 31 order for an 'immediate, effective strike without geographical limits' had not been carried out. Tabnak, linked to SNSC secretary Mohsen Rezaei, criticized the protesters.",
+    "source": "https://www.iranintl.com/en/liveblog/202611077068",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-07",
+    "title": "US aircraft disables blockade-running cargo ship Huda; UAE rescues 22",
+    "direction": "Escalating",
+    "description": "CENTCOM said a US military aircraft fired precision munitions at the stern of the St. Kitts-flagged M/V Huda in the Gulf of Oman after it left an Iranian port and 'ignored repeated warnings' while trying to breach the blockade multiple times. The UAE National Guard and Coast Guard evacuated all 22 crew from the burning ship; they were reported stable. CENTCOM said that since July US forces have redirected 147 commercial vessels and disabled five that refused to comply.",
+    "source": "https://www.stripes.com/theaters/middle_east/2026-11-07/centcom-strikes-commercial-cargo-vessel-23394462.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-07",
+    "title": "CENTCOM forms Task Force Iron Gate to choke Iran's land routes",
+    "direction": "Escalating",
+    "description": "CENTCOM commander Adm. Brad Cooper ordered the creation of Task Force Iron Gate, a Tampa-based staff of about 20 that will work with Treasury, State, Justice and intelligence agencies to block weapons, dual-use technology and illicit revenue crossing Iran's land borders and the Caspian Sea. Cooper said it 'reinforces the success of our ironclad blockade against Iran at sea.' A Reuters investigation found Iran imported at least $2 billion in hardware since January 2025 via Russian ships, Central Asian trucks and Chinese freight planes.",
+    "source": "https://www.tribuneindia.com/news/advanced-weapons/us-centcom-establishes-task-force-iron-gate-to-disrupt-iranian-ground-transit-routes-curb-illegal-shipments",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-07",
+    "title": "IRGC lifts self-imposed 2,000 km ballistic missile range cap",
+    "direction": "Escalating",
+    "description": "IRGC spokesman Gen. Hossein Mohebbi told a Tehran press conference that the 2,000 km missile-range limit, set in 2017 under Ali Khamenei, 'has been lifted for us,' and that Iran would 'demonstrate these capabilities in practice.' He did not say whether Iran has missiles exceeding the cap. Iran reportedly tried and failed in March to hit Diego Garcia, about 4,000 km away.",
+    "source": "https://www.timesofisrael.com/irgc-says-its-self-imposed-limit-on-ballistic-missile-range-has-been-lifted/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-07",
+    "title": "Houthis say Saudi airstrikes near Sanaa kill 33, wound 39",
+    "direction": "Escalating",
+    "description": "Houthi Health Ministry spokesman Anees al-Asbahi said coalition air raids on al-Shariyah village in Bani Hushaish district east of Sanaa killed 33 people, 'including eight women and 13 children,' and wounded at least 39, hitting homes, paramedics and civil defence teams. Houthi spokesman Yahya Saree said the coalition carried out 105 air and missile strikes on Sanaa and seven other governorates in 24 hours. Saudi Arabia's Center for International Communication said it was looking into the claim.",
+    "source": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-11-07",
+    "title": "IRGC says 2 more tankers hit mines on 'unauthorized routes'",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said late Saturday that two oil tankers 'caught fire and are currently engulfed in intense flames' after striking naval mines, one east of the Strait of Hormuz and one inside it, claiming both had switched off navigation systems to use an 'unauthorized route'. It did not name the ships or their flags. Separately, UKMTO said on Nov. 6 that a tanker reported an explosion on its port side 16 nm east of Khasab, Oman; the crew was safe.",
+    "source": "https://www.anews.com.tr/middle-east/2026/11/08/irans-revolutionary-guards-say-2-oil-tankers-hit-mines-caught-fire-near-strait-of-hormuz",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-11-07",
     "title": "Saudi coalition downs Houthi cruise missile aimed at Riyadh",
     "direction": "Escalating",
@@ -25,6 +89,14 @@
   },
   {
     "date": "2026-11-06",
+    "title": "Trump: 'It's not a war' with Iran",
+    "direction": "Neutral",
+    "description": "Speaking to reporters, Trump said: 'We made a lot of progress with Iran. We're taking out more oil now than we were before the war. It's not a war. It can't be a war when for five months nobody was hurt, killed, or anything else.' He made the remarks the same day he confirmed 'minor' US strikes on an Iranian air defense system on Qeshm.",
+    "source": "https://aninews.in/news/world/us/nobody-hurt-or-killed-in-5-months-trump-says-us-is-not-at-war-with-iran20261107132743/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-06",
     "title": "US strikes Iranian air defense on Qeshm; Trump calls it 'minor'",
     "direction": "Escalating",
     "description": "US forces struck an Iranian air defense system on Friday; IRNA reported two projectiles hit the Suza area of Qeshm Island, with no casualties reported by semi-official media. Trump told reporters in West Palm Beach Iran 'built a little bit of an anti-aircraft device and we knocked it out in about 15 minutes, maybe five,' adding: 'We are talking to Iran. We have been.' They were the first US strikes since the Nov. 3 midterms.",
@@ -37,14 +109,6 @@
     "direction": "Escalating",
     "description": "Iran's army said via IRIB at about 23:00 GMT that its air defense force destroyed a US MQ-9 Reaper over Qeshm Island, following local reports of two missile impacts on the island. The US did not confirm the loss; a CENTCOM official described the situation as 'relatively calm'.",
     "source": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
-    "actor": "Iran"
-  },
-  {
-    "date": "2026-11-06",
-    "title": "IRGC says 2 more tankers hit mines on 'unauthorized routes'",
-    "direction": "Escalating",
-    "description": "The IRGC said one tanker struck a mine east of the Strait of Hormuz and a second inside the strait, claiming both had switched off transponders to exit via an 'unauthorized route' with US support. It said the strait stays closed until Iran's seven conditions are met. Separately, UKMTO said a tanker reported an explosion on its port side 16 nm east of Khasab, Oman; the crew was safe and the ship continued under its own power.",
-    "source": "https://www.iranintl.com/en/202611065926",
     "actor": "Iran"
   },
   {
