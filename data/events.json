@@ -1,6 +1,78 @@
 [
   {
     "date": "2026-11-08",
+    "title": "Rubio: Iran's demands 'outrageous and ridiculous'; no breakthrough near",
+    "direction": "Neutral",
+    "description": "Secretary of State Marco Rubio, leaving for G7 foreign ministers' talks in Paris, said 'I wouldn't say we're at the verge of a breakthrough' with Iran and called Tehran's demands 'outrageous and ridiculous and really not realistic.' He said Trump prefers a diplomatic solution but that one is 'sometimes not possible,' adding 'We have a right to defend ourselves.' He would not say whether the war contributed to the Republicans' midterm defeat.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Iran says US struck Qeshm again; 4 blasts, no vital damage",
+    "direction": "Escalating",
+    "description": "IRNA reported four explosions on Qeshm Island on Sunday evening, with its correspondent saying some areas appeared to have been hit by projectiles. Iranian officials later described it as a US attack and told Fars that no vital infrastructure was damaged and essential services were not disrupted. Washington did not comment. It is the third reported strike on the island in a week, after the Nov. 3 strike and the 'minor' Nov. 6 strike on an air defense system that Trump acknowledged.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-914265",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Drone halts Iraq's Khor Mor gas field; 70%+ of Kurdistan blacked out",
+    "direction": "Escalating",
+    "description": "A drone struck a gas storage facility at the Khor Mor field in Sulaimaniyah province on Sunday night and set it on fire, stopping production. KRG electricity ministry spokesman Omid Ahmed said gas to power plants in Erbil, Sulaimaniyah, Bazian, Chamchamal and Duhok was cut, taking 2,500-2,800 MW off the grid and leaving more than 70% of the Kurdistan region without power. No one claimed the attack. PM Ali al-Zaidi said there were no casualties and ordered a joint investigation with Kurdish authorities. Kurdish ministries called it a 'terrorist attack.'",
+    "source": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Saudi coalition destroys 3 Houthi missile launchers in Saada, Sanaa",
+    "direction": "Escalating",
+    "description": "Coalition spokesman Maj. Gen. Turki al-Maliki said coalition strikes destroyed two ballistic missile launchers in Saada that the Houthis had used in Sunday's attempted attack on Riyadh. A third launcher, used against the Eastern Province, was destroyed in Sanaa. The strikes followed the Houthi missile salvo that damaged an Aramco building in Riyadh. Kuwait and the UAE condemned the Houthi attacks.",
+    "source": "https://saudigazette.com.sa/article/666094/saudi-arabia/coalition-ballistic-missile-launchers-destroyed-in-saada-and-sanaa",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Araghchi: 'Our 2-day proposal stands'; threatens to 'rain down hell'",
+    "direction": "Neutral",
+    "description": "Foreign Minister Abbas Araghchi posted on X: 'American voters have made their choice. Time for the White House to make its own.' He said Iran's two-day proposal to reopen Hormuz still stands, and that Iran's forces would 'rain down hell' if the US chooses war. On state TV he said Qatari and Pakistani mediators had stopped travelling because of 'the shock that the election results in the United States have caused', and urged patience.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Trump: new strikes 'highly unlikely' if deal; 38 Iranian bridges targetable",
+    "direction": "Neutral",
+    "description": "Trump told CNN that renewed attacks on Iran were 'highly unlikely' if Tehran makes progress on a nuclear deal and reopens Hormuz: 'It depends on whether or not they sign a very strong agreement.' He warned: 'We have 38 bridges in our sight that we can knock down in literally one hour,' and said three US carriers in the region are 'fully locked and loaded.' He also said Iran has '301% inflation'. On Truth Social he said Task Force Iron Gate 'is in full force and effect' and 'very little gets into, or out of, Iran!'",
+    "source": "https://foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "US asks Iraq to close all but 2 Iran border crossings",
+    "direction": "Escalating",
+    "description": "Iraqi Foreign Minister Fuad Hussein told Al Jazeera that the US Treasury had asked Baghdad to close every border crossing with Iran except two, one of them in the Kurdistan region, to tighten economic pressure on Tehran. 'Closing all of them would be difficult and would affect our economy,' Hussein said, adding that talks with Washington are ongoing. He also said Iraq has reached understandings with the US to export oil through Hormuz via a lane near Oman, and put Iraq's war losses at $60 billion.",
+    "source": "https://www.usnews.com/news/world/articles/2026-11-08/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says",
+    "actor": "US|Iraq"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Herzog tasks Eisenkot with forming government; 67 MKs back him",
+    "direction": "Neutral",
+    "description": "President Isaac Herzog formally gave Yashar leader Gadi Eisenkot the mandate to form Israel's next government. Factions with 67 MKs had recommended Eisenkot and factions with 46 recommended Netanyahu. The 67 include 19 MKs from Arab parties, which Eisenkot has ruled out as coalition partners. Eisenkot pledged 'creative and unconventional' steps to build a 'national emergency government'. He has 28 days, extendable by 14.",
+    "source": "https://www.timesofisrael.com/eisenkot-gets-nod-to-form-government-vows-unconventional-acts-in-time-of-emergency/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Katz: Iran 'mission is still not complete'; warns Hezbollah",
+    "direction": "Escalating",
+    "description": "Defense Minister Israel Katz said 'With regard to Iran, the mission is still not complete,' accusing Tehran of trying to renew its pursuit of nuclear weapons. He warned that Hezbollah would face 'extremely severe blows' if it joins any Iranian attack. He said Israel will stay in its security zones in Gaza, Lebanon and Syria. Netanyahu's bloc fell short of a majority in the Oct. 27 election.",
+    "source": "https://egyptian-gazette.com/world/israel-iran-mission-not-complete/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-08",
     "title": "Houthi missiles target Riyadh; Aramco tower in KAFD damaged",
     "direction": "Escalating",
     "description": "The Saudi-led coalition said it intercepted two Houthi ballistic missiles aimed at Riyadh and one at the Eastern Province on Sunday, and separately two cruise missiles over Riyadh and the south. Witnesses told AFP the Aramco building in the King Abdullah Financial District was damaged; Reuters cited four people saying a KAFD tower was hit by a projectile. Saudi authorities did not confirm the damage. Houthi spokesman Yahya Saree claimed six operations against Aramco facilities, Riyadh airport and Saudi military positions.",
