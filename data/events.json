@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-11-10",
+    "title": "Saudi coalition downs Houthi missiles at Riyadh; Riyadh schools go online",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said its air defences destroyed one ballistic and one cruise missile that the Houthis fired at Riyadh early Tuesday. It also shot down a drone over the Eastern Province, the Saudi Press Agency reported. Residents received a shelter alert for an 'aerial threat' and AFP heard multiple blasts. Riyadh Deputy Governor Prince Mohammed bin Abdulrahman inspected the Aramco office damaged on Sunday. Schools in the capital told parents that 'classes will be online beginning tomorrow, Tuesday', with no end date.",
+    "source": "https://gulfnews.com/world/mena/usisrael-iran-war-coalition-intercepts-houthi-missiles-fired-at-riyadh-as-trump-says-us-locked-and-loaded-republican-moves-to-impeach-hegseth-1.500741921",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "FT: Netanyahu calls Trump 'every day' urging resumed Iran war",
+    "direction": "Escalating",
+    "description": "The Financial Times quoted a person briefed on the talks: 'Netanyahu calls him every day [to urge him to resume the war]. Those who don't want a war within the White House and outside have been trying to combat that.' The FT said Netanyahu wants a renewed US-Israeli offensive aimed at toppling Iran's government. A second source said Netanyahu favours resuming the war but disputed that he is actively pressing Trump. Netanyahu is caretaker prime minister after Eisenkot received the mandate to form a government.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/netanyahu-said-calling-trump-every-day-to-push-him-to-resume-iran-war/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "After Qatar PM meeting, Trump: 'Iran militarily is effectively over'",
+    "direction": "De-escalating",
+    "description": "Trump held an unannounced briefing after meeting Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani and Vice President JD Vance at the White House. The Qatari PM reportedly handed over Iran's two-day proposal. Trump said 'Iran militarily is effectively over' and that further military action 'doesn't seem to be a very necessary thing, but we're locked and loaded.' He said the US will keep 'the greatest naval blockade in the history of our country' at the request of Qatar, Saudi Arabia, the UAE, Bahrain and Kuwait. Al Thani called the talks 'positive', and Brent fell about 6% on the day.",
+    "source": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+    "actor": "US|Qatar"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "Al Arabiya: US accepts 3.67% Iranian enrichment in Qatari-Pakistani plan",
+    "direction": "De-escalating",
+    "description": "Al Arabiya, citing unnamed sources, reported that Washington had agreed to a Qatari-Pakistani proposal letting Iran enrich uranium on its own soil up to 3.67%, the 2015 JCPOA cap, and that Tehran accepted. Under the reported plan IAEA inspectors would return, Hormuz would reopen and the US blockade would end. Iranian media figures added further terms: dilution of about 400 kg of 60% uranium inside Iran, release of $6-10 billion in frozen assets, and a guarantee from Pakistani Field Marshal Asim Munir. Neither government confirmed it. SNSC secretary Mohsen Rezaei posted: 'STOP manufacturing FAKE NEWS about imaginary talks.'",
+    "source": "https://www.theyeshivaworld.com/news/israel-news/2621105/major-u-s-retreat-washington-reportedly-agrees-to-let-iran-enrich-uranium-at-3-67-under-qatari-pakistani-deal.html",
+    "actor": "US|Qatar|Pakistan"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "Pezeshkian: Supreme Leader ordered end to 'no war, no peace'",
+    "direction": "De-escalating",
+    "description": "President Masoud Pezeshkian said Supreme Leader Mojtaba Khamenei had instructed officials to end the state of 'neither war nor peace' with the US. 'We favor dialogue and negotiations,' he said, but 'we will not surrender to force and bullying.' Foreign Ministry spokesman Esmaeil Baghaei said the IAEA had recently inspected the Bushehr plant. He called the US attack 'in the middle of negotiations' the thing that was 'outrageous and ridiculous', and dismissed Task Force Iron Gate as a deflection from the US midterm results.",
+    "source": "https://www.timesofisrael.com/liveblog_entry/iranian-president-supreme-leader-told-us-to-end-no-war-no-peace-reality/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "Massie files 8 impeachment articles against Hegseth over Iran war",
+    "direction": "Neutral",
+    "description": "Rep. Thomas Massie (R-KY) filed eight articles of impeachment against Defense Secretary Pete Hegseth over House GOP leadership objections. The first three accuse him of breaking the War Powers Resolution: 'By engaging in hostilities in Iran for more than 90 days without congressional authorization, Secretary Hegseth is breaking the law.' Speaking at the Naval War College, Hegseth said the war 'doesn't have to be necessarily popular, but it can be necessary' and 'Iran is devastated'. He scheduled his first Pentagon briefing in more than 180 days, and Trump said Hegseth has 'won the war in Iran'.",
+    "source": "https://www.military.com/hegseth-calls-iran-war-necessary-and-waves-off-the-noise-of-expected-impeachment-push",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "US pulls tankers from RAF Mildenhall to Germany over Iranian threat",
+    "direction": "Escalating",
+    "description": "The US military moved two refuelling tankers from RAF Mildenhall to Germany on Monday and later relocated several more aircraft, after reportedly receiving a threat from Iran, the Wall Street Journal reported. Security at Mildenhall and RAF Lakenheath was raised to FPCON Charlie, the second-highest US force protection level. Mildenhall is the second UK base the US has pulled aircraft from, after B-1 bombers left RAF Fairford over a suspected Iran-linked plot. The UK Ministry of Defence said 'aircraft and other assets move regularly according to operational requirements.'",
+    "source": "https://www.thenationalnews.com/news/europe/2026/11/10/us-pulls-aircraft-from-second-uk-airbase-over-iran-threat/",
+    "actor": "US|UK"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "France blames IRGC cyber unit for sabotage of 700 supermarkets' fridges",
+    "direction": "Escalating",
+    "description": "France's cyber agency ANSSI attributed the Oct. 12 attack, which raised refrigerator temperatures in about 700 French supermarkets, to Shahid Kaveh, a cyber unit of the IRGC. E-Leclerc, Intermarché, Carrefour, Monoprix and Coopérative U were all hit. Paris summoned Iran's ambassador and said it would seek EU sanctions. Prosecutor Laure Beccuau said the attackers used Farsi and Iran-linked IP addresses and is seeking international arrest warrants. Foreign Minister Jean-Noël Barrot called it 'the first large-scale cyberattack carried out for sabotage purposes on French soil.' A similar attempt on French blood banks was thwarted last week.",
+    "source": "https://www.pbs.org/newshour/world/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges",
+    "actor": "France|Iran"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "Saudi East-West pipeline struck in Medina region; limited fire",
+    "direction": "Escalating",
+    "description": "A Saudi Energy Ministry official told SPA that a strike on the East-West pipeline in the Medina region caused a 'limited fire' that was put out, with no casualties and no disruption to operations. The pipeline carries Gulf crude to the Red Sea port of Yanbu, Saudi Arabia's main export route around the closed Strait of Hormuz. Drones also hit it in September. Houthi spokesman Yahya Saree claimed a wave of strikes on Riyadh's King Khalid airport, Aramco sites in Riyadh and Khurais, and pump station 8 in Dawadmi.",
+    "source": "https://www.timesofisrael.com/liveblog-november-10-2026/",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "IRGC says it hit 3 tankers, destroyed Hormuz navigation aids on Didamar",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said it struck three tankers near the Strait of Hormuz on Sunday for using 'unauthorised routes' in coordination with the US military, and set one ablaze. An IRGC Navy official told Reuters that navigation aid systems in the southern strait had been destroyed and that no unauthorised vessel crossed overnight. Footage and Sentinel-2 imagery dated Nov. 8 showed smoke and a burn mark on Oman's Didamar Island, where radar and communications equipment for the southern corridor is located. Oman did not comment.",
+    "source": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-11-08",
     "title": "Rubio: Iran's demands 'outrageous and ridiculous'; no breakthrough near",
     "direction": "Neutral",
@@ -123,7 +203,7 @@
     "date": "2026-11-07",
     "title": "Houthis say Saudi airstrikes near Sanaa kill 33, wound 39",
     "direction": "Escalating",
-    "description": "Houthi Health Ministry spokesman Anees al-Asbahi said coalition air raids on al-Shariyah village in Bani Hushaish district east of Sanaa killed 33 people, 'including eight women and 13 children,' and wounded at least 39, hitting homes, paramedics and civil defence teams. Houthi spokesman Yahya Saree said the coalition carried out 105 air and missile strikes on Sanaa and seven other governorates in 24 hours. Saudi Arabia's Center for International Communication said it was looking into the claim.",
+    "description": "Houthi Health Ministry spokesman Anees al-Asbahi said coalition air raids on al-Shariyah village in Bani Hushaish district east of Sanaa killed 33 people, 'including eight women and 13 children,' and wounded at least 39, hitting homes, paramedics and civil defence teams. Houthi spokesman Yahya Saree said the coalition carried out 105 air and missile strikes on Sanaa and seven other governorates in 24 hours. Saudi Arabia's Center for International Communication said it was looking into the claim. On Nov. 8 al-Asbahi raised the toll to 44 killed, including 21 children and 10 women, and 40 wounded.",
     "source": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province",
     "actor": "Saudi Arabia"
   },
