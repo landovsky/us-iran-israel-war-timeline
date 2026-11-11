@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-11-11",
+    "title": "Iran designates Argentina's navy and air force 'terrorist organizations'",
+    "direction": "Escalating",
+    "description": "Iran's Foreign Ministry declared Argentina's navy and air force terrorist organizations 'based on the principle of reciprocity', citing a 2019 Iranian law. Buenos Aires had listed the IRGC as a terrorist entity on April 1, citing its backing for Hezbollah, which Argentina blames for the 1994 AMIA bombing that killed 85. Tehran said the Argentine government bears 'responsibility for all consequences' but named no concrete measures.",
+    "source": "https://theprint.in/world/iran-designates-argentinas-navy-and-air-force-as-terrorist-organizations/3095762/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Egypt confirms troops in Saudi Arabia guarding holy sites from Houthis",
+    "direction": "Escalating",
+    "description": "Egyptian Foreign Minister Badr Abdelatty told France 24: 'We already have a military presence there at the request of our brothers and sisters in Saudi Arabia,' and said Egypt is reinforcing it. He said the force defends 'sensitive sites, including holy sites', meaning Mecca and Medina. Sources told The National the force numbers in the hundreds, with armour, anti-aircraft batteries including the Amoun system, and surface-to-surface missiles. One source said the mission is to defend Saudi Arabia, 'not attack the Houthis'. This is Cairo's first official confirmation of the deployment, which Egypt's parliament authorized in October.",
+    "source": "https://thenationalnews.com/news/mena/2026/11/11/egypts-foreign-minister-says-countrys-military-is-helping-saudi-arabia-defend-sensitive-sites",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "House shelves Hegseth impeachment 211-204; Massie lone Republican against",
+    "direction": "Neutral",
+    "description": "The House voted 211-204 to refer Rep. Thomas Massie's eight articles of impeachment against Defense Secretary Pete Hegseth, centred on the Iran war, to the Judiciary Committee, effectively killing them. Massie was the only Republican to vote with Democrats. Seven Republicans and 11 Democrats missed the vote. Hegseth called the effort 'a farce'. Trump said it had 'miserably FAILED!' Minority Leader Hakeem Jeffries said 'It's just the beginning', ahead of Democrats taking control of both chambers in January.",
+    "source": "https://www.cbsnews.com/news/massie-hegseth-impeachment/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Rubio at G7: 'no need for major combat operations' against Iran",
+    "direction": "De-escalating",
+    "description": "At the G7 foreign ministers' meeting in Paris, Secretary of State Marco Rubio said: 'The economic campaign is so devastating that right now there is no need for major combat operations.' He said Trump believes 'we are achieving the same objective by economic means.' He warned that if Iran crosses 'red lines' the 'U.S. military stands ready' and Tehran would pay a 'terrible price'. European G7 members had pressed him to avoid renewed escalation.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "NYT: Bessent moves to military base after Iranian threats on his life",
+    "direction": "Escalating",
+    "description": "The New York Times, citing three people, reported that Treasury Secretary Scott Bessent and his family left their private residence for a military base after threats against his life attributed to Iran. A senior official told Fox News the threats 'reached more than an advanced stage'. One source said a photo had allowed his home to be geolocated. A Treasury spokesperson said Bessent 'will not be deterred by the Iranian regime's threats' and remains committed to Operation Economic Outcast and the naval blockade.",
+    "source": "https://www.scmp.com/news/world/united-states-canada/article/3374046/us-treasury-chief-bessent-moved-military-base-after-iran-threats",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "US charges 3 alleged IRGC-backed operatives over RAF Fairford plot",
+    "direction": "Escalating",
+    "description": "The Justice Department unsealed an eight-count indictment, including material support for terrorism, against Al-Saadi (32, Iraqi-Iranian), Mohajeri (48, Iranian) and Al-Hassani (35, Iraqi). Prosecutors allege Al-Hassani organized the September plot against RAF Fairford, and that Al-Saadi sent coded messages from a New York jail. FBI Director Kash Patel said the three were involved in 'nearly 20 attempted attacks throughout Europe and the United States' for Kata'ib Hezbollah and the IRGC. The US withdrew its B-1 bombers from Fairford days after the September incident.",
+    "source": "https://www.thenationalnews.com/news/us/2026/11/10/iran-fairford-plot-charges/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "ADNOC vessel damaged in UAE waters; VLCC Fujairah Energy hit, 4 hurt",
+    "direction": "Escalating",
+    "description": "ADNOC Logistics & Services said one of its vessels was damaged in an attack inside UAE territorial waters on Tuesday afternoon. It did not name the ship or the attacker, and said 'response efforts by the relevant teams are ongoing.' India's shipping minister Sarbananda Sonowal said a projectile hit the Liberia-flagged VLCC Fujairah Energy on November 10 as it sailed from Al Ruwais to Dubai, injuring four of its 22 crew, including one Indian. Neither statement said whether both refer to the same ship.",
+    "source": "https://www.khaleejtimes.com/business/energy/adnoc-vessel-damaged-attack-uae-waters-november-10-2026",
+    "actor": "Other|UAE"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "IRGC says 2 tankers 'halted by explosions'; UKMTO reports tanker hit off Oman",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said two tankers using southern lanes near Oman, which Tehran rejects, were 'halted by powerful explosions and left burning'. It said one hit a naval mine and the other was sailing under US jet escort. UKMTO separately reported that a tanker northeast of Lima, Oman, was struck by an unidentified projectile at 13:38 UTC, with no injuries or pollution reported, and did not say who fired. The IMO has counted about 130 incidents involving commercial ships since February, with at least 25 seafarers killed.",
+    "source": "https://www.jpost.com/middle-east/article-914514",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "IRGC unveils underground 'missile city'; Abdollahi threatens response beyond region",
+    "direction": "Escalating",
+    "description": "Tasnim aired footage of an undisclosed underground IRGC Aerospace Force base. It showed ballistic and cruise missiles, including Fattah-1s, and launchers hidden on civilian-style trucks. Armed Forces Chief of Staff Maj. Gen. Ali Abdollahi toured it with Aerospace Force commander Brig. Gen. Majid Mousavi. Abdollahi said: 'If the enemy makes another move against us, our response will extend beyond the region.' The base could not be independently verified, and the footage may not show a new site. It follows the IRGC's November 7 lifting of its 2,000 km range cap.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-914507",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Iran tells IAEA full inspections impossible while under threat of strikes",
+    "direction": "Escalating",
+    "description": "In a 10-page report to the IAEA, Iranian envoy Reza Najafi wrote that strikes on IAEA-monitored sites and continuing threats 'have created exceptional circumstances, making routine inspections impossible.' Iran said it would consider broader cooperation only once safe inspections are feasible, and tied this to progress in talks with Washington. The IAEA says Iran's safeguards agreement 'cannot be unilaterally suspended'. The agency has had no verification access since February 28 and cannot account for Iran's 440.9 kg of 60%-enriched uranium.",
+    "source": "https://english.shabtabnews.com/2026/11/10/iran-conditions-full-iaea-access-on-end-to-us-threats/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Rezaei: 'no negotiations' with US; Araghchi denies Vance meeting plan",
+    "direction": "Neutral",
+    "description": "Supreme National Security Council head Mohsen Rezaei told Al Mayadeen: 'We are not currently conducting any negotiations with the Americans.' He called reports of a planned meeting with Vance in Qatar 'completely untrue and baseless'. He said US claims of talks aim to push down oil prices, and that Hormuz 'will not be reopened' until Washington answers Iran's seven conditions. Foreign Minister Araghchi told IRNA the reports were 'entirely baseless' and said Iran's two-day proposal remains on the table.",
+    "source": "https://www.middleeastmonitor.com/20261110-iran-denies-ongoing-talks-with-us-planned-meeting-in-qatar/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "GCC approves forward Unified Military Command HQ in Kuwait",
+    "direction": "Escalating",
+    "description": "At the 23rd GCC Joint Defence Council in Manama, defence ministers approved an advanced headquarters of the Unified Military Command in Kuwait and allocated forces to it. Saudi Defence Minister Prince Khalid bin Salman attended. The command's main headquarters remains in Riyadh. Secretary-General Jasem Albudaiwi cited 'treacherous Iranian attacks' and called Gulf security a shared responsibility.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/11/10/gcc-defence-ministers-approve-advanced-military-command-in-kuwait/",
+    "actor": "Kuwait|Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Canada reimposes sanctions on 11 Iranian entities incl. NIOC, Bank Melli",
+    "direction": "Escalating",
+    "description": "At the G7 meeting in Paris, Foreign Minister Anita Anand reimposed sanctions on 11 Iranian entities that Canada had delisted in 2016 under the nuclear deal. They include the National Iranian Oil Company, the National Iranian Tanker Company, Bank Mellat, Bank Melli and two nuclear fuel companies. Canada has now sanctioned 237 Iranian individuals and 276 entities in 25 rounds. Anand called for a 'comprehensive, verifiable and durable agreement'.",
+    "source": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-anand-announces-reimposition-of-sanctions-against-iranian-entities.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Fire forces evacuation of South Pars Phase 14 gas platform",
+    "direction": "Neutral",
+    "description": "Fire broke out on the SPD14D platform in Phase 14 of the South Pars gas field. The platform produces about 14.5 million cubic metres of gas a day, roughly 2% of the field's output. Bushehr crisis chief Kourosh Dehghan said '17 workers jumped into the sea to save their lives.' Pars Oil and Gas Company said the fire was contained and the platform evacuated. Fars said an initial assessment points to a gas leak or operational incident. No outlet attributed it to an attack.",
+    "source": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Iran, Russia discuss countering US Task Force Iron Gate",
+    "direction": "Escalating",
+    "description": "Iranian Deputy Foreign Minister Kazem Gharibabadi said he met Russia's ambassador in Tehran to discuss countering CENTCOM's Task Force Iron Gate. The force was set up on November 7 to cut Iran's weapons imports over the Caspian Sea and land routes. Iran has used Caspian routes to bring in Russian arms during the war, and Ukraine struck one such shipment in July.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+    "actor": "Iran|Russia"
+  },
+  {
     "date": "2026-11-10",
     "title": "Saudi coalition downs Houthi missiles at Riyadh; Riyadh schools go online",
     "direction": "Escalating",
@@ -70,6 +190,14 @@
     "description": "A Saudi Energy Ministry official told SPA that a strike on the East-West pipeline in the Medina region caused a 'limited fire' that was put out, with no casualties and no disruption to operations. The pipeline carries Gulf crude to the Red Sea port of Yanbu, Saudi Arabia's main export route around the closed Strait of Hormuz. Drones also hit it in September. Houthi spokesman Yahya Saree claimed a wave of strikes on Riyadh's King Khalid airport, Aramco sites in Riyadh and Khurais, and pump station 8 in Dawadmi.",
     "source": "https://www.timesofisrael.com/liveblog-november-10-2026/",
     "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Trump: Israel, protected allies must repay 'any and all' Iran war costs",
+    "direction": "Neutral",
+    "description": "In a CBS interview aired Sunday, Trump said countries the US protected would 'pay us any and all costs we had for the war... We're going to get all that money back.' He said this included Israel: 'They're going to do it, 100 percent. Because without us, they wouldn't exist.' It is the first time he has explicitly demanded that Israel pay. He has previously said he would seek repayment from Saudi Arabia, the UAE, Qatar, Bahrain and Kuwait. The Pentagon puts US war spending at $47.1 billion through October 16.",
+    "source": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean",
+    "actor": "US"
   },
   {
     "date": "2026-11-08",
