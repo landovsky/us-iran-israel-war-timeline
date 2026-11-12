@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-11-12",
+    "title": "IRGC says 2 supertankers carrying 4M+ barrels ablaze off Hormuz",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said two supertankers carrying more than 4 million barrels of oil exploded and caught fire after taking the 'unauthorized' southern route near Omani waters, ignoring repeated warnings from its Hormuz traffic control centre. It blamed their 'trust in the plundering and aggressor US army' and warned that any ship that switches off navigation systems and cooperates with the US military would 'face a similar outcome'. The IRGC did not name the ships, and no one has independently confirmed the claim. It is Iran's fourth such claim in November.",
+    "source": "https://en.mehrnews.com/news/249353/Two-supertankers-explode-in-Strait-of-Hormuz-IRGC",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Katz: caretaker government needs no opposition approval to direct IDF",
+    "direction": "Escalating",
+    "description": "Defense Minister Israel Katz said the caretaker government needs no approval 'from the opposition or any legal authority' to direct IDF operations, listing strikes in Lebanon, Gaza and Syria. On Iran he said Israel had 'demonstrated resolve and sound judgment, in full coordination with the IDF', and added: 'Israel's security is not on hold.' He spoke after Eisenkot, who holds the mandate to form a government, asked the attorney general to require Netanyahu to brief him on security.",
+    "source": "https://timesofisrael.com/liveblog-november-12-2026",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Israeli security cabinet orders IDF to prepare for possible Iran strike",
+    "direction": "Escalating",
+    "description": "Public broadcaster KAN reported that the security cabinet ordered the IDF to raise readiness for a possible new attack on Iran. KAN said the directives 'could lead it to carry out activities that could trigger a war.' Ynet said the scenarios include both an Israeli strike and a surprise Iranian attack. The order became public after Eisenkot wrote to caretaker PM Netanyahu that 'only 46 Knesset members still support your continued tenure' and urged him not to use the military 'without a direct and immediate threat'. Netanyahu's office called the letter 'irresponsible'.",
+    "source": "https://www.eurasiareview.com/12112026-israeli-cabinet-orders-military-to-prepare-for-possible-new-attack-on-iran/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "WSJ: Trump authorizes Vance to negotiate; Vance seeks Rezaei meeting",
+    "direction": "De-escalating",
+    "description": "The Wall Street Journal reported that Trump has authorized Vice President JD Vance to negotiate with Tehran. It said Vance wrote to SNSC secretary Mohsen Rezaei in October asking for a meeting, with Doha a possible venue but no date set. Mediators floated a confidence-building step: the US would pull back carriers and ease the port blockade, and Iran would let 25 tankers through Hormuz. Rubio and Stephen Miller favour keeping up pressure. Mehdi Mohammadi, an adviser to Ghalibaf, said Tehran rejected Vance's request for direct talks until Washington gives a final answer to Iran's proposal.",
+    "source": "https://www.iranintl.com/en/202611122691",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Trump at Arlington: 'We won'; wants 'total victory, not 93%'",
+    "direction": "Neutral",
+    "description": "At the Veterans Day ceremony at Arlington National Cemetery, Trump said: 'We won. Now the question is when we want to end. We must have a total victory. Not a 93% victory.' He said only a few weeks of the roughly seven-month war had been active fighting and that 'we lost 18 beautiful souls.' He predicted the war would end 'soon' but gave no date, adding: 'It will take 25 years to rebuild what we have destroyed, and hopefully, we won't have to destroy any more parts of that country.'",
+    "source": "https://www.foxnews.com/politics/trump-defends-iran-war-during-veterans-day-address-says-making-world-safer",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Rezaei: 'not a single atom' of enriched uranium will leave Iran",
+    "direction": "Escalating",
+    "description": "SNSC secretary Mohsen Rezaei told Al Mayadeen that Iran 'will not remove a single atom of enriched nuclear material' and had told Moscow so: 'all enriched material would remain inside Iran and … we would use it ourselves.' He said Iran is designing nuclear-powered ships and submarines. Russia's Foreign Ministry said its offer to take the material still stands. Tehran thereby rejected the US proposal to move its 60% stockpile to a third country, and Brent rose 1.4% to $92.76.",
+    "source": "https://www.rferl.org/a/iran-enriched-uranium-transfer-russia-us-war/33895253.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Rezaei threatens US bases in Europe: 'No safe distance. No safe haven'",
+    "direction": "Escalating",
+    "description": "Mohsen Rezaei posted that if the US starts another war, 'every military base involved in the aggression, from West Asia to Europe, will be a legitimate target', adding: 'No safe distance. No safe haven. No immunity.' He told Al Mayadeen that 'wherever American planes take off from, we will regard it as a threat.' The hardline daily Kayhan listed possible targets in Cyprus, Greece, Romania, Albania, Italy and Britain, as well as Diego Garcia.",
+    "source": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Ghalibaf: Hormuz will 'never return' to pre-war status",
+    "direction": "Escalating",
+    "description": "In an Al Jazeera interview, Parliament Speaker and lead negotiator Mohammad Bagher Ghalibaf said the Strait of Hormuz will 'never return' to its pre-war status and that 'the ball is now in the American court.' He said: 'What stands in the way of an agreement is our lack of trust in the United States.' He said Washington has not formally answered Iran's seven conditions. He also said Iran would end the 'no war, no peace' limbo through 'sustainable deterrence' if talks fail.",
+    "source": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "IRGC chief Vahidi: threats, sanctions won't stop missile programme",
+    "direction": "Escalating",
+    "description": "In an Aerospace Day message carried by Tasnim, IRGC commander-in-chief Ahmad Vahidi said Iran's missile development will continue 'despite threats and sanctions': 'The path of martyr Tehrani Moghaddam cannot be stopped by threats or sanctions.' He honoured Hassan Tehrani Moghaddam, founder of the ballistic missile programme, and the late aerospace commanders Amir Ali Hajizadeh and Mahmoud Bagheri. The message came a day after the IRGC showed an underground 'missile city'.",
+    "source": "https://www.presstv.co.uk/Detail/2026/11/12/780538/no-threats-or-sanctions-can-stop-iran-from-growing-stronger-irgc-commander",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Saudis down 3 Houthi cruise missiles at Riyadh; missile debris falls near Mecca",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said it destroyed three Houthi cruise missiles fired at Riyadh, the second straight day of intercepts over the capital, and drones over the Mecca, southern and Eastern regions. Saudi Civil Defense said debris from two intercepted ballistic missiles fell in Sabuhah village, about 35 km northeast of Mecca's Grand Mosque, and in Wadi al-Maghmas. It called the attack 'a flagrant violation of international humanitarian law.' The Houthis denied targeting Mecca and said they hit a pumping station in Yanbu and King Khalid International Airport.",
+    "source": "https://aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Qassem: Trump, Netanyahu 'defeated' at polls; Hezbollah keeps weapons",
+    "direction": "Neutral",
+    "description": "In a televised Martyrs' Day speech in Beirut's southern suburbs, Hezbollah leader Naim Qassem said: 'We can say that Trump and Netanyahu were defeated, while Iran and the resistance organizations in Palestine, Iraq, Lebanon and Yemen achieved victory.' He said 'Israel wants to disarm Lebanon in order to occupy it' and repeated that Hezbollah will not give up its arms. The UN says more than 1 million people in Lebanon now face acute food shortages.",
+    "source": "https://www.timesofisrael.com/liveblog-november-11-2026/",
+    "actor": "Lebanon"
+  },
+  {
     "date": "2026-11-11",
     "title": "Iran designates Argentina's navy and air force 'terrorist organizations'",
     "direction": "Escalating",
