@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-11-13",
+    "title": "IRGC claims it destroyed US early-warning radar in Bahrain",
+    "direction": "Escalating",
+    "description": "The IRGC Aerospace Force said in a statement carried by Fars early on Nov. 13 (about 02:30 GMT) that it had 'targeted and destroyed' a US early-warning radar in Bahrain 'a few hours ago'. It called the strike retaliation for 'the enemy's aerial aggression against a telecommunications tower in Sirik' and 'a serious warning to the aggressor enemy to end its aerial provocations and oil smuggling in the Strait of Hormuz.' The IRGC said it was 'on full alert for an unrestricted response' if attacks recur. Neither Manama nor Washington confirmed the strike.",
+    "source": "https://www.iranintl.com/en/liveblog/202611077068",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "IRGC Navy says LNG carrier hit mine east of Hormuz; ISW doubts it",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said a liquefied gas carrier struck a naval mine east of the Strait of Hormuz and suffered a 'powerful explosion', saying the ship took an 'unauthorized route', ignored warnings and was 'under the protection of American fighter jets'. It did not name the vessel. The Institute for the Study of War said it had 'not observed any indicators that Iran has successfully re-mined the strait' and called the claims an effort to discredit US escort operations. No maritime authority confirmed the incident.",
+    "source": "https://www.iranintl.com/en/liveblog/202611077068",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "'Enemy' air attack hits telecom tower in Sirik, Hormozgan",
+    "direction": "Escalating",
+    "description": "IRNA, citing official sources, reported a 'military' attack by an unnamed 'enemy' on Sirik, on Iran's Hormuz coast in Hormozgan province, late on Nov. 12; the IRGC later said the target was a telecommunications tower. Residents told Iran International they heard several explosions. Iran did not name the attacker or report casualties, and neither the US nor Israel claimed the strike. It is the first reported attack on Iranian soil in weeks.",
+    "source": "https://gulfnews.com/world/mena/us-israel-iran-war-enemy-strike-hits-irans-sirik-as-trump-warns-tehran-over-threats-to-us-officials-houthis-claim-attack-on-saudi-pipeline-1.500745854",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Trump pulls Vance off Iran talks: 'We don't need a deal'",
+    "direction": "Escalating",
+    "description": "Trump wrote on social media: 'We don't need a deal with Iran. Those days have long since passed,' adding, 'We've got their money, Hundreds of Billions of Dollars, and we've got their Strait!' He said he had asked Vance 'to focus his complete and total attention on the Massive Corruption and Crime' in Democratic-run states, naming Minnesota, California and Illinois. The post came a day after the WSJ reported Trump had authorized Vance to seek a meeting with SNSC secretary Rezaei, and after Trump spoke of 'momentum' toward a settlement earlier in the week.",
+    "source": "https://www.middleeasteye.net/news/trump-sidelines-vance-iran-talks-says-no-need-negotiate",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Trump: Gulf allies asked him to hold off strikes; 'three days' to finish Iran",
+    "direction": "De-escalating",
+    "description": "In an interview with Stephen A. Smith at the White House, Trump said Saudi Arabia, Qatar, Kuwait, the UAE and Bahrain asked him not to resume large-scale strikes: 'Saudi Arabia has asked me to please just let it be the way it is now for a while. I'm not sure I agree with it.' Asked whether he would otherwise have struck, he said 'Yes, I would.' He said destroying Iran's energy, bridges and manufacturing 'would only take me three days.' Hours earlier he told Salem News he would strike 'with no hesitation' if Iran menaces allies or Hormuz shipping.",
+    "source": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-hormuz-november-12",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Trump: Iran 'will not exist very long' if it kills US official",
+    "direction": "Escalating",
+    "description": "Asked by Hugh Hewitt on Salem News Channel what would happen if Iran killed a senior US official such as Treasury Secretary Scott Bessent, Trump said: 'They will not exist very long any longer.' Bessent had been moved from his Washington-area home to a military base over Iranian threats; an official said the plots had 'reached more than an advanced stage.'",
+    "source": "https://gulfnews.com/world/mena/us-israel-iran-war-enemy-strike-hits-irans-sirik-as-trump-warns-tehran-over-threats-to-us-officials-houthis-claim-attack-on-saudi-pipeline-1.500745854",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Assembly of Experts calls NPT exit review an 'inevitable necessity'",
+    "direction": "Escalating",
+    "description": "Iran's Assembly of Experts, the clerical body that oversees Supreme Leader Mojtaba Khamenei, said reviewing NPT membership, revising Iran's defence doctrine and building deterrence had become an 'inevitable necessity', and called for an 'immediate and effective response… without geographical limitations' to any attack. It also proposed a wartime economic headquarters. The statement stopped short of announcing withdrawal; MP Mojtaba Zolnouri said on Nov. 9 that nine NPT-exit bills are on parliament's agenda. One Assembly member said Iran should obtain 'atomic weapons to deter' the enemy.",
+    "source": "https://kashmirobserver.net/2026/11/12/iran-mulls-npt-exit-nuclear-doctrine-overhaul/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Channel 13: IDF tells Netanyahu, Eisenkot no urgency to strike Iran",
+    "direction": "De-escalating",
+    "description": "Channel 13 reported that the IDF told caretaker PM Netanyahu and PM-designate Gadi Eisenkot that Israel has no immediate need to strike Iran, but should join in if Trump renews US attacks. Eisenkot warned of 'devastating consequences' and urged Netanyahu to avoid 'dangerous steps that can wait for the swearing in of a new government.' Netanyahu's office denied a report of a 'shouting match' with Trump over resuming strikes.",
+    "source": "https://www.bloomberg.com/news/articles/2026-11-12/netanyahu-and-eisenkot-clash-over-whether-israel-should-strike-iran-again",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "UN Security Council renews Houthi sanctions to November 2027",
+    "direction": "Neutral",
+    "description": "The UN Security Council unanimously renewed asset freezes and travel bans on Yemen's Houthis until Nov. 14, 2027, adopting a UK-drafted text by consensus. The resolution condemned Houthi cross-border attacks on Saudi Arabia and demanded their immediate, unconditional halt. UK Ambassador Sarah MacIntosh cited 'reckless attacks by the Houthis.'",
+    "source": "https://gulfnews.com/world/mena/us-israel-iran-war-enemy-strike-hits-irans-sirik-as-trump-warns-tehran-over-threats-to-us-officials-houthis-claim-attack-on-saudi-pipeline-1.500745854",
+    "actor": "UK|Other"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "UK convicts 2 Iranians of spying on Iran International journalists",
+    "direction": "Neutral",
+    "description": "A Woolwich Crown Court jury convicted Mostafa Sepahvand, 41, and Farhad Javadi Manesh, 46, under the National Security Act of assisting Iranian intelligence by surveilling Iran International journalists Kambiz Hosseini and Mojtaba Pourmohsen and barrister Jonathan Turner between August 2024 and March 2025. Sepahvand was also convicted of reconnaissance with intent to commit serious violence. A third defendant, Shapoor Qalehali Khani Noori, 57, was cleared. Police said these are the first convictions of Iranian nationals under the 2023 act; sentencing is set for Dec. 17.",
+    "source": "https://www.iranintl.com/en/202611122230",
+    "actor": "UK"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Lula meets Pezeshkian at COP31; IRNA quotes 'false pretexts' remark",
+    "direction": "Neutral",
+    "description": "Brazil's President Lula met Iranian President Pezeshkian on the sidelines of COP31 in Turkey. IRNA quoted Lula saying the bombing of Iran 'was carried out under false pretexts' and that the US 'is guilty and responsible for this aggression'; Brazil's presidency did not confirm those remarks. Lula wrote on X that he backed a peaceful solution, Iran's right to civilian nuclear energy and freedom of navigation in Hormuz. Pezeshkian said Israel was 'deceiving Trump' and that Iran 'will not surrender.'",
+    "source": "https://www.metropoles.com/mundo/lula-disse-ao-presidente-do-ira-que-pais-foi-injusticado-na-guerra-com-eua",
+    "actor": "Other"
+  },
+  {
     "date": "2026-11-12",
     "title": "IRGC says 2 supertankers carrying 4M+ barrels ablaze off Hormuz",
     "direction": "Escalating",
