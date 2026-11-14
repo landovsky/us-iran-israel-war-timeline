@@ -1,6 +1,102 @@
 [
   {
     "date": "2026-11-13",
+    "title": "CENTCOM downs 2 IRGC drones bound for Bahrain; denies radar loss",
+    "direction": "Neutral",
+    "description": "US Central Command said 'The IRGC launched two one-way attack drones towards Bahrain and both were shot down by US forces,' reporting no injuries or damage. Washington rejected the IRGC's claim earlier that day that it had destroyed a US early-warning radar in Bahrain in retaliation for the Nov. 12 strike on a telecom tower in Sirik. It is the first claimed Iranian attack on US assets in a Gulf state since early September.",
+    "source": "https://gulfnews.com/uae/middle-east-war-9-things-uae-residents-need-to-know-tonight-november-13-1.500746524",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "IRGC Navy says 2 more tankers hit mines, caught fire in Hormuz",
+    "direction": "Escalating",
+    "description": "On Friday evening the IRGC Navy said, via state TV and Sepah News, that two oil tankers, one of them a VLCC, exploded and caught fire after striking sea mines while crossing the Strait of Hormuz 'without coordination with Iranian authorities'. It said the ships had switched off radar and positioning systems to use an 'unauthorised route', and warned others would meet the same fate. The IRGC named neither ship, and no one has independently confirmed the claim. It is the third Iranian mine or explosion claim in three days.",
+    "source": "https://www.thestar.com.my/news/world/2026/11/14/iran039s-irgc-says-two-tankers-hit-sea-mines-in-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Turkey and Qatar sign mutual defence pact in Istanbul",
+    "direction": "Neutral",
+    "description": "President Erdogan and Emir Sheikh Tamim bin Hamad Al Thani signed a mutual defence agreement at Dolmabahce Palace after the 12th Turkey-Qatar Supreme Strategic Committee. The pact commits both states to a 'unified stance' against any external armed attack on either, plus consultations on threats, joint exercises and defence-industry cooperation. It follows the Saudi-Turkey-Pakistan Mecca Joint Defence Agreement, which Turkey's parliament ratified on Nov. 5.",
+    "source": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact",
+    "actor": "Turkey|Qatar"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Mossad chief Gofman in Washington for Iran talks with CIA's Ratcliffe",
+    "direction": "Escalating",
+    "description": "Axios, citing three sources, reported that Mossad Director Roman Gofman met CIA Director John Ratcliffe in Washington to discuss Iran and was due in Miami for talks with envoy Steve Witkoff. The Mossad, CIA and White House declined to comment. Channel 12 reported that Netanyahu did not tell PM-designate Eisenkot about the trip at their Nov. 12 security briefing. Netanyahu is pressing Trump to resume strikes.",
+    "source": "https://www.timesofisrael.com/mossad-chief-in-us-for-talks-on-iran-netanyahu-didnt-update-eisenkot-on-visit-report/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "IAEA: cannot verify Isfahan enrichment plant or rule out diversion",
+    "direction": "Escalating",
+    "description": "A confidential IAEA report sent to member states said 'The Agency does not know IFEP's exact location, status for safeguards purposes or whether it contains nuclear material,' referring to the underground Isfahan enrichment plant Iran declared on June 12, 2025. The agency said it 'is not able to conclude that there has been no diversion of declared nuclear material' and called the gap 'a matter of proliferation concern' needing to be fixed 'with the utmost urgency'. Iran told the agency that inspections cannot resume under 'persistent, explicit, and public threats' from Trump. Before June 2025, Iran held about 440 kg of 60%-enriched uranium.",
+    "source": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
+    "actor": "Other|Iran"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "IEA: Iran crude output falls to 1.86M bpd, down 46%",
+    "direction": "Neutral",
+    "description": "The IEA's November Oil Market Report put Iran's October crude output at 1.86 million barrels per day, down from 1.94M in September and 46% below pre-war levels, under the US naval blockade. Kpler says Iranian crude loadings stopped in mid-August. Gulf exports recovered to 18.4M bpd, still 26% below pre-war levels, and observed global inventories rose 52M barrels in October, the first supply surplus since the war began.",
+    "source": "https://www.iranintl.com/en/202611135975",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "White House: Trump, Xi, Putin to discuss Iran at Shenzhen summit",
+    "direction": "Neutral",
+    "description": "White House spokeswoman Olivia Wales said Trump, Xi Jinping and Vladimir Putin will hold the first-ever US-China-Russia trilateral meeting next week on the sidelines of the APEC summit in Shenzhen, with nuclear arms reduction on the agenda. A senior US official said Trump 'does intend to talk about Iran' there but not Ukraine, which is on a 'whole other track'. Trump also has a bilateral meeting with Xi scheduled for Thursday.",
+    "source": "https://gulfnews.com/world/trump-xi-putin-to-hold-historic-meeting-in-china-next-week-white-house-1.500746884",
+    "actor": "US|Russia|Other"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Bessent: 'not going to be cowed' by Iranian death threats",
+    "direction": "Neutral",
+    "description": "Treasury Secretary Scott Bessent, who leads the 'Operation Economic Outcast' sanctions campaign, told CNBC's Squawk Box: 'I'm not going to be cowed by the death threats they have made against me. The other cabinet members won't be cowed either.' He called Iran 'a dangerous cornered animal' and confirmed he had moved from his Georgetown home to a military base on Secret Service advice. Iran denies plotting attacks on US officials.",
+    "source": "https://www.yahoo.com/news/politics/articles/us-treasurys-bessent-says-wont-134517025.html",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "USAF responds to suspected drone activity over RAF Lakenheath",
+    "direction": "Neutral",
+    "description": "US Air Force security forces at RAF Lakenheath responded on Friday evening to 'suspected unauthorised drone activity'. A USAF spokesperson said no personnel, aircraft or infrastructure were affected, and the UK MoD said the situation was resolved. No one was named as responsible. The incident follows the US moving tankers out of RAF Mildenhall and bombers out of RAF Fairford over Iranian threats, and US charges this week over an alleged IRGC-backed Fairford plot.",
+    "source": "https://www.axios.com/2026/11/13/air-force-drones-lakenheath-uk-iran",
+    "actor": "US|UK"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Lebanese army seizes arms depot in Hezbollah's Beirut stronghold",
+    "direction": "De-escalating",
+    "description": "The Lebanese army said its Intelligence Directorate raided a depot in the Msharrafieh area of Beirut's southern suburbs 'after close monitoring of the transportation and trade of weapons', seized 'a large quantity of weapons and military ammunition' and arrested one Lebanese man identified as 'A. A.'. The army did not name the depot's owner. Such raids in the Dahiyeh are rare. They come under the June Lebanon-Israel framework agreement on disarming Hezbollah.",
+    "source": "https://www.arabnews.pk/middle-east/lebanese-army-says-it-seized-arms-depot-in-beirut-suburbs-3006946",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Houthis claim strikes on Yanbu, East-West pipeline, Khamis Mushait",
+    "direction": "Escalating",
+    "description": "Houthi spokesman Yahya Saree said a drone hit Pumping Station No. 7 on the East-West Pipeline. He also claimed attacks on the Yanbu oil facility, Saudi Aramco's Riyadh headquarters and a military cargo plane at Sharurah airport, and said a ballistic missile scored 'a direct hit' on Khamis Mushait airbase. Coalition spokesman Maj. Gen. Turki al-Maliki said drones were intercepted over Riyadh region and the Eastern Province. None of the hits is confirmed. On Nov. 13 the Houthis said they fired 2 ballistic missiles at Saudi forces in Al-Tuwal, Jazan.",
+    "source": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Trump: regime surviving his term would be 'a defeat'",
+    "direction": "Escalating",
+    "description": "Asked by Hugh Hewitt whether it would be a defeat if Iran's regime outlasts his presidency, Trump said: 'Yes, that would be a defeat… Absolutely.' He said he would use force with 'no hesitation', claimed the US 'totally' controls the Strait of Hormuz, and said 'if I saw things going the other way, I would [strike Iran]; it's possible I would do that right now.'",
+    "source": "https://www.timesofisrael.com/liveblog-november-13-2026/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-13",
     "title": "IRGC claims it destroyed US early-warning radar in Bahrain",
     "direction": "Escalating",
     "description": "The IRGC Aerospace Force said in a statement carried by Fars early on Nov. 13 (about 02:30 GMT) that it had 'targeted and destroyed' a US early-warning radar in Bahrain 'a few hours ago'. It called the strike retaliation for 'the enemy's aerial aggression against a telecommunications tower in Sirik' and 'a serious warning to the aggressor enemy to end its aerial provocations and oil smuggling in the Strait of Hormuz.' The IRGC said it was 'on full alert for an unrestricted response' if attacks recur. Neither Manama nor Washington confirmed the strike.",
