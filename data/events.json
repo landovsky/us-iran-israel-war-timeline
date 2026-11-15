@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-11-15",
+    "title": "IRGC claims 6-drone strike on US radar at Bahrain's Riffa base",
+    "direction": "Escalating",
+    "description": "The IRGC said six Aerospace Force drones hit a US air-defence radar at the Al-Riffa helicopter base in Bahrain, calling it the 'second phase' of retaliation for US actions and threatening a stronger response to any further attack. Bahrain's Interior Ministry sounded nationwide threat alerts twice, its first since September, and the Bahrain Defence Force said it intercepted 'several Iranian aerial attacks' before they reached their targets, accusing Iran of a 'systematic hostile approach'. Neither side reported casualties or damage, and Washington did not immediately comment.",
+    "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-its-air-defenses-intercepted-several-iranian-attacks/4125551",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "Saudi coalition downs 2 Houthi ballistic missiles fired at Riyadh",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said air defences intercepted two Houthi ballistic missiles fired towards Riyadh early Sunday. The Saudi Press Agency said drones were also shot down over the Eastern Province. The attack came hours before Bahrain's own interceptions of Iranian drones.",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-as-bahrain-issues-threat-alert-1.500747797",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "Ghalibaf: Iran won't stay in 'neither war nor peace'",
+    "direction": "Neutral",
+    "description": "Parliament speaker and chief negotiator Mohammad Bagher Ghalibaf said Iran will not remain in a state of 'neither war nor peace' and that a deal is possible only if Washington accepts Iran's seven conditions. He warned that 'if the Americans make a mistake this time, the geography of the battle' will be set by Iran's capabilities, and praised the unveiling of an underground missile city.",
+    "source": "https://www.iranintl.com/en/liveblog/202611143682",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Israel Hayom: Mossad warned CIA of Iranian drone plot on Trump",
+    "direction": "Escalating",
+    "description": "Israel Hayom reported that Mossad passed intelligence to the CIA about an Iranian plan to attack President Trump and senior administration officials with drones. According to the report, several senior US officials then moved to military bases, and Trump cut back public appearances and cancelled a Saturday golf outing. No one has independently confirmed the claim.",
+    "source": "https://gulfnews.com/world/mena/middle-east-war-trump-weighs-restraint-as-israel-warns-of-alleged-iranian-plot-1.500746947",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Iran's navy says 3 tankers hit mines, caught fire in Hormuz",
+    "direction": "Escalating",
+    "description": "Iranian state media said one oil tanker hit a naval mine in the eastern Strait of Hormuz on Saturday morning and two more struck mines later in the day. The IRGC Navy, quoted by IRNA, said the 'two violating tankers' had tried 'to slip through a prohibited route' and 'hit naval mines, exploded, and burst into flames'. Iran named none of the ships, and Reuters could not verify the reports.",
+    "source": "https://www.aol.com/articles/irans-navy-says-three-tankers-103107000.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "IRGC claims 17th US MQ-1 drone downed over Qeshm Island",
+    "direction": "Escalating",
+    "description": "The IRGC said 'a new, advanced air defense system' of its Aerospace Force shot down a US MQ-1 drone over Qeshm Island at 14:30 local time (11:00 UTC), calling it the 17th MQ-1 destroyed. The same day, the IRGC's Isfahan office denied social media reports of a US-Israeli strike or explosions at military sites in the province. The US did not respond to the claim.",
+    "source": "https://tass.com/world/2218199",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Reuters: Trump may hold off new Iran strikes absent provocation",
+    "direction": "De-escalating",
+    "description": "Reuters, citing three people familiar with the discussions, reported that Trump told senior advisers he may not order more strikes on Iran unless Tehran or the Houthis provoke the US again. Saudi Crown Prince Mohammed bin Salman and Turkish President Erdogan have urged restraint, while Israeli officials keep pressing for renewed military action. Trump has not made a final decision, and a third US carrier is heading to the region.",
+    "source": "https://gulfnews.com/world/mena/middle-east-war-trump-weighs-restraint-as-israel-warns-of-alleged-iranian-plot-1.500746947",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Channel 13: IDF prepares 3 scenarios for renewed Iran war",
+    "direction": "Neutral",
+    "description": "Channel 13 reported that the IDF is preparing for three scenarios: responding to an Iranian attack on Israel or US bases, joining a new US-led offensive, or striking alone, possibly with Washington's approval. Planning continues even though the chief of staff has judged there is no immediate need to attack.",
+    "source": "https://gulfnews.com/world/mena/middle-east-war-trump-weighs-restraint-as-israel-warns-of-alleged-iranian-plot-1.500746947",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "GCC at UN Security Council demands full Iranian compensation",
+    "direction": "Neutral",
+    "description": "GCC Secretary General Jasem Al Budaiwi told the UN Security Council that Iran has fired more than 7,000 missiles and drones at regional states since Feb. 28, hitting airports, ports, oil and gas facilities, power and desalination plants. He demanded full compensation under international law and Human Rights Council Resolution 61/1, and said any deal must cover Iran's nuclear, missile and drone programmes. Iranian deputy envoy Gholamhossein Darzi replied that Gulf states had helped Washington attack Iran.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/11/14/gcc-iran-compensation-attacks/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Houthis claim missiles at Jazan, King Khalid airport, pipeline station",
+    "direction": "Escalating",
+    "description": "The Houthis said they fired two ballistic missiles at 'concentrations of Saudi forces in Al-Tuwal in Jazan province', hours after Saudi civil defence gave an all-clear there. In a separate statement they claimed strikes on Riyadh's King Khalid International Airport and a pumping station on the East-West Pipeline, which now carries about 4M bpd to Yanbu. Saudi Arabia did not confirm the claims.",
+    "source": "https://www.jpost.com/middle-east/article-914836",
+    "actor": "Other|Saudi Arabia"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Ghalibaf: US asked Putin to get Iran into direct talks",
+    "direction": "Neutral",
+    "description": "Iran's chief negotiator Ghalibaf told Al Jazeera: 'It was the Americans who, during a visit to Moscow, spoke with Mr. Putin and asked him to speak with Iran so that... Iran would agree to speak directly with them.' He listed Iran's demands as ending the naval blockade, ending US interference in Hormuz, withdrawing extra US forces and lifting sanctions. The White House did not address the claim.",
+    "source": "https://haaretz.com/middle-east-news/iran/2026-11-13/ty-article/irans-top-negotiator-says-u-s-asked-putin-to-mediate-talks-to-end-war/000001a1-d3a3-d292-abf9-ffff483e0000",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-11-13",
     "title": "CENTCOM downs 2 IRGC drones bound for Bahrain; denies radar loss",
     "direction": "Neutral",
