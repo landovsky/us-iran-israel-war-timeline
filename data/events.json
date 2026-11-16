@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-11-16",
+    "title": "UKMTO: projectile hits outbound tanker in Hormuz, sparks engine-room fire",
+    "direction": "Escalating",
+    "description": "UKMTO reported at 05:58 UTC that an unknown projectile struck an outbound tanker in the Strait of Hormuz, starting a fire in its engine room; no casualties were reported. Separately, Iran's army said a tanker hit a naval mine in the strait's eastern section and caught fire, and warned ships to stay out of 'restricted areas'. The IRGC says six tankers have caught fire in such incidents over two days; Reuters could not verify the claims.",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-us-iran-tensions-escalate-as-third-aircraft-carrier-enters-region-1.500748608",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Israel strikes Beqaa near Syrian border to stop Hezbollah arms shipment",
+    "direction": "Escalating",
+    "description": "Israeli jets struck overnight near Jurud al-Shaara on the Lebanon-Syria border in the eastern Beqaa Valley, Lebanese media reported, the first Israeli strike in the area in about three months. Israeli security sources said the target was a weapons shipment bound for Hezbollah. Israeli troops also detained two brothers, Mohammad and Asaad Hamdan, on the edge of Shebaa; the IDF did not comment on either action.",
+    "source": "https://www.timesofisrael.com/liveblog-november-16-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Etihad cancels all Dammam and Riyadh flights through November 19",
+    "direction": "Escalating",
+    "description": "Etihad Airways cancelled all passenger and cargo flights to Dammam and Riyadh through November 19 after the Houthis fired ballistic missiles at Riyadh and Iran sent drones at Bahrain. Emirates changed some Saudi services, and Iranian airlines remain suspended from UAE operations. The US Embassy in Bahrain warned Americans of possible flight cancellations and airspace closures from Iranian and Houthi threats.",
+    "source": "https://gulfnews.com/world/mena/usisrael-iran-war-what-uae-residents-need-to-know-today-november-16-1.500748706",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "USS Theodore Roosevelt enters CENTCOM; 3 US carriers now in region",
+    "direction": "Escalating",
+    "description": "The USS Theodore Roosevelt strike group entered US Central Command's area on Sunday, joining the USS George H.W. Bush and USS George Washington, ABC News reported citing a US official. The three carriers form part of a deployment of more than 20 Navy vessels enforcing the US blockade of Iranian ports.",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-us-iran-tensions-escalate-as-third-aircraft-carrier-enters-region-1.500748608",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "NYT: US and Israel plan strikes on Iran's energy and economic sites",
+    "direction": "Escalating",
+    "description": "The New York Times reported, citing US officials and others briefed on the deliberations, that the US and Israel have drawn up plans for renewed strikes on Iran likely to target energy infrastructure and other facilities vital to its economy. The report cited a months-long military 'deadlock' and depleted air-defence interceptor stocks. There is no report that Trump has approved the plans.",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-us-iran-tensions-escalate-as-third-aircraft-carrier-enters-region-1.500748608",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "Gharibabadi: Iran 'will not wait for the US to attack first'",
+    "direction": "Escalating",
+    "description": "Deputy Foreign Minister Kazem Gharibabadi told state media Iran 'will not wait for the US to attack first', saying Washington 'may be seeking to buy time by abusing diplomacy' to prepare another attack, and that the IRGC is producing missiles with 'new ranges'. He said Iran will not grant the IAEA access to bombed sites 'until Iran's conditions are met and the war has permanently ended', calling the agency's request 'likely aimed at assessing the effectiveness of American weaponry'. Inspectors have not reached Natanz, Fordow or Isfahan.",
+    "source": "https://www.investing.com/news/economy-news/iran-claims-fresh-strike-on-us-base-as-hormuz-shipping-crisis-deepens-5027672",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "IRGC claims supertanker with 2M+ barrels sank after Hormuz mine strike",
+    "direction": "Escalating",
+    "description": "The IRGC said on state TV that two tankers on an 'unauthorised route' in the southern Strait of Hormuz struck naval mines, and that one, a supertanker carrying over two million barrels of crude, sank in the southern Gulf. Iran named neither vessel and the sinking has not been independently confirmed. UKMTO said Indian authorities had reported an attack on a tanker in the Gulf with its crew safe, but could not say whether it was the same incident.",
+    "source": "https://gulfnews.com/world/mena/iran-says-supertanker-with-2-million-barrels-of-oil-sank-in-gulf-1.500748289",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "GCC, Qatar and UAE condemn Iran's second Bahrain drone attack",
+    "direction": "Neutral",
+    "description": "GCC Secretary-General Jasem Al Budaiwi called the IRGC drone attack on Bahrain's Riffa base a 'blatant challenge' to regional peace efforts and a 'direct threat' to the region. Qatar, a lead US-Iran mediator, called it a 'dangerous escalation' that could 'undermine political and diplomatic efforts'; the UAE called it a 'flagrant violation' of Bahrain's sovereignty. Qatar's stock index fell 1.8% and Saudi Arabia's 0.7%.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/",
+    "actor": "Other|Qatar|UAE"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "US envoy Waltz in Beirut for talks on post-UNIFIL force",
+    "direction": "De-escalating",
+    "description": "US Ambassador to the UN Mike Waltz arrived in Beirut for talks with President Joseph Aoun, Prime Minister Nawaf Salam and Speaker Nabih Berri on the Trilateral Framework for disarming Hezbollah and withdrawing the IDF. Washington is seeking a mechanism to verify Hezbollah's disarmament once UNIFIL's mandate ends on December 31. Lebanon is expected to insist on a continued UN presence in the south.",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/11/15/us-envoy-mike-waltz-in-beirut-for-talks-on-postunifil-security-arrangements",
+    "actor": "US|Lebanon"
+  },
+  {
     "date": "2026-11-15",
     "title": "IRGC claims 6-drone strike on US radar at Bahrain's Riffa base",
     "direction": "Escalating",
