@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-11-17",
+    "title": "IRGC claims strike on US radar at Bahrain's Isa Air Base",
+    "direction": "Escalating",
+    "description": "The IRGC said it targeted a US radar at Isa Air Base in Bahrain, citing US drone incursions into Iranian airspace. Bahrain's Interior Ministry told residents to move to the nearest safe place about 07:00 GMT, and Bahraini state TV, cited by Reuters, said Iranian aerial attacks were intercepted. This is the IRGC's third claimed strike on US radars in Bahrain in five days, after Riffa on Nov. 13 and Nov. 15.",
+    "source": "https://www.iranintl.com/en/liveblog/202611143682",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Ghalibaf: any dam or power plant near US, Israeli bases 'dual-use'",
+    "direction": "Escalating",
+    "description": "Parliament Speaker Mohammad Bagher Ghalibaf answered a New York Times report that dams near Iranian missile sites may be dual-use. On X he wrote: 'New rule: Any dam, port or power plant near a US or Israeli base is dual-use. We'll apply your logic consistently and even-handedly.' The NYT had examined Iran's 500+ dams and water projects for links to underground missile complexes. It ran days after reports that the US and Israel were planning strikes on Iran's economic infrastructure.",
+    "source": "https://news.az/news/irans-ghalibaf-warns-us-israel-over-dual-use-infrastructure",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Araghchi meets Omani FM Albusaidi in Muscat after Islamabad stop",
+    "direction": "De-escalating",
+    "description": "Foreign Minister Abbas Araghchi flew from Islamabad to Muscat and met Omani Foreign Minister Badr Albusaidi. The two discussed maritime security and shipping in Hormuz and agreed diplomatic channels should stay open. Pakistan is still awaiting a US reply to Iran's proposals. No breakthrough was reported on the US blockade, Iran's conditions for reopening Hormuz, sanctions or the nuclear file.",
+    "source": "https://www.iranintl.com/en/liveblog/202611143682",
+    "actor": "Iran|Other"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "CNN: US intel says Iran plans dirty bomb option against DC officials",
+    "direction": "Escalating",
+    "description": "CNN, citing seven US officials, reported new intelligence that Iran is developing plans to target senior Trump administration officials in Washington with a dirty bomb or chemical weapon. Sources called it contingency planning rather than an imminent plot, and officials disagree over its credibility. One source said intercepted Iranian chatter claimed bomb-making materials were already inside the US. White House spokesperson Lauren Bis said 'there are no credible threats to the homeland'; Iran's UN mission rejected the 'false and fabricated allegations'.",
+    "source": "https://www.newsweek.com/white-house-says-no-credible-threat-after-iran-dirty-bomb-report-12725155",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Iran says 3 more tankers hit mines; IRGC counts 6 damaged since Sunday",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said two oil tankers struck naval mines and caught fire on the southern route that Tehran calls 'unauthorised'. Iran's regular navy said a third tanker was immobilised after hitting a mine in restricted waters east of the strait. The IRGC Navy said six tankers had been damaged since Sunday. Separately, UKMTO reported a tanker disabled by an engine-room fire after an attack 7 nautical miles (13 km) north of Khasab, Oman, with no casualties. None of the vessels Iran claimed were named or independently verified.",
+    "source": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Vance: Trump won't let Iran conflict become 'forever war'",
+    "direction": "Neutral",
+    "description": "Vice President JD Vance told Fox News that President Trump would not let the conflict with Iran become a prolonged war and would end it with 'great results'. Vance said he would not set an 'artificial timeline'. This came the same day the USS Theodore Roosevelt brought the number of US carriers in the region to three.",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Houthis say Saudi strikes kill 3, including child, in Sanaa and Omran",
+    "direction": "Escalating",
+    "description": "Houthi Health Ministry spokesman Anees al-Asbahi said a drone strike on a house in Sanaa's al-Sarar quarter killed a child and wounded 7. He said an airstrike on a private fuel station in Harf Sufian district, Omran province, about 50 km north of Sanaa, killed 2 and wounded 8. He blamed Saudi Arabia, which did not comment. The strikes followed Houthi missile and drone barrages at Riyadh, Mecca, Medina and the Eastern Province on Nov. 15.",
+    "source": "https://www.pbs.org/newshour/world/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-including-a-child-and-other-mideast-news",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Bahrain jails 64 Shiite clerics for life over alleged IRGC links",
+    "direction": "Escalating",
+    "description": "A Bahraini court sentenced 64 Shiite clerics to life in prison and 5 others to 15 years, according to the Bahrain Institute for Rights and Democracy. Prosecutors said the group sought to overthrow the government, had contacts with Iran and the IRGC, and promoted 'the Guardianship of the Islamic Jurist'; one defendant was accused of spying for Iran. Rights groups cited torture and due-process violations. Iran's Foreign Ministry called the sentences unjust and rejected the accusations against the IRGC.",
+    "source": "https://www.pbs.org/newshour/world/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-including-a-child-and-other-mideast-news",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "Gharibabadi: no IAEA access until war 'permanently ended'",
+    "direction": "Escalating",
+    "description": "Deputy Foreign Minister Kazem Gharibabadi said in a TV interview late Sunday: 'We will not grant the IAEA access to the facilities until Iran's conditions are met and the war has permanently ended.' Inspectors have not reached the bombed Natanz, Fordow or Isfahan sites, though they visited Bushehr. The statement came two days after the IAEA called the lack of access 'a matter of proliferation concern'.",
+    "source": "https://www.france24.com/en/asia-pacific/20261116-iran-blocks-un-nuclear-site-visits-until-war-ends",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "Kpler: zero commodity vessels transit Hormuz on Sunday",
+    "direction": "Escalating",
+    "description": "Kpler ship-tracking data showed no commodity vessels crossed the Strait of Hormuz on Sunday, Nov. 15, after only five on Saturday, Nov. 14. That compares with 31 the previous weekend and more than 130 a day before the war. In peacetime the strait carries about one-fifth of global crude and LNG shipments.",
+    "source": "https://gulfnews.com/uae/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-17-2026-1.500750084",
+    "actor": "Other"
+  },
+  {
     "date": "2026-11-16",
     "title": "UKMTO: projectile hits outbound tanker in Hormuz, sparks engine-room fire",
     "direction": "Escalating",
