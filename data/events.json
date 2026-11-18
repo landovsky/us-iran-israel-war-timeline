@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-11-18",
+    "title": "Iran army drones target Patriots at Kuwait's Ali Al-Salem; Kuwait invokes Article 51",
+    "direction": "Escalating",
+    "description": "Iran's army said its 'combat and kamikaze drones' targeted 'Patriot air defence systems and drone and missile launch platforms belonging to the terrorist US military' at Kuwait's Ali Al-Salem Air Base early Wednesday, hours after the US strike on Qeshm. Kuwait's army said its air defences engaged 'hostile drone threats'. Kuwait's Foreign Ministry called the attacks 'repeated and criminal', a breach of UNSC Resolution 2817, and said Kuwait 'reserves its full right' to respond under Article 51. The Bahrain Defence Force separately said it intercepted several Iranian attacks the same morning.",
+    "source": "https://www.aa.com.tr/en/middle-east/kuwait-condemns-repeated-iranian-attacks-reserves-right-to-respond-/4128593",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Saudi coalition strikes 60 Houthi targets; intercepts cruise missile at Riyadh",
+    "direction": "Escalating",
+    "description": "Saudi-led coalition spokesman Maj. Gen. Turki Al-Malki said coalition aircraft destroyed 60 Houthi military targets in Sanaa, Hodeidah, Saada and Amran, including mountain tunnels used as 'underground ballistic missile storage facilities' and drone workshops. The coalition also said it intercepted and destroyed a Houthi cruise missile fired toward the Riyadh region on November 18.",
+    "source": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "US jets strike IRGC missile site on Qeshm after Bahrain drone attack",
+    "direction": "Escalating",
+    "description": "US fighter jets struck an IRGC missile launch site on Qeshm Island late Tuesday with precision munitions, hours after Iranian drones were launched at Bahrain's Isa Air Base. A US military official called it self-defence: 'The strike was in response to IRGC aggression targeting US personnel and assets.' Iranian media said an air-defence launcher in Qeshm's Nariman area was hit; Hormozgan deputy governor Ahmad Nafisi said no residential, commercial or vital infrastructure was damaged.",
+    "source": "https://gulfnews.com/world/mena/us-jets-strike-irgc-missile-site-on-irans-qeshm-island-after-drone-attack-on-bahrain-1.500751334",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "ADNOC L&S vessel attacked in Hormuz; 11 crew injured, 1 missing",
+    "direction": "Escalating",
+    "description": "ADNOC Logistics & Services said one of its vessels was attacked while transiting the Strait of Hormuz on the evening of November 17. Eleven crew were injured and one is missing; the remaining crew were evacuated and search and rescue is under way. The company did not name the ship or the attacker. ADNOC said in August that 15 of its vessels had been attacked in Hormuz since the war began.",
+    "source": "https://www.thenationalnews.com/business/energy/2026/11/18/adnoc-ls-ship-attacked-at-strait-of-hormuz-with-one-crew-member-missing/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Tara Gas hit again off Khasab; crew abandon ship, 1 Indian missing",
+    "direction": "Escalating",
+    "description": "The Panama-flagged LPG carrier Tara Gas, first struck on November 16 about 7 nautical miles north of Khasab, Oman, was hit a second time on Tuesday, starting another fire and forcing the crew to abandon ship. India's Ministry of External Affairs said 21 Indian crew were brought ashore at Khasab, 2 are hospitalised and 1 remains missing; 24 of the 25 crew are Indian. India condemned the attack.",
+    "source": "https://gulfnews.com/world/mena/strait-of-hormuz-attack-indian-seafarer-missing-after-second-attack-on-tanker-off-oman-1.500750031",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Rubio: no 'imminent threat' to Washington after dirty-bomb report",
+    "direction": "De-escalating",
+    "description": "Speaking to reporters in Manila during Trump's Asia trip, Secretary of State Marco Rubio said he saw no imminent threat to the US capital after CNN's report on Iranian dirty-bomb planning. Asked if he was worried: 'I am not.' He added 'we have threat streams every day, and the majority of them are not credible,' and attacked the report's sources: 'Some of your intelligence sources are liars; others are liars and criminals.'",
+    "source": "https://www.al-monitor.com/originals/2026/11/rubio-says-no-imminent-threat-washington-after-report-possible-iranian-dirty-bomb",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Houthis claim drone strikes on 2 East-West pipeline pumping stations",
+    "direction": "Escalating",
+    "description": "The Houthis said they hit Pumping Station No. 9 of Saudi Arabia's East-West pipeline with three drones and Pumping Station No. 8 with two. The 750-mile pipeline has 11 stations and can carry 7 million barrels a day. Coalition spokesman Turki Al-Malki said a Houthi drone was shot down near Riyadh the same day, the fourth straight day of Houthi drone attacks.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Qatar meets Iranian side to narrow gaps; warns escalation endangers deal",
+    "direction": "De-escalating",
+    "description": "Qatari Foreign Ministry spokesman Majed Al Ansari said Doha would meet Iranian officials the same day 'as part of mediation efforts and an exchange of views on the current proposals' between Washington and Tehran. Speaking after Iran's claimed strike on a US radar in Bahrain, he said 'Any escalation is a challenge to the mediation efforts' and urged all parties to show restraint.",
+    "source": "https://thepeninsulaqatar.com/article/17/11/2026/qatar-iran-to-hold-meeting-today-as-mediation-efforts-continue",
+    "actor": "Qatar"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Kataib Hezbollah refuses Iraqi PM's order to quit Jurf al-Sakhar",
+    "direction": "Escalating",
+    "description": "Kataib Hezbollah commander Abu Taleb al-Saidi told AFP the group would not leave its Jurf al-Sakhar stronghold, 'not even over our dead bodies', after Prime Minister Ali al-Zaidi set a deadline, reportedly 8pm Friday November 20, and deployed tanks around the district. Baghdad accuses the group of smuggling oil from three Basra pipelines crossing the area. Al-Zaidi postponed a planned November 18 visit to Lebanon over the standoff.",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/11/17/iraqs-kataib-hezbollah-refuses-to-withdraw-from-its-stronghold-near-baghdad-commander",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "US court sentences Asif Merchant to 27.5 years in Iran-backed Trump plot",
+    "direction": "Neutral",
+    "description": "A US federal court sentenced Pakistani national Asif Merchant to 27½ years in prison for an Iran-backed murder-for-hire plot whose potential targets included Donald Trump and Joe Biden.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
     "date": "2026-11-17",
     "title": "IRGC claims strike on US radar at Bahrain's Isa Air Base",
     "direction": "Escalating",
