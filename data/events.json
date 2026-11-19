@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-11-19",
+    "title": "Trump meets Xi in Shenzhen: both want Hormuz open, no Iranian nuke",
+    "direction": "Neutral",
+    "description": "Trump held talks with Xi Jinping at Shenzhen's Kylin Villa on the sidelines of APEC, after a separate meeting with Vladimir Putin and ahead of the first in-person US-China-Russia trilateral. Trump said 'Both the United States and China have an interest in ensuring that energy flows through the Strait of Hormuz' and that the two agree 'Iran cannot have a nuclear weapon.' Fox News reported Trump did not plan to press Beijing or Moscow to stop sharing targeting intelligence with Iran.",
+    "source": "https://www.timesofisrael.com/liveblog-november-19-2026",
+    "actor": "US|Other"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "IEA: Hormuz crisis 'largest threat to energy security in history'",
+    "direction": "Neutral",
+    "description": "The International Energy Agency's World Energy Outlook 2026 said the Hormuz closure has created 'the largest threat to energy security in history,' a crisis that 'dwarfs the scale of the oil shocks of the 1970s,' per Executive Director Fatih Birol. Roughly a fifth of global oil shipments passed through the strait before the war. The IEA projected a turn toward nuclear power and electrification and warned that alternative Gulf export routes are also vulnerable.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Trump: Iran 'looking at gases' and bioweapons; 'we wipe them out'",
+    "direction": "Escalating",
+    "description": "In a Fox News interview at APEC in China, Trump said 'There is indication that Iran is looking at gases, looking at the bio, because we've shut them out with the nuclear,' adding 'If it does happen, we wipe them out.' He said DC residents should not panic, called the June Islamabad MoU 'a waste of time' and said 'we'll see what happens after January 1.' Mossad chief Roman Gofman had briefed Washington the previous week on alleged Iranian chemical-weapons work.",
+    "source": "https://www.jns.org/news/u-s-news/trump-vows-to-destroy-iran-if-it-uses-chemical-weapons",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "NYT, Axios: Trump weighs new Iran offensive; Netanyahu urges 4-7 day campaign",
+    "direction": "Escalating",
+    "description": "The New York Times and Axios reported Trump is weighing another major offensive against Iran but has not decided. Netanyahu is pushing a joint US-Israeli air campaign of 4 to 7 days, backed by Israeli intelligence on Iranian chemical-weapons work that some US officials call 'driven by an agenda,' per Axios. A week earlier Trump had called a new offensive 'quite unlikely,' heeding Gulf allies who prefer economic pressure.",
+    "source": "https://www.timesofisrael.com/liveblog-november-19-2026",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "CENTCOM's Cooper meets Zamir and Gofman in Tel Aviv, then MBS",
+    "direction": "Neutral",
+    "description": "CENTCOM commander Adm. Brad Cooper met IDF Chief of Staff Lt. Gen. Eyal Zamir and Mossad director Roman Gofman at IDF headquarters in Tel Aviv amid US-Israeli deliberations over renewed large-scale action against Iran. Cooper then met Saudi Crown Prince Mohammed bin Salman in Riyadh; a Houthi missile attack on the capital followed shortly after.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Houthi missile attack damages Riyadh's 80-story PIF tower",
+    "direction": "Escalating",
+    "description": "Houthi spokesman Yahya Saree claimed 'a large number of cruise missiles' hit King Khalid International Airport and Riyadh's financial center. The Saudi-led coalition said it dealt with the threat after a loud boom; debris fell and AFP sources said the facade of the 80-story Public Investment Fund headquarters was 'damaged across several floors, with windows blown out.' CBS reported two cruise missiles and two drones intercepted over Riyadh with no phone alert issued. The Aramco tower in the same district was damaged on November 8.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "USS George Washington leaves Middle East; 2 US carriers remain",
+    "direction": "De-escalating",
+    "description": "The carrier USS George Washington, in the region since August with about 5,000 personnel, left the Middle East for the Indo-Pacific and came under Pacific Fleet control, days after the USS Theodore Roosevelt arrived. The USS George H.W. Bush and Roosevelt remain, alongside more than a dozen destroyers and cruisers. Israel's INSS counted 12 US destroyers in the Arabian Sea, 2 in the Red Sea and none inside the Persian Gulf.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "US Treasury sanctions Hezbollah financiers and IRGC-linked smuggling ring",
+    "direction": "Escalating",
+    "description": "Treasury sanctioned three Lebanon-based individuals and three entities, including Wa Ta'awanu Association founder Afif Abdel Rida Chouman and brothers Hassan and Ibrahim Khechen, accused of moving Iranian money to Hezbollah. It also targeted a Lebanon-Turkey gold and cash smuggling network financing Hezbollah and the IRGC-Quds Force, under 'Operation Economic Outcast.' Treasury Secretary Scott Bessent said Iran's use of 'terror proxies like Hizballah will not be tolerated.'",
+    "source": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "DNI Clayton: Iranian threats to Americans 'dramatically increased'",
+    "direction": "Escalating",
+    "description": "Director of National Intelligence Jay Clayton told the House Homeland Security Committee that Iranian 'lethal plotting outside the United States and inside the United States' has grown: 'These threats have dramatically increased.' Deputy FBI Director Christopher Raia said much of the dirty-bomb and chemical-attack reporting was 'largely aspirational.' Clayton said there was 'no indication' Monday's NSA outage came from external actors.",
+    "source": "https://www.wionews.com/world/iranian-threats-have-dramatically-increased-both-inside-and-outside-us-says-intel-chief-jay-clayton-1795030562843",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Abdanan protest over 13 oil workers' deaths turns anti-regime",
+    "direction": "Neutral",
+    "description": "Residents of Abdanan, Ilam province, rallied in Vali-e Asr Square after a November 14 bus crash killed 13 workers of the Dehloran NGL oil and gas project. Chants included 'Death to the dictator' and 'Long live the Shah'; IRGC-linked Fars said the crowd grew from 200-300 to about 1,000. Security forces used tear gas and fired warning shots; Hengaw reported at least 7 detained. Abdanan was a hotspot of the January 2026 nationwide protests.",
+    "source": "https://www.iranintl.com/en/202611174860",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Iraq restarts Kirkuk-Ceyhan pipeline at 120,000 bpd after 12 years",
+    "direction": "De-escalating",
+    "description": "Oil Minister Basim Mohammed Khudair said Iraq resumed crude exports through the 960-km Kirkuk-Ceyhan pipeline to Turkey at 120,000 barrels per day, rising gradually to 500,000 bpd. The line had been shut since 2014 after Islamic State attacks. The restart, under an August 2026 one-year Baghdad-Ankara deal, cuts Iraq's reliance on southern terminals and shipping through Hormuz.",
+    "source": "https://www.thenationalnews.com/business/energy/2026/11/17/iraq-resumes-pumping-crude-oil-for-export-through-pipeline-to-turkey/",
+    "actor": "Iraq|Turkey"
+  },
+  {
     "date": "2026-11-18",
     "title": "Iran army drones target Patriots at Kuwait's Ali Al-Salem; Kuwait invokes Article 51",
     "direction": "Escalating",
@@ -11,7 +99,7 @@
     "date": "2026-11-18",
     "title": "Saudi coalition strikes 60 Houthi targets; intercepts cruise missile at Riyadh",
     "direction": "Escalating",
-    "description": "Saudi-led coalition spokesman Maj. Gen. Turki Al-Malki said coalition aircraft destroyed 60 Houthi military targets in Sanaa, Hodeidah, Saada and Amran, including mountain tunnels used as 'underground ballistic missile storage facilities' and drone workshops. The coalition also said it intercepted and destroyed a Houthi cruise missile fired toward the Riyadh region on November 18.",
+    "description": "Saudi-led coalition spokesman Maj. Gen. Turki Al-Malki said coalition aircraft destroyed 60 Houthi military targets in Sanaa, Hodeidah, Saada and Amran, including mountain tunnels used as 'underground ballistic missile storage facilities' and drone workshops. The coalition also said it intercepted and destroyed a Houthi cruise missile fired toward the Riyadh region on November 18. The Houthi health ministry said at least 17 people were killed, including 15 at a sponge factory in Hodeidah.",
     "source": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444",
     "actor": "Saudi Arabia|Other"
   },
