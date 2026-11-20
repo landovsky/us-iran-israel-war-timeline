@@ -1,6 +1,94 @@
 [
   {
     "date": "2026-11-19",
+    "title": "Senate rejects Iran war powers resolution 48-51",
+    "direction": "Neutral",
+    "description": "The Senate voted 48-51 on Thursday against H.Con.Res. 93, the Moulton resolution the House passed 220-204 in September, which would have directed US forces out of hostilities with Iran. Republicans Collins, Murkowski and Paul voted yes; Democrat Fetterman voted no; departing Republicans Tillis and Cassidy also opposed it. This was the first war powers vote since the Nov 3 midterms. Sen. Kaine said Democrats are 'contemplating other things' once they hold the gavels.",
+    "source": "http://www.rollcall.com/2026/11/19/iran-resolution-blocked-in-first-war-powers-vote-since-midterms",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Pentagon puts Iran war cost at $48.3B; Duckworth vows defund fight",
+    "direction": "Neutral",
+    "description": "Navy comptroller nominee Arthur Miller told the Senate Armed Services Committee the war had cost $48.3 billion as of Nov 13, up from $47 billion a month earlier. The figure covers munitions, equipment replacement and operations but excludes damage to US bases. Sen. Tammy Duckworth pledged to vote against any continuing resolution without her defunding amendment: 'Nine months in, defunding the war is the only way to force Trump to end it.'",
+    "source": "http://www.rollcall.com/2026/11/19/iran-resolution-blocked-in-first-war-powers-vote-since-midterms",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "US, UK, France, Germany accuse Iran of 'stonewalling' IAEA",
+    "direction": "Neutral",
+    "description": "The US, UK, France and Germany issued a joint statement at the IAEA Board of Governors in Vienna urging Iran to readmit inspectors to sites bombed since June 2025. They said the Agency 'has lost continuity of knowledge' of Iran's HEU stockpile for a year and a half and that 'there is no current technical reason' blocking access. Grossi said the only inspections last quarter were at Bushehr. Iran blamed the standoff on the strikes and cited a US $20 million reward for information on its nuclear program.",
+    "source": "https://www.jpost.com/international/article-915481",
+    "actor": "US|UK|France"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Channel 12: Trump called off ready Iran strikes several times",
+    "direction": "Neutral",
+    "description": "Israel's Channel 12 reported, with military censor approval, that Trump backed out several times in recent weeks from strikes that were ready to launch. Each time Israeli systems went on alert, 'but Trump was the one who changed his mind.' The censor barred it from saying how many times. Channel 13 reported Netanyahu told ministers and security chiefs 'an operation against Iran is unavoidable.' A senior IDF officer said Israel and CENTCOM have 'shared and approved plans' and 'the question is the timing.'",
+    "source": "https://www.timesofisrael.com/liveblog_entry/trump-backed-out-of-strikes-on-iran-multiple-times-in-recent-weeks-report",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Axios: Trump orders assessment of Iranian retaliation to CENTCOM plans",
+    "direction": "Neutral",
+    "description": "Axios reported that Trump asked the Pentagon and intelligence agencies to assess how Iran would respond to attack scenarios CENTCOM had drawn up. The White House also asked whether any option would avoid large-scale Iranian retaliation against Gulf energy facilities. On Air Force One returning from APEC, Trump said: 'I am not rushing into any decision. We will see what happens after the beginning of the year.'",
+    "source": "https://www.timesofisrael.com/netanyahu-reportedly-tells-aides-renewed-war-with-iran-unavoidable-as-trump-weighs-options/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "IRGC spokesman: war settled 'on the battlefield' or US accepts terms",
+    "direction": "Escalating",
+    "description": "IRGC spokesman Hossein Mohebbi said Iran 'does not accept the continuation of a war of attrition' or a 'neither war nor peace' situation. 'This matter will either be settled on the battlefield, or the United States must accept Iran's conditions.' He said Hormuz stays closed until the US meets its conditions verifiably and 'we will not enter the nuclear issue until the matter of the Strait of Hormuz is resolved.' He cited Iran's demonstrated 4,500 km missile range.",
+    "source": "https://www.tribuneindia.com/news/hossein-mohebbi/we-will-settle-the-war-once-and-for-all-iran-tells-us-to-accept-its-terms-or-face-battlefield-decision",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "IRGC claims 2 supertankers with 4M barrels hit Hormuz mines",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said two 'violating' supertankers carrying over 4 million barrels of crude exploded after hitting naval mines on an 'unauthorized route' and were abandoned, burning near the strait's southern coast. It said they had US jets and drones overhead and warned tankers working with the US military 'will be dealt with firmly.' Later that day Iran's army claimed a further tanker hit mines east of the 'restricted zone'. No vessel names or independent confirmation were provided.",
+    "source": "https://en.mehrnews.com/news/249538/Two-violating-supertankers-explode-in-Strait-of-Hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "US official: Iran now firing anti-ship cruise missiles at Gulf shipping",
+    "direction": "Escalating",
+    "description": "A US official told The Jerusalem Post that Iran has grown more aggressive toward ships in the Gulf and Hormuz: 'They have started using anti-ship cruise missiles, which are far more lethal than drones.' UKMTO has been logging several attacks on vessels per day. USNI counted 16 ship attacks in November, with 14 seafarers injured, 1 killed and 2 missing.",
+    "source": "https://www.jpost.com/middle-east/iran-news/article-915531",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Iran calls chemical weapons allegations 'fraudulent,' cites Iraq 2003",
+    "direction": "Neutral",
+    "description": "Foreign Ministry spokesman Esmail Baghaei dismissed US and Israeli claims that Iran is pursuing chemical and biological weapons as 'fraudulent' and compared them to the run-up to the 2003 Iraq war. The claims follow Mossad chief Gofman's briefing in Washington and Trump's Fox News remarks that Iran is 'looking at gas' and bioweapons.",
+    "source": "https://www.timesofisrael.com/liveblog-november-19-2026/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Israel bombs Hezbollah underground missile site at Janta, Beqaa",
+    "direction": "Escalating",
+    "description": "The Israeli Air Force struck the entrances of an underground Hezbollah missile production and weapons storage site near Janta in the Beqaa Valley on Thursday evening, after the IDF saw operatives return to it. Lebanon's NNA reported five airstrikes. It was Israel's second strike in the Janta area that week, after Monday's strike on an arms shipment from Syria.",
+    "source": "https://www.timesofisrael.com/air-force-bombs-entrances-to-underground-hezbollah-missile-site-in-east-lebanon-idf/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "US widens Iran blockade to ship-to-ship transfers of Iranian cargo",
+    "direction": "Escalating",
+    "description": "NAVCENT's JMIC advisory 017-26 extended the blockade, enforced since July 14, to any ship that receives cargo by ship-to-ship transfer from a vessel carrying cargo loaded at an Iranian port. Such ships 'may be considered to be evading the blockade, even if it has not entered Iranian ports,' CENTCOM said. US forces may board and seize them or send them back to the cargo's Iranian port of origin. Neutral transit of Hormuz to non-Iranian destinations is unaffected.",
+    "source": "https://gcaptain.com/u-s-targets-ship-to-ship-transfers-in-expanded-iran-maritime-blockade/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-19",
     "title": "Trump meets Xi in Shenzhen: both want Hormuz open, no Iranian nuke",
     "direction": "Neutral",
     "description": "Trump held talks with Xi Jinping at Shenzhen's Kylin Villa on the sidelines of APEC, after a separate meeting with Vladimir Putin and ahead of the first in-person US-China-Russia trilateral. Trump said 'Both the United States and China have an interest in ensuring that energy flows through the Strait of Hormuz' and that the two agree 'Iran cannot have a nuclear weapon.' Fox News reported Trump did not plan to press Beijing or Moscow to stop sharing targeting intelligence with Iran.",
