@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-11-21",
+    "title": "Houthis fire 3 ballistic missiles at Riyadh; coalition intercepts all",
+    "direction": "Escalating",
+    "description": "Early Saturday the Saudi-led coalition said it intercepted three Houthi ballistic missiles fired at Riyadh, and hours later downed a drone aimed at southern Saudi Arabia. It was the third straight day of air-raid alerts in the capital; Saudi civil defence issued eight public emergency alerts in 24 hours starting 04:30 GMT Friday. The Houthis claimed 'accurate and direct' strikes on the Al-Shuqaiq power station and Jizan port, where the coalition said debris from two interceptions fell.",
+    "source": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Saudi coalition launches 'special operation' on Hodeidah port, Sanaa",
+    "direction": "Escalating",
+    "description": "After telling civilians to leave Hodeidah port, the Saudi-led coalition struck it. Spokesman Turki al-Malki said it 'targeted operational capabilities at Hodeidah port that were used in smuggling operations', and that strikes on 'military targets' in Sanaa, Saada and Taiz were 'ongoing'. Earlier Friday the Houthis accused Saudi jets of hitting a boat carrying displaced people from Ras al-Ara to Hays, killing 19 including 8 children, and said coalition strikes had killed 41 people in 24 hours. The UN warned that Yemen's Red Sea ports must stay operational.",
+    "source": "https://www.france24.com/en/live-news/20261120-saudi-coalition-launches-special-operation-yemen-s-houthis-vow-reprisals",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Houthis threaten Jeddah and Red Sea ports, declare Saudi airspace 'unsafe'",
+    "direction": "Escalating",
+    "description": "Houthi military spokesman Yahya Saree said Jeddah and all Saudi Red Sea ports would become 'targets' if Hodeidah was struck, and the group's Humanitarian Operations Coordination Centre emailed shipping firms telling them to evacuate Jeddah port. The Houthis warned 'all airlines that Saudi airspace is unsafe', exempting only 'the holy airspace over Mecca and Medina'. They also named Riyadh's King Abdullah Financial District and the Al-Shuqaiq power station as military targets.",
+    "source": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Tanker hit by projectile 8nm north of Khasab; IRGC blames mine",
+    "direction": "Escalating",
+    "description": "UKMTO reported that an unnamed outbound tanker was struck by an 'unknown projectile' about 8 nautical miles north of Khasab in Oman's Musandam peninsula, starting a fire on board; no casualties or environmental impact were reported. Iranian state media quoted the IRGC as saying the tanker caught fire after hitting a mine. Around the same time Tasnim reported a missile strike on Qeshm Island, then said the blast came from disposal of unexploded munitions.",
+    "source": "https://www.arabnews.com/middle-east/tanker-hit-in-strait-of-hormuz-as-missile-strikes-irans-qeshm-island-3013176",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "UKMTO: Hormuz traffic 65% below pre-war; 6 tankers attacked in a week",
+    "direction": "Neutral",
+    "description": "UKMTO said 263 vessels transited the Strait of Hormuz in the week to November 18, down from 308 the week before (115 outbound, 148 inbound), about 65% below pre-war levels. Six tankers were attacked that week, four in the strait and two in the Gulf, bringing UKMTO's count to 106 incidents in the strait since February 28. The Joint Maritime Information Center rated the threat 'severe', meaning an attack is 'highly likely'.",
+    "source": "https://www.iranintl.com/en/202611215184",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "IRGC claims 58th US MQ-9 Reaper downed over Hormuz",
+    "direction": "Escalating",
+    "description": "The IRGC Aerospace Force said it shot down a US MQ-9 Reaper over the Strait of Hormuz with a 'newly deployed advanced air defence system', calling it the 58th MQ-9 destroyed by Iranian forces. State broadcaster IRIB carried the claim, which reached foreign outlets around 02:54 GMT on November 21. The IRGC gave no further details, and the US did not immediately confirm the loss.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-its-aerospace-forces-intercepted-us-mq-9-drone-over-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Araghchi: 'The blockade must be broken'; hardliners push tanker convoy",
+    "direction": "Escalating",
+    "description": "Asked by ILNA about reports of Iranian oil being loaded for export, Foreign Minister Abbas Araghchi said 'The blockade must be broken' and that Iran would make every effort both to export oil and to pursue negotiations. IRGC-affiliated Fars has promoted 'Operation Fereydoun', a proposed tanker convoy to China, and a Friday prayer leader warned that 'if a single shot is fired at them, all oil centers in the Persian Gulf countries will be Iran's legitimate target.' No official convoy has been announced; more than 14 Iranian tankers were reported near Kharg Island, and Iran has had no seaborne crude exports since mid-July.",
+    "source": "https://www.iranintl.com/en/202611204873",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Treasury sanctions 4 Iranian 'oil trustees' over blockade evasion",
+    "direction": "Escalating",
+    "description": "The US Treasury sanctioned Mojtaba Arabnejad, Mohammad Javad Bavand, Mohammadhossein Servati and Majid Taj. It said they collected revenue from illicit oil sales so Tehran could evade sanctions and the US naval blockade, in many cases keeping the money for themselves. Bavand is a former IRGC intelligence officer, Servati the son of IRGC Brig. Gen. Mohsen Servati, Arabnejad the son of Mahan Air's CEO, and Taj the brother of Iran's football federation president. The same week, Treasury officials in Singapore and Malaysia warned both governments of the risks of not enforcing Iran sanctions.",
+    "source": "https://www.newarab.com/news/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Trump: Iran wants a deal 'not acceptable to me'; war cost midterms",
+    "direction": "Neutral",
+    "description": "At a White House news conference with Vance and Rubio, Trump said of Iran: 'They want to make a deal, but they don't want to make a deal that's acceptable to me.' He called Vance's claim that the war cost Republicans the midterms 'a very accurate statement' and said 'the war drove up prices', but that he would go to war again. On the rumoured Iranian dirty bomb, he said: 'We will not allow that.'",
+    "source": "https://www.timesofisrael.com/liveblog-november-20-2026/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Liberman, Eisenkot accuse Netanyahu of politicizing Iran strike push",
+    "direction": "Neutral",
+    "description": "After CBS reported that Israel and the US are weighing new strikes because Iran is rebuilding its ballistic missiles and moving programmes underground, Knesset defence committee chair Avigdor Liberman said there was no security justification for attacking Iran now and that any strike order would be politically motivated. Gadi Eisenkot said 'operational interests and schedules are being conflated with political interests.' IDF spokesman Brig. Gen. Effie Defrin said the army is 'fully prepared for various scenarios, both defensive and offensive' and that there is 'no change to the current instructions', a message similar to one he issued the day before the February 28 strikes.",
+    "source": "https://www.timesofisrael.com/liveblog-november-20-2026/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Iraqi forces enter Kataib Hezbollah's Jurf al-Sakhar under deal",
+    "direction": "De-escalating",
+    "description": "Iraqi security forces entered Jurf al-Sakhar in Babil province, about 60 km southwest of Baghdad and closed to the state since 2014. They went in under a compromise reached late Thursday, hours before PM Ali al-Zaidi's Friday deadline, after Quds Force commander Esmail Qaani came to Baghdad to defuse the standoff. A joint operations centre combines an army brigade, a Federal Police brigade, an Energy Police regiment and two PMF brigades. A Kataib Hezbollah source told AFP the group would not leave the town, and it has kept its weapons.",
+    "source": "https://www.middleeasteye.net/news/iraq-security-forces-deploy-kataeb-hezbollah-stronghold-following-compromise-deal",
+    "actor": "Iraq"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Witkoff, Kushner meet Qatari PM in Berlin to revive Iran talks",
+    "direction": "De-escalating",
+    "description": "Trump envoys Steve Witkoff and Jared Kushner met Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani and envoy Ali al-Thawadi in Berlin to discuss restarting US-Iran negotiations, Axios reported, during Emir Tamim's visit to Germany. Qatar has spent weeks trying to restore the ceasefire and restart nuclear talks. An Iranian technical delegation visited Doha earlier in the week, but the talks have produced no significant progress.",
+    "source": "https://www.axios.com/2026/11/20/witkoff-kushner-meet-qatari-mediators-iran",
+    "actor": "US|Qatar"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Trump pushes Iran strike decision to 2027: 'We've got time'",
+    "direction": "De-escalating",
+    "description": "Asked by Reuters aboard Air Force One, flying back from China, about new major strikes on Iran, Trump said 'I'll talk to you about it after the beginning of the year' and 'We've got time.' He told Fox News 'We'll see what happens after January 1', and told Axios and Israel's Channel 12 'I'm not rushing to make any decisions on Iran.' Before the November 3 midterms he had suggested the matter could come to a head after the vote.",
+    "source": "https://theprint.in/world/trump-says-no-rush-on-iran-decision-looks-to-next-year/3103750/",
+    "actor": "US"
+  },
+  {
     "date": "2026-11-19",
     "title": "Senate rejects Iran war powers resolution 48-51",
     "direction": "Neutral",
