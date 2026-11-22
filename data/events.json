@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-11-22",
+    "title": "Iran seizes assets of 50 jailed protesters in Rey County",
+    "direction": "Escalating",
+    "description": "Iranian state media reported that authorities confiscated the assets of 50 protesters and imprisoned them, accusing them of harming the country and creating insecurity. A prosecutor in Rey County, south of Tehran, said sentences had been issued. Separately, rights group Dadban said political prisoners Navid Najjaran and Milad Armoon were moved to solitary confinement at Ghezel Hesar after the Supreme Court upheld their death sentences in the Ekbatan case.",
+    "source": "https://www.iranintl.com/en/liveblog/202611214578",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "Khamenei aide: strategic missile stocks restored; Kayhan urges first strike",
+    "direction": "Escalating",
+    "description": "Rasoul Sanaei-Rad of the Supreme Leader's office said Iran's strategic stockpiles had been replenished and 'new types of strategic weapons' were available, citing the 'missile city' as proof production never stopped. Hard-line daily Kayhan wrote that 'war is certain and imminent' and urged Tehran to break the blockade, close Bab al-Mandab and attack US bases and warships first. Basij deputy Ghasem Ghoreishi said US troops would not be safe even 2,000 km from Iran.",
+    "source": "https://www.iranintl.com/en/liveblog/202611214578",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "IRGC strikes Bahrain; fire at civilian industrial site",
+    "direction": "Escalating",
+    "description": "The IRGC said its aerospace forces launched a combined missile-and-drone attack on two US Patriot radars at Al-Riffa and Awali in Bahrain. Bahrain's interior ministry said a civilian industrial facility caught fire, with 'material damage, with no injuries reported.' A US official told CBS there was no impact on US forces. It was the fourth attempted Iranian attack on Bahrain in about a week, ending a two-month lull.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Bahrain asks UN Security Council to enforce Resolution 2817",
+    "direction": "Neutral",
+    "description": "Bahrain's foreign ministry said the facility hit was purely civilian and accused Tehran of using disputes with other countries to justify strikes on its territory. It reserved the right to self-defence, alone or with allies, under the UN Charter and the GCC joint defence pact. It asked the Security Council to enforce Resolution 2817 and demanded Iran stop threatening shipping in Hormuz and Bab el-Mandeb and pay full compensation.",
+    "source": "https://www.iranintl.com/en/liveblog/202611214578",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Two tankers hit off Khasab; Iran says third struck mine",
+    "direction": "Escalating",
+    "description": "UKMTO said two outbound tankers were hit by unidentified projectiles early Saturday, one in the stern 11 nm north of Khasab, Oman, and one in the engine room about 31 km east of Khasab; no casualties were reported. Iran's navy said a 'violating' tanker caught fire after hitting a naval mine in a restricted zone east of the strait, having turned off its identification systems. Al Jazeera's correspondent, citing Iran's armed forces, counted about 25 incidents in the strait in the past week.",
+    "source": "https://aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "CENTCOM denies IRGC claim it damaged US F-16 over Gulf",
+    "direction": "Neutral",
+    "description": "Iran's military claimed it hit a US F-16 over the Gulf on Friday, forcing an emergency landing, and said it shot down a US drone over Qeshm Island. CENTCOM called the F-16 claim false, saying 'all U.S. military fighter jets in the Middle East are safe and accounted for.' IRGC chief Ahmad Vahidi said any intrusion into Iranian airspace is a 'red line' that will draw a forceful response.",
+    "source": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "IRGC unveils underground launcher firing 2 liquid-fuel missiles",
+    "direction": "Escalating",
+    "description": "Iranian state TV showed a new launcher at an undisclosed underground facility that the IRGC says can fire two liquid-fueled missiles. Brig. Gen. Seyyed Majid Mousavi said Iran's 'capabilities have expanded significantly.' The display came as the US and Israel weigh new strikes over Iran's rebuilding of missile production underground.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Al Arabiya: US-Iran talks deadlocked over enriched uranium",
+    "direction": "Neutral",
+    "description": "A senior source told Al Arabiya that indirect talks had stalled despite intensive mediation: Washington wants a concrete plan to eliminate Iran's enriched uranium and written guarantees it will not resume enrichment, while Tehran flatly refuses to ship its stockpile abroad. Mediators have 'no guarantees that the military escalation will not resume.' Araghchi publicly ruled out transferring the roughly 440 kg of 60% uranium the same day.",
+    "source": "https://tass.com/world/2222877",
+    "actor": "US|Iran"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Trump wants 'permanent' Iran deal; says Iran 'very, very difficult'",
+    "direction": "Neutral",
+    "description": "In a phone interview with Fox News, Trump said he wants a deal that permanently bars Iran from a nuclear weapon, 'if we have an incompetent president in four years or 15 years or 20 years.' He called Iranian officials 'very, very difficult' and said 'we make a deal and then they break the deal the next day.' He said he does not need Chinese or Russian help and is 'not rushing.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "CENTCOM marks 130 days of blockade; Iran calls it 'act of war'",
+    "direction": "Escalating",
+    "description": "CENTCOM said on X that 'today marks 130 consecutive days of America's blockade against Iran,' preventing the IRGC 'from exporting billions of dollars in crude oil.' CENTCOM says 150 vessels have been redirected and 5 disabled since June. Deputy Foreign Minister Kazem Gharibabadi called the blockade 'an act of war' and pledged Iran would act to break it, Mehr reported.",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-iran-engaged-silent-economic-war-blockade-completes-130",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Pezeshkian: 'silent economic war'; warns of winter gas shortfall",
+    "direction": "Neutral",
+    "description": "At a capital markets conference in Tehran, President Masoud Pezeshkian said Iran faces 'a silent war that is far more difficult' than missile strikes and that 'we will face problems in winter.' He said government offices, not factories, would be cut first in shortages. Iran's gas output is about 690 mcm/d versus 793 a year earlier, after war damage cut 230 mcm/d of capacity; the winter deficit is projected at 430 mcm/d.",
+    "source": "https://www.iranintl.com/en/202611219832",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Aoun tells Israel to withdraw, Hezbollah to hand over weapons",
+    "direction": "Neutral",
+    "description": "On the eve of Lebanon's 83rd independence day, President Joseph Aoun named 'Israeli occupation' and interference by 'some influential parties in the Iranian regime' as Lebanon's two linked obstacles. He told Israel: 'Withdraw from every inch of Lebanese territory. Stop your attacks. And return our captives,' and told Hezbollah: 'You must hand over your weapons.' The same day Israeli strikes hit the Nabatieh, Bint Jbeil and Marjayoun districts, including Kfar Tebnit and Baraachit.",
+    "source": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Qatari mediators hold 2-hour talks in Tehran; Iran lists conditions",
+    "direction": "De-escalating",
+    "description": "A Qatari delegation held 'two hours of talks' in Tehran on Friday evening, Deputy FM Kazem Gharibabadi said, adding that 'the window for diplomacy remains open.' Foreign Minister Abbas Araghchi said talks should be 'given a chance' but 'as long as Iran's demands are not met, the discussion on the Strait of Hormuz and its opening is pointless.' Iran demands an end to the war on all fronts, unfrozen assets, lifted oil sanctions and an end to the US blockade.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+    "actor": "Qatar|Iran"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Bessent: Iran has 'no oil in the water' for first time",
+    "direction": "Neutral",
+    "description": "Treasury Secretary Scott Bessent told Newsmax that 'the Iranians thanks to our great Navy have no oil in the water for the first time since they have begun producing oil.' He called Iran's leaders 'wounded cornered animals' and said 'the regime is starting to turn on itself.' He said Xi and Putin agreed at the Shenzhen summit that Iran must never get a nuclear weapon and Hormuz must be open.",
+    "source": "https://www.iranintl.com/en/202611219832",
+    "actor": "US"
+  },
+  {
     "date": "2026-11-21",
     "title": "Houthis fire 3 ballistic missiles at Riyadh; coalition intercepts all",
     "direction": "Escalating",
