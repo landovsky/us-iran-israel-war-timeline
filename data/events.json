@@ -1,6 +1,102 @@
 [
   {
     "date": "2026-11-22",
+    "title": "UKMTO: tanker in incident with 'military forces' near Chabahar",
+    "direction": "Escalating",
+    "description": "UKMTO said on Sunday evening that 'a tanker was involved in an incident with military forces in the Gulf of Oman,' east of Hormuz near Chabahar and close to the US blockade line, after a company security officer raised the alert. A maritime security analyst said the US had hit a tanker carrying Iranian oil; CENTCOM and Tehran did not confirm it. Windward AI had flagged the sanctioned Suezmax TOUR 2 off Chabahar as the laden tanker closest to the line.",
+    "source": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "IRGC Navy says 2 supertankers hit mines north of Ghanam Island",
+    "direction": "Escalating",
+    "description": "Iran's IRGC Navy said, via Fars, that two supertankers caught fire after hitting naval mines in a 'restricted area' east of Hormuz and north of Ghanam Island. It said the ships had switched off their navigation systems, used 'unauthorized routes' and stopped moving. It warned that relying on 'smugglers such as CENTCOM' would bring 'nothing but heavy losses.' Iran named neither ship, and no one has confirmed the strikes independently.",
+    "source": "https://www.anews.com.tr/middle-east/2026/11/22/iran-says-2-supertankers-struck-naval-mines-near-strait-of-hormuz",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "Trump: blockade runners will be 'at the bottom of the sea'",
+    "direction": "Escalating",
+    "description": "Trump told Fox News's Trey Yingst by phone that he is inclined to resume strikes on Iran after the new year if no deal is reached. On reports that Iran will test the US naval blockade, he said: 'I hope they do, they'll all be at the bottom of the sea like the rest of the navy.' He called Iranian negotiators 'professional tap dancers' and said 'They're more aggressive now than before the election.'",
+    "source": "https://www.timesofisrael.com/idf-said-to-warn-netanyahu-an-israeli-attack-on-iran-could-spark-multi-front-war/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "Channel 12: IDF intel warned Netanyahu strike could open multiple fronts",
+    "direction": "Neutral",
+    "description": "Channel 12 reported that at a closed meeting last week, Military Intelligence told Netanyahu and senior defense officials that an Israeli strike on Iran could spark a regional war involving Lebanon, Syria and Gaza. That clashed with the view of Netanyahu and Mossad chief Roman Gofman that an operation could be contained to three to five days. Kan reported that Netanyahu is urging Trump to strike 'as soon as possible.'",
+    "source": "https://www.timesofisrael.com/idf-said-to-warn-netanyahu-an-israeli-attack-on-iran-could-spark-multi-front-war/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "Ynet: US delays possible Iran strike by at least a week",
+    "direction": "De-escalating",
+    "description": "Ynet, citing US administration officials, reported that Washington has postponed a possible strike on Iran by at least a week despite pressure from Netanyahu, with Trump leaning toward waiting until after the new year. i24NEWS, citing Israeli security officials, said CENTCOM is at maximum readiness and favors a joint strike with Israel. A US source said CENTCOM wants to either attack or stand down rather than stay on high alert indefinitely.",
+    "source": "https://www.iranintl.com/en/202611231814",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "Iran starts nationwide rolling power cuts as fuel runs short",
+    "direction": "Escalating",
+    "description": "Residential and commercial power cuts of two hours every other day began on November 22, announced by Tavanir chief executive Mohammad Allahdad, who cited fuel shortages at power plants. Residents of Tehran, Isfahan, Shiraz, Mashhad, Yazd, Kermanshah and Ardebil reported multi-hour outages, often without warning. MP Nasrollah Pejmanfar said power shortages had contributed to 600,000 job losses in six months and that more than a million jobs are at risk.",
+    "source": "https://www.iranintl.com/en/202611223193",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "Houthis claim direct hit on Saudi Rabigh refinery",
+    "direction": "Escalating",
+    "description": "The Houthis said they 'directly hit' Saudi Arabia's Rabigh oil refinery, about 165 km north of Jeddah and home to the Aramco–Sumitomo Petro Rabigh complex. They called it revenge for the coalition's strikes on Hodeidah. Coalition spokesman Turki al-Maliki said Saudi defenses destroyed a drone aimed at the western region, a ballistic missile aimed at the Red Sea coast and a drone headed for Riyadh. Saudi authorities did not confirm any damage.",
+    "source": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "Saudi jets strike Sanaa fuel station; 6 workers injured",
+    "direction": "Escalating",
+    "description": "The Houthi-run Yemen News Agency quoted health ministry spokesman Anis al-Asbahi as saying Saudi aircraft struck a state oil company fuel station on Sanaa's 60th Street, 'injuring six employees and causing material damage.' The Saudi-led coalition did not comment right away. Saudi authorities say Houthi attacks have killed 26 people in the kingdom since September, 23 of them in strikes on airports.",
+    "source": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "Egypt's Abdelatty: US-Iran deal still possible on Islamabad MoU",
+    "direction": "De-escalating",
+    "description": "Egyptian FM Badr Abdelatty told CNN 'there is a possibility for dialogue, for reaching a deal, for reaching a compromise' based on the June Islamabad memorandum. He said Egypt is working with Pakistan, Saudi Arabia and Turkey to restart talks and coordinates daily with Qatar. He said the Suez Canal has lost $20 billion in revenue. He gave no date for talks to resume.",
+    "source": "https://thenationalnews.com/news/us/2026/11/22/us-and-iran-could-still-reach-deal-says-egyptian-foreign-minister",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "TankerTrackers: Iranian 'line-breaker' tanker in Hormuz is a spoof",
+    "direction": "Neutral",
+    "description": "MarineTraffic data appeared to show an Iranian tanker named 'Khat-Shekan' ('Line-Breaker') sailing through Hormuz. TankerTrackers called the signal a spoof and said the ship does not exist: 'All of the data supplementing that AIS transmission is wrong.' Tehran-municipality outlet Hamshahri claimed 14 tankers were readying at Kharg Island to run the blockade; a UANI adviser called that logistically near-impossible.",
+    "source": "https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Channel 13: IDF and CENTCOM agree joint plans for Iran escalation",
+    "direction": "Escalating",
+    "description": "Israel's Channel 13 reported on Saturday evening that the IDF and US Central Command agreed to draw up joint plans for a possible escalation against Iran, and the Israeli army confirmed the plans exist. The move followed CENTCOM commander Brad Cooper's meeting in Tel Aviv with Chief of Staff Eyal Zamir and Mossad chief Roman Gofman. Israeli security assessments said renewed war was no closer than in recent days.",
+    "source": "https://tribune.com.pk/story/2641686/israel-us-agree-to-develop-joint-plans-for-possible-escalation-against-iran-report",
+    "actor": "US|Israel"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Araghchi: Russia, China oppose change in Iran's nuclear doctrine",
+    "direction": "Neutral",
+    "description": "FM Abbas Araghchi told state-run Iran Daily that 'Russia and China are also opposed' to changing Iran's nuclear doctrine, as hardliners push for a shift toward a deterrent. 'Up to this point, our doctrine has not changed, and our official positions remain the same as before,' he said. Successor Mojtaba Khamenei has issued no ruling reversing his late father's fatwa banning weapons of mass destruction.",
+    "source": "https://kashmirreader.com/2026/11/22/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-22",
     "title": "Iran seizes assets of 50 jailed protesters in Rey County",
     "direction": "Escalating",
     "description": "Iranian state media reported that authorities confiscated the assets of 50 protesters and imprisoned them, accusing them of harming the country and creating insecurity. A prosecutor in Rey County, south of Tehran, said sentences had been issued. Separately, rights group Dadban said political prisoners Navid Najjaran and Milad Armoon were moved to solitary confinement at Ghezel Hesar after the Supreme Court upheld their death sentences in the Ekbatan case.",
@@ -19,7 +115,7 @@
     "date": "2026-11-21",
     "title": "IRGC strikes Bahrain; fire at civilian industrial site",
     "direction": "Escalating",
-    "description": "The IRGC said its aerospace forces launched a combined missile-and-drone attack on two US Patriot radars at Al-Riffa and Awali in Bahrain. Bahrain's interior ministry said a civilian industrial facility caught fire, with 'material damage, with no injuries reported.' A US official told CBS there was no impact on US forces. It was the fourth attempted Iranian attack on Bahrain in about a week, ending a two-month lull.",
+    "description": "The IRGC said its aerospace forces launched a combined missile-and-drone attack on two US Patriot radars at Al-Riffa and Awali in Bahrain. Bahrain's interior ministry said a civilian industrial facility in Sitra caught fire; it first reported no injuries, then said on November 22 that two people were hurt, a Pakistani resident critically. A US official told CBS there was no impact on US forces. It was the fourth attempted Iranian attack on Bahrain in about a week, ending a two-month lull.",
     "source": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
     "actor": "Iran"
   },
