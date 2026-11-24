@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-11-24",
+    "title": "Ghalibaf: no talks with US until 7 conditions met",
+    "direction": "Escalating",
+    "description": "Parliament Speaker and chief negotiator Mohammad Bagher Ghalibaf said Iran will not negotiate with Washington until seven conditions are met, among them lifting the US naval blockade, easing sanctions, releasing frozen funds, ending hostilities on all fronts and formally declaring the war over. Responding to Trump and Bessent, he called US threats a sign of desperation and warned of 'a decisive response and a wider battlefield' if the US miscalculates.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "IRGC Navy chief warns ships off 'unauthorised' Hormuz routes",
+    "direction": "Escalating",
+    "description": "IRGC Navy commander Ali Ozmaei told ISNA that 'the Strait of Hormuz is not a place to test unauthorised routes and ignore maritime warnings,' after Iran said three tankers struck mines. An IRGC statement added that 'U.S. military cover and escort will not replace compliance with maritime regulations.'",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Iran says 3 tankers hit mines in Hormuz despite US escort",
+    "direction": "Escalating",
+    "description": "Iran's navy and the IRGC said three 'offending' oil tankers 'suffered a severe explosion and fire after hitting naval mines' in the Strait of Hormuz on Monday: one near the southern coast and two in the eastern strait, all under US air cover and escort. No casualties were reported and the vessels were not named. The claim came two days after three other tankers were hit; the Joint Maritime Information Centre counted seven tankers hit since Nov 16.",
+    "source": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "WSJ: US probes Iran over cyberattacks on up to 50 ships",
+    "direction": "Escalating",
+    "description": "The Wall Street Journal reported, citing US officials, that Washington is investigating cyberattacks on as many as 50 commercial vessels carrying oil, LPG, chemicals and other hazardous cargo near the US, Europe and Asia. Iran is the primary suspect and Russia is also under examination; the attackers allegedly exploited vulnerabilities in Fortinet routers. Responsibility has not been established.",
+    "source": "https://www.timesofisrael.com/liveblog-november-24-2026",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Treasury sanctions 30 targets in Iran 'shadow banking' network",
+    "direction": "Escalating",
+    "description": "OFAC designated 22 entities and eight individuals in Iran, Dubai, Hong Kong and Turkey, including the Iran Center for Exchange of Currency and Gold, which Treasury says handles tens of billions of dollars in trade a year. FinCEN flagged about $14.7 billion in activity potentially linked to Iran from January 2025 to August 2026. Bessent called shadow banking 'the last financial lifeline of a bankrupt regime' and said 'Iran's economy is underwater, and its leaders are panicking.'",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Saudi strike on buses in Lahj leaves 25 dead or missing",
+    "direction": "Escalating",
+    "description": "Houthi agency Saba said Saudi strikes on buses and trucks in Wadi Mabaq, Lahj province, left '25 martyrs or missing, and six wounded,' and that Saudi aircraft overhead hampered rescuers. Houthi military spokesman Yahya Saree said the attack would not go 'unanswered.' Separately, the Houthi telecom ministry said coalition strikes on a Public Telecommunications Corporation building in Hodeidah killed 17 workers and wounded 11.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "actor": "Saudi Arabia"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Yemeni government reports 647 coalition strikes on Houthis",
+    "direction": "Escalating",
+    "description": "Yemen's internationally recognised government said the Saudi-led coalition had carried out 647 strikes, 'neutralized' 122 Houthi commanders and members and hit more than 50 vehicles. Houthi spokesman Yahya Saree countered that Saudi Arabia launched 67 strikes in 24 hours with dozens of civilian casualties. The government blamed a Houthi missile for killing 2 and wounding 7 in Kahlan, Taiz.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Rubio, Qatari PM hold strategic dialogue; Vance joins on Iran",
+    "direction": "De-escalating",
+    "description": "Secretary of State Marco Rubio and Qatari PM and FM Sheikh Mohammed bin Abdulrahman Al Thani co-chaired the eighth US-Qatar Strategic Dialogue in Washington, signing an AI partnership and a critical minerals MoU and discussing maritime navigation and de-escalation. VP JD Vance met the Qatari PM and envoy Ali al-Thawadi at the White House. Al Thani warned the region cannot afford another escalation and signalled efforts to reopen a US-Iran channel.",
+    "source": "https://alhurra.com/en/56866",
+    "actor": "US|Qatar"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Iran summons Qatari envoy over Qatar-Germany statement",
+    "direction": "Escalating",
+    "description": "Iran summoned Qatar's chargé d'affaires over a joint Qatar-Germany statement, issued after Emir Sheikh Tamim's Nov 20-21 visit to Germany, that called Iranian attacks a 'flagrant violation' of sovereignty and addressed Hormuz shipping, the NPT and armed proxies. Foreign ministry spokesman Esmaeil Baghaei called its claims 'completely baseless and unacceptable' and said Iran had struck only US bases. The summons came days after Qatari mediators held talks in Tehran.",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
+    "actor": "Iran|Qatar"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Baghaei: Iran will use 'all available means' against blockade",
+    "direction": "Escalating",
+    "description": "At his weekly briefing, foreign ministry spokesman Esmaeil Baghaei said Iran 'will use all available means to counter U.S. aggression,' cited Article 51 of the UN Charter and called the blockade an 'act of military aggression.' He said Pakistan and Qatar are still mediating and that Hormuz could reopen within two days if Iran's demands are met.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Iranian courts claim $290 billion in damages from US",
+    "direction": "Neutral",
+    "description": "Iranian judiciary official Hassan Abdolianpour said domestic courts had awarded '$290 billion in damages against the Americans,' and that lawsuits have also been filed against Gulf states. State broadcaster IRIB said US-linked commercial ships seized by Iran would be used as partial settlement.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Iran's army claims it downed US LUCAS drone east of Hormuz",
+    "direction": "Escalating",
+    "description": "The Iranian Army's public relations office said domestically built air defences shot down a US-made LUCAS one-way attack drone over Gulf waters on the eastern side of the Strait of Hormuz. IRNA carried the claim without details. The US did not confirm it; it was the army's second LUCAS claim of the month after Nov 17.",
+    "source": "https://en.apa.az/asia/iran-claims-us-lucas-drone-shot-down-near-strait-of-hormuz-538066",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Eisenkot: 'no direct and immediate threat' from Iran",
+    "direction": "De-escalating",
+    "description": "At a Knesset briefing, Gadi Eisenkot, who holds the mandate to form Israel's next government (deadline Dec 6), said 'at this moment I do not see a direct and immediate threat to the State of Israel' that requires action before a government is formed. He called the roughly 440 kg of enriched uranium still not destroyed or removed the gravest danger. Caretaker PM Netanyahu warned of 'serious and grave threats' and urged a unity government.",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Report: Mossad analysts see no urgent need to strike Iran",
+    "direction": "De-escalating",
+    "description": "Israeli media reported that Mossad analysts see no urgent need to attack Iran while director Roman Gofman pushes for military action, allegedly keeping the dissenting assessment out of security forums. IDF chief Eyal Zamir reportedly argues there is 'no immediate need to attack.' Former Mossad chief David Barnea said Israel must fight Iran 'as soon as all conditions allow.'",
+    "source": "https://www.timesofisrael.com/liveblog-november-24-2026",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "WTI closes below $80 for first time since August",
+    "direction": "De-escalating",
+    "description": "WTI fell more than 4% to $79.95 and Brent 4.1% to $88.75, down from an October peak near $105, as Middle East flows rose, Libya restarted a pipeline and Russian diesel exports returned to 400,000 barrels per day. Trackers reported record flows via bypass routes and ship-to-ship transfers, though Hormuz attacks kept insurance and rerouting costs elevated.",
+    "source": "https://gulfnews.com/world/mena/trump-threatens-to-sink-iranian-vessels-as-us-strikes-oil-tanker-ghalibaf-calls-for-lasting-security-1.500757421",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Lebanon's Salam condemns IDF spokesperson's school visit in Debl",
+    "direction": "Escalating",
+    "description": "Israeli military spokesperson Ella Waweya visited a school in Debl in Israeli-held southern Lebanon. PM Nawaf Salam accused Israel of 'dragging students into a military and propaganda display.' Lebanon reports more than 4,300 people killed since March.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Singer Parastoo Ahmadi given 74 lashes in Qom",
+    "direction": "Neutral",
+    "description": "Iranian authorities flogged singer Parastoo Ahmadi with 74 lashes in Qom over a December 2024 online concert she performed without a hijab. She and eight members of her team also received two-year bans on foreign travel and 'artistic activity.'",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-11-22",
     "title": "UKMTO: tanker in incident with 'military forces' near Chabahar",
     "direction": "Escalating",
