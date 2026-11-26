@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-11-26",
+    "title": "Saudi Arabia intercepts 2 Houthi ballistic missiles over Riyadh",
+    "direction": "Escalating",
+    "description": "The Saudi-led coalition said Thursday its air defences intercepted two ballistic missiles fired by Yemen's Houthis toward Riyadh and destroyed two drones over the Eastern Province. Explosions were heard over the capital. The salvo followed Wednesday's Houthi attacks on Ras Tanura, Jeddah and Jazan, which the Houthis called retaliation for coalition strikes on Hodeidah.",
+    "source": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Netanyahu convenes security cabinet; IDF says ready to strike Iran alone",
+    "direction": "Escalating",
+    "description": "Prime Minister Benjamin Netanyahu called a security cabinet meeting for Thursday evening as Israel and the US prepare for possible new strikes on Iran, amid warnings Iran could launch a surprise attack. IDF spokesman Brig. Gen. Effie Defrin told Kan the army is 'ready to strike with force at any moment, including on our own, without the Americans,' adding 'There is no change in the guidelines.'",
+    "source": "https://www.iranintl.com/en/liveblog/202611214578",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Iran's deputy speaker: 'no oil will leave the region' if Iran's can't",
+    "direction": "Escalating",
+    "description": "Deputy parliament speaker Hamidreza Hajibabaei told ISNA Iran would answer the US naval blockade with 'a blockade for a blockade': 'If Iran's oil is not exported, no oil will leave the region.' He said any route bypassing Hormuz meant to lower oil prices would be 'a legitimate target' and that 'if necessary, we will change our defense doctrine.'",
+    "source": "https://www.iranintl.com/en/liveblog/202611214578",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "Houthis hit Saudi Jazan port; drone downed over Jeddah port",
+    "direction": "Escalating",
+    "description": "Hours after the Saudi-led coalition struck Hodeidah, a Houthi projectile hit Jazan port on the Red Sea, causing minor damage and no civilian casualties, coalition spokesman Turki al-Malki said; the type of projectile was still being identified. The coalition also intercepted a drone over Jeddah port, four drones over Ras Tanura and a cruise missile in the western region. The Houthis said 105 coalition air and missile strikes hit Sanaa and 10 governorates on Wednesday.",
+    "source": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "IRGC claims LNG carrier hit mine in Hormuz; 4th vessel of day",
+    "direction": "Escalating",
+    "description": "Iran's Revolutionary Guards said Wednesday evening an LNG carrier struck a naval mine and caught fire on an 'unauthorized route' with its positioning systems switched off. Earlier, Fars cited the Iranian army saying an oil tanker hit a mine in a 'restricted zone', bringing Iran's claimed hits that day to four vessels. Army spokesman Mohammad Akraminia said the military had 'deployed new systems and upgraded existing ones to strengthen surveillance and control of the strait.' No vessels were named and Reuters could not verify the claims.",
+    "source": "https://www.arabnews.com/middle-east/iran-claims-lng-tanker-ablaze-in-hormuz-after-hitting-mine-3013942",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "Lebanese judge issues warrants for 5 detained Hezbollah members",
+    "direction": "De-escalating",
+    "description": "A Lebanese judge questioned five Hezbollah members arrested between Batroun and Bsharre in northern Lebanon with 'maps and documents', issued arrest warrants against them and ordered three more Hezbollah members linked to the cell brought in for questioning. The five were charged last week with forming and arming an armed group. Hezbollah chief Naim Qassem said they had 'done nothing wrong' and 'must be released immediately', warning 'patience in the face of injustice has limits.'",
+    "source": "https://newarab.com/news/lebanon-judge-issues-warrants-detained-hezbollah-members",
+    "actor": "Lebanon"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "Bessent: Iran's floating oil stocks exhausted under blockade",
+    "direction": "Neutral",
+    "description": "US Treasury Secretary Scott Bessent said Iran's floating oil stocks are used up and that no tanker has been loaded since Operation Economic Outcast began in August. Separately, CENTCOM commander Adm. Brad Cooper praised Syrian security forces for intercepting IRGC-origin weapons being smuggled toward Lebanon.",
+    "source": "https://www.iranintl.com/en/liveblog/202611214578",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "UK energy price cap to rise 26% on war-driven gas prices",
+    "direction": "Neutral",
+    "description": "Ofgem said Britain's household energy price cap will rise 26% from January, adding about £443 ($580) to a typical annual bill, citing gas prices driven up by the Iran war.",
+    "source": "https://www.timesofisrael.com/liveblog-november-25-2026/",
+    "actor": "UK"
+  },
+  {
     "date": "2026-11-25",
     "title": "Iran's deputy speaker: renewed war will be 'prolonged and far-reaching'",
     "direction": "Escalating",
@@ -37,6 +101,14 @@
     "direction": "Escalating",
     "description": "Judiciary outlet Mizan said the death sentences of 2022 protesters Milad Armoon, 27, and Navid Najjaran, 34, have not been overturned, and called reports about the timing of the executions inaccurate. Armoon's lawyer Mohammad Hossein Aghasi said the execution, set for Wednesday dawn at Ghezel Hesar prison, was suspended by phone hours earlier, after protests by rights groups and an appeal from UN rapporteur Mai Sato. Both were sentenced for 'corruption on earth' after a retrial cleared them of intentional murder.",
     "source": "https://www.iranintl.com/en/liveblog/202611214578",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "Iran blacklists 26 tugboats serving ships on 'unauthorized' Hormuz route",
+    "direction": "Escalating",
+    "description": "Iran's Persian Gulf Strait Authority added 26 tugboats, registered in countries including the UAE, Singapore and India, to its Non-Compliance List for servicing vessels on a southern transit route Tehran deems unauthorized, bringing the list to 266 vessels. 'Vessels and companies that cooperate in providing services to violators will themselves be placed on the non-compliance list,' the PGSA said. It was the first listing of support vessels rather than tankers; Orbital Risk Intelligence said Tehran is likely trying to deny towage, firefighting and salvage to ships it attacks.",
+    "source": "https://safety4sea.com/iran-adds-26-tugboats-to-strait-of-hormuz-blacklist/",
     "actor": "Iran"
   },
   {
