@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-11-27",
+    "title": "Turkey completes ratification of Mecca defence pact with Saudi, Pakistan",
+    "direction": "Escalating",
+    "description": "A presidential decree signed by Recep Tayyip Erdogan and published in Turkey's Official Gazette on Friday ratified the Mecca defence pact with Saudi Arabia and Pakistan, signed on August 7. The pact treats an armed attack on one member as an attack on all three, which allows Turkish military support to Saudi Arabia under Houthi fire. Pakistan and Saudi Arabia have already ratified. A ruling-party lawmaker said the government will seek a separate parliamentary mandate to deploy troops to Saudi Arabia.",
+    "source": "https://aninews.in/news/world/middle-east/turkiye-finalises-ratification-of-mecca-defence-pact-with-saudi-arabia-and-pakistan-as-erdogan-signs-treaty20261127122351/",
+    "actor": "Turkey"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "Saudi coalition says it hit 50 Houthi targets, Jazan launcher",
+    "direction": "Escalating",
+    "description": "Coalition spokesman Maj. Gen. Turki al-Maliki said the Saudi-led coalition struck 50 targets across Sanaa, Hodeidah and Saada: 'We destroyed 50 legitimate military targets.' He said the strikes destroyed the ballistic missile launcher in Hodeidah that the coalition says was used in Thursday's attack on the Jazan refinery.",
+    "source": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Trump tells troops 'We have victory at hand' against Iran",
+    "direction": "Neutral",
+    "description": "On a Thanksgiving call with US troops from Mar-a-Lago, President Donald Trump said 'We have victory at hand' and 'It will happen whenever I want it to happen,' adding that Tehran has a chance to make a deal that would prevent more deaths. He and Melania Trump spoke to units at Al Dhafra Air Base (UAE), Prince Sultan Air Base (Saudi Arabia) and the USS Portland. Speaking to reporters, Trump played down Chinese and Russian help to Iran: 'involvement to me would mean shooting, not giving them little information.'",
+    "source": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Iran denies Kuwait attack; Araghchi offers joint probe with Kuwait, Italy",
+    "direction": "Neutral",
+    "description": "Armed forces spokesman Abolfazl Shekarchi said 'no military or offensive operations have been conducted by the Armed Forces of the Islamic Republic of Iran in the region' and blamed US and Israeli false-flag operations, without giving evidence. Foreign Minister Abbas Araghchi called the deaths of two Italians in Kuwait 'suspicious' and a 'precooked recipe for war,' and offered a joint investigation with Kuwait and Italy.",
+    "source": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Drones Kuwait blames on Iran kill 2 Italian Rheinmetall technicians",
+    "direction": "Escalating",
+    "description": "Kuwait's Defence Ministry said hostile drones struck a 'vital facility.' Falling debris from intercepted drones injured four people, and two Italian technicians later died. Italian Foreign Minister Antonio Tajani said the drones were Iranian-made and hit an air defence detection station where the two, from Rheinmetall Italia, were maintaining radar antennas. A Kuwaiti army captain and a Pakistani national were also injured. Italy will lodge a complaint with Iran's embassy, the EU's Ursula von der Leyen said 'We must step up pressure on Iran,' and Saudi Arabia and the UK condemned the attack. It was the first fatal strike in Kuwait in months.",
+    "source": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Houthi strike on Jazan refinery kills Nepali worker, halts operations",
+    "direction": "Escalating",
+    "description": "The Houthis struck the Jazan refinery in southern Saudi Arabia, the Saudi-led coalition said. Citing the energy ministry, the Saudi Press Agency said one Nepali worker was killed and several workers of various nationalities were injured. The strike started a fire and forced a temporary partial shutdown. Coalition spokesman Turki al-Maliki said 'Targeting civilians and civilian objects will be met with a firm military response.'",
+    "source": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-refinery-attack-kills-worker-iran-denies-deadly-kuwait-strike-1.500761343",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "ADNOC confirms Jordanian crew member missing since Nov 17 attack is dead",
+    "direction": "Escalating",
+    "description": "ADNOC Logistics & Services said a Jordanian seafarer missing since the November 17 attack on one of its vessels in the Strait of Hormuz was found dead after UAE and Omani search-and-rescue operations. Eleven crew were injured in that attack: nine have been discharged and two remain in hospital.",
+    "source": "https://www.wam.ae/en/article/c3g7qqb-adnoc-ls-confirms-missing-jordanian-crew-member",
+    "actor": "UAE"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Israel strikes Hezbollah rockets at Radwan camp in Beqaa Valley",
+    "direction": "Escalating",
+    "description": "The Israeli Air Force struck dozens of Hezbollah rockets and launchers near Ayn al-Tina in Lebanon's Beqaa Valley, about 25 km north of the border, on Thursday evening. The Jerusalem Post said the site was a Radwan Force training camp. The IDF said the rockets were 'intended for use by Hezbollah terrorists to target IDF soldiers and Israeli civilians.' It was Israel's second strike in the Beqaa in a week.",
+    "source": "https://www.timesofisrael.com/air-force-strikes-hezbollah-rockets-launchers-in-eastern-lebanon-idf/",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Report: Kataib Hezbollah moves weapons to western Iraq for renewed war",
+    "direction": "Escalating",
+    "description": "The Iraqi daily Al-Mada reported that Kataib Hezbollah has moved large quantities of military equipment to western Iraq and set up new positions, in preparation for possible renewed US strikes on Iran. ISW and the Critical Threats Project said Iraqi armed groups have spent weeks preparing to retaliate against US assets if Washington attacks Iran again.",
+    "source": "https://www.iranintl.com/en/202611265119",
+    "actor": "Iraq"
+  },
+  {
     "date": "2026-11-26",
     "title": "Saudi Arabia intercepts 2 Houthi ballistic missiles over Riyadh",
     "direction": "Escalating",
@@ -11,7 +83,7 @@
     "date": "2026-11-26",
     "title": "Netanyahu convenes security cabinet; IDF says ready to strike Iran alone",
     "direction": "Escalating",
-    "description": "Prime Minister Benjamin Netanyahu called a security cabinet meeting for Thursday evening as Israel and the US prepare for possible new strikes on Iran, amid warnings Iran could launch a surprise attack. IDF spokesman Brig. Gen. Effie Defrin told Kan the army is 'ready to strike with force at any moment, including on our own, without the Americans,' adding 'There is no change in the guidelines.'",
+    "description": "Prime Minister Benjamin Netanyahu called a security cabinet meeting for Thursday evening as Israel and the US prepare for possible new strikes on Iran, amid warnings Iran could launch a surprise attack. IDF spokesman Brig. Gen. Effie Defrin told Kan the army is 'ready to strike with force at any moment, including on our own, without the Americans,' adding 'There is no change in the guidelines.' Israeli media later reported Netanyahu cancelled the full cabinet meeting in favour of a restricted session on joint US-Israeli preparations, amid a public dispute with opposition leader Gadi Eisenkot, who said there is 'no immediate threat from Iran that requires action before the formation of a government.'",
     "source": "https://www.iranintl.com/en/liveblog/202611214578",
     "actor": "Israel"
   },
@@ -22,6 +94,14 @@
     "description": "Deputy parliament speaker Hamidreza Hajibabaei told ISNA Iran would answer the US naval blockade with 'a blockade for a blockade': 'If Iran's oil is not exported, no oil will leave the region.' He said any route bypassing Hormuz meant to lower oil prices would be 'a legitimate target' and that 'if necessary, we will change our defense doctrine.'",
     "source": "https://www.iranintl.com/en/liveblog/202611214578",
     "actor": "Iran"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "Kushner: Israel must drop 'constant wartime mindset'",
+    "direction": "De-escalating",
+    "description": "US envoy Jared Kushner said on the 'MD Meets' podcast that Israel 'needs to get out of the constant wartime mindset and focus on economic diplomacy,' as Netanyahu lobbies for renewed strikes on Iran. Kushner said he had met Iranian representatives several times while working under Vice President JD Vance, that 'President Trump always keeps all options on the table,' and that on Iran the Europeans 'certainly have not impressed.'",
+    "source": "https://www.timesofisrael.com/kushner-israel-must-escape-constant-wartime-mindset-focus-on-economic-diplomacy/",
+    "actor": "US"
   },
   {
     "date": "2026-11-25",
