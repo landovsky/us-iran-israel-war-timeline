@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-11-28",
+    "title": "Iran's Heydari: 'no geographic restrictions' on retaliation",
+    "direction": "Escalating",
+    "description": "Kioumars Heydari, deputy chief of staff of Iran's armed forces, said any country whose territory is used to attack Iran becomes a legitimate target: \"We no longer have geographic restrictions in responding to enemy actions.\" He brushed off Trump's deadlines. The same day IRGC commander Ahmad Vahidi used a Navy Day message to say Iranian strikes around Hormuz had left enemy fleets \"mere spectators in distant ocean waters.\"",
+    "source": "https://www.iranintl.com/en/liveblog/202611214578",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "FT: US forces repelled ~6 drones over RAF Lakenheath; Iran suspected",
+    "direction": "Escalating",
+    "description": "The Financial Times reported that on November 13 US forces used counter-drone systems to repel about six drones swarming RAF Lakenheath in Suffolk, home of the USAF 48th Fighter Wing and nearly 7,000 personnel. US officials suspect a link to Iran. The drones were never recovered, so it is unknown whether they carried payloads. The Air Force says no personnel, aircraft or infrastructure were affected. In September a threat linked to Iran prompted the removal of US B-1 bombers from RAF Fairford.",
+    "source": "https://whbl.com/2026/11/27/us-military-repelled-drones-at-raf-base-ft-reports/",
+    "actor": "US|UK"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Tajani: Kuwaiti probe finds drone that killed Italians was Iranian-made",
+    "direction": "Escalating",
+    "description": "Italian Foreign Minister Antonio Tajani said: \"According to the investigations carried out by the Kuwaitis, the drone was manufactured in Iran.\" He added that \"Iran's proxies, all of Iran's allies, have Iranian-made drones\", which leaves open who launched it. He said Tehran had offered to join an Italian-Kuwaiti commission of inquiry. Araghchi called the November 26 attack, which killed two Rheinmetall Italia technicians at a Kuwaiti air defence station, \"suspicious.\"",
+    "source": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-killed-two-italians-kuwait-was-iranian-made-says-italys-foreign",
+    "actor": "Other"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Pezeshkian urges energy saving, says enemy uses shortages to stir protests",
+    "direction": "Neutral",
+    "description": "President Masoud Pezeshkian called on Iranians to cut energy use as winter approaches and promised to keep supplies steady. He said: \"The enemy is trying to fuel protests and social problems by creating shortages.\" The US blockade of Iranian ports is now in its fifth month.",
+    "source": "https://www.iranintl.com/en/liveblog/202611214578",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "Iran navy chief claims commandos retook 2 US-seized tankers",
+    "direction": "Escalating",
+    "description": "Navy commander Rear Adm. Shahram Irani told Fars and Tasnim that Iranian commandos boarded and recovered two tankers 'stolen' by the US while American crews slept. He gave no evidence. The US has announced no seizure since it took the cargo ship Touska in April. In a televised interview that evening he said \"multiple operations lie ahead\" to break the blockade and push US forces out of the Middle East and Indian Ocean.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "Kuwait summons Iran's ambassador over deadly drone attack",
+    "direction": "Escalating",
+    "description": "Kuwait's Deputy Foreign Minister Hamad Sulaiman Al-Mashaan gave Iranian ambassador Mohammad Totonji a protest note over \"continued Iranian attacks.\" He called them \"a flagrant violation of its sovereignty and territorial integrity\", held Iran fully responsible and asserted Kuwait's right to self-defence. UN Secretary-General Guterres condemned the November 26 attack and warned that \"Renewed hostilities would have devastating consequences.\"",
+    "source": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+    "actor": "Kuwait"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "IRGC claims tanker hit mine north of Oman's Al Ghanam Island",
+    "direction": "Escalating",
+    "description": "The IRGC Navy said via IRIB that an unidentified tanker on an \"unauthorized route\" hit a mine and caught fire north of Oman's Al Ghanam Island, and that a second tanker turned back. It said traffic on the US-backed southern route had \"declined sharply\". No independent maritime agency confirmed the strike. Kpler data shows weekly Hormuz transits fell from 217 in early November to 147 by November 23.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+    "actor": "Iran"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "Trump backs Iraqi PM al-Zaidi's crackdown on oil smuggling to Iran",
+    "direction": "Neutral",
+    "description": "On Truth Social, Trump endorsed Iraqi PM Ali al-Zaidi's push to \"stop the smuggling of Iraqi oil.\" Al-Zaidi plans to bring two Kurdish-run border crossings to Syria and Iran, and several oil fields, under federal control; Kurdish authorities call it a \"constitutional violation.\" Iraq's INA reported crude being trucked from Kirkuk and Sulaymaniyah into Iran, and Iraqi officials estimate about $100 billion lost to smuggling.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+    "actor": "US|Iraq"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "Houthi media: Saudi strike in Taiz's Al Turba kills 11",
+    "direction": "Escalating",
+    "description": "Houthi media said a Saudi-led coalition strike on Al Turba in Taiz governorate killed 11 people, \"most of them children\", and that fuel tanks in Saada were also hit. The same day Saudi air defences shot down a Houthi cruise missile and a drone heading for Riyadh, according to coalition spokesman Turki al-Maliki.",
+    "source": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+    "actor": "Saudi Arabia|Other"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "WaPo: Iranian strikes leave US Fifth Fleet base in Bahrain in limbo",
+    "direction": "Neutral",
+    "description": "The Washington Post reported that Naval Support Activity Bahrain, the Fifth Fleet headquarters, still has only a tiny fraction of its former 8,000+ personnel. A Congressional Research Service estimate puts the damage above $400 million. The Pentagon is considering moving forces to Israel and Jordan. Iranian strikes damaged the headquarters, communications towers, a barracks and warehouses, and killed two civilians. The Navy said it had \"nothing to announce at this time.\"",
+    "source": "https://www.detroitnews.com/story/news/world/2026/11/27/after-heavy-strikes-by-iran-us-naval-base-bahrain-faces-uncertain-future/92978739007/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "Report: Israel braces for surge in Iran-linked plots on its soil",
+    "direction": "Escalating",
+    "description": "Israel's Channel 14 reported that Israeli security officials have seen a sharp rise in suspected Iranian attempts to carry out attacks inside Israel, including kidnappings and car bombings, and are preparing accordingly. Separately, Yedioth Ahronoth reported that Mossad chief Roman Gofman backed an independent Israeli strike on Iran, while IDF chief Eyal Zamir favours coordinating with the US.",
+    "source": "https://english.alarabiya.net/News/middle-east/2026/11/27/israel-preparing-for-potential-iranlinked-attacks-on-its-soil-report",
+    "actor": "Israel"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "US aircraft disables Pacific Archer leaving Bandar Abbas; 6th ship stopped",
+    "direction": "Escalating",
+    "description": "A US military aircraft struck the stern of the Palau-flagged M/V Pacific Archer with precision munitions in the Gulf of Oman after it left Bandar Abbas and ignored repeated warnings. The ship lost propulsion and no crew were hurt. CENTCOM said on November 27 that US forces have now disabled six non-compliant ships and redirected 158 others under the blockade of Iranian ports.",
+    "source": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+    "actor": "US"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "Iran arrests journalist who exposed hanging order for 2 protesters",
+    "direction": "Escalating",
+    "description": "Iranian authorities arrested journalist Mehdi Mahmoudian after he published a judiciary notice ordering the November 25 hanging of 2022 protesters Milad Armoun, 27, and Navid Najaran, 34. Their executions were postponed. Iran Human Rights says Mahmoudian was beaten and tortured, and counts 737 executions in Iran so far this year.",
+    "source": "https://gulfnews.com/world/mena/iran-arrests-journalist-who-exposed-plans-to-hang-two-protesters-1.500763408",
+    "actor": "Iran"
+  },
+  {
     "date": "2026-11-27",
     "title": "Turkey completes ratification of Mecca defence pact with Saudi, Pakistan",
     "direction": "Escalating",
